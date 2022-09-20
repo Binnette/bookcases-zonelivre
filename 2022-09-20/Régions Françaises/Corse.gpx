@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="42.67938" lon="9.42926">
+    <name>Bastia z337</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.69934" lon="9.45107">
+    <name>Bastia z323</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.69626" lon="9.44974">
+    <name>Bastia z339</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.70118" lon="9.45106">
+    <name>Bastia z341</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.696" lon="9.4402">
+    <name>Bastia z329</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.56478" lon="8.75597">
+    <name>Calvi z12800</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7025" lon="9.42771">
+    <name>Bastia z331</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.67391" lon="9.438">
+    <name>Bastia z333</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.70233" lon="9.44801">
+    <name>Bastia z343</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.70772" lon="9.44925">
+    <name>Bastia z325</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.67924" lon="9.44112">
+    <name>Bastia z335</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="41.99927" lon="9.39956">
+    <name>Prunelli-di-Fiumorbo z1199</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.69273" lon="9.45">
+    <name>Bastia z327</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="41.91955" lon="8.73703">
+    <name>Ajaccio z100</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.70489" lon="9.4441">
+    <name>Bastia z345</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.30043" lon="9.15352">
+    <name>Corte z1196</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="42.69753" lon="9.4483">
+    <name>Bastia z321</name>
+    <type>ZoneLivre Corse</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="ZoneLivre Corse" color="#ff5020" icon="public_bookcase" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

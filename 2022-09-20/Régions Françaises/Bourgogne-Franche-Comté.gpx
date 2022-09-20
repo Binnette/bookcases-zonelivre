@@ -1,0 +1,3248 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.60302" lon="3.75823">
+    <name>Arcy-sur-Cure z8920</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.33743" lon="5.04288">
+    <name>Dijon z2799</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.23165" lon="6.03189">
+    <name>Besançon z15206</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.80179" lon="4.0907">
+    <name>Lézinnes z9101</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.74429" lon="6.25155">
+    <name>Brey-et-Maison-du-Bois z17370</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.19017" lon="3.40231">
+    <name>Villiers-Louis z9016</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.95373" lon="5.71965">
+    <name>Saint-Cyr-Montmalin z8756</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.19757" lon="3.26795">
+    <name>Sens z3948</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.38503" lon="5.04708">
+    <name>Asnières-lès-Dijon z14769</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.24486" lon="4.96948">
+    <name>Fixin z9932</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8053" lon="4.4288">
+    <name>Le Creusot z9282</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.35019" lon="5.05024">
+    <name>Dijon z2809</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.63556" lon="6.89176">
+    <name>Pérouse z13319</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.00126" lon="3.71841">
+    <name>Saint-Florentin z9056</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.95406" lon="3.4057">
+    <name>Champlay z8946</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.32226" lon="5.02364">
+    <name>Dijon z18074</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.25131" lon="5.61655">
+    <name>Thervay z8754</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.32045" lon="5.03934">
+    <name>Dijon z2825</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.23101" lon="6.01324">
+    <name>Besançon z15200</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.04254" lon="3.3927">
+    <name>Saint-Firmin z5229</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.62077" lon="3.26234">
+    <name>Saints-en-Puisaye z9119</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.20087" lon="2.99463">
+    <name>Chéroy z8971</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.2663" lon="5.00621">
+    <name>Perrigny-lès-Dijon z2762</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.79821" lon="3.5684">
+    <name>Auxerre z14902</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.48964" lon="3.86058">
+    <name>Pontaubert z9078</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.79914" lon="4.43857">
+    <name>Le Creusot z9300</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.62518" lon="3.75154">
+    <name>Bourbon-Lancy z16274</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.12845" lon="4.97765">
+    <name>Agencourt z14389</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.60874" lon="3.11909">
+    <name>Saint-Fargeau z9058</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.33759" lon="5.01312">
+    <name>Talant z2841</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.81378" lon="5.72377">
+    <name>Barretaine z15944</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.92048" lon="3.17417">
+    <name>Chevillon z3255</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.78174" lon="3.58146">
+    <name>Auxerre z14914</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.88358" lon="3.53507">
+    <name>Appoigny z8916</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.31956" lon="5.02555">
+    <name>Dijon z2773</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.84681" lon="4.68493">
+    <name>Aluze z14486</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7981" lon="3.58488">
+    <name>Auxerre z14910</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6731" lon="6.99814">
+    <name>Larivière z16925</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.70554" lon="3.63172">
+    <name>Vincelles z9012</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2931" lon="3.40036">
+    <name>Thorigny-sur-Oreuse z4418</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.08722" lon="3.19515">
+    <name>Guerigny z3411</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.94509" lon="4.30264">
+    <name>Autun z268</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.62469" lon="5.49341">
+    <name>Cesancey z12399</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.31352" lon="5.01366">
+    <name>Dijon z2783</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.70329" lon="6.96063">
+    <name>Saint-Germain-le-Châtelet z13114</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61903" lon="6.85012">
+    <name>Danjoutin z4527</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.89517" lon="3.95856">
+    <name>Dannemoine z9034</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.24679" lon="6.00279">
+    <name>Besançon z15197</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.55616" lon="4.82279">
+    <name>Royer z7573</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.77877" lon="3.07817">
+    <name>Champignelles z8942</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.03656" lon="5.82298">
+    <name>Buffard z17394</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.02516" lon="4.83545">
+    <name>Beaune z8760</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.33701" lon="5.04608">
+    <name>Dijon z2801</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.52313" lon="6.65618">
+    <name>Arcey z14866</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.95534" lon="3.53658">
+    <name>Cheny z8967</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.89651" lon="5.02508">
+    <name>Verdun-sur-le-Doubs z2744</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.79971" lon="3.54984">
+    <name>Auxerre z14898</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.55827" lon="6.0658">
+    <name>Bellefontaine z16140</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.28296" lon="4.76352">
+    <name>Agey z14366</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.32134" lon="5.0455">
+    <name>Dijon z2819</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.69327" lon="4.13986">
+    <name>Toulon-sur-Arroux z15684</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.30401" lon="5.01103">
+    <name>Dijon z2779</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.26928" lon="6.00812">
+    <name>Besançon z391</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.80731" lon="4.43144">
+    <name>Le Creusot z9296</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.07279" lon="5.48634">
+    <name>Dole z7670</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.89963" lon="3.89243">
+    <name>Bernouil z8928</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.35965" lon="5.43046">
+    <name>Broissia z16604</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.78804" lon="4.91808">
+    <name>Châtenoy-en-Bresse z14435</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.79273" lon="3.55906">
+    <name>Auxerre z14906</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.17706" lon="3.01888">
+    <name>La Charité-sur-Loire z5235</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.69134" lon="6.66471">
+    <name>Champagney z8863</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.82324" lon="3.46613">
+    <name>Charbuy z8952</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.86847" lon="3.6462">
+    <name>Cercy-la-Tour z11841</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.82855" lon="3.45614">
+    <name>Decize z3403</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.32944" lon="4.82641">
+    <name>Ancey z168</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.64318" lon="3.06934">
+    <name>Saint-Fargeau z9111</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.85662" lon="3.97325">
+    <name>Tonnerre z9159</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.33246" lon="5.0267">
+    <name>Dijon z2793</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.48214" lon="6.84043">
+    <name>Audincourt z4523</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.96034" lon="3.52923">
+    <name>Migennes z9030</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.54223" lon="5.69582">
+    <name>Autet z15099</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61877" lon="4.33655">
+    <name>Montbard z1937</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.19497" lon="3.28213">
+    <name>Sens z3944</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.79809" lon="3.57709">
+    <name>Auxerre z272</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.73296" lon="3.12994">
+    <name>Tannerre-en-Puisaye z9151</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.30192" lon="5.1348">
+    <name>Chevigny-Saint-Sauveur z4730</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.77481" lon="3.75548">
+    <name>Courgis z8979</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.60881" lon="6.91345">
+    <name>Vézelois z8657</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.34846" lon="5.0573">
+    <name>Dijon z2811</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.13418" lon="5.87419">
+    <name>Abbans-Dessous z14350</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.62803" lon="3.66038">
+    <name>Trucy-sur-Yonne z9163</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.62307" lon="3.75806">
+    <name>Bourbon-Lancy z16111</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.41609" lon="3.81037">
+    <name>Domecy-sur-Cure z9036</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.32349" lon="5.03374">
+    <name>Dijon z2827</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.34788" lon="6.35652">
+    <name>Baume-les-Dames z15568</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.99189" lon="3.6173">
+    <name>Brienon-sur-Armançon z11760</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.2489" lon="5.22302">
+    <name>Genlis z2755</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.25889" lon="5.98987">
+    <name>Besançon z397</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.79652" lon="4.44789">
+    <name>Le Creusot z9292</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.08383" lon="5.49739">
+    <name>Dole z7668</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.49835" lon="3.90633">
+    <name>Avallon z8924</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.64072" lon="6.86041">
+    <name>Belfort z8637</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.4873" lon="5.94512">
+    <name>Fretigney-et-Velloreille z1296</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.84592" lon="6.25015">
+    <name>Ainvelle z14391</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.84452" lon="3.55389">
+    <name>Monéteau z15912</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.74044" lon="3.59969">
+    <name>Champs-sur-Yonne z8948</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.78026" lon="3.57778">
+    <name>Auxerre z3257</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.81582" lon="3.57645">
+    <name>Auxerre z14894</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.05471" lon="3.14672">
+    <name>Piffonds z9107</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.56885" lon="4.05321">
+    <name>Thizy z9155</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.31653" lon="5.03769">
+    <name>Dijon z2768</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.07675" lon="4.09914">
+    <name>Anost z14488</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.48771" lon="3.85929">
+    <name>Pontaubert z9076</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.24568" lon="6.02809">
+    <name>Besançon z406</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.08708" lon="3.73908">
+    <name>Turny z9099</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.18378" lon="5.90829">
+    <name>Montferrand-le-Château z8621</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.24812" lon="4.78496">
+    <name>Crêches-sur-Saône z1723</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.83621" lon="3.45279">
+    <name>Decize z3405</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.81425" lon="3.55744">
+    <name>Auxerre z270</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.58672" lon="4.00394">
+    <name>L'Isle-sur-Serein z9068</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7832" lon="4.84891">
+    <name>Chalon-sur-Saône z4572</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.81194" lon="4.43252">
+    <name>Le Creusot z9288</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.82707" lon="4.081">
+    <name>Tanlay z8975</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.31868" lon="5.00789">
+    <name>Dijon z2785</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.77354" lon="4.83386">
+    <name>Saint-Rémy (71) z13756</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.22932" lon="6.04192">
+    <name>Besançon z15208</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.21198" lon="3.25754">
+    <name>Saint-Martin-du-Tertre z9115</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.71181" lon="7.01495">
+    <name>Lachapelle-sous-Rougemont z2636</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.88883" lon="3.33522">
+    <name>Montholon z9014</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.34296" lon="5.04395">
+    <name>Dijon z2803</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.24559" lon="6.0437">
+    <name>Besançon z15510</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.92118" lon="4.31822">
+    <name>Autun z8146</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.80321" lon="4.42312">
+    <name>Le Creusot z9278</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.30177" lon="5.04905">
+    <name>Dijon z2764</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.26316" lon="6.04519">
+    <name>Besançon z393</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.81609" lon="4.29604">
+    <name>Gigny z9052</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.52779" lon="3.85783">
+    <name>Tharot z9336</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.99485" lon="3.47939">
+    <name>Brion z8936</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.62" lon="3.75423">
+    <name>Bourbon-Lancy z16113</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.12464" lon="3.67992">
+    <name>Achun z14369</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.34184" lon="5.00858">
+    <name>Talant z2839</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.92423" lon="3.51364">
+    <name>Bassou z15649</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.64849" lon="3.66946">
+    <name>Sainte-Pallaye z9117</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.63221" lon="4.09621">
+    <name>Châtel-Gérard z8960</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.32169" lon="5.02713">
+    <name>Dijon z8765</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.31188" lon="5.02689">
+    <name>Dijon z2781</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.25569" lon="6.01663">
+    <name>Besançon z385</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.91344" lon="3.13139">
+    <name>Prunoy z9084</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.57578" lon="5.4374">
+    <name>Beaufort-Orbagna z16522</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.53388" lon="6.89698">
+    <name>Allenjoie z14449</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.86511" lon="3.68073">
+    <name>Montigny-la-Resle z9026</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.18324" lon="3.44393">
+    <name>Pont-sur-Vanne z9072</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.24432" lon="5.97866">
+    <name>Besançon z401</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.65826" lon="6.85269">
+    <name>Belfort z11647</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.67355" lon="6.83469">
+    <name>Valdoie z8655</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.73604" lon="6.97182">
+    <name>Rougemont-le-Château z13102</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.28905" lon="3.81818">
+    <name>Lormes z3259</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.95764" lon="5.27709">
+    <name>Annoire z14562</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.30933" lon="3.23402">
+    <name>Michery z9064</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.80673" lon="4.4269">
+    <name>Le Creusot z9284</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.04476" lon="3.32212">
+    <name>Armeau z8921</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3307" lon="5.03265">
+    <name>Dijon z2795</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.52278" lon="6.98841">
+    <name>Thiancourt z13330</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61497" lon="6.40635">
+    <name>Arpenans z15038</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.66418" lon="3.73362">
+    <name>Vermenton z9127</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.00165" lon="5.82425">
+    <name>Port-Lesney z17955</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.78658" lon="4.04941">
+    <name>Vireaux z9010</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.92707" lon="5.74996">
+    <name>Villette-lès-Arbois z8758</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.0895" lon="3.18972">
+    <name>Guerigny z3413</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.13917" lon="4.84411">
+    <name>Arcenant z14872</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.95226" lon="4.31838">
+    <name>Autun z8143</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.24892" lon="3.23784">
+    <name>Villenavotte z4414</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.43295" lon="4.66369">
+    <name>Cluny z2739</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.02343" lon="5.66151">
+    <name>Santans z14202</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.63394" lon="6.84279">
+    <name>Belfort z8064</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9628" lon="3.50573">
+    <name>Migennes z9032</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.19503" lon="3.29066">
+    <name>Sens z3950</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.78327" lon="4.85978">
+    <name>Chalon-sur-Saône z7571</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2309" lon="3.11874">
+    <name>Brannay z8932</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.61873" lon="3.76743">
+    <name>Bourbon-Lancy z16117</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.32219" lon="5.04192">
+    <name>Dijon z2821</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.47354" lon="6.74243">
+    <name>Berche z15570</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.19234" lon="3.45223">
+    <name>Moussy z5231</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61866" lon="3.20205">
+    <name>Saint-Sauveur-en-Puisaye z9113</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.88057" lon="3.52665">
+    <name>Appoigny z8914</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.32057" lon="4.8169">
+    <name>Mâcon z4956</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5327" lon="3.63181">
+    <name>Châtel-Censoir z8956</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.24031" lon="5.22221">
+    <name>Genlis z2757</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7932" lon="3.54767">
+    <name>Auxerre z14904</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.49752" lon="3.88249">
+    <name>Pontaubert z9080</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.29122" lon="5.7727">
+    <name>Marnay z1298</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.28926" lon="6.35598">
+    <name>Saint-Juan z14353</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.79429" lon="3.52557">
+    <name>Saint-Georges-sur-Baulche z9020</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.15388" lon="3.64024">
+    <name>Fournaudin z9050</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.82057" lon="5.71001">
+    <name>Barretaine z15940</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.36868" lon="3.27945">
+    <name>Menou z3251</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.23643" lon="5.96619">
+    <name>Besançon z389</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.08839" lon="3.57807">
+    <name>Arces-Dilo z8918</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3181" lon="5.03748">
+    <name>Dijon z2770</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.79504" lon="3.58899">
+    <name>Auxerre z14912</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.80677" lon="3.63704">
+    <name>Venoy z9123</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.91223" lon="5.03318">
+    <name>Bragny-sur-Saône z17359</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.22316" lon="3.22494">
+    <name>Nailly z9022</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.98362" lon="3.15347">
+    <name>Nevers z3407</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.52121" lon="6.66071">
+    <name>Arcey z14869</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.60602" lon="6.92386">
+    <name>Vézelois z8661</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.34628" lon="5.05918">
+    <name>Dijon z2813</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.3055" lon="4.82373">
+    <name>Mâcon z13758</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6028" lon="6.13574">
+    <name>Échenoz-la-Méline z4529</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.96902" lon="3.5049">
+    <name>Migennes z9028</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.95226" lon="3.43488">
+    <name>Champlay z8944</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61025" lon="7.00178">
+    <name>Montreux-Château z2611</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5074" lon="5.79374">
+    <name>Étival z8752</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.30988" lon="5.00191">
+    <name>Dijon z2829</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.81618" lon="3.71839">
+    <name>Beine z15251</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.56288" lon="6.70676">
+    <name>Trémoins z8875</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.95553" lon="3.53195">
+    <name>Cheny z8969</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.31658" lon="5.04328">
+    <name>Dijon z2766</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.80136" lon="3.56021">
+    <name>Auxerre z14900</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.63897" lon="6.83784">
+    <name>Belfort z4521</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3964" lon="2.92714">
+    <name>Cosne-Cours-sur-Loire z11241</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.62681" lon="3.74974">
+    <name>Bourbon-Lancy z16115</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.28443" lon="4.76761">
+    <name>Agey z14364</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.52925" lon="3.55497">
+    <name>Crain z8981</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.88504" lon="3.48167">
+    <name>Fleury-la-Vallée z9046</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.33551" lon="5.0036">
+    <name>Talant z2833</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.83447" lon="5.44337">
+    <name>Beauvernois z15635</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.30899" lon="5.01588">
+    <name>Dijon z2775</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.24017" lon="6.01703">
+    <name>Besançon z387</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.79987" lon="4.42625">
+    <name>Le Creusot z9298</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.69331" lon="2.94927">
+    <name>Bléneau z8930</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.53994" lon="5.43414">
+    <name>Pouilly-sur-Vingeanne z1300</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.51945" lon="3.48796">
+    <name>Andryes z14513</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.787" lon="3.56288">
+    <name>Auxerre z14908</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.72785" lon="3.85425">
+    <name>Lichères-près-Aigremont z9103</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.58101" lon="5.4497">
+    <name>Beaufort-Orbagna z17269</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.88663" lon="3.09542">
+    <name>Charny z8954</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5692" lon="3.23436">
+    <name>Sainte-Colombe-sur-Loing z3249</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.49003" lon="3.90932">
+    <name>Avallon z274</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.17857" lon="3.02244">
+    <name>La Charité-sur-Loire z5237</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.31336" lon="5.00324">
+    <name>Dijon z2788</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.59541" lon="6.96058">
+    <name>Autrechêne z13317</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.581199" lon="6.791919">
+    <name>Brevilliers z4525</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.87431" lon="3.98094">
+    <name>Épineuil z9040</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.25494" lon="6.01977">
+    <name>Besançon z15202</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.13185" lon="3.48676">
+    <name>Cerisiers z8940</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.60713" lon="6.91958">
+    <name>Vézelois z8659</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.65203" lon="6.12738">
+    <name>Pusey z17804</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.35094" lon="5.03994">
+    <name>Dijon z2805</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.03343" lon="5.7827">
+    <name>Arc-et-Senans z14874</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.77578" lon="4.2962">
+    <name>Jully z9066</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.59213" lon="4.80419">
+    <name>Etrigny z4570</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.08025" lon="3.21735">
+    <name>Chaumot z8965</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.22093" lon="3.3798">
+    <name>Fontaine-la-Gaillarde z8693</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.65486" lon="5.59875">
+    <name>Conliège z2750</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.78511" lon="4.83975">
+    <name>Chalon-sur-Saône z13760</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.62032" lon="3.76656">
+    <name>Bourbon-Lancy z16104</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.25045" lon="3.39394">
+    <name>Voisines z9008</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.32025" lon="5.04476">
+    <name>Dijon z2823</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.24276" lon="6.04639">
+    <name>Besançon z15506</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.19865" lon="3.27675">
+    <name>Sens z8691</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.23807" lon="5.2276">
+    <name>Genlis z2752</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.23832" lon="5.97708">
+    <name>Besançon z399</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.78966" lon="4.43324">
+    <name>Le Creusot z9294</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.4877" lon="3.92111">
+    <name>Avallon z8926</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.64279" lon="6.85607">
+    <name>Belfort z8641</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.72617" lon="6.26186">
+    <name>Mailleroncourt-Charette z1294</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.16537" lon="5.56489">
+    <name>Amange z14463</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.95023" lon="5.72588">
+    <name>Saint-Cyr-Montmalin z15762</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.97297" lon="3.24056">
+    <name>Sauvigny-les-Bois z5233</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.56909" lon="4.16797">
+    <name>Vassy-sous-Pisy z9157</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.83036" lon="3.4595">
+    <name>Charbuy z8950</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.93335" lon="3.10615">
+    <name>Dicy z3253</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.53463" lon="3.88626">
+    <name>Annay-la-Côté z14745</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.35164" lon="3.30624">
+    <name>Plessis-Saint-Jean z9109</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.32012" lon="3.20467">
+    <name>Serbonnes z9149</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.33156" lon="5.03772">
+    <name>Dijon z2797</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.28112" lon="3.444">
+    <name>La Postolle z9070</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.26304" lon="6.03048">
+    <name>Besançon z15204</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.66052" lon="4.62224">
+    <name>Bissy-sur-Fley z17352</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.19625" lon="3.30389">
+    <name>Sens z3946</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.76646" lon="4.15906">
+    <name>Ancy-le-Franc z14791</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.17411" lon="3.34081">
+    <name>Malay-le-Grand z9062</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.85646" lon="4.06975">
+    <name>Tanlay z8977</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.24916" lon="3.32527">
+    <name>Soucy z4412</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.34191" lon="5.05305">
+    <name>Dijon z2815</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.26005" lon="5.51653">
+    <name>Champagney (39) z13421</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.66455" lon="3.73728">
+    <name>Vermenton z9125</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.05666" lon="6.6033">
+    <name>Morteau z2605</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.72875" lon="3.47111">
+    <name>Escamps z9042</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.33202" lon="5.0118">
+    <name>Talant z2831</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7003" lon="6.93377">
+    <name>Anjoutey z15236</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.15049" lon="3.31177">
+    <name>Rosoy z9086</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2804" lon="3.24357">
+    <name>Gisy-les-Nobles z4574</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.55896" lon="3.32955">
+    <name>Sougères-en-Puisaye z8701</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.22593" lon="4.96998">
+    <name>Gevrey-Chambertin z2760</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.24209" lon="6.04264">
+    <name>Besançon z395</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.01014" lon="3.45704">
+    <name>Brion z8938</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.62079" lon="3.77569">
+    <name>Bourbon-Lancy z16109</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.90547" lon="4.98144">
+    <name>Allerey-sur-Saône z14419</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.31137" lon="5.1176">
+    <name>Quetigny z2835</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.35251" lon="6.36167">
+    <name>Baume-les-Dames z15565</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.66756" lon="5.46114">
+    <name>Courlaoux z4954</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.32316" lon="3.1044">
+    <name>Chaumont z8962</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.30506" lon="5.01242">
+    <name>Dijon z2777</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.24897" lon="6.03202">
+    <name>Besançon z403</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.96411" lon="3.48399">
+    <name>Laroche-Saint-Cydroine z9105</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.73766" lon="3.2887">
+    <name>Toucy z9161</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.31713" lon="5.03348">
+    <name>Dijon z2772</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.53695" lon="4.48937">
+    <name>Alise-Sainte-Reine z74</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.90309" lon="3.60899">
+    <name>Seignelay z9018</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.95076" lon="3.87843">
+    <name>Flogny-la-Chapelle z9048</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.93289" lon="4.22939">
+    <name>Arthonnay z14928</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.80539" lon="4.43662">
+    <name>Le Creusot z9286</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.23918" lon="6.02707">
+    <name>Besançon z8619</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.62153" lon="4.33519">
+    <name>Montbard z1935</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.99084" lon="3.15382">
+    <name>Nevers z3409</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.34256" lon="5.18987">
+    <name>Arc-sur-Tille z14758</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.29517" lon="3.19682">
+    <name>Pont-sur-Yonne z9074</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.89239" lon="3.94552">
+    <name>Vézinnes z9153</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.80596" lon="4.42097">
+    <name>Le Creusot z9277</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7029" lon="3.73699">
+    <name>Deux Rivières z8973</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.32671" lon="5.01785">
+    <name>Dijon z2791</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.65374" lon="5.53026">
+    <name>Courbouzon z13132</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.18503" lon="3.27761">
+    <name>Sens z3952</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.23438" lon="5.99059">
+    <name>Besançon z15195</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.21567" lon="3.35785">
+    <name>Saligny z9121</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6707" lon="6.91935">
+    <name>Roppe z17770</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.38478" lon="3.81176">
+    <name>Domecy-sur-Cure z9038</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.35063" lon="5.04273">
+    <name>Dijon z2807</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.23509" lon="6.0252">
+    <name>Besançon z383</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.80195" lon="4.447">
+    <name>Le Creusot z9302</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.96196" lon="3.51315">
+    <name>Migennes z11762</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.29018" lon="3.30767">
+    <name>La Chapelle-sur-Oreuse z4416</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7694" lon="4.82862">
+    <name>Saint-Rémy (71) z2741</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7789" lon="4.82403">
+    <name>Chalon-sur-Saône z13762</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.23907" lon="3.0968">
+    <name>Lixy z9060</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.99039" lon="3.61076">
+    <name>Brienon-sur-Armançon z8934</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.31952" lon="3.12732">
+    <name>Champigny z8608</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.61865" lon="3.77344">
+    <name>Bourbon-Lancy z16107</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.27526" lon="6.3823">
+    <name>Passavant z14355</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.32679" lon="5.05007">
+    <name>Dijon z2817</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.24258" lon="6.03125">
+    <name>Besançon z15508</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.53348" lon="3.63213">
+    <name>Châtel-Censoir z8958</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.23809" lon="5.22162">
+    <name>Genlis z2753</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.80831" lon="3.55387">
+    <name>Auxerre z14896</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.74173" lon="6.8276">
+    <name>Giromagny z4518</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.49207" lon="3.87248">
+    <name>Pontaubert z9082</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.41037" lon="2.92324">
+    <name>Cosne-Cours-sur-Loire z11239</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5381" lon="6.40242">
+    <name>Autrey-le-Vay z16649</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.74984" lon="6.49539">
+    <name>Lantenot z14466</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.71969" lon="3.6061">
+    <name>Escolives-Sainte-Camille z9044</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.21918" lon="5.97372">
+    <name>Besançon z408</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61699" lon="6.86358">
+    <name>Danjoutin z8646</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.83431" lon="3.45574">
+    <name>Decize z3401</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.91217" lon="6.00103">
+    <name>Arc-sous-Montenot z14593</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61172" lon="6.14914">
+    <name>Échenoz-la-Méline z4531</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5761" lon="5.95589">
+    <name>Saint-Laurent-en-Grandvaux z12373</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.79492" lon="4.4174">
+    <name>Le Creusot z9290</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.63681" lon="5.50715">
+    <name>Gevingey z7702</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="ZoneLivre Bourgogne-Franche-Comté" color="#ff5020" icon="public_bookcase" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>
