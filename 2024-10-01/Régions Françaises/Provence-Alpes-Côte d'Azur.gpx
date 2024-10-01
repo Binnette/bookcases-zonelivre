@@ -1,0 +1,2087 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.42965799474895" lon="4.944150745868684">
+    <name>Fos-sur-Mer z23201</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.58045303199915" lon="5.0007855892181405">
+    <name>Miramas z23198</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.63617027543927" lon="6.644856333732606">
+    <name>Seillans z23122</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.21729518210672" lon="5.138299763202668">
+    <name>Entrechaux z23114</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.72623219185817" lon="5.813034921884538">
+    <name>Vinon-sur-Verdon z23108</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.605008655779784" lon="5.756331682205201">
+    <name>Rians z23106</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.60669739114047" lon="5.755988359451295">
+    <name>Rians z23102</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.60872886045006" lon="5.757267773151399">
+    <name>Rians z23100</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6077811089275" lon="5.757544040679932">
+    <name>Rians z23097</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.846977808960496" lon="6.222563982009889">
+    <name>Moustiers-Sainte-Marie z22860</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.9496112149243" lon="6.810203790664674">
+    <name>Entrevaux z22858</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.96681251687739" lon="6.667153537273408">
+    <name>Annot z22856</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5931803530222" lon="5.8108529448509225">
+    <name>Artigues z22532</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.12137510192784" lon="6.334197521209717">
+    <name>Archail z22491</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.44092732659861" lon="4.944700598716736">
+    <name>Fos-sur-Mer z22442</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.44953859500117" lon="4.939990639686585">
+    <name>Fos-sur-Mer z22439</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.44945486401017" lon="4.94000405073166">
+    <name>Fos-sur-Mer z22437</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.44529737719152" lon="4.942117631435395">
+    <name>Fos-sur-Mer z22435</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.43627649824514" lon="4.944435060024262">
+    <name>Fos-sur-Mer z22406</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.46476" lon="4.9397">
+    <name>Fos-sur-Mer z22383</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.13110176716173" lon="6.28008931875229">
+    <name>Marcoux z22229</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.10521050998731" lon="6.2050598859787">
+    <name>Digne-les-Bains z22226</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.23890792243399" lon="5.072918236255647">
+    <name>Vaison-la-Romaine z22128</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.12076665080027" lon="4.839427918195725">
+    <name>Orange z22109</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.485205238832165" lon="5.51141917705536">
+    <name>Meyreuil z21520</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.46279778445306" lon="5.5458801984787">
+    <name>Fuveau z21516</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.454722875339606" lon="5.559823662042619">
+    <name>Fuveau z21514</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.455876499808234" lon="5.560533106327058">
+    <name>Fuveau z21512</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.45363640381836" lon="6.42777979373932">
+    <name>Taradeau z21481</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.02957" lon="5.19951">
+    <name>Blauvac z21135</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.95687154785287" lon="4.9299243092536935">
+    <name>Saint-Saturnin-lès-Avignon z21017</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.07654668330537" lon="5.001670718193055">
+    <name>Loriol-du-Comtat z21015</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.28032" lon="4.99775">
+    <name>Buisson z20972</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.2785" lon="4.75053">
+    <name>Bollène z20892</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.30245" lon="4.74788">
+    <name>Bollène z20890</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.28082" lon="4.74766">
+    <name>Bollène z20888</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.27933" lon="4.99816">
+    <name>Buisson z20886</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.19" lon="5.94581">
+    <name>Sisteron z20884</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.19529" lon="5.94634">
+    <name>Sisteron z20882</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.11186" lon="5.98765">
+    <name>La Garde z20880</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.47562" lon="5.16799">
+    <name>Berre-l'Étang z20878</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.68103" lon="4.63467">
+    <name>Arles z20876</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.2036" lon="6.37124">
+    <name>Beaujeu z20830</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.33227" lon="5.10992">
+    <name>Sausset-les-Pins z20824</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.17439" lon="5.69334">
+    <name>Saint-Cyr-sur-Mer z20822</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.12073" lon="6.06957">
+    <name>La Crau z20820</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.44255" lon="6.64027">
+    <name>Roquebrune-sur-Argens z20818</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.31246" lon="5.37028">
+    <name>Marseille 3e z20684</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.32349" lon="5.43093">
+    <name>Marseille 12e z20653</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.73165" lon="7.34252">
+    <name>Èze z19876</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.7727" lon="7.49136">
+    <name>Menton z19841</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.02148" lon="5.15872">
+    <name>Malemort-du-Comtat z19649</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5855" lon="5.13916">
+    <name>Lançon-Provence z19647</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.66389" lon="5.34758">
+    <name>Rognes z19638</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.62915" lon="5.14834">
+    <name>Pélissanne z19465</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.03535" lon="5.00193">
+    <name>Monteux z19449</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.59208" lon="4.94001">
+    <name>Entressen z19389</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.18437" lon="6.59792">
+    <name>La Croix-Valmer z19343</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.51381" lon="5.43051">
+    <name>Aix-en-Provence z19209</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.62111" lon="6.67688">
+    <name>Fayence z18937</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.30311" lon="6.2273">
+    <name>Pignans z18907</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.58271" lon="5.4206">
+    <name>Aix-en-Provence z18893</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.30139" lon="6.22768">
+    <name>Pignans z18889</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.29957" lon="5.36692">
+    <name>Marseille 2e z18880</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.29762" lon="5.37059">
+    <name>Marseille 2e z18866</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.08013" lon="4.98277">
+    <name>Sarrians z18167</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.59357" lon="6.01644">
+    <name>Tavernes z18137</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.70958" lon="6.56909">
+    <name>Champcella z18068</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.53961" lon="5.45521">
+    <name>Aix-en-Provence z18013</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.53367" lon="5.46266">
+    <name>Aix-en-Provence z18010</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.50922" lon="5.43855">
+    <name>Aix-en-Provence z18008</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.4616" lon="6.055">
+    <name>Tallard z17879</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.8465" lon="5.11253">
+    <name>Robion z17794</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.29844" lon="5.36811">
+    <name>Marseille 2e z17692</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.64182" lon="6.87749">
+    <name>Peymeinade z17678</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.45566" lon="6.48237">
+    <name>Les Arcs z17562</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.16491" lon="4.87386">
+    <name>Camaret-sur-Aigues z17239</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.91514" lon="6.67335">
+    <name>Val-des-Prés z17217</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.98673" lon="6.48223">
+    <name>Le Monêtier-les-Bains z17214</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.52704" lon="5.26052">
+    <name>Velaux z17198</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.20881" lon="6.56873">
+    <name>La Croix-Valmer z16982</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.40616" lon="6.06022">
+    <name>Brignoles z16537</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.41008" lon="6.07019">
+    <name>Brignoles z16534</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.38508" lon="6.09651">
+    <name>Camps-la-Source z16095</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.13606" lon="5.75742">
+    <name>Bandol z16093</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.13763" lon="5.7523">
+    <name>Bandol z16091</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.13725" lon="5.74633">
+    <name>Bandol z16089</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.91595" lon="4.89102">
+    <name>Avignon z16066</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.93392" lon="4.82264">
+    <name>Avignon z16062</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.93784" lon="4.80508">
+    <name>Avignon z16059</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.9377" lon="4.81934">
+    <name>Avignon z16057</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.9251" lon="6.12415">
+    <name>Bras-d'Asse z16041</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.93716" lon="4.80508">
+    <name>Avignon z15977</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.10495" lon="6.11396">
+    <name>Barras z15967</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.53816" lon="6.496">
+    <name>Baratier z15556</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.53887116799287" lon="6.495749652385712">
+    <name>Baratier z15553</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.12257" lon="5.17987">
+    <name>Bédoin z15473</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.12388" lon="5.18122">
+    <name>Bédoin z15471</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.58975" lon="7.11824">
+    <name>Antibes z15188</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.58258" lon="7.12587">
+    <name>Antibes z15186</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.57548" lon="7.12339">
+    <name>Antibes z15184</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.60031" lon="7.12188">
+    <name>Antibes z15094</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6269" lon="6.22364">
+    <name>Aups z14936</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.12939" lon="5.42799">
+    <name>Aurel z14923</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.48812" lon="5.72973">
+    <name>Aspremont z14747</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.52098" lon="5.75257">
+    <name>Aspres-sur-Buëch z14724</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.44511" lon="6.37205">
+    <name>Ubaye-Serre-Ponçon z14616</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.606178831099385" lon="5.755457282066346">
+    <name>Rians z14613</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.52721" lon="5.94429">
+    <name>Brue-Auriac z14611</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.59741" lon="5.96056">
+    <name>Varages z14609</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.737739744786715" lon="5.464842617511749">
+    <name>Ansouis z14506</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.29669" lon="5.48508">
+    <name>Marseille 11e z14049</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.92779" lon="5.0465">
+    <name>L'Isle-sur-la-Sorgue z13853</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.92998" lon="5.04483">
+    <name>L'Isle-sur-la-Sorgue z13851</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.30693" lon="5.4566">
+    <name>Marseille 12e z13836</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.1253" lon="5.21444">
+    <name>Bédoin z13769</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.52328" lon="5.43321">
+    <name>Aix-en-Provence z13654</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.36924" lon="6.22242">
+    <name>Flassans-sur-Issole z13604</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.64642" lon="6.06361">
+    <name>Montmeyan z13438</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.18867" lon="6.55572">
+    <name>La Croix-Valmer z13348</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.56602" lon="6.50169">
+    <name>Figanière z13286</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.46289" lon="6.47869">
+    <name>Les Arcs z13284</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.57758" lon="6.48938">
+    <name>Figanière z13279</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.49297" lon="6.53587">
+    <name>La Motte z13277</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.50529" lon="6.48443">
+    <name>Trans-en-Provence z13147</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.48971" lon="6.48341">
+    <name>Trans-en-Provence z13145</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.52802" lon="6.4512">
+    <name>Draguignan z13143</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.49799" lon="6.36636">
+    <name>Lorgues z13112</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.10413" lon="6.17431">
+    <name>Hyères z12583</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.90341" lon="5.35723">
+    <name>Gargas z11190</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.0389" lon="5.6286">
+    <name>Banon z11188</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.88779" lon="5.37625">
+    <name>Apt z9914</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.42903" lon="5.71755">
+    <name>Serres z9631</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.94448" lon="4.80571">
+    <name>Avignon z9389</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.05858" lon="5.0445">
+    <name>Carpentras z8906</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.19962" lon="5.63268">
+    <name>La Ciotat z8904</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.17662" lon="5.6094">
+    <name>La Ciotat z8902</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.1864" lon="5.62122">
+    <name>La Ciotat z8900</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.76504" lon="5.36225">
+    <name>Lourmarin z8884</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.96097" lon="6.5088">
+    <name>Saint-André-les-Alpes z8707</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.55756" lon="6.00578">
+    <name>Barjols z8133</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.49329" lon="6.35893">
+    <name>Lorgues z8122</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.93593" lon="5.10586">
+    <name>Saumane-de-Vaucluse z8100</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.56282" lon="6.23358">
+    <name>Salernes z8097</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.21418" lon="5.63147">
+    <name>Ceyreste z8082</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.45383598114368" lon="5.561069548130035">
+    <name>Fuveau z8060</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.74709" lon="7.14326">
+    <name>Saint-Jeannet z8057</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.95164" lon="4.81708">
+    <name>Avignon z7997</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.54366" lon="6.06303">
+    <name>Gap z7902</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.63342" lon="7.13102">
+    <name>Villeneuve-Loubet z7872</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.64104" lon="7.143">
+    <name>Villeneuve-Loubet z7870</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.65589" lon="6.87545">
+    <name>Cabris z7808</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.23841" lon="5.36534">
+    <name>Marseille 8e z7691</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.57055" lon="6.49681">
+    <name>Figanières z7370</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.53795" lon="6.45972">
+    <name>Draguignan z7368</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.27844" lon="5.51715">
+    <name>La Penne-sur-Huveaune z6239</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.34821" lon="5.92251">
+    <name>Mazaugues z5072</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.40817" lon="5.05698">
+    <name>Martigues z4999</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.15174" lon="6.34366">
+    <name>Bormes-les-Mimosas z4997</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.05552" lon="5.12595">
+    <name>Mazan z4995</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.63929" lon="5.09432">
+    <name>Salon-de-Provence z4993</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.8892" lon="5.15085">
+    <name>Cabrières-d'Avignon z4893</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.84378" lon="5.16882">
+    <name>Oppède z2553</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.84551" lon="5.13973">
+    <name>Maubec z2551</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.89348" lon="5.11554">
+    <name>Lagnes z2549</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.83392" lon="5.093">
+    <name>Taillades z2547</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.8025" lon="5.06731">
+    <name>Cheval-Blanc z2545</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.7296" lon="5.17809">
+    <name>Mallemort z2543</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.72905" lon="5.18007">
+    <name>Mallemort z2541</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.0567" lon="5.12755">
+    <name>Mazan z2391</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.241603912925115" lon="5.073409080505372">
+    <name>Vaison-la-Romaine z2389</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.74738" lon="5.31506">
+    <name>Lauris z1857</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.63366" lon="4.80906">
+    <name>Saint-Martin-de-Crau z1855</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.63384" lon="4.8084">
+    <name>Saint-Martin-de-Crau z1852</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.63265" lon="4.8076">
+    <name>Saint-Martin-de-Crau z1850</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.54185" lon="5.95189">
+    <name>Manteyer z1848</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="44.53215" lon="5.83399">
+    <name>Veynes z1846</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.95943" lon="5.78388">
+    <name>Forcalquier z1844</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.83272" lon="5.78346">
+    <name>Manosque z1842</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.8347" lon="5.78223">
+    <name>Manosque z1840</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.83141" lon="5.78251">
+    <name>Manosque z1838</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.83181" lon="5.78424">
+    <name>Manosque z1836</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.83138" lon="5.78381">
+    <name>Manosque z1834</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.72613" lon="5.5469">
+    <name>La Tour d'Aigues z1832</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.64801" lon="5.582">
+    <name>Peyrolles-en-Provence z1830</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5553" lon="5.60215">
+    <name>Vauvenargues z1828</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5552" lon="5.59912">
+    <name>Vauvenargues z1826</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.45559" lon="5.47076">
+    <name>Gardanne z1824</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.40555" lon="5.54654">
+    <name>Saint-Savournin z1822</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.56499" lon="7.01816">
+    <name>Cannes z1820</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.54654" lon="7.03676">
+    <name>Cannes z1817</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.55591" lon="7.02369">
+    <name>Cannes z1815</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.55511" lon="7.01437">
+    <name>Cannes z1813</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.55085" lon="6.98865">
+    <name>Cannes z1811</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.55048" lon="6.97692">
+    <name>Cannes z1809</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.559" lon="6.96846">
+    <name>Cannes z1807</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.54023" lon="6.93606">
+    <name>Mandelieu-la-Napoule z1801</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.54595" lon="6.94">
+    <name>Mandelieu-la-Napoule z1799</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.53936376371239" lon="6.944856047630311">
+    <name>Mandelieu-la-Napoule z1797</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.53946" lon="6.9467">
+    <name>Mandelieu-la-Napoule z1795</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5357" lon="6.94573">
+    <name>Mandelieu-la-Napoule z1793</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.52343" lon="6.94085">
+    <name>Mandelieu-la-Napoule z1791</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.53259" lon="6.47312">
+    <name>Draguignan z1789</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.34829" lon="6.17784">
+    <name>Besse-sur-Issole z1787</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.32996" lon="6.04681">
+    <name>Gareoult z1785</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.12677" lon="6.13185">
+    <name>Hyères z1783</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.12196" lon="6.12919">
+    <name>Hyères z1781</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.11926" lon="6.13037">
+    <name>Hyères z1780</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.11074" lon="6.13592">
+    <name>Hyères z1778</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.10885" lon="6.12498">
+    <name>Hyères z1776</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.10584" lon="6.12864">
+    <name>Hyères z1774</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.06501" lon="6.14736">
+    <name>Hyères z1773</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.03642" lon="6.13699">
+    <name>Hyères z1771</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.03988" lon="6.10993">
+    <name>Hyères z1769</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.12502" lon="6.0093">
+    <name>La Garde z1767</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.14797" lon="5.87661">
+    <name>Ollioules z1765</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.2996" lon="5.3861">
+    <name>Marseille 1e z1763</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.29939" lon="5.36701">
+    <name>Marseille 2e z1761</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.29711" lon="5.36591">
+    <name>Marseille 2e z1759</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.30586" lon="5.36594">
+    <name>Marseille 2e z1757</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.28036" lon="5.35374">
+    <name>Marseille 7e z1755</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.27908" lon="5.30476">
+    <name>Marseille 7e z1753</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.3856" lon="4.80544">
+    <name>Port-Saint-Louis-du-Rhône z1751</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.32858" lon="5.5985">
+    <name>Roquevaire z738</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.53122" lon="5.45528">
+    <name>Aix-en-Provence z96</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.52076" lon="5.44883">
+    <name>Aix-en-Provence z94</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.52287" lon="5.44537">
+    <name>Aix-en-Provence z70</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.52803" lon="5.45068">
+    <name>Aix-en-Provence z68</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.53286" lon="5.42281">
+    <name>Aix-en-Provence z66</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.53087" lon="5.44216">
+    <name>Aix-en-Provence z64</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.52198" lon="5.46705">
+    <name>Aix-en-Provence z62</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="ZoneLivre Provence-Alpes-Côte d'Azur" color="#ff5020" icon="public_bookcase" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

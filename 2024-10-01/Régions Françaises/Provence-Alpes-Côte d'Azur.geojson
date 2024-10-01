@@ -1,0 +1,3470 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "23201",
+                "name": "Fos-sur-Mer",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.944150745868684,
+                    43.42965799474895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "23198",
+                "name": "Miramas",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0007855892181405,
+                    43.58045303199915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "23122",
+                "name": "Seillans",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.644856333732606,
+                    43.63617027543927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "23114",
+                "name": "Entrechaux",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.138299763202668,
+                    44.21729518210672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "23108",
+                "name": "Vinon-sur-Verdon",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.813034921884538,
+                    43.72623219185817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "23106",
+                "name": "Rians",
+                "icon": 99
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.756331682205201,
+                    43.605008655779784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "23102",
+                "name": "Rians",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.755988359451295,
+                    43.60669739114047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "23100",
+                "name": "Rians",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.757267773151399,
+                    43.60872886045006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "23097",
+                "name": "Rians",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.757544040679932,
+                    43.6077811089275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22860",
+                "name": "Moustiers-Sainte-Marie",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.222563982009889,
+                    43.846977808960496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22858",
+                "name": "Entrevaux",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.810203790664674,
+                    43.9496112149243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22856",
+                "name": "Annot",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.667153537273408,
+                    43.96681251687739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22532",
+                "name": "Artigues",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8108529448509225,
+                    43.5931803530222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22491",
+                "name": "Archail",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.334197521209717,
+                    44.12137510192784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22442",
+                "name": "Fos-sur-Mer",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.944700598716736,
+                    43.44092732659861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22439",
+                "name": "Fos-sur-Mer",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.939990639686585,
+                    43.44953859500117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22437",
+                "name": "Fos-sur-Mer",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.94000405073166,
+                    43.44945486401017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22435",
+                "name": "Fos-sur-Mer",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.942117631435395,
+                    43.44529737719152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22406",
+                "name": "Fos-sur-Mer",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.944435060024262,
+                    43.43627649824514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22383",
+                "name": "Fos-sur-Mer",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9397,
+                    43.46476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22229",
+                "name": "Marcoux",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.28008931875229,
+                    44.13110176716173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22226",
+                "name": "Digne-les-Bains",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2050598859787,
+                    44.10521050998731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22128",
+                "name": "Vaison-la-Romaine",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.072918236255647,
+                    44.23890792243399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "22109",
+                "name": "Orange",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.839427918195725,
+                    44.12076665080027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "21520",
+                "name": "Meyreuil",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.51141917705536,
+                    43.485205238832165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "21516",
+                "name": "Fuveau",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5458801984787,
+                    43.46279778445306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "21514",
+                "name": "Fuveau",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.559823662042619,
+                    43.454722875339606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "21512",
+                "name": "Fuveau",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.560533106327058,
+                    43.455876499808234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "21481",
+                "name": "Taradeau",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.42777979373932,
+                    43.45363640381836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "21135",
+                "name": "Blauvac",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.19951,
+                    44.02957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "21017",
+                "name": "Saint-Saturnin-lès-Avignon",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9299243092536935,
+                    43.95687154785287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "21015",
+                "name": "Loriol-du-Comtat",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.001670718193055,
+                    44.07654668330537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20972",
+                "name": "Buisson",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.99775,
+                    44.28032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20892",
+                "name": "Bollène",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.75053,
+                    44.2785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20890",
+                "name": "Bollène",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.74788,
+                    44.30245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20888",
+                "name": "Bollène",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.74766,
+                    44.28082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20886",
+                "name": "Buisson",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.99816,
+                    44.27933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20884",
+                "name": "Sisteron",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.94581,
+                    44.19
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20882",
+                "name": "Sisteron",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.94634,
+                    44.19529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20880",
+                "name": "La Garde",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.98765,
+                    43.11186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20878",
+                "name": "Berre-l'Étang",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.16799,
+                    43.47562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20876",
+                "name": "Arles",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.63467,
+                    43.68103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20830",
+                "name": "Beaujeu",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.37124,
+                    44.2036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20824",
+                "name": "Sausset-les-Pins",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.10992,
+                    43.33227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20822",
+                "name": "Saint-Cyr-sur-Mer",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69334,
+                    43.17439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20820",
+                "name": "La Crau",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.06957,
+                    43.12073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20818",
+                "name": "Roquebrune-sur-Argens",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.64027,
+                    43.44255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20684",
+                "name": "Marseille 3e",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.37028,
+                    43.31246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20653",
+                "name": "Marseille 12e",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.43093,
+                    43.32349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "19876",
+                "name": "Èze",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.34252,
+                    43.73165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "19841",
+                "name": "Menton",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.49136,
+                    43.7727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "19649",
+                "name": "Malemort-du-Comtat",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.15872,
+                    44.02148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "19647",
+                "name": "Lançon-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.13916,
+                    43.5855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "19638",
+                "name": "Rognes",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.34758,
+                    43.66389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "19465",
+                "name": "Pélissanne",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.14834,
+                    43.62915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "19449",
+                "name": "Monteux",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.00193,
+                    44.03535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "19389",
+                "name": "Entressen",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.94001,
+                    43.59208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "19343",
+                "name": "La Croix-Valmer",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.59792,
+                    43.18437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "19209",
+                "name": "Aix-en-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.43051,
+                    43.51381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18937",
+                "name": "Fayence",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.67688,
+                    43.62111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18907",
+                "name": "Pignans",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2273,
+                    43.30311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18893",
+                "name": "Aix-en-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4206,
+                    43.58271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18889",
+                "name": "Pignans",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.22768,
+                    43.30139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18880",
+                "name": "Marseille 2e",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36692,
+                    43.29957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18866",
+                "name": "Marseille 2e",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.37059,
+                    43.29762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18167",
+                "name": "Sarrians",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.98277,
+                    44.08013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18137",
+                "name": "Tavernes",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.01644,
+                    43.59357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18068",
+                "name": "Champcella",
+                "icon": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.56909,
+                    44.70958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18013",
+                "name": "Aix-en-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.45521,
+                    43.53961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18010",
+                "name": "Aix-en-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.46266,
+                    43.53367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18008",
+                "name": "Aix-en-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.43855,
+                    43.50922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17879",
+                "name": "Tallard",
+                "icon": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.055,
+                    44.4616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17794",
+                "name": "Robion",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.11253,
+                    43.8465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17692",
+                "name": "Marseille 2e",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36811,
+                    43.29844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17678",
+                "name": "Peymeinade",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.87749,
+                    43.64182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17562",
+                "name": "Les Arcs",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.48237,
+                    43.45566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17239",
+                "name": "Camaret-sur-Aigues",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.87386,
+                    44.16491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17217",
+                "name": "Val-des-Prés",
+                "icon": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.67335,
+                    44.91514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17214",
+                "name": "Le Monêtier-les-Bains",
+                "icon": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.48223,
+                    44.98673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17198",
+                "name": "Velaux",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.26052,
+                    43.52704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16982",
+                "name": "La Croix-Valmer",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.56873,
+                    43.20881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16537",
+                "name": "Brignoles",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.06022,
+                    43.40616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16534",
+                "name": "Brignoles",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.07019,
+                    43.41008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16095",
+                "name": "Camps-la-Source",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.09651,
+                    43.38508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16093",
+                "name": "Bandol",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75742,
+                    43.13606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16091",
+                "name": "Bandol",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7523,
+                    43.13763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16089",
+                "name": "Bandol",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74633,
+                    43.13725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16066",
+                "name": "Avignon",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.89102,
+                    43.91595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16062",
+                "name": "Avignon",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.82264,
+                    43.93392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16059",
+                "name": "Avignon",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.80508,
+                    43.93784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16057",
+                "name": "Avignon",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.81934,
+                    43.9377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16041",
+                "name": "Bras-d'Asse",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12415,
+                    43.9251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15977",
+                "name": "Avignon",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.80508,
+                    43.93716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15967",
+                "name": "Barras",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.11396,
+                    44.10495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15556",
+                "name": "Baratier",
+                "icon": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.496,
+                    44.53816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15553",
+                "name": "Baratier",
+                "icon": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.495749652385712,
+                    44.53887116799287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15473",
+                "name": "Bédoin",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.17987,
+                    44.12257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15471",
+                "name": "Bédoin",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.18122,
+                    44.12388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15188",
+                "name": "Antibes",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.11824,
+                    43.58975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15186",
+                "name": "Antibes",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.12587,
+                    43.58258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15184",
+                "name": "Antibes",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.12339,
+                    43.57548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15094",
+                "name": "Antibes",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.12188,
+                    43.60031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14936",
+                "name": "Aups",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.22364,
+                    43.6269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14923",
+                "name": "Aurel",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.42799,
+                    44.12939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14747",
+                "name": "Aspremont",
+                "icon": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.72973,
+                    44.48812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14724",
+                "name": "Aspres-sur-Buëch",
+                "icon": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75257,
+                    44.52098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14616",
+                "name": "Ubaye-Serre-Ponçon",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.37205,
+                    44.44511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14613",
+                "name": "Rians",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.755457282066346,
+                    43.606178831099385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14611",
+                "name": "Brue-Auriac",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.94429,
+                    43.52721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14609",
+                "name": "Varages",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.96056,
+                    43.59741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14506",
+                "name": "Ansouis",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.464842617511749,
+                    43.737739744786715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "14049",
+                "name": "Marseille 11e",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.48508,
+                    43.29669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13853",
+                "name": "L'Isle-sur-la-Sorgue",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0465,
+                    43.92779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13851",
+                "name": "L'Isle-sur-la-Sorgue",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.04483,
+                    43.92998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13836",
+                "name": "Marseille 12e",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4566,
+                    43.30693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13769",
+                "name": "Bédoin",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.21444,
+                    44.1253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13654",
+                "name": "Aix-en-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.43321,
+                    43.52328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13604",
+                "name": "Flassans-sur-Issole",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.22242,
+                    43.36924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13438",
+                "name": "Montmeyan",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.06361,
+                    43.64642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13348",
+                "name": "La Croix-Valmer",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.55572,
+                    43.18867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13286",
+                "name": "Figanière",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.50169,
+                    43.56602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13284",
+                "name": "Les Arcs",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.47869,
+                    43.46289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13279",
+                "name": "Figanière",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.48938,
+                    43.57758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13277",
+                "name": "La Motte",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.53587,
+                    43.49297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13147",
+                "name": "Trans-en-Provence",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.48443,
+                    43.50529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13145",
+                "name": "Trans-en-Provence",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.48341,
+                    43.48971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13143",
+                "name": "Draguignan",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4512,
+                    43.52802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13112",
+                "name": "Lorgues",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.36636,
+                    43.49799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12583",
+                "name": "Hyères",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.17431,
+                    43.10413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "11190",
+                "name": "Gargas",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35723,
+                    43.90341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "11188",
+                "name": "Banon",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6286,
+                    44.0389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "9914",
+                "name": "Apt",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.37625,
+                    43.88779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "9631",
+                "name": "Serres",
+                "icon": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.71755,
+                    44.42903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "9389",
+                "name": "Avignon",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.80571,
+                    43.94448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8906",
+                "name": "Carpentras",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0445,
+                    44.05858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8904",
+                "name": "La Ciotat",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.63268,
+                    43.19962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8902",
+                "name": "La Ciotat",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6094,
+                    43.17662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8900",
+                "name": "La Ciotat",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.62122,
+                    43.1864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8884",
+                "name": "Lourmarin",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36225,
+                    43.76504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8707",
+                "name": "Saint-André-les-Alpes",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5088,
+                    43.96097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8133",
+                "name": "Barjols",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.00578,
+                    43.55756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8122",
+                "name": "Lorgues",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.35893,
+                    43.49329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8100",
+                "name": "Saumane-de-Vaucluse",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.10586,
+                    43.93593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8097",
+                "name": "Salernes",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.23358,
+                    43.56282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8082",
+                "name": "Ceyreste",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.63147,
+                    43.21418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8060",
+                "name": "Fuveau",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.561069548130035,
+                    43.45383598114368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8057",
+                "name": "Saint-Jeannet",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.14326,
+                    43.74709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7997",
+                "name": "Avignon",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.81708,
+                    43.95164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7902",
+                "name": "Gap",
+                "icon": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.06303,
+                    44.54366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7872",
+                "name": "Villeneuve-Loubet",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.13102,
+                    43.63342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7870",
+                "name": "Villeneuve-Loubet",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.143,
+                    43.64104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7808",
+                "name": "Cabris",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.87545,
+                    43.65589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7691",
+                "name": "Marseille 8e",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36534,
+                    43.23841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7370",
+                "name": "Figanières",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.49681,
+                    43.57055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7368",
+                "name": "Draguignan",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.45972,
+                    43.53795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "6239",
+                "name": "La Penne-sur-Huveaune",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.51715,
+                    43.27844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5072",
+                "name": "Mazaugues",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.92251,
+                    43.34821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4999",
+                "name": "Martigues",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.05698,
+                    43.40817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4997",
+                "name": "Bormes-les-Mimosas",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.34366,
+                    43.15174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4995",
+                "name": "Mazan",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.12595,
+                    44.05552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4993",
+                "name": "Salon-de-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.09432,
+                    43.63929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4893",
+                "name": "Cabrières-d'Avignon",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.15085,
+                    43.8892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2553",
+                "name": "Oppède",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.16882,
+                    43.84378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2551",
+                "name": "Maubec",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.13973,
+                    43.84551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2549",
+                "name": "Lagnes",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.11554,
+                    43.89348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2547",
+                "name": "Taillades",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.093,
+                    43.83392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2545",
+                "name": "Cheval-Blanc",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.06731,
+                    43.8025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2543",
+                "name": "Mallemort",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.17809,
+                    43.7296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2541",
+                "name": "Mallemort",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.18007,
+                    43.72905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2391",
+                "name": "Mazan",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.12755,
+                    44.0567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2389",
+                "name": "Vaison-la-Romaine",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.073409080505372,
+                    44.241603912925115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1857",
+                "name": "Lauris",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.31506,
+                    43.74738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1855",
+                "name": "Saint-Martin-de-Crau",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.80906,
+                    43.63366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1852",
+                "name": "Saint-Martin-de-Crau",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8084,
+                    43.63384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1850",
+                "name": "Saint-Martin-de-Crau",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8076,
+                    43.63265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1848",
+                "name": "Manteyer",
+                "icon": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.95189,
+                    44.54185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1846",
+                "name": "Veynes",
+                "icon": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.83399,
+                    44.53215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1844",
+                "name": "Forcalquier",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.78388,
+                    43.95943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1842",
+                "name": "Manosque",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.78346,
+                    43.83272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1840",
+                "name": "Manosque",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.78223,
+                    43.8347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1838",
+                "name": "Manosque",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.78251,
+                    43.83141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1836",
+                "name": "Manosque",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.78424,
+                    43.83181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1834",
+                "name": "Manosque",
+                "icon": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.78381,
+                    43.83138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1832",
+                "name": "La Tour d'Aigues",
+                "icon": 104
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5469,
+                    43.72613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1830",
+                "name": "Peyrolles-en-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.582,
+                    43.64801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1828",
+                "name": "Vauvenargues",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.60215,
+                    43.5553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1826",
+                "name": "Vauvenargues",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.59912,
+                    43.5552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1824",
+                "name": "Gardanne",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.47076,
+                    43.45559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1822",
+                "name": "Saint-Savournin",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.54654,
+                    43.40555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1820",
+                "name": "Cannes",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.01816,
+                    43.56499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1817",
+                "name": "Cannes",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.03676,
+                    43.54654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1815",
+                "name": "Cannes",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.02369,
+                    43.55591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1813",
+                "name": "Cannes",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.01437,
+                    43.55511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1811",
+                "name": "Cannes",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.98865,
+                    43.55085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1809",
+                "name": "Cannes",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.97692,
+                    43.55048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1807",
+                "name": "Cannes",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.96846,
+                    43.559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1801",
+                "name": "Mandelieu-la-Napoule",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.93606,
+                    43.54023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1799",
+                "name": "Mandelieu-la-Napoule",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.94,
+                    43.54595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1797",
+                "name": "Mandelieu-la-Napoule",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.944856047630311,
+                    43.53936376371239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1795",
+                "name": "Mandelieu-la-Napoule",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9467,
+                    43.53946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1793",
+                "name": "Mandelieu-la-Napoule",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.94573,
+                    43.5357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1791",
+                "name": "Mandelieu-la-Napoule",
+                "icon": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.94085,
+                    43.52343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1789",
+                "name": "Draguignan",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.47312,
+                    43.53259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1787",
+                "name": "Besse-sur-Issole",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.17784,
+                    43.34829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1785",
+                "name": "Gareoult",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.04681,
+                    43.32996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1783",
+                "name": "Hyères",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13185,
+                    43.12677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1781",
+                "name": "Hyères",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12919,
+                    43.12196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1780",
+                "name": "Hyères",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13037,
+                    43.11926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1778",
+                "name": "Hyères",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13592,
+                    43.11074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1776",
+                "name": "Hyères",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12498,
+                    43.10885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1774",
+                "name": "Hyères",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12864,
+                    43.10584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1773",
+                "name": "Hyères",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.14736,
+                    43.06501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1771",
+                "name": "Hyères",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13699,
+                    43.03642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1769",
+                "name": "Hyères",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.10993,
+                    43.03988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1767",
+                "name": "La Garde",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0093,
+                    43.12502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1765",
+                "name": "Ollioules",
+                "icon": 103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.87661,
+                    43.14797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1763",
+                "name": "Marseille 1e",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3861,
+                    43.2996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1761",
+                "name": "Marseille 2e",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36701,
+                    43.29939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1759",
+                "name": "Marseille 2e",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36591,
+                    43.29711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1757",
+                "name": "Marseille 2e",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36594,
+                    43.30586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1755",
+                "name": "Marseille 7e",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35374,
+                    43.28036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1753",
+                "name": "Marseille 7e",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30476,
+                    43.27908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1751",
+                "name": "Port-Saint-Louis-du-Rhône",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.80544,
+                    43.3856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "738",
+                "name": "Roquevaire",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5985,
+                    43.32858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "96",
+                "name": "Aix-en-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.45528,
+                    43.53122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "94",
+                "name": "Aix-en-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.44883,
+                    43.52076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "70",
+                "name": "Aix-en-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.44537,
+                    43.52287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "68",
+                "name": "Aix-en-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.45068,
+                    43.52803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "66",
+                "name": "Aix-en-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.42281,
+                    43.53286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "64",
+                "name": "Aix-en-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.44216,
+                    43.53087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "62",
+                "name": "Aix-en-Provence",
+                "icon": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.46705,
+                    43.52198
+                ]
+            }
+        }
+    ]
+}
