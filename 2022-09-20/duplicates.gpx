@@ -20,7 +20,7 @@
   </wpt>
   <extensions>
     <osmand:points_groups>
-      <group name="ZoneLivre hors France métro" color="#ff5020" icon="public_bookcase" background="square" />
+      <group name="ZoneLivre hors France métro" color="#10c0f0" icon="public_bookcase" background="square" />
     </osmand:points_groups>
   </extensions>
 </gpx>

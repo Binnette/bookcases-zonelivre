@@ -2081,7 +2081,7 @@
   </wpt>
   <extensions>
     <osmand:points_groups>
-      <group name="ZoneLivre Provence-Alpes-Côte d'Azur" color="#ff5020" icon="public_bookcase" background="square" />
+      <group name="ZoneLivre Provence-Alpes-Côte d'Azur" color="#10c0f0" icon="public_bookcase" background="square" />
     </osmand:points_groups>
   </extensions>
 </gpx>

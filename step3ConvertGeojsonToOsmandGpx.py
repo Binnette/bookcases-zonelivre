@@ -2,8 +2,9 @@ import json
 import os
 
 # Parameters
-folder = './2022-09-20/'
+folder = './2024-10-01/'
 file = 'data.json'
+color = '#10c0f0'
 
 # Constants
 regions = 'Régions Françaises/'
@@ -32,12 +33,12 @@ def w_header():
 
 # Write GPX footer
 def w_footer(title):
-    w("  <extensions>")
-    w("    <osmand:points_groups>")
-    w(f'      <group name="{title}" color="#ff5020" icon="public_bookcase" background="square" />')
-    w("    </osmand:points_groups>")
-    w("  </extensions>")
-    w("</gpx>")
+    w(f'  <extensions>')
+    w(f'    <osmand:points_groups>')
+    w(f'      <group name="{title}" color="{color}" icon="public_bookcase" background="square" />')
+    w(f'    </osmand:points_groups>')
+    w(f'  </extensions>')
+    w(f'</gpx>')
 
 def clean(text):
     text = text or ''
@@ -67,14 +68,14 @@ def w_bookcase(b, i, title):
         lat = b['geometry']['coordinates'][1]
         lon = b['geometry']['coordinates'][0]
         w(f'  <wpt lat="{lat}" lon="{lon}">')
-        w(f"    <name>{name}</name>")
-        w(f"    <type>{title}</type>")
-        w("    <extensions>")
-        w("      <osmand:icon>public_bookcase</osmand:icon>")
-        w("      <osmand:background>square</osmand:background>")
-        w("      <osmand:color>#10c0f0</osmand:color>")
-        w("    </extensions>")
-        w("  </wpt>")
+        w(f'    <name>{name}</name>')
+        w(f'    <type>{title}</type>')
+        w(f'    <extensions>')
+        w(f'      <osmand:icon>public_bookcase</osmand:icon>')
+        w(f'      <osmand:background>square</osmand:background>')
+        w(f'      <osmand:color>{color}</osmand:color>')
+        w(f'    </extensions>')
+        w(f'  </wpt>')
     except Exception as err:
         print(err)
 
