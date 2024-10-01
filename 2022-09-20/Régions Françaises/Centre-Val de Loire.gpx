@@ -1,925 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <wpt lat="47.12764" lon="2.93442">
-    <name>Jussy-le-Chaudrier z16431</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.58873" lon="1.33643">
-    <name>Blois z3078</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.07814" lon="1.3476">
-    <name>Châteaudun z3189</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.36124" lon="0.70718">
-    <name>Tours z3788</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.24176" lon="0.69401">
-    <name>Sorigny z3856</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.20015" lon="1.88292">
-    <name>Janville-en-Beauce z14447</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.80909" lon="1.08091">
-    <name>Saint-Ouen (41) z3094</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.28387" lon="0.70162">
-    <name>Montbazon z3281</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.49844" lon="0.57771">
-    <name>Semblançay z3806</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.48971" lon="2.44249">
-    <name>Aubigny-sur-Nère z240</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.29655" lon="0.21337">
-    <name>Benais z17191</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.06705" lon="1.29178">
-    <name>Saint-Denis-les-Ponts z3183</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.49774" lon="2.77251">
-    <name>Santranges z3437</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.34843" lon="0.54699">
-    <name>Savonnières z3905</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.15668" lon="0.44873">
-    <name>Avon-les-Roches z17060</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.66133" lon="1.37021">
-    <name>Villerbon z3088</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.61988" lon="2.49251">
-    <name>Coullons z8117</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.26876" lon="1.37413">
-    <name>Saint-Aignan-sur-Cher z3816</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.6934" lon="1.69844">
-    <name>Arthon z14931</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.25494" lon="0.46251">
-    <name>Cheillé z17491</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.36009" lon="0.80424">
-    <name>Véretz z3293</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.33995" lon="2.85283">
-    <name>Saint-Satur z3429</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.38527" lon="1.55193">
-    <name>Berchères-les-Pierres z15591</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.89925" lon="1.90275">
-    <name>Orléans z3211</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.38711" lon="0.72281">
-    <name>Saint-Pierre-des-Corps z3918</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.46605" lon="1.87379">
-    <name>Marcilly-en-Gault z3140</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.57811" lon="1.98608">
-    <name>La Châtre z3328</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.08935" lon="0.89257">
-    <name>Mouzay z3847</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.0421" lon="2.40501">
-    <name>Bourges z1192</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.00031" lon="0.39263">
-    <name>Braslou z17639</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.87438" lon="1.90463">
-    <name>Olivet z3229</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.43718" lon="0.63873">
-    <name>La Membrolle-sur-Choisille z3796</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.48224" lon="0.88446">
-    <name>Reugny z3938</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.88931" lon="1.42201">
-    <name>Buzançais z13997</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.33222" lon="1.04657">
-    <name>Civray-de-Touraine z7506</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.62607" lon="1.38573">
-    <name>Saint-Denis-sur-Loire z3174</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.35137" lon="0.66995">
-    <name>Joué-lès-Tours z3283</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.26841" lon="1.37239">
-    <name>Saint-Aignan-sur-Cher z3814</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.58047" lon="1.30865">
-    <name>Blois z3080</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.07222" lon="1.34524">
-    <name>Châteaudun z3191</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.03682" lon="2.27816">
-    <name>Morthomiers z3417</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.39288" lon="0.557">
-    <name>Luynes z3914</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.38042" lon="0.66779">
-    <name>Tours z17015</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.81071" lon="1.08716">
-    <name>Saint-Ouen (41) z3096</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.78459" lon="1.65629">
-    <name>Saint-Maur z8116</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.35569" lon="0.91031">
-    <name>Saint-Martin-le-Beau z3299</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.59044" lon="0.90808">
-    <name>Château-Renault z3826</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.25298" lon="1.94857">
-    <name>Barmainville z314</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.42524" lon="2.05407">
-    <name>Salbris z1994</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.89905" lon="1.8921">
-    <name>Orléans z3209</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.67557" lon="1.11534">
-    <name>Pray z3439</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.28177" lon="0.16877">
-    <name>Bourgueil z17189</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.88858" lon="1.90522">
-    <name>Orléans z3219</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.41229" lon="0.69825">
-    <name>Tours z3926</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.33219" lon="0.8619">
-    <name>Azay-sur-Cher z15231</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.89402" lon="2.59772">
-    <name>La Cour-Marigny z8713</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.53406" lon="2.03344">
-    <name>Nouan-le-Fuzelier z3134</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.22945" lon="1.10492">
-    <name>Le Liège z3311</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.27655" lon="1.39996">
-    <name>Noyers-sur-Cher z3820</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.08396" lon="2.4077">
-    <name>Bourges z1184</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.32445" lon="0.40631">
-    <name>Langeais z17481</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.81867" lon="1.93683">
-    <name>Orléans z3237</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.39356" lon="0.67586">
-    <name>Tours z3771</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.33922" lon="0.73482">
-    <name>Chambray-lès-Tours z8562</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.54466" lon="0.74451">
-    <name>Nouzilly z3942</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.13476" lon="0.79247">
-    <name>Manthelan z13536</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.70369" lon="1.50646">
-    <name>Mer z3142</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.87562" lon="2.12397">
-    <name>Saint-Denis-de-l'Hôtel z3245</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.24277" lon="0.69579">
-    <name>Sorigny z3858</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.12453" lon="2.40392">
-    <name>Bourges z16278</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.05297" lon="1.25617">
-    <name>Villedômain z3062</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.345437" lon="1.749644">
-    <name>Romorantin-Lanthenay z3160</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.38802" lon="0.70286">
-    <name>Tours z3781</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.44985" lon="0.24821">
-    <name>Rillé z3899</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.38974" lon="0.72077">
-    <name>Saint-Pierre-des-Corps z17007</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.10465" lon="0.62607">
-    <name>Sainte-Maure-de-Touraine z7510</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.5852" lon="1.37586">
-    <name>Vineuil z3070</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.14461" lon="0.53704">
-    <name>Saint-Épain z3277</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.40444" lon="0.60077">
-    <name>Fondettes z3798</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.12787" lon="2.25068">
-    <name>Ascoux z14716</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.28618" lon="0.30682">
-    <name>Saint-Patrice z4714</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.54877" lon="1.5426">
-    <name>Bracieux z17365</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.07623" lon="1.32092">
-    <name>Châteaudun z3185</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.00964" lon="2.29508">
-    <name>Le Subdray z3415</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.37032" lon="0.51599">
-    <name>Saint-Etienne-de-Chigny z3908</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.10999" lon="0.55862">
-    <name>Noyant-de-Touraine z17064</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.60464" lon="2.02726">
-    <name>Lamotte-Beuvron z3132</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.26994" lon="1.37707">
-    <name>Saint-Aignan-sur-Cher z3818</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.59796" lon="2.60155">
-    <name>Autry-le-Châtel z14939</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.31378" lon="0.83162">
-    <name>Nogent-le-Rotrou z2056</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.63372" lon="1.06457">
-    <name>Le Blanc z3320</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.4824" lon="2.86234">
-    <name>Sury-près-Léré z3431</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.3794" lon="0.70673">
-    <name>Tours z8555</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.19473" lon="0.18543">
-    <name>Beaumont-en-Véron z15558</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.16522" lon="0.24371">
-    <name>Chinon z12193</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.90749" lon="1.91185">
-    <name>Orléans z3213</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.3876" lon="0.65904">
-    <name>La Riche z3779</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.39185" lon="0.73268">
-    <name>Saint-Pierre-des-Corps z3920</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.24647" lon="1.88415">
-    <name>Maray z3151</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.82337" lon="2.38778">
-    <name>Saint-Loup-des-Chaumes z3330</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.16564" lon="0.24279">
-    <name>Chinon z3866</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.09017" lon="2.39579">
-    <name>Bourges z1186</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.27637" lon="0.65375">
-    <name>Monts z7717</name>
+  <wpt lat="46.85076" lon="1.07225">
+    <name>Azay-le-Ferron z17950</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -936,1277 +18,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.86614" lon="2.12173">
-    <name>Jargeau z3239</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.41942" lon="0.69912">
-    <name>Tours z11032</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.39998" lon="0.66875">
-    <name>Saint-Cyr-sur-Loire z3790</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.21162" lon="0.07389">
-    <name>Candes-Saint-Martin z3870</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.41122" lon="0.99075">
-    <name>Amboise z146</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.77727" lon="0.79772">
-    <name>Trôo z3176</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.34887" lon="0.69583">
-    <name>Chambray-lès-Tours z3285</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.49968" lon="0.58143">
-    <name>Semblançay z3808</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.12283" lon="1.0149">
-    <name>Beaulieu-lès-Loches z17271</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.06713" lon="1.34235">
-    <name>Châteaudun z3193</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.29795" lon="2.52881">
-    <name>Henrichemont z3419</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.37824" lon="0.59939">
-    <name>Saint-Genouph z3916</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.38743" lon="0.66982">
-    <name>Tours z17017</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.41865" lon="1.42979">
-    <name>Le Controis-en-Sologne z6597</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.29905" lon="1.24446">
-    <name>Illiers-Combray z3108</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.34413" lon="0.98935">
-    <name>La Croix-en-Touraine z3301</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.58832" lon="0.90425">
-    <name>Château-Renault z3828</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.34161" lon="0.61869">
-    <name>Ballan-Miré z310</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.42464" lon="2.04921">
-    <name>Salbris z1996</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.38399" lon="0.82659">
-    <name>Montlouis-sur-Loire z3295</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.62914" lon="0.74634">
-    <name>La Ferrière z3441</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.34393" lon="0.72014">
-    <name>Chambray-lès-Tours z8564</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.10801" lon="0.55991">
-    <name>Noyant-de-Touraine z17066</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.89108" lon="1.89714">
-    <name>Orléans z3221</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.44145" lon="0.74189">
-    <name>Parçay-Meslay z3928</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.34561" lon="0.84496">
-    <name>Azay-sur-Cher z15229</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.61009" lon="1.90732">
-    <name>Chaumont-sur-Tharonne z3136</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.833" lon="2.17873">
-    <name>Ouvrouer-les-Champs z8136</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.12809" lon="1.00088">
-    <name>Loches z3313</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.05126" lon="0.5495">
-    <name>Nouâtre z3841</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.29643" lon="1.35227">
-    <name>Ermenonville-la-Petite z9338</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.42422" lon="1.46353">
-    <name>Luisant z16020</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.2323" lon="0.25149">
-    <name>Huismes z17493</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.89899" lon="1.90861">
-    <name>Orléans z3215</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.40292" lon="0.69399">
-    <name>Tours z3765</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.73463" lon="1.3643">
-    <name>Dreux z4597</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.09071" lon="2.78979">
-    <name>Ferrières-en-Gâtinais z11666</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.71201" lon="0.96929">
-    <name>Ambloy z14404</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.58878" lon="1.6584">
-    <name>Dhuizon z3144</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.79102" lon="1.73521">
-    <name>Châteauroux z6863</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.86616" lon="1.89713">
-    <name>Olivet z3231</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.22667" lon="0.77225">
-    <name>Saint-Branchs z3851</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.61917" lon="1.56436">
-    <name>Villiers-le-Morhier z11998</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.5866" lon="1.34454">
-    <name>Blois z3072</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.49847" lon="1.46035">
-    <name>Cheverny z3162</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.36779" lon="0.67578">
-    <name>Tours z3783</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.22116" lon="0.32248">
-    <name>Saint-Benoît-la-Forêt z3872</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.39248" lon="0.71231">
-    <name>Saint-Pierre-des-Corps z17009</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.38025" lon="0.6957">
-    <name>Tours z6408</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.78655" lon="1.07079">
-    <name>Vendôme z3090</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.3492" lon="0.7314">
-    <name>Saint-Avertin z3287</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.4087" lon="0.59964">
-    <name>Fondettes z3802</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.33202" lon="1.243">
-    <name>Angé z174</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.44415" lon="0.9899">
-    <name>Pocé-sur-Cisse z7610</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.82133" lon="2.86757">
-    <name>Sancoins z1986</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.12662" lon="1.36617">
-    <name>Saint-Christophe (28) z3195</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.2856" lon="2.57897">
-    <name>Henrichemont z3421</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.31786" lon="0.4271">
-    <name>La Chapelle-aux-Naux z3901</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.01585" lon="0.55402">
-    <name>Ports-sur-Vienne z17075</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.4348" lon="0.67947">
-    <name>Tours z7490</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.26185" lon="0.46681">
-    <name>Azay-le-Rideau z6636</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.56864" lon="1.25154">
-    <name>Thimert-Gâtelles z3110</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.5458" lon="0.88849">
-    <name>Villedômer z3830</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.56996" lon="0.67058">
-    <name>Beaumont-Louestault z377</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.76606" lon="1.19881">
-    <name>Saint-Lubin-des-Joncherets z2048</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.8117" lon="1.69692">
-    <name>Châteauroux z3322</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.16027" lon="0.7862">
-    <name>Le Louroux z3849</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.19449" lon="0.18725">
-    <name>Beaumont-en-Véron z15560</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.89973" lon="1.92591">
-    <name>Orléans z3223</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.43021" lon="1.47473">
-    <name>Luisant z10699</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.37935" lon="0.71022">
-    <name>Tours z3773</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.44762" lon="1.05187">
-    <name>Limeray z3940</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.48023" lon="0.26393">
-    <name>Channay-sur-Lathan z13924</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.39861" lon="1.830088">
-    <name>Loreux z3154</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.81185" lon="1.68008">
-    <name>Châteauroux z6861</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.81716" lon="1.68403">
-    <name>Châteauroux z3324</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.1251" lon="0.38775">
-    <name>Tavant z3860</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.40677" lon="0.70433">
-    <name>Tours z16776</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.59629" lon="1.31695">
-    <name>Blois z3082</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.86741" lon="2.13565">
-    <name>Saint-Denis-de-l'Hôtel z3241</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.40228" lon="0.67047">
-    <name>Saint-Cyr-sur-Loire z3792</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.22798" lon="0.48007">
-    <name>Villaines-les-Rochers z3876</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.40998" lon="0.98676">
-    <name>Amboise z140</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.38018" lon="0.69533">
-    <name>Tours z6406</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.80871" lon="1.08349">
-    <name>Saint-Ouen (41) z3100</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.90725" lon="2.56714">
-    <name>Noyers (45) z3247</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.5269" lon="0.46187">
-    <name>Sonzay z3810</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.98496" lon="1.46681">
-    <name>Beauce-la-Romaine z17267</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.46857" lon="1.49956">
-    <name>Champhol z3203</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.80659" lon="1.04231">
-    <name>Martizay z3357</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.38486" lon="0.55431">
-    <name>Luynes z3910</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.3773" lon="0.68814">
-    <name>Tours z17011</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.58656" lon="1.57747">
-    <name>Maintenon z3114</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.91163" lon="1.96685">
-    <name>Saint-Jean-de-Braye z5280</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.44381" lon="0.58253">
-    <name>Saint-Roch z3804</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.48771" lon="2.43843">
-    <name>Aubigny-sur-Nère z238</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.31503" lon="2.2551">
-    <name>Neuvy-sur-Barangeon z1990</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.41094" lon="0.79709">
-    <name>Vouvray z3297</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.61982" lon="0.70321">
-    <name>Marray z3443</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.04645" lon="0.53965">
-    <name>Marcilly-sur-Vienne z17073</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.42499" lon="0.39057">
-    <name>Clère-les-Pins z12936</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.61947" lon="0.90984">
-    <name>Neuville-sur-Brenne z7501</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.21457" lon="1.43731">
-    <name>Moriers z3199</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.58055" lon="1.99071">
-    <name>La Châtre z7198</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.39391" lon="0.76976">
-    <name>La Ville-aux-Dames z3922</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.88651" lon="2.4444">
-    <name>Vieilles-Maisons-sur-Joudry z13447</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.56369" lon="2.30484">
-    <name>Clémont z3130</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.20904" lon="0.99967">
-    <name>Chédigny z3307</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.43049" lon="0.95545">
-    <name>Nazelles-Négron z3835</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.38442" lon="0.68622">
-    <name>Tours z8553</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.93055" lon="2.784">
-    <name>Ourouer les Bourdelins z1194</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.43795" lon="1.29531">
-    <name>Sambin z3064</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.89436" lon="1.9069">
-    <name>Orléans z3217</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.41394" lon="0.6859">
-    <name>Tours z3767</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.32492" lon="0.99042">
-    <name>Bléré z4364</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.28201" lon="1.77336">
-    <name>Saint-Julien-sur-Cher z14243</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.36136" lon="1.74299">
-    <name>Romorantin-Lanthenay z3156</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.86513" lon="1.90135">
-    <name>Olivet z3233</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.23849" lon="0.69482">
-    <name>Sorigny z3854</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.97493" lon="2.10301">
-    <name>Traînou z6357</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.49779" lon="1.37138">
-    <name>Chitenay z3066</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.98126" lon="0.8971">
-    <name>Mondoubleau z3179</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.42309" lon="0.66662">
-    <name>Saint-Cyr-sur-Loire z3794</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.25236" lon="0.29908">
-    <name>Rigny-Ussé z3874</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.69048" lon="1.07379">
-    <name>Brezolles z16814</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.61464" lon="1.41631">
-    <name>Saint-Claude-de-Diray z3084</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.27472" lon="0.84007">
-    <name>Truyes z3303</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.27113" lon="1.37626">
-    <name>Saint-Aignan-sur-Cher z3812</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.41239" lon="0.98822">
-    <name>Amboise z144</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.2597" lon="2.22183">
-    <name>Vouzeron z1988</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.18372" lon="1.37789">
-    <name>Bonneval z3197</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.94306" lon="2.00501">
-    <name>Issoudun z3425</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.3244" lon="0.40929">
-    <name>Langeais z3903</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.97889" lon="0.57797">
-    <name>Antogny-le-Tillac z17078</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.57644" lon="1.24127">
-    <name>Thimert-Gâtelles z3112</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.45566" lon="0.70931">
-    <name>Notre-Dame-d’Oé z3930</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.07022" lon="2.43123">
-    <name>Beaune-la-Rolande z15483</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.57295" lon="1.37515">
-    <name>Vineuil z7675</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.76943" lon="1.19711">
-    <name>Saint-Lubin-des-Joncherets z2050</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.14344" lon="1.84685">
-    <name>Graçay z3316</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.06683" lon="0.31882">
-    <name>Champigny-sur-Veude z3843</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.06889" lon="2.41167">
-    <name>Bourges z1188</name>
+  <wpt lat="47.00031" lon="0.39263">
+    <name>Braslou z17639</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2223,8 +36,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.91891" lon="1.89579">
-    <name>Orléans z3225</name>
+  <wpt lat="48.72444" lon="1.36912">
+    <name>Dreux z17564</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2232,8 +45,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.3637" lon="2.43345">
-    <name>La Chapelle-d'Angillon z7859</name>
+  <wpt lat="47.2323" lon="0.25149">
+    <name>Huismes z17493</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2241,8 +54,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.38152" lon="0.68131">
-    <name>Tours z3775</name>
+  <wpt lat="47.25494" lon="0.46251">
+    <name>Cheillé z17491</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2250,8 +63,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.39469" lon="0.67449">
-    <name>Tours z8558</name>
+  <wpt lat="47.32445" lon="0.40631">
+    <name>Langeais z17481</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2259,8 +72,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.45522" lon="1.0995">
-    <name>Mosnes z3934</name>
+  <wpt lat="47.54877" lon="1.5426">
+    <name>Bracieux z17365</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2268,8 +81,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="46.44043" lon="1.3903">
-    <name>Saint-Benoît-du-Sault z13623</name>
+  <wpt lat="47.12283" lon="1.0149">
+    <name>Beaulieu-lès-Loches z17271</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2277,116 +90,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.49841" lon="1.30004">
-    <name>Les Montils z7508</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.41213" lon="1.6092">
-    <name>Mur-de-Sologne z3164</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.80982" lon="1.69154">
-    <name>Châteauroux z3326</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.12423" lon="0.42219">
-    <name>L'Île-Bouchard z3862</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.39519" lon="0.69818">
-    <name>Tours z16774</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.60098" lon="1.34266">
-    <name>Blois z3076</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.07095" lon="1.32782">
-    <name>Châteaudun z3187</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.39112" lon="0.69244">
-    <name>Tours z3769</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.29487" lon="0.35524">
-    <name>Bréhémont z3878</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.32771" lon="1.69363">
-    <name>Boisville-la-Saint-Père z14508</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.79361" lon="1.06877">
-    <name>Vendôme z3092</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.3045" lon="0.71545">
-    <name>Veigné z3279</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.36967" lon="0.68485">
-    <name>Tours z3785</name>
+  <wpt lat="47.98496" lon="1.46681">
+    <name>Beauce-la-Romaine z17267</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2403,8 +108,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.92372" lon="1.84571">
-    <name>Ingré z3205</name>
+  <wpt lat="47.29655" lon="0.21337">
+    <name>Benais z17191</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2412,377 +117,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.499029" lon="2.77051">
-    <name>Santranges z3433</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.44512" lon="0.49514">
-    <name>Pernay z3912</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.37022" lon="0.71095">
-    <name>Tours z17013</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.64012" lon="1.40747">
-    <name>Menars z6658</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.58558" lon="1.59218">
-    <name>Maintenon z3116</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.59316" lon="0.915">
-    <name>Château-Renault z3824</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.36344" lon="0.52588">
-    <name>Berthenay z503</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.35049" lon="2.19585">
-    <name>Nançay z1992</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.35539" lon="0.80148">
-    <name>Véretz z3291</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.60372" lon="0.5944">
-    <name>Neuvy-le-Roi z3445</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.42156" lon="0.98193">
-    <name>Amboise z15937</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.44613" lon="1.48729">
-    <name>Chartres z3201</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.41428" lon="0.75442">
-    <name>Rochecorbon z3924</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.59089" lon="1.33543">
-    <name>Blois z7339</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.52291" lon="1.9336">
-    <name>Saint-Viâtre z3138</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.18228" lon="0.96816">
-    <name>Chambourg-sur-Indre z3309</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.06211" lon="0.72909">
-    <name>Bournan z3837</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.10213" lon="2.41799">
-    <name>Bourges z1190</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.49968" lon="1.46054">
-    <name>Cheverny z7713</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.85076" lon="1.07225">
-    <name>Azay-le-Ferron z17950</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.92387" lon="1.92592">
-    <name>Orléans z3227</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.38559" lon="0.66707">
-    <name>Tours z3777</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.73757" lon="1.41453">
-    <name>Sainte-Gemme-Moronval z4122</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.15826" lon="0.08153">
-    <name>Couziers z14047</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.38337" lon="1.7349">
-    <name>Romorantin-Lanthenay z3158</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.7652" lon="2.37504">
-    <name>Sully-sur-Loire z7784</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.36819" lon="0.77821">
-    <name>Larçay z3289</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.14545" lon="0.27759">
-    <name>Rivière (37) z3864</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.52579" lon="1.38267">
-    <name>Cellettes z3068</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.56726" lon="1.35871">
-    <name>Saint-Gervais-la-Forêt z6639</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.06742" lon="1.28938">
-    <name>Saint-Denis-les-Ponts z3181</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.39428" lon="2.81653">
-    <name>Sainte-Gemme-en-Sancerrois z3423</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.16684" lon="0.14275">
-    <name>Thizay z3868</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="48.69082" lon="1.06993">
-    <name>Brezolles z16812</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.3397" lon="0.71584">
-    <name>Chambray-lès-Tours z7575</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.59247" lon="1.45342">
-    <name>Huisseau-sur-Cosson z3086</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.23231" lon="0.91651">
-    <name>Reignac-sur-Indre z3305</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.5125" lon="0.91022">
-    <name>Neuillé-le-Lierre z3833</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.22218" lon="2.58241">
-    <name>Aubinges z14836</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.94722" lon="3.06793">
-    <name>Cuffy z1984</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="47.90784" lon="1.89379">
-    <name>Orléans z3207</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:icon>public_bookcase</osmand:icon>
-      <osmand:background>square</osmand:background>
-      <osmand:color>#10c0f0</osmand:color>
-    </extensions>
-  </wpt>
-  <wpt lat="46.94672" lon="2.00825">
-    <name>Issoudun z3427</name>
+  <wpt lat="47.28177" lon="0.16877">
+    <name>Bourgueil z17189</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2799,8 +135,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.69529" lon="0.92317">
-    <name>Prunay-Cassereau z7499</name>
+  <wpt lat="46.97889" lon="0.57797">
+    <name>Antogny-le-Tillac z17078</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2808,8 +144,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.16725" lon="0.24152">
-    <name>Chinon z12195</name>
+  <wpt lat="47.01585" lon="0.55402">
+    <name>Ports-sur-Vienne z17075</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2817,8 +153,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="48.21029" lon="1.16724">
-    <name>Brou z3106</name>
+  <wpt lat="47.04645" lon="0.53965">
+    <name>Marcilly-sur-Vienne z17073</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2826,8 +162,179 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.47239" lon="0.70195">
-    <name>Chanceaux-sur-Choisille z3932</name>
+  <wpt lat="47.10801" lon="0.55991">
+    <name>Noyant-de-Touraine z17066</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.10999" lon="0.55862">
+    <name>Noyant-de-Touraine z17064</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.15668" lon="0.44873">
+    <name>Avon-les-Roches z17060</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.38743" lon="0.66982">
+    <name>Tours z17017</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.38042" lon="0.66779">
+    <name>Tours z17015</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.37022" lon="0.71095">
+    <name>Tours z17013</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3773" lon="0.68814">
+    <name>Tours z17011</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.39248" lon="0.71231">
+    <name>Saint-Pierre-des-Corps z17009</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.38974" lon="0.72077">
+    <name>Saint-Pierre-des-Corps z17007</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.69048" lon="1.07379">
+    <name>Brezolles z16814</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.69082" lon="1.06993">
+    <name>Brezolles z16812</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.40677" lon="0.70433">
+    <name>Tours z16776</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.39519" lon="0.69818">
+    <name>Tours z16774</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.12764" lon="2.93442">
+    <name>Jussy-le-Chaudrier z16431</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.12453" lon="2.40392">
+    <name>Bourges z16278</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.42422" lon="1.46353">
+    <name>Luisant z16020</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.42156" lon="0.98193">
+    <name>Amboise z15937</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.38527" lon="1.55193">
+    <name>Berchères-les-Pierres z15591</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.19449" lon="0.18725">
+    <name>Beaumont-en-Véron z15560</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.19473" lon="0.18543">
+    <name>Beaumont-en-Véron z15558</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2844,8 +351,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.9422" lon="2.05215">
-    <name>Vennecy z3128</name>
+  <wpt lat="48.07022" lon="2.43123">
+    <name>Beaune-la-Rolande z15483</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2853,8 +360,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="46.61396" lon="1.29588">
-    <name>Oulches z3318</name>
+  <wpt lat="47.33219" lon="0.8619">
+    <name>Azay-sur-Cher z15231</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2862,8 +369,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.06506" lon="0.31814">
-    <name>Champigny-sur-Veude z3845</name>
+  <wpt lat="47.34561" lon="0.84496">
+    <name>Azay-sur-Cher z15229</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2871,8 +378,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.08043" lon="2.40004">
-    <name>Bourges z1182</name>
+  <wpt lat="47.59796" lon="2.60155">
+    <name>Autry-le-Châtel z14939</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2880,8 +387,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="48.72444" lon="1.36912">
-    <name>Dreux z17564</name>
+  <wpt lat="46.6934" lon="1.69844">
+    <name>Arthon z14931</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2889,8 +396,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.83977" lon="1.93478">
-    <name>Orléans z3235</name>
+  <wpt lat="47.22218" lon="2.58241">
+    <name>Aubinges z14836</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2898,8 +405,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.61567" lon="0.47549">
-    <name>Saint-Christophe-sur-le-Nais z3447</name>
+  <wpt lat="48.12787" lon="2.25068">
+    <name>Ascoux z14716</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2907,8 +414,71 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.46732" lon="0.99438">
-    <name>Saint-Ouen-les-Vignes z3936</name>
+  <wpt lat="48.32771" lon="1.69363">
+    <name>Boisville-la-Saint-Père z14508</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.20015" lon="1.88292">
+    <name>Janville-en-Beauce z14447</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.71201" lon="0.96929">
+    <name>Ambloy z14404</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.28201" lon="1.77336">
+    <name>Saint-Julien-sur-Cher z14243</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.15826" lon="0.08153">
+    <name>Couziers z14047</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.88931" lon="1.42201">
+    <name>Buzançais z13997</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.48023" lon="0.26393">
+    <name>Channay-sur-Lathan z13924</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.44043" lon="1.3903">
+    <name>Saint-Benoît-du-Sault z13623</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2925,8 +495,188 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.52691" lon="1.38097">
-    <name>Cellettes z3167</name>
+  <wpt lat="47.13476" lon="0.79247">
+    <name>Manthelan z13536</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.88651" lon="2.4444">
+    <name>Vieilles-Maisons-sur-Joudry z13447</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.42499" lon="0.39057">
+    <name>Clère-les-Pins z12936</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.16725" lon="0.24152">
+    <name>Chinon z12195</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.16522" lon="0.24371">
+    <name>Chinon z12193</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.61917" lon="1.56436">
+    <name>Villiers-le-Morhier z11998</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.09071" lon="2.78979">
+    <name>Ferrières-en-Gâtinais z11666</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.41942" lon="0.69912">
+    <name>Tours z11032</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.43021" lon="1.47473">
+    <name>Luisant z10699</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.29643" lon="1.35227">
+    <name>Ermenonville-la-Petite z9338</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.89402" lon="2.59772">
+    <name>La Cour-Marigny z8713</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.34393" lon="0.72014">
+    <name>Chambray-lès-Tours z8564</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.33922" lon="0.73482">
+    <name>Chambray-lès-Tours z8562</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.39469" lon="0.67449">
+    <name>Tours z8558</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3794" lon="0.70673">
+    <name>Tours z8555</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.38442" lon="0.68622">
+    <name>Tours z8553</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.833" lon="2.17873">
+    <name>Ouvrouer-les-Champs z8136</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61988" lon="2.49251">
+    <name>Coullons z8117</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.78459" lon="1.65629">
+    <name>Saint-Maur z8116</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3637" lon="2.43345">
+    <name>La Chapelle-d'Angillon z7859</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7652" lon="2.37504">
+    <name>Sully-sur-Loire z7784</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2943,8 +693,611 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="47.87143" lon="2.1288">
-    <name>Saint-Denis-de-l'Hôtel z3243</name>
+  <wpt lat="47.27637" lon="0.65375">
+    <name>Monts z7717</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.49968" lon="1.46054">
+    <name>Cheverny z7713</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.57295" lon="1.37515">
+    <name>Vineuil z7675</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.44415" lon="0.9899">
+    <name>Pocé-sur-Cisse z7610</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3397" lon="0.71584">
+    <name>Chambray-lès-Tours z7575</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.10465" lon="0.62607">
+    <name>Sainte-Maure-de-Touraine z7510</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.49841" lon="1.30004">
+    <name>Les Montils z7508</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.33222" lon="1.04657">
+    <name>Civray-de-Touraine z7506</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61947" lon="0.90984">
+    <name>Neuville-sur-Brenne z7501</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.69529" lon="0.92317">
+    <name>Prunay-Cassereau z7499</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.4348" lon="0.67947">
+    <name>Tours z7490</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.59089" lon="1.33543">
+    <name>Blois z7339</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.58055" lon="1.99071">
+    <name>La Châtre z7198</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.79102" lon="1.73521">
+    <name>Châteauroux z6863</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.81185" lon="1.68008">
+    <name>Châteauroux z6861</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.64012" lon="1.40747">
+    <name>Menars z6658</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.56726" lon="1.35871">
+    <name>Saint-Gervais-la-Forêt z6639</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.26185" lon="0.46681">
+    <name>Azay-le-Rideau z6636</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.41865" lon="1.42979">
+    <name>Le Controis-en-Sologne z6597</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.38025" lon="0.6957">
+    <name>Tours z6408</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.38018" lon="0.69533">
+    <name>Tours z6406</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.97493" lon="2.10301">
+    <name>Traînou z6357</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.91163" lon="1.96685">
+    <name>Saint-Jean-de-Braye z5280</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.28618" lon="0.30682">
+    <name>Saint-Patrice z4714</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.73463" lon="1.3643">
+    <name>Dreux z4597</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.32492" lon="0.99042">
+    <name>Bléré z4364</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.73757" lon="1.41453">
+    <name>Sainte-Gemme-Moronval z4122</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.54466" lon="0.74451">
+    <name>Nouzilly z3942</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.44762" lon="1.05187">
+    <name>Limeray z3940</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.48224" lon="0.88446">
+    <name>Reugny z3938</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.46732" lon="0.99438">
+    <name>Saint-Ouen-les-Vignes z3936</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.45522" lon="1.0995">
+    <name>Mosnes z3934</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.47239" lon="0.70195">
+    <name>Chanceaux-sur-Choisille z3932</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.45566" lon="0.70931">
+    <name>Notre-Dame-d’Oé z3930</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.44145" lon="0.74189">
+    <name>Parçay-Meslay z3928</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.41229" lon="0.69825">
+    <name>Tours z3926</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.41428" lon="0.75442">
+    <name>Rochecorbon z3924</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.39391" lon="0.76976">
+    <name>La Ville-aux-Dames z3922</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.39185" lon="0.73268">
+    <name>Saint-Pierre-des-Corps z3920</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.38711" lon="0.72281">
+    <name>Saint-Pierre-des-Corps z3918</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.37824" lon="0.59939">
+    <name>Saint-Genouph z3916</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.39288" lon="0.557">
+    <name>Luynes z3914</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.44512" lon="0.49514">
+    <name>Pernay z3912</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.38486" lon="0.55431">
+    <name>Luynes z3910</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.37032" lon="0.51599">
+    <name>Saint-Etienne-de-Chigny z3908</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.34843" lon="0.54699">
+    <name>Savonnières z3905</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3244" lon="0.40929">
+    <name>Langeais z3903</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.31786" lon="0.4271">
+    <name>La Chapelle-aux-Naux z3901</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.44985" lon="0.24821">
+    <name>Rillé z3899</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.29487" lon="0.35524">
+    <name>Bréhémont z3878</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.22798" lon="0.48007">
+    <name>Villaines-les-Rochers z3876</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.25236" lon="0.29908">
+    <name>Rigny-Ussé z3874</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.22116" lon="0.32248">
+    <name>Saint-Benoît-la-Forêt z3872</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.21162" lon="0.07389">
+    <name>Candes-Saint-Martin z3870</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.16684" lon="0.14275">
+    <name>Thizay z3868</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.16564" lon="0.24279">
+    <name>Chinon z3866</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.14545" lon="0.27759">
+    <name>Rivière (37) z3864</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.12423" lon="0.42219">
+    <name>L'Île-Bouchard z3862</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.1251" lon="0.38775">
+    <name>Tavant z3860</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.24277" lon="0.69579">
+    <name>Sorigny z3858</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.24176" lon="0.69401">
+    <name>Sorigny z3856</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.23849" lon="0.69482">
+    <name>Sorigny z3854</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.22667" lon="0.77225">
+    <name>Saint-Branchs z3851</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.16027" lon="0.7862">
+    <name>Le Louroux z3849</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.08935" lon="0.89257">
+    <name>Mouzay z3847</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.06506" lon="0.31814">
+    <name>Champigny-sur-Veude z3845</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.06683" lon="0.31882">
+    <name>Champigny-sur-Veude z3843</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.05126" lon="0.5495">
+    <name>Nouâtre z3841</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -2954,6 +1307,1653 @@
   </wpt>
   <wpt lat="47.06765" lon="0.67421">
     <name>Sepmes z3839</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.06211" lon="0.72909">
+    <name>Bournan z3837</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.43049" lon="0.95545">
+    <name>Nazelles-Négron z3835</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5125" lon="0.91022">
+    <name>Neuillé-le-Lierre z3833</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5458" lon="0.88849">
+    <name>Villedômer z3830</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.58832" lon="0.90425">
+    <name>Château-Renault z3828</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.59044" lon="0.90808">
+    <name>Château-Renault z3826</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.59316" lon="0.915">
+    <name>Château-Renault z3824</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.27655" lon="1.39996">
+    <name>Noyers-sur-Cher z3820</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.26994" lon="1.37707">
+    <name>Saint-Aignan-sur-Cher z3818</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.26876" lon="1.37413">
+    <name>Saint-Aignan-sur-Cher z3816</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.26841" lon="1.37239">
+    <name>Saint-Aignan-sur-Cher z3814</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.27113" lon="1.37626">
+    <name>Saint-Aignan-sur-Cher z3812</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5269" lon="0.46187">
+    <name>Sonzay z3810</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.49968" lon="0.58143">
+    <name>Semblançay z3808</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.49844" lon="0.57771">
+    <name>Semblançay z3806</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.44381" lon="0.58253">
+    <name>Saint-Roch z3804</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.4087" lon="0.59964">
+    <name>Fondettes z3802</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.40444" lon="0.60077">
+    <name>Fondettes z3798</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.43718" lon="0.63873">
+    <name>La Membrolle-sur-Choisille z3796</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.42309" lon="0.66662">
+    <name>Saint-Cyr-sur-Loire z3794</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.40228" lon="0.67047">
+    <name>Saint-Cyr-sur-Loire z3792</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.39998" lon="0.66875">
+    <name>Saint-Cyr-sur-Loire z3790</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.36124" lon="0.70718">
+    <name>Tours z3788</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.36967" lon="0.68485">
+    <name>Tours z3785</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.36779" lon="0.67578">
+    <name>Tours z3783</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.38802" lon="0.70286">
+    <name>Tours z3781</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3876" lon="0.65904">
+    <name>La Riche z3779</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.38559" lon="0.66707">
+    <name>Tours z3777</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.38152" lon="0.68131">
+    <name>Tours z3775</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.37935" lon="0.71022">
+    <name>Tours z3773</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.39356" lon="0.67586">
+    <name>Tours z3771</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.39112" lon="0.69244">
+    <name>Tours z3769</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.41394" lon="0.6859">
+    <name>Tours z3767</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.40292" lon="0.69399">
+    <name>Tours z3765</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61567" lon="0.47549">
+    <name>Saint-Christophe-sur-le-Nais z3447</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.60372" lon="0.5944">
+    <name>Neuvy-le-Roi z3445</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61982" lon="0.70321">
+    <name>Marray z3443</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.62914" lon="0.74634">
+    <name>La Ferrière z3441</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.67557" lon="1.11534">
+    <name>Pray z3439</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.49774" lon="2.77251">
+    <name>Santranges z3437</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.499029" lon="2.77051">
+    <name>Santranges z3433</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.4824" lon="2.86234">
+    <name>Sury-près-Léré z3431</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.33995" lon="2.85283">
+    <name>Saint-Satur z3429</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.94672" lon="2.00825">
+    <name>Issoudun z3427</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.94306" lon="2.00501">
+    <name>Issoudun z3425</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.39428" lon="2.81653">
+    <name>Sainte-Gemme-en-Sancerrois z3423</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.2856" lon="2.57897">
+    <name>Henrichemont z3421</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.29795" lon="2.52881">
+    <name>Henrichemont z3419</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.03682" lon="2.27816">
+    <name>Morthomiers z3417</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.00964" lon="2.29508">
+    <name>Le Subdray z3415</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.80659" lon="1.04231">
+    <name>Martizay z3357</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.82337" lon="2.38778">
+    <name>Saint-Loup-des-Chaumes z3330</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.57811" lon="1.98608">
+    <name>La Châtre z3328</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.80982" lon="1.69154">
+    <name>Châteauroux z3326</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.81716" lon="1.68403">
+    <name>Châteauroux z3324</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8117" lon="1.69692">
+    <name>Châteauroux z3322</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.63372" lon="1.06457">
+    <name>Le Blanc z3320</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.61396" lon="1.29588">
+    <name>Oulches z3318</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.14344" lon="1.84685">
+    <name>Graçay z3316</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.12809" lon="1.00088">
+    <name>Loches z3313</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.22945" lon="1.10492">
+    <name>Le Liège z3311</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.18228" lon="0.96816">
+    <name>Chambourg-sur-Indre z3309</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.20904" lon="0.99967">
+    <name>Chédigny z3307</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.23231" lon="0.91651">
+    <name>Reignac-sur-Indre z3305</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.27472" lon="0.84007">
+    <name>Truyes z3303</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.34413" lon="0.98935">
+    <name>La Croix-en-Touraine z3301</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.35569" lon="0.91031">
+    <name>Saint-Martin-le-Beau z3299</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.41094" lon="0.79709">
+    <name>Vouvray z3297</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.38399" lon="0.82659">
+    <name>Montlouis-sur-Loire z3295</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.36009" lon="0.80424">
+    <name>Véretz z3293</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.35539" lon="0.80148">
+    <name>Véretz z3291</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.36819" lon="0.77821">
+    <name>Larçay z3289</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3492" lon="0.7314">
+    <name>Saint-Avertin z3287</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.34887" lon="0.69583">
+    <name>Chambray-lès-Tours z3285</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.35137" lon="0.66995">
+    <name>Joué-lès-Tours z3283</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.28387" lon="0.70162">
+    <name>Montbazon z3281</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3045" lon="0.71545">
+    <name>Veigné z3279</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.14461" lon="0.53704">
+    <name>Saint-Épain z3277</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.90725" lon="2.56714">
+    <name>Noyers (45) z3247</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.87562" lon="2.12397">
+    <name>Saint-Denis-de-l'Hôtel z3245</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.87143" lon="2.1288">
+    <name>Saint-Denis-de-l'Hôtel z3243</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.86741" lon="2.13565">
+    <name>Saint-Denis-de-l'Hôtel z3241</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.86614" lon="2.12173">
+    <name>Jargeau z3239</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.81867" lon="1.93683">
+    <name>Orléans z3237</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.83977" lon="1.93478">
+    <name>Orléans z3235</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.86513" lon="1.90135">
+    <name>Olivet z3233</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.86616" lon="1.89713">
+    <name>Olivet z3231</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.87438" lon="1.90463">
+    <name>Olivet z3229</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.92387" lon="1.92592">
+    <name>Orléans z3227</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.91891" lon="1.89579">
+    <name>Orléans z3225</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.89973" lon="1.92591">
+    <name>Orléans z3223</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.89108" lon="1.89714">
+    <name>Orléans z3221</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.88858" lon="1.90522">
+    <name>Orléans z3219</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.89436" lon="1.9069">
+    <name>Orléans z3217</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.89899" lon="1.90861">
+    <name>Orléans z3215</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.90749" lon="1.91185">
+    <name>Orléans z3213</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.89925" lon="1.90275">
+    <name>Orléans z3211</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.89905" lon="1.8921">
+    <name>Orléans z3209</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.90784" lon="1.89379">
+    <name>Orléans z3207</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.92372" lon="1.84571">
+    <name>Ingré z3205</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.46857" lon="1.49956">
+    <name>Champhol z3203</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.44613" lon="1.48729">
+    <name>Chartres z3201</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.21457" lon="1.43731">
+    <name>Moriers z3199</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.18372" lon="1.37789">
+    <name>Bonneval z3197</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.12662" lon="1.36617">
+    <name>Saint-Christophe (28) z3195</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.06713" lon="1.34235">
+    <name>Châteaudun z3193</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.07222" lon="1.34524">
+    <name>Châteaudun z3191</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.07814" lon="1.3476">
+    <name>Châteaudun z3189</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.07095" lon="1.32782">
+    <name>Châteaudun z3187</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.07623" lon="1.32092">
+    <name>Châteaudun z3185</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.06705" lon="1.29178">
+    <name>Saint-Denis-les-Ponts z3183</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.06742" lon="1.28938">
+    <name>Saint-Denis-les-Ponts z3181</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.98126" lon="0.8971">
+    <name>Mondoubleau z3179</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.77727" lon="0.79772">
+    <name>Trôo z3176</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.62607" lon="1.38573">
+    <name>Saint-Denis-sur-Loire z3174</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.52691" lon="1.38097">
+    <name>Cellettes z3167</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.41213" lon="1.6092">
+    <name>Mur-de-Sologne z3164</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.49847" lon="1.46035">
+    <name>Cheverny z3162</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.345437" lon="1.749644">
+    <name>Romorantin-Lanthenay z3160</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.38337" lon="1.7349">
+    <name>Romorantin-Lanthenay z3158</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.36136" lon="1.74299">
+    <name>Romorantin-Lanthenay z3156</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.39861" lon="1.830088">
+    <name>Loreux z3154</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.24647" lon="1.88415">
+    <name>Maray z3151</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.58878" lon="1.6584">
+    <name>Dhuizon z3144</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.70369" lon="1.50646">
+    <name>Mer z3142</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.46605" lon="1.87379">
+    <name>Marcilly-en-Gault z3140</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.52291" lon="1.9336">
+    <name>Saint-Viâtre z3138</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61009" lon="1.90732">
+    <name>Chaumont-sur-Tharonne z3136</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.53406" lon="2.03344">
+    <name>Nouan-le-Fuzelier z3134</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.60464" lon="2.02726">
+    <name>Lamotte-Beuvron z3132</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.56369" lon="2.30484">
+    <name>Clémont z3130</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9422" lon="2.05215">
+    <name>Vennecy z3128</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.58558" lon="1.59218">
+    <name>Maintenon z3116</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.58656" lon="1.57747">
+    <name>Maintenon z3114</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.57644" lon="1.24127">
+    <name>Thimert-Gâtelles z3112</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.56864" lon="1.25154">
+    <name>Thimert-Gâtelles z3110</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.29905" lon="1.24446">
+    <name>Illiers-Combray z3108</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.21029" lon="1.16724">
+    <name>Brou z3106</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.80871" lon="1.08349">
+    <name>Saint-Ouen (41) z3100</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.81071" lon="1.08716">
+    <name>Saint-Ouen (41) z3096</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.80909" lon="1.08091">
+    <name>Saint-Ouen (41) z3094</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.79361" lon="1.06877">
+    <name>Vendôme z3092</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.78655" lon="1.07079">
+    <name>Vendôme z3090</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.66133" lon="1.37021">
+    <name>Villerbon z3088</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.59247" lon="1.45342">
+    <name>Huisseau-sur-Cosson z3086</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61464" lon="1.41631">
+    <name>Saint-Claude-de-Diray z3084</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.59629" lon="1.31695">
+    <name>Blois z3082</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.58047" lon="1.30865">
+    <name>Blois z3080</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.58873" lon="1.33643">
+    <name>Blois z3078</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.60098" lon="1.34266">
+    <name>Blois z3076</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5866" lon="1.34454">
+    <name>Blois z3072</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5852" lon="1.37586">
+    <name>Vineuil z3070</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.52579" lon="1.38267">
+    <name>Cellettes z3068</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.49779" lon="1.37138">
+    <name>Chitenay z3066</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.43795" lon="1.29531">
+    <name>Sambin z3064</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.05297" lon="1.25617">
+    <name>Villedômain z3062</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.31378" lon="0.83162">
+    <name>Nogent-le-Rotrou z2056</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.76943" lon="1.19711">
+    <name>Saint-Lubin-des-Joncherets z2050</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.76606" lon="1.19881">
+    <name>Saint-Lubin-des-Joncherets z2048</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.42464" lon="2.04921">
+    <name>Salbris z1996</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.42524" lon="2.05407">
+    <name>Salbris z1994</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.35049" lon="2.19585">
+    <name>Nançay z1992</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.31503" lon="2.2551">
+    <name>Neuvy-sur-Barangeon z1990</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.2597" lon="2.22183">
+    <name>Vouzeron z1988</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.82133" lon="2.86757">
+    <name>Sancoins z1986</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.94722" lon="3.06793">
+    <name>Cuffy z1984</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.93055" lon="2.784">
+    <name>Ourouer les Bourdelins z1194</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.0421" lon="2.40501">
+    <name>Bourges z1192</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.10213" lon="2.41799">
+    <name>Bourges z1190</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.06889" lon="2.41167">
+    <name>Bourges z1188</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.09017" lon="2.39579">
+    <name>Bourges z1186</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.08396" lon="2.4077">
+    <name>Bourges z1184</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.08043" lon="2.40004">
+    <name>Bourges z1182</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.36344" lon="0.52588">
+    <name>Berthenay z503</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.56996" lon="0.67058">
+    <name>Beaumont-Louestault z377</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.25298" lon="1.94857">
+    <name>Barmainville z314</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.34161" lon="0.61869">
+    <name>Ballan-Miré z310</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.48971" lon="2.44249">
+    <name>Aubigny-sur-Nère z240</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.48771" lon="2.43843">
+    <name>Aubigny-sur-Nère z238</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.33202" lon="1.243">
+    <name>Angé z174</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.41122" lon="0.99075">
+    <name>Amboise z146</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.41239" lon="0.98822">
+    <name>Amboise z144</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:icon>public_bookcase</osmand:icon>
+      <osmand:background>square</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.40998" lon="0.98676">
+    <name>Amboise z140</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>

@@ -34,21 +34,21 @@ I recommand to import/show only 1 region at a time in Osmand to avoid lags.
 
 |Region                 |2022-09-20|2024-10-01|
 |-----------------------|----------|----------|
-|Total                  |      5551|      6774|
-|Duplicates             |          |         6|
-|Uniques                |          |      6768|
-|Out France Metro       |          |        18|
-|France métro           |      5291|      6750|
-|Nouvelle Aquitaine     |       871|      1101|
-|Ile de France          |       671|       604|
-|Auvergne Rhone-Alpes   |       646|       711|
-|Occitanie              |       436|       470|
-|Grand Est              |       448|       558|
-|Hauts de France        |       361|       435|
-|Pays de la Loire       |       361|       509|
-|Bretagne               |       359|       477|
-|Bourgogne Franche-Comte|       288|       439|
-|Normandie              |       311|       763|
-|Centre Val de Loire    |       300|       435|
-|PACA                   |       240|       231|
-|Corse                  |         9|        17|
+|Total                  |      5195|      6774|
+|Duplicates             |         2|         6|
+|Uniques                |      5193|      6768|
+|Out France Metro       |         3|        18|
+|France métro           |      5190|      6750|
+|Nouvelle Aquitaine     |       790|      1101|
+|Normandie              |       610|       763|
+|Auvergne Rhone-Alpes   |       535|       711|
+|Ile de France          |       477|       604|
+|Grand Est              |       412|       558|
+|Pays de la Loire       |       345|       509|
+|Bretagne               |       403|       477|
+|Occitanie              |       355|       470|
+|Bourgogne Franche-Comte|       360|       439|
+|Hauts de France        |       382|       435|
+|Centre Val de Loire    |       329|       435|
+|PACA                   |       175|       231|
+|Corse                  |        17|        17|

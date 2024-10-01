@@ -2,7 +2,7 @@ import json
 import os
 
 # Parameters
-folder = './2024-10-01/'
+folder = './2022-09-20/'
 file = 'data.json'
 
 # Constants

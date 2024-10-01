@@ -1,50 +1,48 @@
-
 {
     "type": "FeatureCollection",
-    "generator": "JOSM",
     "features": [
         {
             "type": "Feature",
             "properties": {
-                "icon": "5902",
-                "id": "17831",
-                "name": "Sainte-Anne"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -60.88158000000,
-                    14.43515000000
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "id": "18086",
-                "icon": "1353",
-                "name": "Saint-Pierre (97)"
+                "name": "Saint-Pierre (97)",
+                "icon": 1353
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    55.47076000000,
-                    -21.34269000000
+                    55.47076,
+                    -21.34269
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Käerjeng",
-                "id": "17202",
-                "icon": "5706"
+                "id": "17831",
+                "name": "Sainte-Anne",
+                "icon": 5902
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.88049000000,
-                    49.59575000000
+                    -60.88158,
+                    14.43515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17202",
+                "name": "Käerjeng",
+                "icon": 5706
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.88049,
+                    49.59575
                 ]
             }
         }

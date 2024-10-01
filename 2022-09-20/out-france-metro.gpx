@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <wpt lat="14.43515" lon="-60.88158">
-    <name>Sainte-Anne z17831</name>
+  <wpt lat="-21.34269" lon="55.47076">
+    <name>Saint-Pierre (97) z18086</name>
     <type>ZoneLivre hors France métro</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
@@ -9,8 +9,8 @@
       <osmand:color>#10c0f0</osmand:color>
     </extensions>
   </wpt>
-  <wpt lat="-21.34269" lon="55.47076">
-    <name>Saint-Pierre (97) z18086</name>
+  <wpt lat="14.43515" lon="-60.88158">
+    <name>Sainte-Anne z17831</name>
     <type>ZoneLivre hors France métro</type>
     <extensions>
       <osmand:icon>public_bookcase</osmand:icon>
