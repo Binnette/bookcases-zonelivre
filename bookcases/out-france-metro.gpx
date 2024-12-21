@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="-21.049577" lon="55.267004">
+    <name>Saint-Paul z21694</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-17.72783" lon="-149.3198">
+    <name>Taiarapu-Est z21054</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-17.73085" lon="-149.33107">
+    <name>Taiarapu-Est z21052</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-17.5073" lon="-149.49126">
+    <name>Mahina z21050</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-17.52803" lon="-149.53762">
+    <name>Arue z21048</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-17.53478" lon="-149.56883">
+    <name>Papeete z21046</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-17.53882" lon="-149.56727">
+    <name>Papeete z21044</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-17.54041" lon="-149.56628">
+    <name>Papeete z21042</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-17.54662" lon="-149.58632">
+    <name>Faʻaʻā z21040</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-17.580826" lon="-149.61547">
+    <name>Puna'auia z21038</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-17.57941" lon="-149.60333">
+    <name>Puna'auia z21036</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-20.886949" lon="55.450974">
+    <name>Saint-Denis (97) z20202</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.21655" lon="4.28767">
+    <name>Carcassonne z18230</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-21.34269" lon="55.47076">
+    <name>Saint-Pierre (97) z18086</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="14.43515" lon="-60.88158">
+    <name>Sainte-Anne z17831</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.59575" lon="5.88049">
+    <name>Käerjeng z17202</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-20.8792" lon="55.44456">
+    <name>Saint-Denis (97) z4333</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-21.37905" lon="55.61976">
+    <name>Saint-Joseph z4330</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="ZoneLivre hors France métro" color="#10c0f0" icon="public_bookcase" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

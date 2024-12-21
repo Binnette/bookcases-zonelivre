@@ -1,0 +1,5057 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.747895" lon="5.055892">
+    <name>Trémont-sur-Saulx z23690</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.613988" lon="6.253356">
+    <name>Ville-en-Vermois z23600</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.659397" lon="6.173259">
+    <name>Vandœuvre-lès-Nancy z23598</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.582229" lon="7.746241">
+    <name>Strasbourg z23343</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.616273" lon="7.762066">
+    <name>Bischheim z23293</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.987985" lon="7.291239">
+    <name>Pfaffenheim z23145</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.110393" lon="6.174271">
+    <name>Metz z23044</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.164262" lon="5.345398">
+    <name>Bourdons-sur-Rognon z22853</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.14752" lon="5.187188">
+    <name>Treix z22851</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0924" lon="5.13636">
+    <name>Chaumont z22849</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.143865" lon="5.144831">
+    <name>Condes z22847</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.138326" lon="5.086761">
+    <name>Jonchery z22845</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.082715" lon="5.128832">
+    <name>Brottes z22843</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.606844" lon="5.038782">
+    <name>Roches-sur-Marne z22841</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.534594" lon="4.815987">
+    <name>Braucourt z22839</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.551682" lon="4.909958">
+    <name>Louvemont z22836</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.550965" lon="5.073586">
+    <name>Bayard-sur-Marne z22834</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.177691" lon="5.150104">
+    <name>Riaucourt z22831</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.6171" lon="4.90519">
+    <name>Valcourt z22829</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.636622" lon="4.948869">
+    <name>Saint-Dizier z22826</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.636613" lon="4.956127">
+    <name>Saint-Dizier z22823</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.656032" lon="4.964136">
+    <name>Saint-Dizier z22821</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.584961" lon="5.036561">
+    <name>Eurville-Bienville z22818</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.526132" lon="5.111027">
+    <name>Chevillon (52) z22816</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.225069" lon="5.094379">
+    <name>Oudincourt z22814</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.423993" lon="5.141484">
+    <name>Rupt z22812</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.267209" lon="5.136417">
+    <name>Vouécourt z22810</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.344604" lon="5.183712">
+    <name>Doulaincourt-Saucourt z22808</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.323192" lon="5.204478">
+    <name>Doulaincourt-Saucourt z22806</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.42406" lon="5.217422">
+    <name>Poissons z22804</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.462338" lon="5.310009">
+    <name>Échenay z22802</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.269298" lon="5.304951">
+    <name>Vignes-la-Côte z22800</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.272932" lon="5.407272">
+    <name>Saint-Blin z22798</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.342841" lon="5.477945">
+    <name>Aillianville z22796</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.109423" lon="5.35606">
+    <name>Ageville z22794</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.12628" lon="5.3534">
+    <name>Esnouveaux z22792</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.139824" lon="5.561928">
+    <name>Levécourt z22790</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.084636" lon="5.547803">
+    <name>Meuvy z22788</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.06846" lon="5.626481">
+    <name>Colombey-lès-Choiseul z22786</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.981236" lon="5.628921">
+    <name>Pouilly-en-Bassigny z22783</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.828247" lon="5.610731">
+    <name>Maizières-sur-Amance z22781</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.827681" lon="5.74019">
+    <name>Pisseloup z22779</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.715418" lon="5.671279">
+    <name>Voncourt z22777</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.734758" lon="5.067146">
+    <name>Vivey z22775</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.965529" lon="4.97711">
+    <name>Cour-l'Évêque z22773</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.584521" lon="7.738811">
+    <name>Strasbourg z22717</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.166885" lon="6.352423">
+    <name>Chaumousey z22698</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.171266" lon="7.013226">
+    <name>Plainfaing z22696</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.000944" lon="6.264691">
+    <name>La Vôge-les-Bains z22694</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.091856" lon="5.156077">
+    <name>Chamarandes z22691</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.562867" lon="4.214163">
+    <name>Saint-Fergeux z22542</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.443052" lon="6.328087">
+    <name>Rettel z22504</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.35696" lon="5.699235">
+    <name>Neufchâteau z22494</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.734885" lon="6.160538">
+    <name>Champigneulles z22476</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.291965" lon="6.411689">
+    <name>Vaxoncourt z22457</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.415735" lon="7.655521">
+    <name>Erstein z22446</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.245666" lon="4.00155">
+    <name>Tinqueux z22371</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.309977" lon="6.334857">
+    <name>Kédange-sur-Canner z22146</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.279268" lon="6.166272">
+    <name>Richemont z22144</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.598395" lon="7.222414">
+    <name>Hirtzbach z22093</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.598334" lon="7.223361">
+    <name>Hirtzbach z22091</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.894647" lon="7.913195">
+    <name>Betschdorf z22088</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.86487" lon="8.085994">
+    <name>Beinheim z22076</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.085391" lon="6.110351">
+    <name>Moulins-lès-Metz z21686</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.442913" lon="6.274534">
+    <name>Fixem z21684</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.45749" lon="7.23308">
+    <name>Oberlarg z21477</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.77555" lon="7.990663">
+    <name>Dalhunden z21424</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.23769" lon="4.03887">
+    <name>Reims z21190</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.59104" lon="3.55523">
+    <name>Villenauxe-la-Grande z21188</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.76611" lon="7.15589">
+    <name>Brouviller z21140</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.22424" lon="3.98479">
+    <name>Bezannes z21124</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.2182" lon="3.9975">
+    <name>Bezannes z21122</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.77826" lon="6.35605">
+    <name>Brin-sur-Seille z21096</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.82965" lon="7.23505">
+    <name>Bust z21088</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.79798" lon="6.10495">
+    <name>Marbache z21068</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.87192" lon="3.54123">
+    <name>Montmirail z20998</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.06058" lon="3.84138">
+    <name>Boursault z20996</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.28821" lon="4.05688">
+    <name>Bétheny z20988</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.95599" lon="6.09023">
+    <name>Bouxières-sous-Froidmont z20976</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.57291" lon="4.12803">
+    <name>Banogne-Recouvrance z20944</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.19268" lon="5.58693">
+    <name>Bourmont-entre-Meuse-et-Mouzon z20931</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.26021" lon="3.86064">
+    <name>Bucey-en-Othe z20929</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.202002" lon="5.140999">
+    <name>Bologne z20926</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.43147" lon="4.83926">
+    <name>Boult-aux-Bois z20908</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.69127" lon="6.92727">
+    <name>Gondrexange z20870</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.73514" lon="7.25081">
+    <name>Lutzelbourg z20868</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.37366" lon="4.14607">
+    <name>Boult-sur-Suippe z20859</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.71071" lon="7.16084">
+    <name>Guntzviller z20857</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.60214" lon="7.74975">
+    <name>Schiltigheim z20814</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.60548" lon="5.04357">
+    <name>Chamouilley z20769</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.62307" lon="7.23629">
+    <name>Altkirch z20745</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.36925" lon="6.11063">
+    <name>Thionville z20713</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.85424" lon="7.41171">
+    <name>Weiterswiller z20711</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.56052" lon="7.58612">
+    <name>Kolbsheim z20709</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.60558" lon="7.68609">
+    <name>Oberhausbergen z20707</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.35783" lon="7.58166">
+    <name>Huttenheim z20705</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.65739" lon="7.56701">
+    <name>Schnersheim z20703</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.63021" lon="7.61989">
+    <name>Stutzheim-Offenheim z20701</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.39625" lon="7.5897">
+    <name>Westhouse z20699</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.54588" lon="7.40255">
+    <name>Muespach-le-Haut z20693</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.70809" lon="6.18293">
+    <name>Malzéville z20651</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.94827" lon="4.88556">
+    <name>Givry-en-Argonne z20644</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.65562" lon="7.27394">
+    <name>Tagolsheim z20589</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.65608" lon="7.28622">
+    <name>Luemschwiller z20587</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.52351" lon="7.52627">
+    <name>Altorf z20573</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.56165" lon="7.50043">
+    <name>Avolsheim z20571</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.17118" lon="7.11659">
+    <name>Le Bonhomme z20473</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.47064" lon="7.448409">
+    <name>Biederthal z20458</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.23854" lon="7.53997">
+    <name>Baldenheim z20456</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.65392" lon="7.50426">
+    <name>Kembs-Loéchlé z20369</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.68641" lon="7.5075">
+    <name>Kembs z20366</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.29806" lon="6.20049">
+    <name>Guénange z20119</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.39573" lon="7.44317">
+    <name>Mittelbergheim z20081</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.10274" lon="6.15718">
+    <name>Montigny-lès-Metz z20023</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.56614" lon="7.75874">
+    <name>Strasbourg z19896</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.58154" lon="7.66411">
+    <name>Wolfisheim z19880</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.58671" lon="7.65243">
+    <name>Oberschaeffolsheim z19878</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.41774" lon="5.94255">
+    <name>Aumetz z19818</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.27363" lon="6.39638">
+    <name>Igney z19791</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.92412" lon="6.63358">
+    <name>Morhange z19498</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.33069" lon="7.36037">
+    <name>Saint-Pierre-Bois z19496</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3291" lon="7.2654">
+    <name>Lalaye z19494</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.33491" lon="7.2846">
+    <name>Bassemberg z19492</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.35595" lon="7.31793">
+    <name>Albé z19472</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.11379" lon="6.11642">
+    <name>Scy-Chazelles z19380</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9189" lon="7.24574">
+    <name>Bergholtz z19358</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.19087" lon="6.39554">
+    <name>Uxegney z19315</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.75606" lon="7.01863">
+    <name>Lauw z19256</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.32954" lon="6.06467">
+    <name>Hayange z19215</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.17059" lon="7.19371">
+    <name>Fréland z19171</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.72974" lon="7.14572">
+    <name>Burnhaupt-le-Haut z19168</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.73486" lon="7.14575">
+    <name>Burnhaupt-le-Haut z19166</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.88588" lon="7.53594">
+    <name>Blodelsheim z19164</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.11164" lon="6.69337">
+    <name>Longeville-lès-Saint-Avold z19016</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.09991" lon="6.14157">
+    <name>Montigny-lès-Metz z19008</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.86238" lon="7.21662">
+    <name>Hartmannswiller z19004</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.86212" lon="7.21497">
+    <name>Hartmannswiller z19002</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.68754" lon="6.24531">
+    <name>Saulxures-lès-Nancy z18988</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.19503" lon="6.14684">
+    <name>Semécourt z18885</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.30621" lon="5.76517">
+    <name>Bouligny z18600</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.23711" lon="6.30024">
+    <name>Bettelainville z18592</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.43746" lon="6.20027">
+    <name>Boust z18590</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.30011" lon="6.52235">
+    <name>Bouzonville z18588</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.2951" lon="6.53079">
+    <name>Bouzonville z18586</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.2808" lon="6.19398">
+    <name>Bousse z18584</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.534" lon="7.46055">
+    <name>Mutzig z18523</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.11577" lon="6.18186">
+    <name>Metz z18433</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.09788" lon="6.16944">
+    <name>Metz z18431</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.10517" lon="6.16058">
+    <name>Montigny-lès-Metz z18429</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.06978" lon="6.25403">
+    <name>Jury z18314</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.21356" lon="5.63682">
+    <name>Étain z18289</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.32929" lon="5.66561">
+    <name>Spincourt z18287</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.6239" lon="7.48917">
+    <name>Marlenheim z18156</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.62101" lon="7.48785">
+    <name>Marlenheim z18154</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.57567" lon="7.4588">
+    <name>Bergbieten z18152</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.57253" lon="7.4687">
+    <name>Dangolsheim z18150</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.59157" lon="6.49239">
+    <name>Lunéville z18061</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.18799" lon="6.90389">
+    <name>Forbach z18057</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.18234" lon="6.90323">
+    <name>Forbach z18055</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.60041" lon="6.53109">
+    <name>Chanteheux z18053</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.63508" lon="6.04664">
+    <name>Maron z18050</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.62289" lon="6.08566">
+    <name>Chaligny z18048</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.87147" lon="7.00676">
+    <name>Mitzach z18044</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.62196" lon="6.05095">
+    <name>Sexey-aux-Forges z18042</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.55798" lon="7.53289">
+    <name>Dachstein z17990</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.48206" lon="5.13573">
+    <name>Autigny-le-Petit z17946</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.58662" lon="7.50662">
+    <name>Dahlenheim z17944</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.29784" lon="5.09273">
+    <name>Cierges-sous-Montfaucon z17875</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.2866" lon="5.28424">
+    <name>Consenvoye z17873</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.99304" lon="5.71364">
+    <name>Vigneulles-lès-Hattonchâtel z17853</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4324" lon="5.61702">
+    <name>Longuyon z17851</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.59979" lon="7.48991">
+    <name>Odratzheim z17835</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.80994" lon="7.31501">
+    <name>Wittenheim z17818</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.60465" lon="6.1011">
+    <name>Pont-Saint-Vincent z17812</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.56909" lon="6.18828">
+    <name>Flavigny-sur-Moselle z17810</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.61121" lon="6.10244">
+    <name>Neuves-Maisons z17735</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.6271" lon="6.35168">
+    <name>Dombasle-sur-Meurthe z17704</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.88888" lon="6.22735">
+    <name>Nomeny z17404</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.721439" lon="7.318029">
+    <name>Brunstatt-Didenheim z17392</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.04551" lon="5.1376">
+    <name>Lavoye z17374</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.84521" lon="4.98225">
+    <name>Brabant-le-Roi z17368</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.31157" lon="4.18124">
+    <name>Bouranton z17361</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.82912" lon="7.07994">
+    <name>Bitschwiller-lès-Thann z17336</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.55539" lon="6.40888">
+    <name>Blainville-sur-l'Eau z17334</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.27033" lon="6.64769">
+    <name>Berviller-en-Moselle z17323</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4989" lon="5.7182">
+    <name>Sauvigny z17313</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.31387" lon="6.02231">
+    <name>Neufchef z17308</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.05874" lon="6.26381">
+    <name>Mécleuves z17301</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.06396" lon="6.31132">
+    <name>Courcelles-sur-Nied z17294</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.17205" lon="4.04898">
+    <name>Saint-Jean-de-Bonneval z17212</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.62498" lon="6.29347">
+    <name>Saint-Nicolas-de-Port z17200</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.5825" lon="7.66619">
+    <name>Wolfisheim z16929</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.36842" lon="7.59394">
+    <name>Benfeld z16927</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.08716" lon="6.15941">
+    <name>Montigny-lès-Metz z16744</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.07873" lon="6.18622">
+    <name>Metz z16740</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.85634" lon="8.09187">
+    <name>Beinheim z16665</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.19558" lon="3.85978">
+    <name>Bligny z16638</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.63352" lon="4.97912">
+    <name>Angecourt z16621</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.15686" lon="3.91434">
+    <name>Pourcy z16606</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.33212" lon="7.68053">
+    <name>Boofzheim z16044</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4388" lon="5.61158">
+    <name>Longuyon z16010</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.38948" lon="6.04553">
+    <name>Angevillers z16006</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.28523" lon="6.94961">
+    <name>Saint-Dié-des-Vosges z15942</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.58658" lon="7.56586">
+    <name>Saint-Louis z15916</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.72515" lon="3.92129">
+    <name>Connantre z15871</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.19355" lon="3.99748">
+    <name>Bouilly z15869</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.32809" lon="4.11849">
+    <name>Creney-prés-Troyes z15867</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.58201" lon="7.75895">
+    <name>Strasbourg z15682</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.41901" lon="7.49543">
+    <name>Bourgheim z15680</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.40681" lon="7.45064">
+    <name>Barr z15678</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.40544" lon="7.45239">
+    <name>Barr z15674</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.41074" lon="7.45116">
+    <name>Barr z15671</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4049" lon="7.45711">
+    <name>Barr z15668</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.770505" lon="5.162925">
+    <name>Bar-le-Duc z15662</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.90239" lon="6.05226">
+    <name>Pont-à-Mousson z15606</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.40355" lon="3.73648">
+    <name>Marigny-le-Châtel z15577</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.2429" lon="6.20588">
+    <name>Ay-sur-Moselle z15548</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.51408" lon="4.76525">
+    <name>Bairon et ses environs z15494</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.48784" lon="6.69531">
+    <name>Azerailles z15467</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3029" lon="6.51958">
+    <name>Badménil-aux-Bois z15339</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.641" lon="7.23333">
+    <name>Aspach z15319</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.64685" lon="7.23514">
+    <name>Aspach z15317</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.21145" lon="6.57213">
+    <name>Aydoilles z15221</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.06887" lon="4.04629">
+    <name>Avenay-Val-d'Or z15110</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.8629" lon="4.35741">
+    <name>Auvillers-les-Forges z15016</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.35861" lon="4.19673">
+    <name>Assencières z14857</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.65761" lon="6.2651">
+    <name>Art-sur-Meurthe z14773</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.14534" lon="6.86478">
+    <name>Arrentès-de-Corcieux z14767</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.89041" lon="6.08894">
+    <name>Atton z14705</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.01113" lon="6.03016">
+    <name>Arnaville z14590</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.92969" lon="6.98004">
+    <name>Altwiller z14460</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.54762" lon="5.81001">
+    <name>Allamps z14406</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.42419" lon="7.70103">
+    <name>Erstein z14198</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.043228" lon="7.304672">
+    <name>Eguisheim z14060</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.752993" lon="7.346613">
+    <name>Mulhouse z14058</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.78118" lon="7.34737">
+    <name>Illzach z13918</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.81651" lon="3.59176">
+    <name>Le Gault-Soigny z13834</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.81318" lon="3.66643">
+    <name>Charleville z13832</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.68847" lon="5.3231">
+    <name>Ligny-en-Barrois z13828</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.7108" lon="5.9828">
+    <name>Fontenoy-sur-Moselle z13820</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.44589" lon="5.60123">
+    <name>Longuyon z13663</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.28145" lon="4.09626">
+    <name>Saint-Julien-les-Villas z13639</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.97587" lon="7.48735">
+    <name>Dessenheim z13503</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.46435" lon="5.4896">
+    <name>Villers-le-Rond z13470</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.57675" lon="7.69792">
+    <name>Strasbourg z13442</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.88581" lon="7.19446">
+    <name>Jungholtz z13436</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.02853" lon="7.43991">
+    <name>Appenwihr z13325</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.68355" lon="7.39179">
+    <name>Landser z13323</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6922" lon="7.40184">
+    <name>Dietwiller z13321</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.74901" lon="7.3661">
+    <name>Riedisheim z13313</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.58741" lon="7.44473">
+    <name>Ranspach-le-Bas z13311</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.60225" lon="7.4976">
+    <name>Blotzheim z13294</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.73135" lon="6.16596">
+    <name>Champigneulles z13290</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.54413" lon="5.79729">
+    <name>Mont-Saint-Martin z13242</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.56616" lon="5.39055">
+    <name>Avioth z13210</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.16507" lon="7.29653">
+    <name>Riquewihr z13128</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.18772" lon="7.40287">
+    <name>Guémar z13126</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.15815" lon="7.32549">
+    <name>Beblenheim z13124</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.179433" lon="7.309132">
+    <name>Hunawihr z13122</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1693" lon="7.32092">
+    <name>Zellenberg z13120</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.75939" lon="7.5047">
+    <name>Hombourg z13118</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.69602" lon="7.29392">
+    <name>Zillisheim z13116</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.73354" lon="7.05741">
+    <name>Le Haut-Soultzbach z13085</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.04018" lon="7.13507">
+    <name>Munster z12940</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.63088" lon="7.11969">
+    <name>Dannemarie z12938</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.03678" lon="7.20273">
+    <name>Soultzbach-les-Bains z12927</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.94843" lon="5.0085">
+    <name>Arc-en-Barrois z12805</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.50146" lon="6.11256">
+    <name>Omelmont z12803</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.12582" lon="7.28173">
+    <name>Ammerschwihr z12789</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.12459" lon="7.28317">
+    <name>Ammerschwihr z12787</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.12918" lon="7.29124">
+    <name>Ammerschwihr z12784</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.12677" lon="7.36876">
+    <name>Houssen z12782</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.73953" lon="7.31307">
+    <name>Mulhouse z12780</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.80028" lon="7.31524">
+    <name>Wittenheim z12778</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.81511" lon="7.31947">
+    <name>Wittenheim z12777</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.82298" lon="7.33725">
+    <name>Wittenheim z12775</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.14112" lon="7.25891">
+    <name>Kaysersberg-Vignoble z12772</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.02004" lon="7.28174">
+    <name>Vœgtlinshoffen z12770</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7423" lon="7.36785">
+    <name>Riedisheim z12768</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.91864" lon="7.52829">
+    <name>Fessenheim z12764</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.5097" lon="5.56557">
+    <name>Allondrelle-la-Malmaison z12708</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8429" lon="7.07156">
+    <name>Willer-sur-Thur z12705</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.63455" lon="7.47749">
+    <name>Bartenheim z12701</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5621" lon="7.52491">
+    <name>Hégenheim z12699</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61381" lon="7.52886">
+    <name>Saint-Louis z12697</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6063" lon="7.5733">
+    <name>Village-Neuf z12693</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.66239" lon="7.34924">
+    <name>Steinbrunn-le-Haut z12691</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61441" lon="7.21263">
+    <name>Carspach z12689</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.61987" lon="7.02226">
+    <name>Montreux-Vieux z12687</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0016" lon="7.28456">
+    <name>Gueberschwihr z12685</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.93434" lon="7.23262">
+    <name>Orschwihr z12683</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.92945" lon="7.23463">
+    <name>Bergholtz-Zell z12680</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.82139" lon="7.1533">
+    <name>Steinbach z12678</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.90442" lon="7.25399">
+    <name>Issenheim z12676</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9022" lon="7.24529">
+    <name>Issenheim z12674</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.88694" lon="7.23057">
+    <name>Soultz-Haut-Rhin z12658</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8746" lon="7.20982">
+    <name>Wuenheim z12655</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1037" lon="7.46938">
+    <name>Muntzenheim z12389</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.01805" lon="7.53032">
+    <name>Neuf-Brisach z12387</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.06395" lon="7.41608">
+    <name>Andolsheim z12385</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.04339" lon="7.41502">
+    <name>Sundhoffen z12383</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.12622" lon="7.3787">
+    <name>Houssen z12378</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.10817" lon="7.4355">
+    <name>Wickerschwihr z12375</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.04671" lon="7.30913">
+    <name>Eguisheim z12296</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.70129" lon="7.35843">
+    <name>Bruebach z12293</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.65231" lon="7.45178">
+    <name>Sierentz z12290</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.16031" lon="7.36952">
+    <name>Ostheim z12288</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.83392" lon="7.30437">
+    <name>Pulversheim z12253</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.86476" lon="7.27524">
+    <name>Feldkirch z12251</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7521" lon="7.32595">
+    <name>Mulhouse z12247</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.68265" lon="7.07938">
+    <name>Guevenatten z12241</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.57428" lon="7.55079">
+    <name>Saint-Louis z12118</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.98484" lon="7.39941">
+    <name>Niederhergheim z12116</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.83607" lon="7.17932">
+    <name>Wattwiller z12112</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.95489" lon="7.29355">
+    <name>Rouffach z12107</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.91051" lon="7.29243">
+    <name>Merxheim z12105</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.92726" lon="7.29437">
+    <name>Gundolsheim z12103</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.97667" lon="7.19746">
+    <name>Soultzmatt z12101</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.93375" lon="7.29396">
+    <name>Gundolsheim z12099</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.96086" lon="7.23984">
+    <name>Soultzmatt z12097</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.65915" lon="7.09599">
+    <name>Traubach-le-Bas z12091</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.67985" lon="7.21568">
+    <name>Spechbach-le-Haut z12089</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7161" lon="7.08782">
+    <name>Soppe-le-Bas z12086</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.80893" lon="7.24058">
+    <name>Wittelsheim z12084</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.78116" lon="7.2246">
+    <name>Wittelsheim z12082</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.757688" lon="7.368919">
+    <name>Riedisheim z12080</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.15032" lon="7.32051">
+    <name>Mittelwihr z12078</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.71964" lon="7.38725">
+    <name>Zimmersheim z12050</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.75766" lon="7.38561">
+    <name>Rixheim z12026</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.75787" lon="7.27634">
+    <name>Lutterbach z12024</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.65422" lon="7.27015">
+    <name>Tagolsheim z12021</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.77877" lon="7.28476">
+    <name>Richwiller z12019</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.72432" lon="7.42532">
+    <name>Habsheim z12017</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.72861" lon="7.41684">
+    <name>Habsheim z12015</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7694" lon="7.30278">
+    <name>Pfastatt z12013</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.74765" lon="7.23356">
+    <name>Reiningue z12011</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4529" lon="5.4583">
+    <name>Marville z11975</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.46803" lon="6.22937">
+    <name>Crantenoy z11967</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.48906" lon="5.18575">
+    <name>Stenay z11953</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.35429" lon="6.16451">
+    <name>Thionville z11935</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.82994" lon="7.96461">
+    <name>Soufflenheim z11908</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.83272" lon="7.56229">
+    <name>Schalkendorf z11906</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.82515" lon="7.48314">
+    <name>Bouxwiller z11904</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.86991" lon="7.48087">
+    <name>Ingwiller z11899</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.84499" lon="7.61329">
+    <name>Val-de-Moder z11895</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.82031" lon="7.74119">
+    <name>Schweighouse-sur-Moder z11893</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.82319" lon="7.41859">
+    <name>Neuwiller-lès-Saverne z11891</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.82064" lon="7.3985">
+    <name>Neuwiller-lès-Saverne z11888</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.260548" lon="4.03121">
+    <name>Reims z11821</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.29422" lon="6.97384">
+    <name>Saint-Dié-des-Vosges z11774</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.19632" lon="7.31554">
+    <name>Ribeauvillé z11772</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.90739" lon="6.78319">
+    <name>Le Menil z11770</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.3578" lon="6.16715">
+    <name>Thionville z11694</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.22635" lon="6.632">
+    <name>Viménil z11688</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.00867" lon="6.71617">
+    <name>Vagney z11686</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.96582" lon="6.46158">
+    <name>Plombières-les-Bains z11684</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.92827" lon="6.48675">
+    <name>Le Val-d'Ajol z11682</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.61089" lon="7.74601">
+    <name>Schiltigheim z11338</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.28254" lon="6.94814">
+    <name>Saint-Dié-des-Vosges z11323</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.52411" lon="5.76046">
+    <name>Longwy z11317</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.82295" lon="7.40705">
+    <name>Neuwiller-lès-Saverne z11274</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.10748" lon="5.171055">
+    <name>Chamarandes-Choignes z11258</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.94195" lon="4.63774">
+    <name>Revin z11247</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.5112" lon="7.09637">
+    <name>Raon-sur-Plaine z11233</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.50435" lon="5.75429">
+    <name>Réhon z11217</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.49382" lon="5.75458">
+    <name>Heumont z11215</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.50055" lon="5.75557">
+    <name>Réhon z11213</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.32461" lon="5.93002">
+    <name>Trieux z11211</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.48844" lon="5.80424">
+    <name>Haucourt-Moulaine z11186</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.52359" lon="5.76261">
+    <name>Longwy z11183</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.19792" lon="6.44564">
+    <name>Golbey z11181</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.34886" lon="6.06181">
+    <name>Hayange z9619</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.89397" lon="6.74172">
+    <name>Ramonchamp z8910</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.14488" lon="6.79008">
+    <name>Granges-Aumontzey z8908</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7019" lon="7.05276">
+    <name>Eteimbes z8870</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.75993" lon="7.28204">
+    <name>Lutterbach z8868</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.98574" lon="7.2179">
+    <name>Osenbach z8866</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.82099" lon="7.38245">
+    <name>Battenheim z8864</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.59121" lon="7.55657">
+    <name>Saint-Louis z8861</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.49617" lon="3.50059">
+    <name>Nogent-sur-Seine z8344</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.49749" lon="3.50976">
+    <name>Nogent-sur-Seine z8342</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.49262" lon="3.50275">
+    <name>Nogent-sur-Seine z8340</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.49257" lon="3.49707">
+    <name>Nogent-sur-Seine z8338</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4979" lon="3.49395">
+    <name>Nogent-sur-Seine z8335</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.50363" lon="3.50889">
+    <name>Nogent-sur-Seine z8333</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.12739" lon="7.1599">
+    <name>Orbey z8112</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.10462" lon="7.19276">
+    <name>Labaroche z8076</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.86161" lon="7.25828">
+    <name>Bollwiller z7999</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.46491" lon="6.08101">
+    <name>Vroncourt z7985</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0396" lon="7.546">
+    <name>Biesheim z7930</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.01437" lon="7.54606">
+    <name>Volgelsheim z7928</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.67499" lon="5.89013">
+    <name>Toul z7898</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.44213" lon="6.08094">
+    <name>Volmerange-les-Mines z7836</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.40745" lon="6.84451">
+    <name>Raon-l'Étape z7833</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.19402" lon="6.89543">
+    <name>Forbach z7246</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.13621" lon="6.1527">
+    <name>Metz z7244</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.13638" lon="6.16856">
+    <name>Metz z7242</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.11575" lon="6.17889">
+    <name>Metz z7239</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.12325" lon="6.20651">
+    <name>Metz z7235</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.09556" lon="6.23685">
+    <name>Metz z7233</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.69922" lon="6.18906">
+    <name>Nancy z7221</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.67956" lon="6.17183">
+    <name>Nancy z7219</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.1521" lon="5.40911">
+    <name>Verdun z7211</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.15848" lon="5.38636">
+    <name>Verdun z7209</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.16235" lon="5.38962">
+    <name>Verdun z7207</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.20659" lon="6.71623">
+    <name>Bruyères z6958</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.16497" lon="7.54484">
+    <name>Marckolsheim z6394</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.20998" lon="5.83124">
+    <name>Bulgnéville z5070</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.37677" lon="4.923067">
+    <name>Doulevant-le-Château z4952</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.656702" lon="5.289051">
+    <name>Vaux-Sous-Aubigny z4950</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.80163" lon="7.379">
+    <name>Baldersheim z4948</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.65385" lon="7.2359">
+    <name>Dabo z4946</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.34681" lon="3.9819">
+    <name>Loivre z4516</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.02769" lon="3.95493">
+    <name>Epernay z4514</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.03625" lon="3.97183">
+    <name>Epernay z4512</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.8096" lon="4.79693">
+    <name>Neufmanil z4508</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.38535" lon="5.75509">
+    <name>Mercy-le-Bas z4476</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.40294" lon="5.84337">
+    <name>Fillières z4474</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.25932" lon="6.34731">
+    <name>Aboncourt z4472</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.19349" lon="6.133">
+    <name>Semécourt z4470</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.761309" lon="5.593379">
+    <name>Commercy z4468</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.93399" lon="7.04034">
+    <name>Harskirchen z4466</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.40682" lon="5.16527">
+    <name>Fronville z4464</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.80493" lon="7.17285">
+    <name>Cernay z4440</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.80604" lon="7.18199">
+    <name>Cernay z4438</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.80885" lon="7.17589">
+    <name>Cernay z4436</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.36984" lon="6.17819">
+    <name>Manom z2890</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.36924" lon="6.18989">
+    <name>Manom z2888</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.36583" lon="6.29078">
+    <name>Elzange z2886</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.36192" lon="6.28935">
+    <name>Elzange z2884</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.30336" lon="6.15661">
+    <name>Uckange z2882</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.29999" lon="6.16044">
+    <name>Uckange z2880</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.26895" lon="6.10599">
+    <name>Vitry-sur-Orne z2878</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.07586" lon="6.68347">
+    <name>Folschviller z2872</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.07891" lon="6.68845">
+    <name>Folschviller z2870</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.0802" lon="6.68911">
+    <name>Folschviller z2868</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.06747" lon="6.684">
+    <name>Folschviller z2866</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.00816" lon="6.39476">
+    <name>Remilly z2863</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.29177" lon="6.532">
+    <name>Bouzonville z2861</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.2068" lon="6.46975">
+    <name>Roupeldange z2859</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.08223" lon="6.6396">
+    <name>Laudrefang z2857</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.06102" lon="6.5797">
+    <name>Créhange z2855</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.99878" lon="6.48101">
+    <name>Herny z2853</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.10569" lon="6.95725">
+    <name>Metzing z2851</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.11711" lon="7.09375">
+    <name>Sarreguemines z2849</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.11296" lon="7.31784">
+    <name>Epping z2847</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.05421" lon="7.30387">
+    <name>Petit-Rederching z2845</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.9778" lon="7.3796">
+    <name>Goetzenbruck z2843</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.75018" lon="6.08417">
+    <name>Liverdun z2711</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.752245" lon="6.064332">
+    <name>Liverdun z2709</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.69634" lon="6.17923">
+    <name>Nancy z2700</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.689239" lon="6.181427">
+    <name>Nancy z2698</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.67598" lon="6.23458">
+    <name>Tomblaine z2696</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.61756" lon="6.35231">
+    <name>Dombasle-sur-Meurthe z2694</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.68573" lon="7.2051">
+    <name>Haselbourg z2692</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.68287" lon="7.22285">
+    <name>Dabo z2690</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.63154" lon="7.07141">
+    <name>Vasperviller z2688</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.65407" lon="7.26985">
+    <name>Dabo z2686</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.74193" lon="7.36128">
+    <name>Saverne z2684</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.73691" lon="7.3672">
+    <name>Saverne z2682</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.75173" lon="7.46569">
+    <name>Dettwiller z2680</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.82011" lon="7.55962">
+    <name>Buswiller z2678</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.73641" lon="7.48544">
+    <name>Lupstein z2676</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.66059" lon="7.58216">
+    <name>Schnersheim z2674</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.58888" lon="7.77849">
+    <name>Strasbourg z2670</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.56984" lon="7.75244">
+    <name>Strasbourg z2668</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.55853" lon="7.6431">
+    <name>Holtzheim z2666</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.55089" lon="7.71259">
+    <name>Ostwald z2664</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.54334" lon="7.71044">
+    <name>Ostwald z2662</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.51691" lon="7.7072">
+    <name>Illkirch Graffenstaden z2660</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.46201" lon="7.48874">
+    <name>Obernai z2658</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.86585" lon="7.35149">
+    <name>Ensisheim z2656</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.81944" lon="7.38231">
+    <name>Battenheim z2654</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.74949" lon="7.41167">
+    <name>Rixheim z2652</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.74548" lon="7.39766">
+    <name>Rixheim z2650</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.76416" lon="7.39122">
+    <name>Rixheim z2648</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.75297" lon="7.38284">
+    <name>Rixheim z2646</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.74529" lon="7.33719">
+    <name>Mulhouse z2644</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.73356" lon="7.30702">
+    <name>Mulhouse z2638</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.90918" lon="7.21157">
+    <name>Guebwiller z2634</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.07034" lon="7.36519">
+    <name>Colmar z2632</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0592" lon="7.36441">
+    <name>Colmar z2630</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.07746" lon="7.35374">
+    <name>Colmar z2628</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.28621" lon="7.4177">
+    <name>Scherwiller z2626</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.25921" lon="7.44825">
+    <name>Sélestat z2624</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.19491" lon="7.3188">
+    <name>Ribeauvillé z2622</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0705" lon="6.87735">
+    <name>Gérardmer z2619</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.17276" lon="6.87836">
+    <name>Corcieux z2617</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.28481" lon="6.9494">
+    <name>Saint-Dié-des-Vosges z2615</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.01706" lon="6.58962">
+    <name>Remiremont z2613</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.41984" lon="7.66759">
+    <name>Erstein z2609</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.47434" lon="7.73347">
+    <name>Plobsheim z2607</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.33179" lon="4.12639">
+    <name>Creney-près-Troyes z1955</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.30569" lon="4.04092">
+    <name>Les Noës-prés-Troyes z1953</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.30383" lon="4.03589">
+    <name>Les Noës-prés-Troyes z1951</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.30221" lon="4.04348">
+    <name>Les Noës-prés-Troyes z1949</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.29099" lon="4.05297">
+    <name>Sainte-Savine z1947</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.29427" lon="4.05403">
+    <name>Sainte-Savine z1945</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.29422" lon="4.05738">
+    <name>Sainte-Savine z1943</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.29892" lon="4.07465">
+    <name>Troyes z1941</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.07151" lon="4.47348">
+    <name>Landreville z1933</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.07329" lon="4.47154">
+    <name>Landreville z1931</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.04427" lon="3.95875">
+    <name>Epernay z1909</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.95405" lon="4.36166">
+    <name>Châlons-en-Champagne z1907</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.02627" lon="4.42038">
+    <name>Saint-Étienne-au-Temple z1905</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.251285" lon="4.039176">
+    <name>Reims z1903</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.254759" lon="4.037902">
+    <name>Reims z1901</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.257544" lon="4.025848">
+    <name>Reims z1899</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.27066" lon="4.02594">
+    <name>Reims z1897</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.16099" lon="5.3695">
+    <name>Verdun z1895</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.16104" lon="5.386">
+    <name>Verdun z1893</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.10524" lon="5.06984">
+    <name>Clermont-en-Argonne z1891</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.38112" lon="5.16894">
+    <name>Doulcon z1889</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.21674" lon="6.87077">
+    <name>Petite-Rosselle z1887</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.34623" lon="4.60659">
+    <name>Petit-Mesnil z1308</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.60668" lon="4.77468">
+    <name>Sainte-Marie-du-Lac-Nuisement z1306</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.11107" lon="5.13681">
+    <name>Chaumont z1304</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.86254" lon="5.3339">
+    <name>Langres z1302</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.16283" lon="6.45129">
+    <name>Epinal z1292</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.15573" lon="6.44909">
+    <name>Epinal z1291</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.15605" lon="6.4581">
+    <name>Epinal z1289</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.17632" lon="6.46418">
+    <name>Epinal z1285</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.17986" lon="6.45563">
+    <name>Epinal z1282</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.78219" lon="6.5314">
+    <name>Vic-sur-Seille z1278</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.82125" lon="6.50693">
+    <name>Château-Salins z1276</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.82449" lon="6.50225">
+    <name>Château-Salins z1274</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.88695" lon="6.39217">
+    <name>Delme z1272</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.06132" lon="6.07819">
+    <name>Jouy-aux-Arches z1270</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.05862" lon="6.07792">
+    <name>Jouy-aux-Arches z1268</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.09126" lon="6.14388">
+    <name>Montigny-lès-Metz z1264</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.08638" lon="6.15997">
+    <name>Montigny-lès-Metz z1262</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.0648" lon="6.30728">
+    <name>Courcelles-sur-Nied z1260</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.06604" lon="6.30728">
+    <name>Courcelles-sur-Nied z1257</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.0956" lon="6.2452">
+    <name>Metz z1255</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.1296" lon="6.23056">
+    <name>Vantoux z1253</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.11131" lon="6.22496">
+    <name>Metz z1251</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.12155" lon="6.17271">
+    <name>Metz z1249</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.10649" lon="6.16742">
+    <name>Metz z1245</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.09617" lon="6.17267">
+    <name>Metz z1243</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.0972" lon="6.1785">
+    <name>Metz z1241</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.10989" lon="6.18705">
+    <name>Metz z1239</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.11787" lon="6.18572">
+    <name>Metz z1237</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.11972" lon="6.19615">
+    <name>Metz z1231</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.74235" lon="4.59897">
+    <name>Neuville-lès-This z1213</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.1485" lon="7.48127">
+    <name>Walschbronn z1211</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.8145" lon="7.78722">
+    <name>Haguenau z1209</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.81223" lon="7.7838">
+    <name>Haguenau z1207</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.78263" lon="7.86326">
+    <name>Oberhoffen-sur-Moder z1205</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.59322" lon="7.57889">
+    <name>Huningue z1203</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.58596" lon="7.56184">
+    <name>Saint-Louis z1201</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.05609" lon="7.43434">
+    <name>Bitche z527</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.03941" lon="7.44261">
+    <name>Bitche z525</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.38643" lon="6.24214">
+    <name>Basse-Ham z319</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.981509" lon="7.514359">
+    <name>Baerenthal z288</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.97597" lon="7.5172">
+    <name>Baerenthal z286</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.47236" lon="5.95509">
+    <name>Audun-le-Tiche z244</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.72511" lon="7.18548">
+    <name>Arzviller z224</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.05825" lon="6.05815">
+    <name>Ancy-Dornot z170</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.25827" lon="6.13856">
+    <name>Amnéville z164</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.24255" lon="6.13538">
+    <name>Amnéville z162</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.23727" lon="6.12847">
+    <name>Amnéville z160</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="ZoneLivre Grand Est" color="#10c0f0" icon="public_bookcase" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75597,
+          42.56478
+        ]
+      },
+      "properties": {
+        "id": "12800",
+        "name": "Calvi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.39956,
+          41.99927
+        ]
+      },
+      "properties": {
+        "id": "1199",
+        "name": "Prunelli-di-Fiumorbo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15352,
+          42.30043
+        ]
+      },
+      "properties": {
+        "id": "1196",
+        "name": "Corte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4441,
+          42.70489
+        ]
+      },
+      "properties": {
+        "id": "345",
+        "name": "Bastia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.44801,
+          42.70233
+        ]
+      },
+      "properties": {
+        "id": "343",
+        "name": "Bastia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.45106,
+          42.70118
+        ]
+      },
+      "properties": {
+        "id": "341",
+        "name": "Bastia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.44974,
+          42.69626
+        ]
+      },
+      "properties": {
+        "id": "339",
+        "name": "Bastia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.42926,
+          42.67938
+        ]
+      },
+      "properties": {
+        "id": "337",
+        "name": "Bastia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.44112,
+          42.67924
+        ]
+      },
+      "properties": {
+        "id": "335",
+        "name": "Bastia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.438,
+          42.67391
+        ]
+      },
+      "properties": {
+        "id": "333",
+        "name": "Bastia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.42771,
+          42.7025
+        ]
+      },
+      "properties": {
+        "id": "331",
+        "name": "Bastia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4402,
+          42.696
+        ]
+      },
+      "properties": {
+        "id": "329",
+        "name": "Bastia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.45,
+          42.69273
+        ]
+      },
+      "properties": {
+        "id": "327",
+        "name": "Bastia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.44925,
+          42.70772
+        ]
+      },
+      "properties": {
+        "id": "325",
+        "name": "Bastia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.45107,
+          42.69934
+        ]
+      },
+      "properties": {
+        "id": "323",
+        "name": "Bastia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4483,
+          42.69753
+        ]
+      },
+      "properties": {
+        "id": "321",
+        "name": "Bastia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.73703,
+          41.91955
+        ]
+      },
+      "properties": {
+        "id": "100",
+        "name": "Ajaccio"
+      }
+    }
+  ]
+}

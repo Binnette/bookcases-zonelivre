@@ -1,54 +1,52 @@
 # bookcases-zonelivre
 
+**Data last updated on: 2024-12-21**
+
 Bookcases from zonelivre: https://boite.a.livres.zonelivre.fr/
 
-## How to
+These bookcases are mainly in France and French-speaking countries. You can display them in OsmAnd, JOSM, uMap, and more.
 
-### Use the files
+![Bookcase count history](assets/bookcase_count_history.png)
+![Distribution pie](assets/bookcase_distribution_pie_chart.png)
 
-Open the most recent folder and download any geojson or gpx file.
+## ⚠️ DO NOT IMPORT INTO OPENSTREETMAP! ⚠️
 
-Note the gpx files are Osmand favorites files, so you can import them as favorites in Osmand.
-I recommand to import/show only 1 region at a time in Osmand to avoid lags.
+Do not import directly in OSM. Verify each bookcase in person before adding it to OSM.
 
-### Update files
+## How to Use the Data
 
-1. Create a folder with today date
-2. Visit https://boite.a.livres.zonelivre.fr/
-3. Then https://boite.a.livres.zonelivre.fr/wp-json/geodir/v2/markers/?post_type=gd_place
-4. Save this file as data.json in your new folder
-5. Edit pythons script to update folder name
-6. Run script step1ParseDataJson.py
-7. Run script step2FilterBookcasesByRegions.py
-8. Run script step3ConvertGeojsonToOsmandGpx.py
-9. Done
+Use the data to display bookcases in OsmAnd, JOSM, uMap, and more. Visit them in person and add or update them on OpenStreetMap.
 
-## Stats
+### Using OsmAnd
 
-|Date      |Bookcases|
-|----------|---------|
-|2024-10-01|     6768|
-|2022-09-20|     5193|
+**Note:** To avoid lag, do not use `bookcases.gpx` file. Instead, use the region-specific GPX files, such as `Bretagne.gpx`.
 
-## Stats by region 
+1. Open the `bookcases` folder for the latest data.
+2. Download a region-specific GPX file (e.g., `Bretagne.gpx`).
+3. Copy the GPX file to your device.
+4. Open OsmAnd.
+5. Go to Favorites.
+6. Use the **+** (import) button.
+7. Select the GPX file.
+8. Bookcases are now displayed on the map.
 
-|Region                 |2022-09-20|2024-10-01|
-|-----------------------|----------|----------|
-|Total                  |      5195|      6774|
-|Duplicates             |         2|         6|
-|Uniques                |      5193|      6768|
-|Out France Metro       |         3|        18|
-|France métro           |      5190|      6750|
-|Nouvelle Aquitaine     |       790|      1101|
-|Normandie              |       610|       763|
-|Auvergne Rhone-Alpes   |       535|       711|
-|Ile de France          |       477|       604|
-|Grand Est              |       412|       558|
-|Pays de la Loire       |       345|       509|
-|Bretagne               |       403|       477|
-|Occitanie              |       355|       470|
-|Bourgogne Franche-Comte|       360|       439|
-|Hauts de France        |       382|       435|
-|Centre Val de Loire    |       329|       435|
-|PACA                   |       175|       231|
-|Corse                  |        17|        17|
+<img alt="Bookcases in OsmAnd" src="./assets/OsmAnd.png" height="30%" width="30%">
+
+### Using JOSM
+
+1. Open the `bookcases` folder for the latest data.
+2. Download the `bookcases.geojson` file.
+3. Open JOSM.
+4. Use the Open File button.
+5. Select the `bookcases.geojson` file.
+6. Bookcases are now displayed on the map.
+
+## How to Update the Data
+
+1. Install the necessary Python libraries:
+    ```sh
+    pip install beautifulsoup4 fake_useragent geojson matplotlib pandas selenium shapely
+    ```
+2. Run `1_fetch_bookcases.py` to fetch and create `bookcases.geojson`.
+3. Run `2_filter_by_region.py` to split the bookcases into GeoJSON files for each French region.
+4. Run `3_create_OsmAnd_gpx.py` to convert each GeoJSON file into an OsmAnd GPX file.

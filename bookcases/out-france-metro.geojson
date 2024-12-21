@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.267004,
+          -21.049577
+        ]
+      },
+      "properties": {
+        "id": "21694",
+        "name": "Saint-Paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.3198,
+          -17.72783
+        ]
+      },
+      "properties": {
+        "id": "21054",
+        "name": "Taiarapu-Est"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.33107,
+          -17.73085
+        ]
+      },
+      "properties": {
+        "id": "21052",
+        "name": "Taiarapu-Est"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.49126,
+          -17.5073
+        ]
+      },
+      "properties": {
+        "id": "21050",
+        "name": "Mahina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.53762,
+          -17.52803
+        ]
+      },
+      "properties": {
+        "id": "21048",
+        "name": "Arue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.56883,
+          -17.53478
+        ]
+      },
+      "properties": {
+        "id": "21046",
+        "name": "Papeete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.56727,
+          -17.53882
+        ]
+      },
+      "properties": {
+        "id": "21044",
+        "name": "Papeete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.56628,
+          -17.54041
+        ]
+      },
+      "properties": {
+        "id": "21042",
+        "name": "Papeete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.58632,
+          -17.54662
+        ]
+      },
+      "properties": {
+        "id": "21040",
+        "name": "Faʻaʻā"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.61547,
+          -17.580826
+        ]
+      },
+      "properties": {
+        "id": "21038",
+        "name": "Puna'auia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.60333,
+          -17.57941
+        ]
+      },
+      "properties": {
+        "id": "21036",
+        "name": "Puna'auia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.450974,
+          -20.886949
+        ]
+      },
+      "properties": {
+        "id": "20202",
+        "name": "Saint-Denis (97)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.28767,
+          43.21655
+        ]
+      },
+      "properties": {
+        "id": "18230",
+        "name": "Carcassonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47076,
+          -21.34269
+        ]
+      },
+      "properties": {
+        "id": "18086",
+        "name": "Saint-Pierre (97)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.88158,
+          14.43515
+        ]
+      },
+      "properties": {
+        "id": "17831",
+        "name": "Sainte-Anne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.88049,
+          49.59575
+        ]
+      },
+      "properties": {
+        "id": "17202",
+        "name": "Käerjeng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.44456,
+          -20.8792
+        ]
+      },
+      "properties": {
+        "id": "4333",
+        "name": "Saint-Denis (97)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.61976,
+          -21.37905
+        ]
+      },
+      "properties": {
+        "id": "4330",
+        "name": "Saint-Joseph"
+      }
+    }
+  ]
+}
