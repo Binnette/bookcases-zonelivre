@@ -1,6 +1,6 @@
 # bookcases-zonelivre
 
-**Data last updated on: 2025-01-01**
+**Data last updated on: 2025-02-01**
 
 Bookcases from zonelivre: https://boite.a.livres.zonelivre.fr/
 

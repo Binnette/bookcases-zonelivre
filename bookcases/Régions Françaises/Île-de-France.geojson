@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.165063,
+          48.703624
+        ]
+      },
+      "properties": {
+        "id": "24292",
+        "name": "Bures-sur-Yvette"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.548399,
+          48.822971
+        ]
+      },
+      "properties": {
+        "id": "24240",
+        "name": "Villiers-sur-Marne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.54035,
+          48.700538
+        ]
+      },
+      "properties": {
+        "id": "24030",
+        "name": "Mandres-les-Roses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.091029,
           49.018294
         ]
@@ -1798,8 +1840,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.8024,
-          48.62966
+          2.802061,
+          48.629837
         ]
       },
       "properties": {
@@ -3079,20 +3121,6 @@
       "properties": {
         "id": "15910",
         "name": "Champeaux"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.92324,
-          48.6832
-        ]
-      },
-      "properties": {
-        "id": "15892",
-        "name": "Bernay-Vilbert"
       }
     },
     {
@@ -7496,8 +7524,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.143,
-          48.81129
+          2.142996,
+          48.811292
         ]
       },
       "properties": {

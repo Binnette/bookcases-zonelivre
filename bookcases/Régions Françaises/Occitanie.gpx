@@ -1,5 +1,86 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.579983" lon="3.901879">
+    <name>Lattes z24290</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.340083" lon="2.577541">
+    <name>Le Monastère z24144</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.999817" lon="3.663152">
+    <name>Saint-André-de-Majencoules z24121</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.841033" lon="4.360223">
+    <name>Nîmes z24019</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.022591" lon="3.997047">
+    <name>Tornac z24010</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.989163" lon="3.955282">
+    <name>Durfort-et-Saint-Martin-de-Sossenac z24008</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.992371" lon="3.60958">
+    <name>Le Vigan z24006</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.938172" lon="3.956685">
+    <name>Sauve z24004</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.91052" lon="4.001475">
+    <name>Quissac z24001</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="43.641308" lon="1.826555">
     <name>Lacougotte-Cadoul z23921</name>
     <type>ZoneLivre Occitanie</type>
@@ -126,15 +207,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.21996" lon="4.01516">
-    <name>La Grand-Combe z23117</name>
-    <type>ZoneLivre Occitanie</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.108924" lon="3.086587">
     <name>Gruissan z22882</name>
     <type>ZoneLivre Occitanie</type>
@@ -209,15 +281,6 @@
   </wpt>
   <wpt lat="43.11191" lon="3.10642">
     <name>Gruissan z22725</name>
-    <type>ZoneLivre Occitanie</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.965384" lon="3.853785">
-    <name>Saint-Hippolyte-du-Fort z22722</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -1287,15 +1350,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.04898" lon="4.02016">
-    <name>Boisset-et-Gaujac z16590</name>
-    <type>ZoneLivre Occitanie</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.676511" lon="1.623836">
     <name>Bonrepos-Riquet z16454</name>
     <type>ZoneLivre Occitanie</type>
@@ -2160,15 +2214,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.85421" lon="1.808">
-    <name>Lisle-sur-Tarn z13982</name>
-    <type>ZoneLivre Occitanie</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.95039" lon="2.13939">
     <name>Albi z13965</name>
     <type>ZoneLivre Occitanie</type>
@@ -2538,7 +2583,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.69821" lon="2.93428">
+  <wpt lat="42.698201" lon="2.934296">
     <name>Perpignan z11383</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -4023,7 +4068,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.69619" lon="2.91584">
+  <wpt lat="42.696084" lon="2.91588">
     <name>Perpignan z531</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>

@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.12664,
+          47.807318
+        ]
+      },
+      "properties": {
+        "id": "23942",
+        "name": "Vieux-Thann"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.12221,
+          47.80704
+        ]
+      },
+      "properties": {
+        "id": "23939",
+        "name": "Vieux-Thann"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.055892,
           48.747895
         ]

@@ -6,6 +6,468 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.68811,
+          47.388706
+        ]
+      },
+      "properties": {
+        "id": "24230",
+        "name": "Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.663544,
+          47.356832
+        ]
+      },
+      "properties": {
+        "id": "24228",
+        "name": "Joué-lès-Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.662972,
+          47.352284
+        ]
+      },
+      "properties": {
+        "id": "24226",
+        "name": "Joué-lès-Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.667374,
+          47.35419
+        ]
+      },
+      "properties": {
+        "id": "24223",
+        "name": "Joué-lès-Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.678964,
+          47.348844
+        ]
+      },
+      "properties": {
+        "id": "24218",
+        "name": "Joué-lès-Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.679728,
+          47.343963
+        ]
+      },
+      "properties": {
+        "id": "24215",
+        "name": "Joué-lès-Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.664633,
+          47.336045
+        ]
+      },
+      "properties": {
+        "id": "24212",
+        "name": "Joué-les-Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.662726,
+          47.344472
+        ]
+      },
+      "properties": {
+        "id": "24210",
+        "name": "Joué-lès-Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.654295,
+          47.344681
+        ]
+      },
+      "properties": {
+        "id": "24208",
+        "name": "Joué-lès-Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.614269,
+          47.340964
+        ]
+      },
+      "properties": {
+        "id": "24206",
+        "name": "Ballan-Miré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.613174,
+          47.340411
+        ]
+      },
+      "properties": {
+        "id": "24204",
+        "name": "Ballan-Miré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.613223,
+          47.341304
+        ]
+      },
+      "properties": {
+        "id": "24201",
+        "name": "Ballan-Miré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.618177,
+          47.348117
+        ]
+      },
+      "properties": {
+        "id": "24197",
+        "name": "Ballan-Miré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.637513,
+          47.353631
+        ]
+      },
+      "properties": {
+        "id": "24194",
+        "name": "Ballan-Miré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.656975,
+          47.361556
+        ]
+      },
+      "properties": {
+        "id": "24192",
+        "name": "Joué-les-Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.702524,
+          47.407504
+        ]
+      },
+      "properties": {
+        "id": "24187",
+        "name": "Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.706408,
+          47.412957
+        ]
+      },
+      "properties": {
+        "id": "24185",
+        "name": "Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.700682,
+          47.433837
+        ]
+      },
+      "properties": {
+        "id": "24183",
+        "name": "Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.692302,
+          47.435793
+        ]
+      },
+      "properties": {
+        "id": "24181",
+        "name": "Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.683145,
+          47.431656
+        ]
+      },
+      "properties": {
+        "id": "24179",
+        "name": "Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.686326,
+          47.420578
+        ]
+      },
+      "properties": {
+        "id": "24173",
+        "name": "Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.680769,
+          47.389645
+        ]
+      },
+      "properties": {
+        "id": "24171",
+        "name": "Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.710407,
+          47.395246
+        ]
+      },
+      "properties": {
+        "id": "24168",
+        "name": "Saint-Pierre-des-Corps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.86648,
+          46.563309
+        ]
+      },
+      "properties": {
+        "id": "24026",
+        "name": "Fougerolles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.853675,
+          47.923029
+        ]
+      },
+      "properties": {
+        "id": "23989",
+        "name": "Sargé-sur-Braye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.934128,
+          47.93213
+        ]
+      },
+      "properties": {
+        "id": "23987",
+        "name": "Le Temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.937504,
+          47.751557
+        ]
+      },
+      "properties": {
+        "id": "23985",
+        "name": "Houssay (41)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.915282,
+          47.844663
+        ]
+      },
+      "properties": {
+        "id": "23982",
+        "name": "Fortan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.929796,
+          47.900337
+        ]
+      },
+      "properties": {
+        "id": "23979",
+        "name": "Epuisay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.085793,
+          47.918505
+        ]
+      },
+      "properties": {
+        "id": "23977",
+        "name": "La Ville-aux-Clercs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.91472,
+          47.808691
+        ]
+      },
+      "properties": {
+        "id": "23974",
+        "name": "Lunay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.992559,
+          47.806902
+        ]
+      },
+      "properties": {
+        "id": "23972",
+        "name": "Villiers-sur-Loir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.029266,
+          47.79395
+        ]
+      },
+      "properties": {
+        "id": "23970",
+        "name": "Naveil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.101943,
           47.773083
         ]
@@ -250,7 +712,7 @@
       },
       "properties": {
         "id": "22961",
-        "name": "Gargilesse-Campierre"
+        "name": "Gargilesse-Dampierre"
       }
     },
     {
@@ -2008,8 +2470,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.66982,
-          47.38743
+          0.669799,
+          47.387395
         ]
       },
       "properties": {
@@ -2904,8 +3366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.67947,
-          47.4348
+          0.679438,
+          47.434797
         ]
       },
       "properties": {
@@ -3254,8 +3716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.75442,
-          47.41428
+          0.754395,
+          47.414279
         ]
       },
       "properties": {
@@ -3968,8 +4430,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.66662,
-          47.42309
+          0.666609,
+          47.423088
         ]
       },
       "properties": {
@@ -4710,8 +5172,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.66995,
-          47.35137
+          0.669946,
+          47.351363
         ]
       },
       "properties": {
@@ -6110,8 +6572,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.61869,
-          47.34161
+          0.619408,
+          47.341575
         ]
       },
       "properties": {

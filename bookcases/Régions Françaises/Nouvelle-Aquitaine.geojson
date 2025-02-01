@@ -6,6 +6,202 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.387805,
+          46.587021
+        ]
+      },
+      "properties": {
+        "id": "24232",
+        "name": "Poitiers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.506117,
+          46.558606
+        ]
+      },
+      "properties": {
+        "id": "24165",
+        "name": "Saint-Julien-l'Ars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.38612,
+          46.566763
+        ]
+      },
+      "properties": {
+        "id": "24163",
+        "name": "Poitiers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.305648,
+          46.578701
+        ]
+      },
+      "properties": {
+        "id": "24161",
+        "name": "Biard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.28377,
+          45.848364
+        ]
+      },
+      "properties": {
+        "id": "24159",
+        "name": "Val-de-Bonnieure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.243445,
+          45.859403
+        ]
+      },
+      "properties": {
+        "id": "24119",
+        "name": "Saint-Ciers-sur-Bonnieure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.177313,
+          45.924101
+        ]
+      },
+      "properties": {
+        "id": "24117",
+        "name": "Fontenille"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.136779,
+          45.920296
+        ]
+      },
+      "properties": {
+        "id": "24114",
+        "name": "Juillé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.067163,
+          45.935636
+        ]
+      },
+      "properties": {
+        "id": "24112",
+        "name": "Tusson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.904401,
+          46.328017
+        ]
+      },
+      "properties": {
+        "id": "24028",
+        "name": "Bonnat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.024495,
+          46.170314
+        ]
+      },
+      "properties": {
+        "id": "23999",
+        "name": "Pionnat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.848074,
+          46.183017
+        ]
+      },
+      "properties": {
+        "id": "23994",
+        "name": "Saint-Sulpice-le-Guérétois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.31752,
+          46.547541
+        ]
+      },
+      "properties": {
+        "id": "23958",
+        "name": "Saint Benoît"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.322922,
+          46.593648
+        ]
+      },
+      "properties": {
+        "id": "23951",
+        "name": "Poitiers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.810116,
           44.38457
         ]
@@ -1771,7 +1967,7 @@
         "type": "Point",
         "coordinates": [
           -0.482709,
-          44.927863
+          44.927855
         ]
       },
       "properties": {
@@ -13901,20 +14097,6 @@
       "properties": {
         "id": "3375",
         "name": "Migné-Auxances"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.36216,
-          46.60292
-        ]
-      },
-      "properties": {
-        "id": "3371",
-        "name": "Buxerolles"
       }
     },
     {

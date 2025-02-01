@@ -1,5 +1,59 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.096404" lon="-2.046094">
+    <name>La Bernerie-en-Retz z24295</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.009549" lon="-0.749372">
+    <name>Maulevrier z24245</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.086707" lon="-0.417282">
+    <name>Cléré-sur-Layon z24155</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.943424" lon="0.264109">
+    <name>Ruaudin z24021</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.125182" lon="-0.550421">
+    <name>Saint-Hilaire-du-Bois z24013</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.783872" lon="-1.425015">
+    <name>Bellevigny z23968</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.229463" lon="-1.597929">
     <name>Saint-Herblain z23907</name>
     <type>ZoneLivre Pays de la Loire</type>

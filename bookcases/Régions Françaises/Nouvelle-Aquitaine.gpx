@@ -1,5 +1,131 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.587021" lon="0.387805">
+    <name>Poitiers z24232</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.558606" lon="0.506117">
+    <name>Saint-Julien-l'Ars z24165</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.566763" lon="0.38612">
+    <name>Poitiers z24163</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.578701" lon="0.305648">
+    <name>Biard z24161</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.848364" lon="0.28377">
+    <name>Val-de-Bonnieure z24159</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.859403" lon="0.243445">
+    <name>Saint-Ciers-sur-Bonnieure z24119</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.924101" lon="0.177313">
+    <name>Fontenille z24117</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.920296" lon="0.136779">
+    <name>Juillé z24114</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.935636" lon="0.067163">
+    <name>Tusson z24112</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.328017" lon="1.904401">
+    <name>Bonnat z24028</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.170314" lon="2.024495">
+    <name>Pionnat z23999</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.183017" lon="1.848074">
+    <name>Saint-Sulpice-le-Guérétois z23994</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.547541" lon="0.31752">
+    <name>Saint Benoît z23958</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.593648" lon="0.322922">
+    <name>Poitiers z23951</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.38457" lon="0.810116">
     <name>Penne-d'Agenais z23918</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
@@ -1134,7 +1260,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.927863" lon="-0.482709">
+  <wpt lat="44.927855" lon="-0.482709">
     <name>Ambarès-et-Lagrave z21445</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -8930,15 +9056,6 @@
   </wpt>
   <wpt lat="46.62694" lon="0.31059">
     <name>Migné-Auxances z3375</name>
-    <type>ZoneLivre Nouvelle-Aquitaine</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.60292" lon="0.36216">
-    <name>Buxerolles z3371</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>

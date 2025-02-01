@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.58481,
+          48.838145
+        ]
+      },
+      "properties": {
+        "id": "24097",
+        "name": "Granville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.385205,
+          49.176878
+        ]
+      },
+      "properties": {
+        "id": "24086",
+        "name": "Caen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.327154,
+          49.151121
+        ]
+      },
+      "properties": {
+        "id": "24082",
+        "name": "Cormelles-le-Royal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.506881,
           48.54937
         ]
@@ -474,7 +516,7 @@
       },
       "properties": {
         "id": "23547",
-        "name": "Le Castelet"
+        "name": "Saint-Aignan-de-Cramesnil"
       }
     },
     {
@@ -488,7 +530,7 @@
       },
       "properties": {
         "id": "23545",
-        "name": "Le Castelet"
+        "name": "Garcelles"
       }
     },
     {
@@ -538,8 +580,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.38895,
-          49.301367
+          -0.388888,
+          49.301346
         ]
       },
       "properties": {
@@ -3030,8 +3072,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.45909,
-          49.22827
+          -0.459114,
+          49.228264
         ]
       },
       "properties": {
@@ -3086,8 +3128,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.37157,
-          49.18943
+          -0.371572,
+          49.189422
         ]
       },
       "properties": {
@@ -3100,8 +3142,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.38782,
-          49.18461
+          -0.387833,
+          49.184613
         ]
       },
       "properties": {
@@ -3142,8 +3184,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.38682,
-          49.28987
+          -0.386893,
+          49.289863
         ]
       },
       "properties": {
@@ -3212,8 +3254,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.32824,
-          49.23967
+          -0.327956,
+          49.239662
         ]
       },
       "properties": {
@@ -3254,27 +3296,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.41594,
-          49.20227
+          -0.415968,
+          49.202251
         ]
       },
       "properties": {
         "id": "17259",
         "name": "Authie"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.39156,
-          49.19217
-        ]
-      },
-      "properties": {
-        "id": "17179",
-        "name": "Caen"
       }
     },
     {
@@ -3653,20 +3681,6 @@
       "properties": {
         "id": "15658",
         "name": "Barfleur"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.9537,
-          49.55277
-        ]
-      },
-      "properties": {
-        "id": "15655",
-        "name": "Barentin"
       }
     },
     {
@@ -4346,8 +4360,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.35462,
-          49.18667
+          -0.354596,
+          49.186614
         ]
       },
       "properties": {
@@ -4458,8 +4472,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3677,
-          49.18161
+          -0.367704,
+          49.181607
         ]
       },
       "properties": {
@@ -4486,8 +4500,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.36845,
-          49.21946
+          -0.368466,
+          49.219452
         ]
       },
       "properties": {
@@ -4528,8 +4542,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.35978,
-          48.83306
+          -1.359778,
+          48.833057
         ]
       },
       "properties": {
@@ -6334,8 +6348,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.35624,
-          49.27931
+          -0.356216,
+          49.279302
         ]
       },
       "properties": {
@@ -6614,8 +6628,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.35943,
-          49.19111
+          -0.359443,
+          49.191093
         ]
       },
       "properties": {
@@ -7552,8 +7566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.43165,
-          49.20644
+          -0.431659,
+          49.20643
         ]
       },
       "properties": {
@@ -10184,8 +10198,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.38476,
-          49.23211
+          -0.384787,
+          49.232108
         ]
       },
       "properties": {
@@ -10198,8 +10212,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.37292,
-          49.22638
+          -0.372958,
+          49.226363
         ]
       },
       "properties": {
@@ -10212,8 +10226,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.37899,
-          49.20356
+          -0.379157,
+          49.203583
         ]
       },
       "properties": {
@@ -10226,8 +10240,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.39028,
-          49.1983
+          -0.390216,
+          49.198357
         ]
       },
       "properties": {
@@ -10310,8 +10324,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.28731,
-          49.26131
+          -0.287297,
+          49.261374
         ]
       },
       "properties": {
@@ -10660,8 +10674,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3554,
-          49.28809
+          -0.355379,
+          49.288094
         ]
       },
       "properties": {

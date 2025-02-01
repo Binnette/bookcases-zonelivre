@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -62.845948,
+          17.902246
+        ]
+      },
+      "properties": {
+        "id": "24016",
+        "name": "Gustavia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.824645,
+          17.905612
+        ]
+      },
+      "properties": {
+        "id": "23948",
+        "name": "Saint-Barthélémy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.852923,
+          17.898457
+        ]
+      },
+      "properties": {
+        "id": "23944",
+        "name": "Saint-Barthélémy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.857555,
+          17.917495
+        ]
+      },
+      "properties": {
+        "id": "23935",
+        "name": "Saint-Barthélémy (971)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           55.267004,
           -21.049577
         ]

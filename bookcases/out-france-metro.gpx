@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="17.902246" lon="-62.845948">
+    <name>Gustavia z24016</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="17.905612" lon="-62.824645">
+    <name>Saint-Barthélémy z23948</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="17.898457" lon="-62.852923">
+    <name>Saint-Barthélémy z23944</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="17.917495" lon="-62.857555">
+    <name>Saint-Barthélémy (971) z23935</name>
+    <type>ZoneLivre hors France métro</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="-21.049577" lon="55.267004">
     <name>Saint-Paul z21694</name>
     <type>ZoneLivre hors France métro</type>

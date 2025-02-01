@@ -1,5 +1,203 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.340631" lon="5.0566">
+    <name>Dijon z24077</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.317178" lon="5.050471">
+    <name>Dijon z24075</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.317849" lon="5.04943">
+    <name>Dijon z24073</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.318254" lon="5.050549">
+    <name>Dijon z24071</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.293643" lon="5.001448">
+    <name>Chenôve z24069</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.301628" lon="5.007395">
+    <name>Chenôve z24067</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.306597" lon="5.018542">
+    <name>Dijon z24063</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.318552" lon="4.908493">
+    <name>Velars-sur-Ouche z24060</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.316896" lon="5.000061">
+    <name>Dijon z24058</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.302603" lon="5.037092">
+    <name>Dijon z24055</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.316154" lon="5.065475">
+    <name>Dijon z24053</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.349587" lon="5.023641">
+    <name>Fontaine-lès-Dijon z24051</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.347837" lon="5.031964">
+    <name>Fontaine-Lès-Dijon z24049</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.351619" lon="5.025102">
+    <name>Fontaine-Lès-Dijon z24046</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.314895" lon="5.031521">
+    <name>Dijon z24044</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.345035" lon="5.017568">
+    <name>Fontaine-lès-Dijon z24042</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.342412" lon="5.022174">
+    <name>Fontaine-lès-Dijon z24040</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.340884" lon="5.021691">
+    <name>Fontaine-lès-Dijon z24038</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.339163" lon="5.022249">
+    <name>Fontaine-lès-Dijon z24036</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.333244" lon="5.033112">
+    <name>Dijon z24034</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.296551" lon="5.052118">
+    <name>Longvic z24032</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.450944" lon="4.118295">
+    <name>Paray-le-Monial z23996</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.365234" lon="4.23251">
     <name>Saint-Julien-de-Civry z23771</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
@@ -3357,7 +3555,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.30988" lon="5.00191">
+  <wpt lat="47.310075" lon="5.002336">
     <name>Dijon z2829</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
     <extensions>
@@ -3564,7 +3762,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.30401" lon="5.01103">
+  <wpt lat="47.303987" lon="5.010975">
     <name>Dijon z2779</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
     <extensions>
@@ -3906,7 +4104,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.49003" lon="3.90932">
+  <wpt lat="47.490011" lon="3.909325">
     <name>Avallon z274</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
     <extensions>

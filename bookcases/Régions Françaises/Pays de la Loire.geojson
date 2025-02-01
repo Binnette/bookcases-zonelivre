@@ -6,6 +6,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.046094,
+          47.096404
+        ]
+      },
+      "properties": {
+        "id": "24295",
+        "name": "La Bernerie-en-Retz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.749372,
+          47.009549
+        ]
+      },
+      "properties": {
+        "id": "24245",
+        "name": "Maulevrier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.417282,
+          47.086707
+        ]
+      },
+      "properties": {
+        "id": "24155",
+        "name": "Cléré-sur-Layon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.264109,
+          47.943424
+        ]
+      },
+      "properties": {
+        "id": "24021",
+        "name": "Ruaudin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.550421,
+          47.125182
+        ]
+      },
+      "properties": {
+        "id": "24013",
+        "name": "Saint-Hilaire-du-Bois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.425015,
+          46.783872
+        ]
+      },
+      "properties": {
+        "id": "23968",
+        "name": "Bellevigny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.597929,
           47.229463
         ]

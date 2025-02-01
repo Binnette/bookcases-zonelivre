@@ -1,5 +1,131 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="50.97938" lon="2.580301">
+    <name>Hondschoote z24288</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.98142" lon="2.586116">
+    <name>Hondschoote z24286</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.015073" lon="2.549019">
+    <name>Ghyvelde z24284</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.982506" lon="1.967162">
+    <name>Marck z24282</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.924562" lon="2.054811">
+    <name>Nouvelle-Église z24280</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.894258" lon="2.251358">
+    <name>Merckeghem z24278</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.916081" lon="2.273808">
+    <name>Looberghe z24275</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.927883" lon="2.330483">
+    <name>Pitgam z24273</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.020008" lon="2.346375">
+    <name>Dunkerque z24271</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.071415" lon="2.525635">
+    <name>Bray-Dunes z24269</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.026026" lon="2.391358">
+    <name>Coudekerque-Branche z24267</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.463237" lon="2.812833">
+    <name>Coudun z24151</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.50853" lon="2.825289">
+    <name>Marest-sur-Matz z24149</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.525837" lon="2.816743">
+    <name>Élincourt-Sainte-Marguerite z24146</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="50.613356" lon="3.013542">
     <name>Loos z23923</name>
     <type>ZoneLivre Hauts-de-France</type>
@@ -1593,7 +1719,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.97207" lon="2.43777">
+  <wpt lat="50.970691" lon="2.438933">
     <name>Bergues z9269</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -1602,7 +1728,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.96642" lon="2.43209">
+  <wpt lat="50.966404" lon="2.432192">
     <name>Bergues z9267</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -1611,7 +1737,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.96817" lon="2.43262">
+  <wpt lat="50.968157" lon="2.432627">
     <name>Bergues z9265</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -1620,7 +1746,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.88024" lon="2.4661">
+  <wpt lat="50.88025" lon="2.466109">
     <name>Wormhout z9263</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -2691,15 +2817,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.62269" lon="3.10089">
-    <name>Hellemmes-Lille z4693</name>
-    <type>ZoneLivre Hauts-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.89348" lon="2.29786">
     <name>Amiens z4593</name>
     <type>ZoneLivre Hauts-de-France</type>
@@ -3303,15 +3420,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.6142" lon="3.11292">
-    <name>Lezennes z2914</name>
-    <type>ZoneLivre Hauts-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.63733" lon="3.12748">
     <name>Villeneuve-d'Ascq z2912</name>
     <type>ZoneLivre Hauts-de-France</type>
@@ -3501,7 +3609,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="51.01777" lon="2.38104">
+  <wpt lat="51.017499" lon="2.381155">
     <name>Coudekerque-Branche z2569</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -3510,7 +3618,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="51.02293" lon="2.38634">
+  <wpt lat="51.022907" lon="2.386308">
     <name>Coudekerque-Branche z2567</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -3519,7 +3627,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="51.0081" lon="2.38419">
+  <wpt lat="51.007933" lon="2.382504">
     <name>Coudekerque-Branche z2563</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -3528,7 +3636,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="51.02822" lon="2.39889">
+  <wpt lat="51.028141" lon="2.398879">
     <name>Coudekerque-Branche z2561</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -3537,7 +3645,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="51.02048" lon="2.3977">
+  <wpt lat="51.02047" lon="2.397664">
     <name>Coudekerque-Branche z2557</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -3546,7 +3654,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="51.02066" lon="2.37088">
+  <wpt lat="51.020865" lon="2.370834">
     <name>Coudekerque-Branche z2555</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>

@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.703624" lon="2.165063">
+    <name>Bures-sur-Yvette z24292</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.822971" lon="2.548399">
+    <name>Villiers-sur-Marne z24240</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.700538" lon="2.54035">
+    <name>Mandres-les-Roses z24030</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="49.018294" lon="2.091029">
     <name>Éragny z23786</name>
     <type>ZoneLivre Île-de-France</type>
@@ -1152,7 +1179,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.62966" lon="2.8024">
+  <wpt lat="48.629837" lon="2.802061">
     <name>Guignes z18437</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1973,15 +2000,6 @@
   </wpt>
   <wpt lat="48.58365" lon="2.80582">
     <name>Champeaux z15910</name>
-    <type>ZoneLivre Île-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.6832" lon="2.92324">
-    <name>Bernay-Vilbert z15892</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -4815,7 +4833,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.81129" lon="2.143">
+  <wpt lat="48.811292" lon="2.142996">
     <name>Versailles z4055</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>

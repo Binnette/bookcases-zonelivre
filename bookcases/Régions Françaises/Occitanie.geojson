@@ -6,6 +6,132 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.901879,
+          43.579983
+        ]
+      },
+      "properties": {
+        "id": "24290",
+        "name": "Lattes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.577541,
+          44.340083
+        ]
+      },
+      "properties": {
+        "id": "24144",
+        "name": "Le Monastère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.663152,
+          43.999817
+        ]
+      },
+      "properties": {
+        "id": "24121",
+        "name": "Saint-André-de-Majencoules"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.360223,
+          43.841033
+        ]
+      },
+      "properties": {
+        "id": "24019",
+        "name": "Nîmes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.997047,
+          44.022591
+        ]
+      },
+      "properties": {
+        "id": "24010",
+        "name": "Tornac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.955282,
+          43.989163
+        ]
+      },
+      "properties": {
+        "id": "24008",
+        "name": "Durfort-et-Saint-Martin-de-Sossenac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.60958,
+          43.992371
+        ]
+      },
+      "properties": {
+        "id": "24006",
+        "name": "Le Vigan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.956685,
+          43.938172
+        ]
+      },
+      "properties": {
+        "id": "24004",
+        "name": "Sauve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.001475,
+          43.91052
+        ]
+      },
+      "properties": {
+        "id": "24001",
+        "name": "Quissac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.826555,
           43.641308
         ]
@@ -202,20 +328,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.01516,
-          44.21996
-        ]
-      },
-      "properties": {
-        "id": "23117",
-        "name": "La Grand-Combe"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.086587,
           43.108924
         ]
@@ -335,20 +447,6 @@
       "properties": {
         "id": "22725",
         "name": "Gruissan"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.853785,
-          43.965384
-        ]
-      },
-      "properties": {
-        "id": "22722",
-        "name": "Saint-Hippolyte-du-Fort"
       }
     },
     {
@@ -2008,20 +2106,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.02016,
-          44.04898
-        ]
-      },
-      "properties": {
-        "id": "16590",
-        "name": "Boisset-et-Gaujac"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.623836,
           43.676511
         ]
@@ -3366,20 +3450,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.808,
-          43.85421
-        ]
-      },
-      "properties": {
-        "id": "13982",
-        "name": "Lisle-sur-Tarn"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.13939,
           43.95039
         ]
@@ -3954,8 +4024,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.93428,
-          42.69821
+          2.934296,
+          42.698201
         ]
       },
       "properties": {
@@ -6264,8 +6334,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.91584,
-          42.69619
+          2.91588,
+          42.696084
         ]
       },
       "properties": {

@@ -6,6 +6,314 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.0566,
+          47.340631
+        ]
+      },
+      "properties": {
+        "id": "24077",
+        "name": "Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.050471,
+          47.317178
+        ]
+      },
+      "properties": {
+        "id": "24075",
+        "name": "Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.04943,
+          47.317849
+        ]
+      },
+      "properties": {
+        "id": "24073",
+        "name": "Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.050549,
+          47.318254
+        ]
+      },
+      "properties": {
+        "id": "24071",
+        "name": "Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.001448,
+          47.293643
+        ]
+      },
+      "properties": {
+        "id": "24069",
+        "name": "Chenôve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.007395,
+          47.301628
+        ]
+      },
+      "properties": {
+        "id": "24067",
+        "name": "Chenôve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.018542,
+          47.306597
+        ]
+      },
+      "properties": {
+        "id": "24063",
+        "name": "Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.908493,
+          47.318552
+        ]
+      },
+      "properties": {
+        "id": "24060",
+        "name": "Velars-sur-Ouche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.000061,
+          47.316896
+        ]
+      },
+      "properties": {
+        "id": "24058",
+        "name": "Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.037092,
+          47.302603
+        ]
+      },
+      "properties": {
+        "id": "24055",
+        "name": "Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.065475,
+          47.316154
+        ]
+      },
+      "properties": {
+        "id": "24053",
+        "name": "Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.023641,
+          47.349587
+        ]
+      },
+      "properties": {
+        "id": "24051",
+        "name": "Fontaine-lès-Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.031964,
+          47.347837
+        ]
+      },
+      "properties": {
+        "id": "24049",
+        "name": "Fontaine-Lès-Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.025102,
+          47.351619
+        ]
+      },
+      "properties": {
+        "id": "24046",
+        "name": "Fontaine-Lès-Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.031521,
+          47.314895
+        ]
+      },
+      "properties": {
+        "id": "24044",
+        "name": "Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.017568,
+          47.345035
+        ]
+      },
+      "properties": {
+        "id": "24042",
+        "name": "Fontaine-lès-Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.022174,
+          47.342412
+        ]
+      },
+      "properties": {
+        "id": "24040",
+        "name": "Fontaine-lès-Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.021691,
+          47.340884
+        ]
+      },
+      "properties": {
+        "id": "24038",
+        "name": "Fontaine-lès-Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.022249,
+          47.339163
+        ]
+      },
+      "properties": {
+        "id": "24036",
+        "name": "Fontaine-lès-Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.033112,
+          47.333244
+        ]
+      },
+      "properties": {
+        "id": "24034",
+        "name": "Dijon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.052118,
+          47.296551
+        ]
+      },
+      "properties": {
+        "id": "24032",
+        "name": "Longvic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.118295,
+          46.450944
+        ]
+      },
+      "properties": {
+        "id": "23996",
+        "name": "Paray-le-Monial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.23251,
           46.365234
         ]
@@ -5228,8 +5536,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.00191,
-          47.30988
+          5.002336,
+          47.310075
         ]
       },
       "properties": {
@@ -5550,8 +5858,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.01103,
-          47.30401
+          5.010975,
+          47.303987
         ]
       },
       "properties": {
@@ -6082,8 +6390,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.90932,
-          47.49003
+          3.909325,
+          47.490011
         ]
       },
       "properties": {

@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.257368,
+          45.766019
+        ]
+      },
+      "properties": {
+        "id": "23966",
+        "name": "Faverges-Seythenex"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.709846,
+          44.692294
+        ]
+      },
+      "properties": {
+        "id": "23964",
+        "name": "Saint-Lager-Bressac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.065153,
           46.013856
         ]

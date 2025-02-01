@@ -6,6 +6,202 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.580301,
+          50.97938
+        ]
+      },
+      "properties": {
+        "id": "24288",
+        "name": "Hondschoote"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.586116,
+          50.98142
+        ]
+      },
+      "properties": {
+        "id": "24286",
+        "name": "Hondschoote"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.549019,
+          51.015073
+        ]
+      },
+      "properties": {
+        "id": "24284",
+        "name": "Ghyvelde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.967162,
+          50.982506
+        ]
+      },
+      "properties": {
+        "id": "24282",
+        "name": "Marck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.054811,
+          50.924562
+        ]
+      },
+      "properties": {
+        "id": "24280",
+        "name": "Nouvelle-Église"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.251358,
+          50.894258
+        ]
+      },
+      "properties": {
+        "id": "24278",
+        "name": "Merckeghem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.273808,
+          50.916081
+        ]
+      },
+      "properties": {
+        "id": "24275",
+        "name": "Looberghe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.330483,
+          50.927883
+        ]
+      },
+      "properties": {
+        "id": "24273",
+        "name": "Pitgam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346375,
+          51.020008
+        ]
+      },
+      "properties": {
+        "id": "24271",
+        "name": "Dunkerque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.525635,
+          51.071415
+        ]
+      },
+      "properties": {
+        "id": "24269",
+        "name": "Bray-Dunes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.391358,
+          51.026026
+        ]
+      },
+      "properties": {
+        "id": "24267",
+        "name": "Coudekerque-Branche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.812833,
+          49.463237
+        ]
+      },
+      "properties": {
+        "id": "24151",
+        "name": "Coudun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.825289,
+          49.50853
+        ]
+      },
+      "properties": {
+        "id": "24149",
+        "name": "Marest-sur-Matz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.816743,
+          49.525837
+        ]
+      },
+      "properties": {
+        "id": "24146",
+        "name": "Élincourt-Sainte-Marguerite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.013542,
           50.613356
         ]
@@ -2484,8 +2680,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.43777,
-          50.97207
+          2.438933,
+          50.970691
         ]
       },
       "properties": {
@@ -2498,8 +2694,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.43209,
-          50.96642
+          2.432192,
+          50.966404
         ]
       },
       "properties": {
@@ -2512,8 +2708,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.43262,
-          50.96817
+          2.432627,
+          50.968157
         ]
       },
       "properties": {
@@ -2526,8 +2722,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4661,
-          50.88024
+          2.466109,
+          50.88025
         ]
       },
       "properties": {
@@ -4192,20 +4388,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.10089,
-          50.62269
-        ]
-      },
-      "properties": {
-        "id": "4693",
-        "name": "Hellemmes-Lille"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.29786,
           49.89348
         ]
@@ -5144,20 +5326,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.11292,
-          50.6142
-        ]
-      },
-      "properties": {
-        "id": "2914",
-        "name": "Lezennes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.12748,
           50.63733
         ]
@@ -5452,8 +5620,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.38104,
-          51.01777
+          2.381155,
+          51.017499
         ]
       },
       "properties": {
@@ -5466,8 +5634,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.38634,
-          51.02293
+          2.386308,
+          51.022907
         ]
       },
       "properties": {
@@ -5480,8 +5648,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.38419,
-          51.0081
+          2.382504,
+          51.007933
         ]
       },
       "properties": {
@@ -5494,8 +5662,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.39889,
-          51.02822
+          2.398879,
+          51.028141
         ]
       },
       "properties": {
@@ -5508,8 +5676,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3977,
-          51.02048
+          2.397664,
+          51.02047
         ]
       },
       "properties": {
@@ -5522,8 +5690,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.37088,
-          51.02066
+          2.370834,
+          51.020865
         ]
       },
       "properties": {

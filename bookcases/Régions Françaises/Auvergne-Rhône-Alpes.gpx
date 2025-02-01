@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.766019" lon="6.257368">
+    <name>Faverges-Seythenex z23966</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.692294" lon="4.709846">
+    <name>Saint-Lager-Bressac z23964</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.013856" lon="3.065153">
     <name>Montcel z23929</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>

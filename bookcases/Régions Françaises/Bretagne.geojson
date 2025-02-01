@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.66382,
+          48.44859
+        ]
+      },
+      "properties": {
+        "id": "24299",
+        "name": "Cuguen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.706987,
+          48.041062
+        ]
+      },
+      "properties": {
+        "id": "24297",
+        "name": "Chartres-de-Bretagne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.772286,
           48.063276
         ]

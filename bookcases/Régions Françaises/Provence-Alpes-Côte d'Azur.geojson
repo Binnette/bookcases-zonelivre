@@ -6,6 +6,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.007818,
+          43.642067
+        ]
+      },
+      "properties": {
+        "id": "24237",
+        "name": "Valbonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.871468,
+          43.688882
+        ]
+      },
+      "properties": {
+        "id": "24079",
+        "name": "Mouriès"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.915218,
+          43.69374
+        ]
+      },
+      "properties": {
+        "id": "23991",
+        "name": "Saint-Julien (Var)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.969724,
+          43.61962
+        ]
+      },
+      "properties": {
+        "id": "23956",
+        "name": "Mouans-Sartoux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.940455,
+          43.58425
+        ]
+      },
+      "properties": {
+        "id": "23954",
+        "name": "La Roquette-sur-Siagne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.963931,
           44.538003
         ]
@@ -110,7 +180,7 @@
       },
       "properties": {
         "id": "23528",
-        "name": ""
+        "name": "Jonquières"
       }
     },
     {
@@ -594,8 +664,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.20309,
-          43.75584
+          5.202922,
+          43.755818
         ]
       },
       "properties": {

@@ -1,5 +1,50 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.642067" lon="7.007818">
+    <name>Valbonne z24237</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.688882" lon="4.871468">
+    <name>Mouriès z24079</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.69374" lon="5.915218">
+    <name>Saint-Julien (Var) z23991</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.61962" lon="6.969724">
+    <name>Mouans-Sartoux z23956</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.58425" lon="6.940455">
+    <name>La Roquette-sur-Siagne z23954</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.538003" lon="5.963931">
     <name>Manteyer z23904</name>
     <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
@@ -64,7 +109,7 @@
     </extensions>
   </wpt>
   <wpt lat="44.113463" lon="4.901713">
-    <name>z23528</name>
+    <name>Jonquières z23528</name>
     <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -378,7 +423,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.75584" lon="5.20309">
+  <wpt lat="43.755818" lon="5.202922">
     <name>Mérindol z23421</name>
     <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
     <extensions>
