@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.417475,
+          44.966206
+        ]
+      },
+      "properties": {
+        "id": "24433",
+        "name": "La Chapelle-en-Vercors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.257368,
           45.766019
         ]

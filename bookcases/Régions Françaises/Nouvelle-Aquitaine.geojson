@@ -6,6 +6,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.324016,
+          46.549109
+        ]
+      },
+      "properties": {
+        "id": "24426",
+        "name": "Saint-Benoît"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.771591,
+          43.358954
+        ]
+      },
+      "properties": {
+        "id": "24391",
+        "name": "Hendaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.350296,
+          45.794055
+        ]
+      },
+      "properties": {
+        "id": "24337",
+        "name": "Agris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.339208,
+          45.786133
+        ]
+      },
+      "properties": {
+        "id": "24334",
+        "name": "Agris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.326221,
+          45.793595
+        ]
+      },
+      "properties": {
+        "id": "24331",
+        "name": "La Rochette"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.211457,
+          45.861312
+        ]
+      },
+      "properties": {
+        "id": "24328",
+        "name": "Puyréaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.387805,
           46.587021
         ]
@@ -7342,20 +7426,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.05536,
-          43.72499
-        ]
-      },
-      "properties": {
-        "id": "16696",
-        "name": "Saint-Paul-lès-Dax"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.46282,
           43.52555
         ]
@@ -10912,8 +10982,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.78387,
-          43.37122
+          -1.780362,
+          43.370408
         ]
       },
       "properties": {

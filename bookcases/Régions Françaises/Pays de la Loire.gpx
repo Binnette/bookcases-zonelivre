@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.396339" lon="-0.451325">
+    <name>Saint-Jean-des-Mauvret z24389</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.045742" lon="-0.900243">
+    <name>Cholet z24324</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.096404" lon="-2.046094">
     <name>La Bernerie-en-Retz z24295</name>
     <type>ZoneLivre Pays de la Loire</type>
@@ -2466,7 +2484,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.64421" lon="-0.80609">
+  <wpt lat="46.64421" lon="-0.806205">
     <name>Saint-Maurice-le-Girard z10808</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
@@ -4043,15 +4061,6 @@
   </wpt>
   <wpt lat="47.060234" lon="-0.874143">
     <name>Cholet z1700</name>
-    <type>ZoneLivre Pays de la Loire</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.061875" lon="-0.886462">
-    <name>Cholet z1698</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>

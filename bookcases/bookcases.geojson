@@ -6,6 +6,342 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.417475,
+          44.966206
+        ]
+      },
+      "properties": {
+        "id": "24433",
+        "name": "La Chapelle-en-Vercors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.383057,
+          47.556303
+        ]
+      },
+      "properties": {
+        "id": "24430",
+        "name": "Marast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.324016,
+          46.549109
+        ]
+      },
+      "properties": {
+        "id": "24426",
+        "name": "Saint-Benoît"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36502,
+          43.84505
+        ]
+      },
+      "properties": {
+        "id": "24423",
+        "name": "Nîmes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.113331,
+          49.377471
+        ]
+      },
+      "properties": {
+        "id": "24421",
+        "name": "Trouville-sur-Mer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118902,
+          49.338088
+        ]
+      },
+      "properties": {
+        "id": "24419",
+        "name": "Bonneville-sur-Touques"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.448173,
+          49.046863
+        ]
+      },
+      "properties": {
+        "id": "24397",
+        "name": "Coutances"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.446891,
+          49.047508
+        ]
+      },
+      "properties": {
+        "id": "24394",
+        "name": "Coutances"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.771591,
+          43.358954
+        ]
+      },
+      "properties": {
+        "id": "24391",
+        "name": "Hendaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.451325,
+          47.396339
+        ]
+      },
+      "properties": {
+        "id": "24389",
+        "name": "Saint-Jean-des-Mauvret"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.555178,
+          48.824712
+        ]
+      },
+      "properties": {
+        "id": "24385",
+        "name": "Villiers-sur-Marne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.572965,
+          49.527353
+        ]
+      },
+      "properties": {
+        "id": "24382",
+        "name": "La Frénaye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.483136,
+          49.556703
+        ]
+      },
+      "properties": {
+        "id": "24379",
+        "name": "Gruchet-le-Valasse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.50587,
+          49.52359
+        ]
+      },
+      "properties": {
+        "id": "24377",
+        "name": "Saint-Jean-de-Folleville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.412092,
+          49.507551
+        ]
+      },
+      "properties": {
+        "id": "24375",
+        "name": "La Cerlangue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.35834,
+          49.52869
+        ]
+      },
+      "properties": {
+        "id": "24372",
+        "name": "Saint-Romain-de-Colbosc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.331907,
+          49.520432
+        ]
+      },
+      "properties": {
+        "id": "24370",
+        "name": "Saint-Aubin-Routot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.252511,
+          49.528567
+        ]
+      },
+      "properties": {
+        "id": "24368",
+        "name": "Saint-Laurent-de-Brèvedent"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.189345,
+          49.508995
+        ]
+      },
+      "properties": {
+        "id": "24364",
+        "name": "Harfleur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.350296,
+          45.794055
+        ]
+      },
+      "properties": {
+        "id": "24337",
+        "name": "Agris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.339208,
+          45.786133
+        ]
+      },
+      "properties": {
+        "id": "24334",
+        "name": "Agris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.326221,
+          45.793595
+        ]
+      },
+      "properties": {
+        "id": "24331",
+        "name": "La Rochette"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.211457,
+          45.861312
+        ]
+      },
+      "properties": {
+        "id": "24328",
+        "name": "Puyréaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.900243,
+          47.045742
+        ]
+      },
+      "properties": {
+        "id": "24324",
+        "name": "Cholet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.66382,
           48.44859
         ]
@@ -28552,8 +28888,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.72858,
-          48.7457
+          2.728587,
+          48.745726
         ]
       },
       "properties": {
@@ -29168,8 +29504,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.43587,
-          48.91648
+          -1.435891,
+          48.916478
         ]
       },
       "properties": {
@@ -33879,20 +34215,6 @@
       "properties": {
         "id": "16698",
         "name": "Mont-de-Marsan"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.05536,
-          43.72499
-        ]
-      },
-      "properties": {
-        "id": "16696",
-        "name": "Saint-Paul-lès-Dax"
       }
     },
     {
@@ -41768,8 +42090,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.21482,
-          48.91774
+          -0.214834,
+          48.917707
         ]
       },
       "properties": {
@@ -47662,8 +47984,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.68442,
-          48.51053
+          2.684411,
+          48.510508
         ]
       },
       "properties": {
@@ -49482,8 +49804,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.39309,
-          48.89392
+          -1.393113,
+          48.893924
         ]
       },
       "properties": {
@@ -50602,8 +50924,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.71033,
-          48.83719
+          2.710396,
+          48.837164
         ]
       },
       "properties": {
@@ -54298,7 +54620,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.80609,
+          -0.806205,
           46.64421
         ]
       },
@@ -58694,13 +59016,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.09542,
-          47.88663
+          3.095468,
+          47.886629
         ]
       },
       "properties": {
         "id": "8954",
-        "name": "Charny"
+        "name": "Charny (89)"
       }
     },
     {
@@ -64000,8 +64322,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.8883,
-          48.93554
+          2.888283,
+          48.935539
         ]
       },
       "properties": {
@@ -64406,8 +64728,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.78387,
-          43.37122
+          -1.780362,
+          43.370408
         ]
       },
       "properties": {
@@ -66800,8 +67122,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.03254,
-          48.9872
+          -1.032559,
+          48.987196
         ]
       },
       "properties": {
@@ -67934,8 +68256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.99118,
-          48.99147
+          -0.991173,
+          48.991463
         ]
       },
       "properties": {
@@ -69250,8 +69572,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.47661,
-          49.03545
+          -1.476596,
+          49.035459
         ]
       },
       "properties": {
@@ -70832,20 +71154,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.515392,
-          49.270157
-        ]
-      },
-      "properties": {
-        "id": "4595",
-        "name": "Lantheuil"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.29786,
           49.89348
         ]
@@ -70958,8 +71266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.6504,
-          48.5499
+          2.651267,
+          48.549946
         ]
       },
       "properties": {
@@ -73142,8 +73450,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.67238,
-          48.84472
+          2.672371,
+          48.844726
         ]
       },
       "properties": {
@@ -73170,8 +73478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.71303,
-          48.83658
+          2.712979,
+          48.836518
         ]
       },
       "properties": {
@@ -73184,8 +73492,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.75173,
-          48.83825
+          2.751724,
+          48.838243
         ]
       },
       "properties": {
@@ -73198,8 +73506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.87828,
-          48.96114
+          2.878265,
+          48.961133
         ]
       },
       "properties": {
@@ -73212,8 +73520,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.87874,
-          48.95502
+          2.87878,
+          48.954736
         ]
       },
       "properties": {
@@ -73226,8 +73534,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.67505,
-          49.05534
+          2.675048,
+          49.055329
         ]
       },
       "properties": {
@@ -73380,8 +73688,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.73555,
-          48.74035
+          2.734842,
+          48.741184
         ]
       },
       "properties": {
@@ -73394,8 +73702,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.84214,
-          48.66467
+          2.842146,
+          48.664666
         ]
       },
       "properties": {
@@ -74710,8 +75018,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.55117,
-          48.63128
+          2.551175,
+          48.631171
         ]
       },
       "properties": {
@@ -74724,8 +75032,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.55201,
-          48.63302
+          2.551982,
+          48.633004
         ]
       },
       "properties": {
@@ -74738,8 +75046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5524,
-          48.60438
+          2.55221,
+          48.604333
         ]
       },
       "properties": {
@@ -74752,8 +75060,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.56934,
-          48.60142
+          2.56909,
+          48.60114
         ]
       },
       "properties": {
@@ -74766,8 +75074,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5832,
-          48.59545
+          2.58349,
+          48.595414
         ]
       },
       "properties": {
@@ -74780,8 +75088,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.57913,
-          48.59629
+          2.579057,
+          48.596356
         ]
       },
       "properties": {
@@ -74794,8 +75102,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.58286,
-          48.5755
+          2.582771,
+          48.575498
         ]
       },
       "properties": {
@@ -74808,8 +75116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5825,
-          48.58129
+          2.582069,
+          48.581538
         ]
       },
       "properties": {
@@ -74822,8 +75130,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.6608,
-          48.54035
+          2.660859,
+          48.540343
         ]
       },
       "properties": {
@@ -74836,13 +75144,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.65597,
-          48.5204
+          2.656039,
+          48.520399
         ]
       },
       "properties": {
         "id": "3966",
-        "name": "La Rochette"
+        "name": "La Rochette (77)"
       }
     },
     {
@@ -74850,8 +75158,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7635,
-          48.43044
+          2.763507,
+          48.430436
         ]
       },
       "properties": {
@@ -74864,8 +75172,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.78278,
-          48.40938
+          2.782789,
+          48.409359
         ]
       },
       "properties": {
@@ -74878,8 +75186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.78971,
-          48.40135
+          2.789705,
+          48.40127
         ]
       },
       "properties": {
@@ -74892,8 +75200,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.80712,
-          48.38879
+          2.807103,
+          48.388784
         ]
       },
       "properties": {
@@ -74920,8 +75228,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.25576,
-          48.52975
+          3.255979,
+          48.529576
         ]
       },
       "properties": {
@@ -89004,20 +89312,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.886462,
-          47.061875
-        ]
-      },
-      "properties": {
-        "id": "1698",
-        "name": "Cholet"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.86772,
           47.19545
         ]
@@ -90572,8 +90866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.35969,
-          49.49512
+          0.359695,
+          49.495117
         ]
       },
       "properties": {
@@ -92154,13 +92448,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.56987,
-          48.89686
+          -1.569833,
+          48.896855
         ]
       },
       "properties": {
         "id": "1117",
-        "name": "Bréhal"
+        "name": "Saint-Martin de Bréhal"
       }
     },
     {
@@ -92168,8 +92462,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.51251,
-          48.89853
+          -1.512506,
+          48.898532
         ]
       },
       "properties": {
@@ -92224,8 +92518,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.44497,
-          49.03901
+          -1.444978,
+          49.039014
         ]
       },
       "properties": {
@@ -92280,8 +92574,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.32686,
-          48.8645
+          -1.3269,
+          48.864494
         ]
       },
       "properties": {
@@ -92406,8 +92700,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.33663,
-          49.20689
+          -0.336636,
+          49.206897
         ]
       },
       "properties": {
@@ -93148,8 +93442,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.191,
-          48.91612
+          -1.191008,
+          48.916114
         ]
       },
       "properties": {
@@ -93162,8 +93456,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.05956,
-          49.06139
+          -1.059558,
+          49.061384
         ]
       },
       "properties": {
@@ -93960,8 +94254,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.62967,
-          48.9152
+          2.629659,
+          48.915197
         ]
       },
       "properties": {
@@ -93974,8 +94268,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.63115,
-          48.91535
+          2.631169,
+          48.915354
         ]
       },
       "properties": {
@@ -97320,8 +97614,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.72615,
-          48.41614
+          2.725996,
+          48.415815
         ]
       },
       "properties": {

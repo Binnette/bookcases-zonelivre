@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.451325,
+          47.396339
+        ]
+      },
+      "properties": {
+        "id": "24389",
+        "name": "Saint-Jean-des-Mauvret"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.900243,
+          47.045742
+        ]
+      },
+      "properties": {
+        "id": "24324",
+        "name": "Cholet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.046094,
           47.096404
         ]
@@ -3842,7 +3870,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.80609,
+          -0.806205,
           46.64421
         ]
       },
@@ -6298,20 +6326,6 @@
       },
       "properties": {
         "id": "1700",
-        "name": "Cholet"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.886462,
-          47.061875
-        ]
-      },
-      "properties": {
-        "id": "1698",
         "name": "Cholet"
       }
     },

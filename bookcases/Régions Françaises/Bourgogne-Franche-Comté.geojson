@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.383057,
+          47.556303
+        ]
+      },
+      "properties": {
+        "id": "24430",
+        "name": "Marast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.0566,
           47.340631
         ]
@@ -4248,13 +4262,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.09542,
-          47.88663
+          3.095468,
+          47.886629
         ]
       },
       "properties": {
         "id": "8954",
-        "name": "Charny"
+        "name": "Charny (89)"
       }
     },
     {

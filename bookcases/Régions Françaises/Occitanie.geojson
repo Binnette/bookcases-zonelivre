@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.36502,
+          43.84505
+        ]
+      },
+      "properties": {
+        "id": "24423",
+        "name": "Nîmes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.901879,
           43.579983
         ]
