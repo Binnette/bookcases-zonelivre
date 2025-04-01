@@ -3321,7 +3321,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.64574" lon="-1.1254">
+  <wpt lat="48.645739" lon="-1.125401">
     <name>Isigny-le-Buat z13019</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4599,7 +4599,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.31968" lon="-1.10212">
+  <wpt lat="49.319674" lon="-1.102136">
     <name>Isigny-sur-Mer z6500</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7137,7 +7137,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.33632" lon="-0.6963">
+  <wpt lat="49.336311" lon="-0.696301">
     <name>Longues-sur-Mer z861</name>
     <type>ZoneLivre Normandie</type>
     <extensions>

@@ -1,5 +1,59 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="44.909172" lon="-0.429915">
+    <name>Saint-Loubès z24453</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.683096" lon="-0.053515">
+    <name>Sarragachies z24451</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.670081" lon="3.28267">
+    <name>Champcenest z24447</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.592295" lon="2.111277">
+    <name>Sémalens z24445</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.808581" lon="0.221017">
+    <name>Aussac-Vadalle z24442</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.506361" lon="-2.812379">
+    <name>Ploufragan z24440</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.966206" lon="5.417475">
     <name>La Chapelle-en-Vercors z24433</name>
     <type>ZoneLivre</type>
@@ -17892,7 +17946,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.90736" lon="-0.42771">
+  <wpt lat="44.907362" lon="-0.427721">
     <name>Saint-Loubès z18245</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -31266,7 +31320,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.64574" lon="-1.1254">
+  <wpt lat="48.645739" lon="-1.125401">
     <name>Isigny-le-Buat z13019</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -42651,7 +42705,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.31968" lon="-1.10212">
+  <wpt lat="49.319674" lon="-1.102136">
     <name>Isigny-sur-Mer z6500</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -60372,7 +60426,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.33632" lon="-0.6963">
+  <wpt lat="49.336311" lon="-0.696301">
     <name>Longues-sur-Mer z861</name>
     <type>ZoneLivre</type>
     <extensions>

@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.28267,
+          48.670081
+        ]
+      },
+      "properties": {
+        "id": "24447",
+        "name": "Champcenest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.555178,
           48.824712
         ]

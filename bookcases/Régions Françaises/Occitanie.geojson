@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.053515,
+          43.683096
+        ]
+      },
+      "properties": {
+        "id": "24451",
+        "name": "Sarragachies"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.111277,
+          43.592295
+        ]
+      },
+      "properties": {
+        "id": "24445",
+        "name": "Sémalens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.36502,
           43.84505
         ]

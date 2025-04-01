@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.429915,
+          44.909172
+        ]
+      },
+      "properties": {
+        "id": "24453",
+        "name": "Saint-Loubès"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.221017,
+          45.808581
+        ]
+      },
+      "properties": {
+        "id": "24442",
+        "name": "Aussac-Vadalle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.324016,
           46.549109
         ]
@@ -5396,8 +5424,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.42771,
-          44.90736
+          -0.427721,
+          44.907362
         ]
       },
       "properties": {

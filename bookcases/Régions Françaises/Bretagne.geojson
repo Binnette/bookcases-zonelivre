@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.812379,
+          48.506361
+        ]
+      },
+      "properties": {
+        "id": "24440",
+        "name": "Ploufragan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.66382,
           48.44859
         ]
