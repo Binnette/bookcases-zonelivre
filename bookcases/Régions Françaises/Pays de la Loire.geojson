@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.826263,
+          47.26651
+        ]
+      },
+      "properties": {
+        "id": "24473",
+        "name": "Neuvy-en-Mauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.028077,
+          47.269376
+        ]
+      },
+      "properties": {
+        "id": "24471",
+        "name": "Montrevault-sur-Èvre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.451325,
           47.396339
         ]
@@ -7222,20 +7250,6 @@
       },
       "properties": {
         "id": "180",
-        "name": "Angers"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.56279,
-          47.47222
-        ]
-      },
-      "properties": {
-        "id": "178",
         "name": "Angers"
       }
     },

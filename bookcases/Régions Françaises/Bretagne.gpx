@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.11809" lon="-1.208577">
+    <name>Vitré z24468</name>
+    <type>ZoneLivre Bretagne</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.083421" lon="-1.098102">
+    <name>Mondevert z24465</name>
+    <type>ZoneLivre Bretagne</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.506361" lon="-2.812379">
     <name>Ploufragan z24440</name>
     <type>ZoneLivre Bretagne</type>
@@ -2664,15 +2682,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.73495" lon="-3.49973">
-    <name>Ploemeur z7278</name>
-    <type>ZoneLivre Bretagne</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.90681" lon="-4.04345">
     <name>Pleuven z7268</name>
     <type>ZoneLivre Bretagne</type>
@@ -3168,15 +3177,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.62776" lon="-3.1798">
-    <name>Erdeven z2220</name>
-    <type>ZoneLivre Bretagne</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.80574" lon="-3.27021">
     <name>Hennebont z2218</name>
     <type>ZoneLivre Bretagne</type>
@@ -3222,7 +3222,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.70219" lon="-3.43281">
+  <wpt lat="47.702132" lon="-3.432785">
     <name>Ploemeur z2208</name>
     <type>ZoneLivre Bretagne</type>
     <extensions>
@@ -3744,7 +3744,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.58006" lon="-3.82602">
+  <wpt lat="48.580057" lon="-3.826026">
     <name>Morlaix z2085</name>
     <type>ZoneLivre Bretagne</type>
     <extensions>

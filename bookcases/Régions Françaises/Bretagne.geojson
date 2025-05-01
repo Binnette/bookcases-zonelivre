@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.208577,
+          48.11809
+        ]
+      },
+      "properties": {
+        "id": "24468",
+        "name": "Vitré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.098102,
+          48.083421
+        ]
+      },
+      "properties": {
+        "id": "24465",
+        "name": "Mondevert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.812379,
           48.506361
         ]
@@ -4150,20 +4178,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.49973,
-          47.73495
-        ]
-      },
-      "properties": {
-        "id": "7278",
-        "name": "Ploemeur"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.04345,
           47.90681
         ]
@@ -4934,20 +4948,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.1798,
-          47.62776
-        ]
-      },
-      "properties": {
-        "id": "2220",
-        "name": "Erdeven"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.27021,
           47.80574
         ]
@@ -5018,8 +5018,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.43281,
-          47.70219
+          -3.432785,
+          47.702132
         ]
       },
       "properties": {
@@ -5830,8 +5830,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.82602,
-          48.58006
+          -3.826026,
+          48.580057
         ]
       },
       "properties": {

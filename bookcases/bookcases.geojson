@@ -6,6 +6,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.826263,
+          47.26651
+        ]
+      },
+      "properties": {
+        "id": "24473",
+        "name": "Neuvy-en-Mauges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.028077,
+          47.269376
+        ]
+      },
+      "properties": {
+        "id": "24471",
+        "name": "Montrevault-sur-Èvre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.208577,
+          48.11809
+        ]
+      },
+      "properties": {
+        "id": "24468",
+        "name": "Vitré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.098102,
+          48.083421
+        ]
+      },
+      "properties": {
+        "id": "24465",
+        "name": "Mondevert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.572874,
+          48.947967
+        ]
+      },
+      "properties": {
+        "id": "24463",
+        "name": "Cauville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.429915,
           44.909172
         ]
@@ -22378,20 +22448,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.00193,
-          44.03535
-        ]
-      },
-      "properties": {
-        "id": "19449",
-        "name": "Monteux"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.75972,
           48.96882
         ]
@@ -33438,8 +33494,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.66619,
-          48.5825
+          7.666132,
+          48.582511
         ]
       },
       "properties": {
@@ -35405,20 +35461,6 @@
       "properties": {
         "id": "16445",
         "name": "Combloux"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.6319,
-          45.9356
-        ]
-      },
-      "properties": {
-        "id": "16443",
-        "name": "Sallanches"
       }
     },
     {
@@ -53598,20 +53640,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.99389,
-          42.75447
-        ]
-      },
-      "properties": {
-        "id": "11342",
-        "name": "Torreilles"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.72516,
           43.10794
         ]
@@ -62278,20 +62306,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.89049,
-          45.70684
-        ]
-      },
-      "properties": {
-        "id": "8171",
-        "name": "Aix-les-Bains"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.92367,
           45.69062
         ]
@@ -65421,20 +65435,6 @@
       "properties": {
         "id": "7280",
         "name": "Lorient"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.49973,
-          47.73495
-        ]
-      },
-      "properties": {
-        "id": "7278",
-        "name": "Ploemeur"
       }
     },
     {
@@ -71546,8 +71546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.08962,
-          48.42907
+          0.088449,
+          48.429033
         ]
       },
       "properties": {
@@ -86092,20 +86092,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.1798,
-          47.62776
-        ]
-      },
-      "properties": {
-        "id": "2220",
-        "name": "Erdeven"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.27021,
           47.80574
         ]
@@ -86176,8 +86162,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.43281,
-          47.70219
+          -3.432785,
+          47.702132
         ]
       },
       "properties": {
@@ -86988,8 +86974,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.82602,
-          48.58006
+          -3.826026,
+          48.580057
         ]
       },
       "properties": {
@@ -98306,20 +98292,6 @@
       },
       "properties": {
         "id": "180",
-        "name": "Angers"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.56279,
-          47.47222
-        ]
-      },
-      "properties": {
-        "id": "178",
         "name": "Angers"
       }
     },

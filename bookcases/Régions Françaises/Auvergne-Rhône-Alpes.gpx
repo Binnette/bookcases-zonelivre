@@ -2313,15 +2313,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.9356" lon="6.6319">
-    <name>Sallanches z16443</name>
-    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.8212" lon="6.72803">
     <name>Les Contamines-Montjoie z16437</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
@@ -4763,15 +4754,6 @@
   </wpt>
   <wpt lat="45.69317" lon="5.91526">
     <name>Aix-les-Bains z8173</name>
-    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.70684" lon="5.89049">
-    <name>Aix-les-Bains z8171</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>

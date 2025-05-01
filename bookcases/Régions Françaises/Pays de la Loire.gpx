@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.26651" lon="-0.826263">
+    <name>Neuvy-en-Mauges z24473</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.269376" lon="-1.028077">
+    <name>Montrevault-sur-Èvre z24471</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.396339" lon="-0.451325">
     <name>Saint-Jean-des-Mauvret z24389</name>
     <type>ZoneLivre Pays de la Loire</type>
@@ -4637,15 +4655,6 @@
   </wpt>
   <wpt lat="47.45085" lon="-0.54434">
     <name>Angers z180</name>
-    <type>ZoneLivre Pays de la Loire</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.47222" lon="-0.56279">
-    <name>Angers z178</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>

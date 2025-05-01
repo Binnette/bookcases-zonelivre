@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.947967" lon="-0.572874">
+    <name>Cauville z24463</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="49.377471" lon="0.113331">
     <name>Trouville-sur-Mer z24421</name>
     <type>ZoneLivre Normandie</type>
@@ -5319,7 +5328,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.42907" lon="0.08962">
+  <wpt lat="48.429033" lon="0.088449">
     <name>Alençon z4545</name>
     <type>ZoneLivre Normandie</type>
     <extensions>

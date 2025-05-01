@@ -2628,15 +2628,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.75447" lon="2.99389">
-    <name>Torreilles z11342</name>
-    <type>ZoneLivre Occitanie</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.10794" lon="0.72516">
     <name>Saint-Gaudens z11340</name>
     <type>ZoneLivre Occitanie</type>

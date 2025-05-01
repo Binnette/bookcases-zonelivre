@@ -1026,15 +1026,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.03535" lon="5.00193">
-    <name>Monteux z19449</name>
-    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="43.59208" lon="4.94001">
     <name>Entressen z19389</name>
     <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>

@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.572874,
+          48.947967
+        ]
+      },
+      "properties": {
+        "id": "24463",
+        "name": "Cauville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.113331,
           49.377471
         ]
@@ -8280,8 +8294,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.08962,
-          48.42907
+          0.088449,
+          48.429033
         ]
       },
       "properties": {
