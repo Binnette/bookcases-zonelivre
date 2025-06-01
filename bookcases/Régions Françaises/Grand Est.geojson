@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.175776,
+          48.70213
+        ]
+      },
+      "properties": {
+        "id": "24548",
+        "name": "Nancy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.12664,
           47.807318
         ]

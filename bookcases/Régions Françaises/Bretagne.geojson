@@ -6,6 +6,132 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.424184,
+          47.73305
+        ]
+      },
+      "properties": {
+        "id": "24514",
+        "name": "Ploemeur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.18077,
+          48.511134
+        ]
+      },
+      "properties": {
+        "id": "24505",
+        "name": "Monthault"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.586049,
+          48.552584
+        ]
+      },
+      "properties": {
+        "id": "24492",
+        "name": "Sains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.514761,
+          48.108688
+        ]
+      },
+      "properties": {
+        "id": "24490",
+        "name": "Noyal-sur-Vilaine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.526448,
+          48.12023
+        ]
+      },
+      "properties": {
+        "id": "24487",
+        "name": "Noyal-sur-Vilaine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.721683,
+          47.978667
+        ]
+      },
+      "properties": {
+        "id": "24485",
+        "name": "Laillé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.786045,
+          48.150798
+        ]
+      },
+      "properties": {
+        "id": "24483",
+        "name": "Pacé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.914317,
+          48.443027
+        ]
+      },
+      "properties": {
+        "id": "24480",
+        "name": "Saint-Pierre de Plesguen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.800122,
+          48.503857
+        ]
+      },
+      "properties": {
+        "id": "24477",
+        "name": "Baguer-Morvan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.208577,
           48.11809
         ]

@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="51.041235" lon="2.403527">
+    <name>Dunkerque z24534</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="50.97938" lon="2.580301">
     <name>Hondschoote z24288</name>
     <type>ZoneLivre Hauts-de-France</type>
@@ -65,15 +74,6 @@
   </wpt>
   <wpt lat="50.927883" lon="2.330483">
     <name>Pitgam z24273</name>
-    <type>ZoneLivre Hauts-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="51.020008" lon="2.346375">
-    <name>Dunkerque z24271</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -3609,7 +3609,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="51.017499" lon="2.381155">
+  <wpt lat="51.017455" lon="2.381327">
     <name>Coudekerque-Branche z2569</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -3618,7 +3618,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="51.022907" lon="2.386308">
+  <wpt lat="51.022809" lon="2.386131">
     <name>Coudekerque-Branche z2567</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -3654,7 +3654,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="51.020865" lon="2.370834">
+  <wpt lat="51.020904" lon="2.370834">
     <name>Coudekerque-Branche z2555</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>

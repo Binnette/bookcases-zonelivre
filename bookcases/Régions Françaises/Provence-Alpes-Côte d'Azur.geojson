@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.124588,
+          43.34091
+        ]
+      },
+      "properties": {
+        "id": "24585",
+        "name": "Sainte-Anastasie-sur-Issole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.260547,
+          43.709242
+        ]
+      },
+      "properties": {
+        "id": "24510",
+        "name": "Nice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.007818,
           43.642067
         ]
@@ -3009,20 +3037,6 @@
       "properties": {
         "id": "5072",
         "name": "Mazaugues"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.05698,
-          43.40817
-        ]
-      },
-      "properties": {
-        "id": "4999",
-        "name": "Martigues"
       }
     },
     {

@@ -6,6 +6,482 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.14169,
+          45.797283
+        ]
+      },
+      "properties": {
+        "id": "24588",
+        "name": "Aixe-sur-Vienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.124588,
+          43.34091
+        ]
+      },
+      "properties": {
+        "id": "24585",
+        "name": "Sainte-Anastasie-sur-Issole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3813,
+          49.11855
+        ]
+      },
+      "properties": {
+        "id": "24583",
+        "name": "Saint-André-sur-Orne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.348234,
+          49.15254
+        ]
+      },
+      "properties": {
+        "id": "24580",
+        "name": "Ifs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.400459,
+          49.190543
+        ]
+      },
+      "properties": {
+        "id": "24558",
+        "name": "Caen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.882956,
+          47.235834
+        ]
+      },
+      "properties": {
+        "id": "24555",
+        "name": "Chemaudin et Vaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.89207,
+          47.220661
+        ]
+      },
+      "properties": {
+        "id": "24553",
+        "name": "Chemaudin et Vaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.894718,
+          47.226605
+        ]
+      },
+      "properties": {
+        "id": "24550",
+        "name": "Chemaudin et Vaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.175776,
+          48.70213
+        ]
+      },
+      "properties": {
+        "id": "24548",
+        "name": "Nancy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.379739,
+          49.177048
+        ]
+      },
+      "properties": {
+        "id": "24544",
+        "name": "Caen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.400971,
+          49.181954
+        ]
+      },
+      "properties": {
+        "id": "24541",
+        "name": "Caen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.403527,
+          51.041235
+        ]
+      },
+      "properties": {
+        "id": "24534",
+        "name": "Dunkerque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.624104,
+          47.771435
+        ]
+      },
+      "properties": {
+        "id": "24532",
+        "name": "Beaugency"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.905149,
+          43.862468
+        ]
+      },
+      "properties": {
+        "id": "24530",
+        "name": "Claret"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.376354,
+          47.067608
+        ]
+      },
+      "properties": {
+        "id": "24519",
+        "name": "Saint-Pierre-à-Champs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.641845,
+          48.083654
+        ]
+      },
+      "properties": {
+        "id": "24517",
+        "name": "Argentré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.424184,
+          47.73305
+        ]
+      },
+      "properties": {
+        "id": "24514",
+        "name": "Ploemeur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.068946,
+          49.04395
+        ]
+      },
+      "properties": {
+        "id": "24512",
+        "name": "Cergy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.260547,
+          43.709242
+        ]
+      },
+      "properties": {
+        "id": "24510",
+        "name": "Nice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.23645,
+          48.764048
+        ]
+      },
+      "properties": {
+        "id": "24508",
+        "name": "La Chaise-Baudouin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.18077,
+          48.511134
+        ]
+      },
+      "properties": {
+        "id": "24505",
+        "name": "Monthault"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.08818,
+          48.541746
+        ]
+      },
+      "properties": {
+        "id": "24503",
+        "name": "Les Loges-Marchis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.526826,
+          48.951449
+        ]
+      },
+      "properties": {
+        "id": "24501",
+        "name": "Tourneville-sur-Mer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.486083,
+          48.899219
+        ]
+      },
+      "properties": {
+        "id": "24499",
+        "name": "Chanteloup"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.308591,
+          48.698276
+        ]
+      },
+      "properties": {
+        "id": "24496",
+        "name": "Saint-Brice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.521479,
+          48.91295
+        ]
+      },
+      "properties": {
+        "id": "24494",
+        "name": "Bricqueville-sur-Mer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.586049,
+          48.552584
+        ]
+      },
+      "properties": {
+        "id": "24492",
+        "name": "Sains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.514761,
+          48.108688
+        ]
+      },
+      "properties": {
+        "id": "24490",
+        "name": "Noyal-sur-Vilaine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.526448,
+          48.12023
+        ]
+      },
+      "properties": {
+        "id": "24487",
+        "name": "Noyal-sur-Vilaine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.721683,
+          47.978667
+        ]
+      },
+      "properties": {
+        "id": "24485",
+        "name": "Laillé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.786045,
+          48.150798
+        ]
+      },
+      "properties": {
+        "id": "24483",
+        "name": "Pacé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.914317,
+          48.443027
+        ]
+      },
+      "properties": {
+        "id": "24480",
+        "name": "Saint-Pierre de Plesguen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.800122,
+          48.503857
+        ]
+      },
+      "properties": {
+        "id": "24477",
+        "name": "Baguer-Morvan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.057466,
+          43.53347
+        ]
+      },
+      "properties": {
+        "id": "24475",
+        "name": "Ladevèze-Ville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.826263,
           47.26651
         ]
@@ -671,20 +1147,6 @@
       "properties": {
         "id": "24273",
         "name": "Pitgam"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.346375,
-          51.020008
-        ]
-      },
-      "properties": {
-        "id": "24271",
-        "name": "Dunkerque"
       }
     },
     {
@@ -3688,8 +4150,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.33417,
-          49.17947
+          -1.334219,
+          49.179487
         ]
       },
       "properties": {
@@ -3899,7 +4361,7 @@
         "type": "Point",
         "coordinates": [
           -0.287801,
-          49.098227
+          49.098217
         ]
       },
       "properties": {
@@ -16806,8 +17268,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.55918,
-          47.46749
+          -0.55967,
+          47.467588
         ]
       },
       "properties": {
@@ -25010,8 +25472,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.55403,
-          47.45247
+          -0.554592,
+          47.451902
         ]
       },
       "properties": {
@@ -39752,8 +40214,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.35783,
-          48.68804
+          -1.357764,
+          48.688041
         ]
       },
       "properties": {
@@ -49734,8 +50196,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.07976,
-          48.97317
+          -0.07978,
+          48.973147
         ]
       },
       "properties": {
@@ -55544,20 +56006,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.25152,
-          48.82161
-        ]
-      },
-      "properties": {
-        "id": "9798",
-        "name": "Issy-les-Moulineaux"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.22142,
           48.8684
         ]
@@ -58876,8 +59324,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.07939,
-          48.89651
+          -0.079388,
+          48.896493
         ]
       },
       "properties": {
@@ -68872,20 +69320,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.05698,
-          43.40817
-        ]
-      },
-      "properties": {
-        "id": "4999",
-        "name": "Martigues"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.34366,
           43.15174
         ]
@@ -70524,20 +70958,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.25688,
-          45.82872
-        ]
-      },
-      "properties": {
-        "id": "4726",
-        "name": "Limoges"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.26257,
           45.82608
         ]
@@ -70853,20 +71273,6 @@
       "properties": {
         "id": "4658",
         "name": "Ennezat"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.25643,
-          45.83037
-        ]
-      },
-      "properties": {
-        "id": "4656",
-        "name": "Limoges"
       }
     },
     {
@@ -83992,8 +84398,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.381155,
-          51.017499
+          2.381327,
+          51.017455
         ]
       },
       "properties": {
@@ -84006,8 +84412,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.386308,
-          51.022907
+          2.386131,
+          51.022809
         ]
       },
       "properties": {
@@ -84063,7 +84469,7 @@
         "type": "Point",
         "coordinates": [
           2.370834,
-          51.020865
+          51.020904
         ]
       },
       "properties": {
@@ -89746,8 +90152,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.40011,
-          49.16074
+          -0.399882,
+          49.160665
         ]
       },
       "properties": {
@@ -98272,8 +98678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.5628,
-          47.47375
+          -0.562854,
+          47.47372
         ]
       },
       "properties": {

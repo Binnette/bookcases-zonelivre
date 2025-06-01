@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.34091" lon="6.124588">
+    <name>Sainte-Anastasie-sur-Issole z24585</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.709242" lon="7.260547">
+    <name>Nice z24510</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="43.642067" lon="7.007818">
     <name>Valbonne z24237</name>
     <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
@@ -1928,15 +1946,6 @@
   </wpt>
   <wpt lat="43.34821" lon="5.92251">
     <name>Mazaugues z5072</name>
-    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.40817" lon="5.05698">
-    <name>Martigues z4999</name>
     <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>

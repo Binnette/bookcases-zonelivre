@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.624104,
+          47.771435
+        ]
+      },
+      "properties": {
+        "id": "24532",
+        "name": "Beaugency"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.68811,
           47.388706
         ]

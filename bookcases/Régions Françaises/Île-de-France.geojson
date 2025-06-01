@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.068946,
+          49.04395
+        ]
+      },
+      "properties": {
+        "id": "24512",
+        "name": "Cergy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.28267,
           48.670081
         ]
@@ -4857,20 +4871,6 @@
       "properties": {
         "id": "9800",
         "name": "Paris 13e"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.25152,
-          48.82161
-        ]
-      },
-      "properties": {
-        "id": "9798",
-        "name": "Issy-les-Moulineaux"
       }
     },
     {

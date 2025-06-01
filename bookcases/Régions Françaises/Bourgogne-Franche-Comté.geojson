@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.882956,
+          47.235834
+        ]
+      },
+      "properties": {
+        "id": "24555",
+        "name": "Chemaudin et Vaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.89207,
+          47.220661
+        ]
+      },
+      "properties": {
+        "id": "24553",
+        "name": "Chemaudin et Vaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.894718,
+          47.226605
+        ]
+      },
+      "properties": {
+        "id": "24550",
+        "name": "Chemaudin et Vaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.383057,
           47.556303
         ]

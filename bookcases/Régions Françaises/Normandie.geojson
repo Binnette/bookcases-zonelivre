@@ -6,6 +6,160 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.3813,
+          49.11855
+        ]
+      },
+      "properties": {
+        "id": "24583",
+        "name": "Saint-André-sur-Orne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.348234,
+          49.15254
+        ]
+      },
+      "properties": {
+        "id": "24580",
+        "name": "Ifs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.400459,
+          49.190543
+        ]
+      },
+      "properties": {
+        "id": "24558",
+        "name": "Caen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.379739,
+          49.177048
+        ]
+      },
+      "properties": {
+        "id": "24544",
+        "name": "Caen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.400971,
+          49.181954
+        ]
+      },
+      "properties": {
+        "id": "24541",
+        "name": "Caen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.23645,
+          48.764048
+        ]
+      },
+      "properties": {
+        "id": "24508",
+        "name": "La Chaise-Baudouin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.08818,
+          48.541746
+        ]
+      },
+      "properties": {
+        "id": "24503",
+        "name": "Les Loges-Marchis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.526826,
+          48.951449
+        ]
+      },
+      "properties": {
+        "id": "24501",
+        "name": "Tourneville-sur-Mer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.486083,
+          48.899219
+        ]
+      },
+      "properties": {
+        "id": "24499",
+        "name": "Chanteloup"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.308591,
+          48.698276
+        ]
+      },
+      "properties": {
+        "id": "24496",
+        "name": "Saint-Brice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.521479,
+          48.91295
+        ]
+      },
+      "properties": {
+        "id": "24494",
+        "name": "Bricqueville-sur-Mer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.572874,
           48.947967
         ]
@@ -496,8 +650,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.33417,
-          49.17947
+          -1.334219,
+          49.179487
         ]
       },
       "properties": {
@@ -707,7 +861,7 @@
         "type": "Point",
         "coordinates": [
           -0.287801,
-          49.098227
+          49.098217
         ]
       },
       "properties": {
@@ -4024,8 +4178,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.35783,
-          48.68804
+          -1.357764,
+          48.688041
         ]
       },
       "properties": {
@@ -5438,8 +5592,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.07976,
-          48.97317
+          -0.07978,
+          48.973147
         ]
       },
       "properties": {
@@ -6656,8 +6810,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.07939,
-          48.89651
+          -0.079388,
+          48.896493
         ]
       },
       "properties": {
@@ -8630,8 +8784,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.40011,
-          49.16074
+          -0.399882,
+          49.160665
         ]
       },
       "properties": {

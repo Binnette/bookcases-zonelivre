@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.641845,
+          48.083654
+        ]
+      },
+      "properties": {
+        "id": "24517",
+        "name": "Argentré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.826263,
           47.26651
         ]
@@ -1980,8 +1994,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.55918,
-          47.46749
+          -0.55967,
+          47.467588
         ]
       },
       "properties": {
@@ -2484,8 +2498,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.55403,
-          47.45247
+          -0.554592,
+          47.451902
         ]
       },
       "properties": {
@@ -7230,8 +7244,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.5628,
-          47.47375
+          -0.562854,
+          47.47372
         ]
       },
       "properties": {

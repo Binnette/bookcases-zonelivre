@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.905149,
+          43.862468
+        ]
+      },
+      "properties": {
+        "id": "24530",
+        "name": "Claret"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.057466,
+          43.53347
+        ]
+      },
+      "properties": {
+        "id": "24475",
+        "name": "Ladevèze-Ville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.053515,
           43.683096
         ]

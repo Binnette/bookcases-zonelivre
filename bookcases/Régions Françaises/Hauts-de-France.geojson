@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.403527,
+          51.041235
+        ]
+      },
+      "properties": {
+        "id": "24534",
+        "name": "Dunkerque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.580301,
           50.97938
         ]
@@ -111,20 +125,6 @@
       "properties": {
         "id": "24273",
         "name": "Pitgam"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.346375,
-          51.020008
-        ]
-      },
-      "properties": {
-        "id": "24271",
-        "name": "Dunkerque"
       }
     },
     {
@@ -5620,8 +5620,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.381155,
-          51.017499
+          2.381327,
+          51.017455
         ]
       },
       "properties": {
@@ -5634,8 +5634,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.386308,
-          51.022907
+          2.386131,
+          51.022809
         ]
       },
       "properties": {
@@ -5691,7 +5691,7 @@
         "type": "Point",
         "coordinates": [
           2.370834,
-          51.020865
+          51.020904
         ]
       },
       "properties": {

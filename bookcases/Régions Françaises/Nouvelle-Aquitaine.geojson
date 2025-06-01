@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.14169,
+          45.797283
+        ]
+      },
+      "properties": {
+        "id": "24588",
+        "name": "Aixe-sur-Vienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.376354,
+          47.067608
+        ]
+      },
+      "properties": {
+        "id": "24519",
+        "name": "Saint-Pierre-à-Champs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.429915,
           44.909172
         ]
@@ -11934,20 +11962,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.25688,
-          45.82872
-        ]
-      },
-      "properties": {
-        "id": "4726",
-        "name": "Limoges"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.26257,
           45.82608
         ]
@@ -11997,20 +12011,6 @@
       "properties": {
         "id": "4691",
         "name": "Les Mathes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.25643,
-          45.83037
-        ]
-      },
-      "properties": {
-        "id": "4656",
-        "name": "Limoges"
       }
     },
     {

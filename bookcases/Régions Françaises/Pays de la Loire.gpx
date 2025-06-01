@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.083654" lon="-0.641845">
+    <name>Argentré z24517</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.26651" lon="-0.826263">
     <name>Neuvy-en-Mauges z24473</name>
     <type>ZoneLivre Pays de la Loire</type>
@@ -1269,7 +1278,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.46749" lon="-0.55918">
+  <wpt lat="47.467588" lon="-0.55967">
     <name>Angers z20717</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
@@ -1593,7 +1602,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.45247" lon="-0.55403">
+  <wpt lat="47.451902" lon="-0.554592">
     <name>Angers z18924</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
@@ -4644,7 +4653,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.47375" lon="-0.5628">
+  <wpt lat="47.47372" lon="-0.562854">
     <name>Angers z182</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
