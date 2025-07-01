@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.101148,
+          47.805284
+        ]
+      },
+      "properties": {
+        "id": "24632",
+        "name": "Thann"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.00575,
+          48.385831
+        ]
+      },
+      "properties": {
+        "id": "24604",
+        "name": "Mergey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.175776,
           48.70213
         ]

@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.497705,
+          47.466353
+        ]
+      },
+      "properties": {
+        "id": "24678",
+        "name": "Saint-Barthélemy-d'Anjou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.641845,
           48.083654
         ]

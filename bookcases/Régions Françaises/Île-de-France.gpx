@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.840654" lon="2.392455">
+    <name>PAris 12e z24663</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.856719" lon="2.387477">
+    <name>Paris 11e z24659</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.852062" lon="2.391329">
+    <name>Paris 11e z24656</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="49.04395" lon="2.068946">
     <name>Cergy z24512</name>
     <type>ZoneLivre Île-de-France</type>
@@ -2576,15 +2603,6 @@
   </wpt>
   <wpt lat="48.95267" lon="2.30944">
     <name>Épinay-sur-Seine z13458</name>
-    <type>ZoneLivre Île-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.85689" lon="2.3832">
-    <name>Paris 11e z13207</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>

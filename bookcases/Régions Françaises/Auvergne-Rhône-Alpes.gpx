@@ -1,5 +1,77 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="44.966014" lon="5.739058">
+    <name>La Motte-d'Aveillans z24680</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.259875" lon="6.805813">
+    <name>Val-Cenis z24675</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.0361" lon="4.066108">
+    <name>Roanne z24673</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.320706" lon="6.344924">
+    <name>Montvernier z24644</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.323155" lon="6.339079">
+    <name>Montvernier z24642</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.327676" lon="6.337293">
+    <name>Montvernier z24640</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.337171" lon="6.360738">
+    <name>La Tour-en-Maurienne z24638</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.757158" lon="4.865575">
+    <name>Lyon z24629</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.966206" lon="5.417475">
     <name>La Chapelle-en-Vercors z24433</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
@@ -4241,15 +4313,6 @@
   </wpt>
   <wpt lat="45.88321" lon="4.51697">
     <name>Vindry-sur-Turdine z8741</name>
-    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.67429" lon="4.85886">
-    <name>Feyzin z8739</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>

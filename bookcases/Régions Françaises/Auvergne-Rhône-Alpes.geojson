@@ -6,6 +6,118 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.739058,
+          44.966014
+        ]
+      },
+      "properties": {
+        "id": "24680",
+        "name": "La Motte-d'Aveillans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.805813,
+          45.259875
+        ]
+      },
+      "properties": {
+        "id": "24675",
+        "name": "Val-Cenis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.066108,
+          46.0361
+        ]
+      },
+      "properties": {
+        "id": "24673",
+        "name": "Roanne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.344924,
+          45.320706
+        ]
+      },
+      "properties": {
+        "id": "24644",
+        "name": "Montvernier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.339079,
+          45.323155
+        ]
+      },
+      "properties": {
+        "id": "24642",
+        "name": "Montvernier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.337293,
+          45.327676
+        ]
+      },
+      "properties": {
+        "id": "24640",
+        "name": "Montvernier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.360738,
+          45.337171
+        ]
+      },
+      "properties": {
+        "id": "24638",
+        "name": "La Tour-en-Maurienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.865575,
+          45.757158
+        ]
+      },
+      "properties": {
+        "id": "24629",
+        "name": "Lyon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.417475,
           44.966206
         ]
@@ -6607,20 +6719,6 @@
       "properties": {
         "id": "8741",
         "name": "Vindry-sur-Turdine"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.85886,
-          45.67429
-        ]
-      },
-      "properties": {
-        "id": "8739",
-        "name": "Feyzin"
       }
     },
     {

@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.875009,
+          46.37775
+        ]
+      },
+      "properties": {
+        "id": "24597",
+        "name": "Saulgé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.14169,
           45.797283
         ]
@@ -5592,8 +5606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.87069,
-          46.33199
+          0.870624,
+          46.331997
         ]
       },
       "properties": {
@@ -9456,8 +9470,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.79977,
-          46.25803
+          0.799403,
+          46.257891
         ]
       },
       "properties": {

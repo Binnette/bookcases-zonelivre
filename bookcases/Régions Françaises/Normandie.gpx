@@ -1,5 +1,50 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.872628" lon="-1.825005">
+    <name>Îles Chausey z24626</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.503777" lon="0.147086">
+    <name>Le Havre z24613</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.282711" lon="0.071516">
+    <name>Glanville z24609</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.185539" lon="0.174306">
+    <name>Manerbe z24594</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.841791" lon="-1.222197">
+    <name>Villedieu-les-Poêles-Rouffigny z24590</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="49.11855" lon="-0.3813">
     <name>Saint-André-sur-Orne z24583</name>
     <type>ZoneLivre Normandie</type>
@@ -4077,7 +4122,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.49539" lon="0.11134">
+  <wpt lat="49.495382" lon="0.111338">
     <name>Le Havre z9925</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5229,7 +5274,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.48969" lon="0.12816">
+  <wpt lat="49.489671" lon="0.128167">
     <name>Le Havre z4686</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5238,7 +5283,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.49052" lon="0.12998">
+  <wpt lat="49.4905" lon="0.129948">
     <name>Le Havre z4684</name>
     <type>ZoneLivre Normandie</type>
     <extensions>

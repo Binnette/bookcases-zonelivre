@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.37775" lon="0.875009">
+    <name>Saulgé z24597</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.797283" lon="1.14169">
     <name>Aixe-sur-Vienne z24588</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
@@ -3591,7 +3600,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.33199" lon="0.87069">
+  <wpt lat="46.331997" lon="0.870624">
     <name>Plaisance z17932</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -6075,7 +6084,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.25803" lon="0.79977">
+  <wpt lat="46.257891" lon="0.799403">
     <name>Adriers z14363</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>

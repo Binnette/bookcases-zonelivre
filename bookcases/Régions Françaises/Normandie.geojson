@@ -6,6 +6,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.825005,
+          48.872628
+        ]
+      },
+      "properties": {
+        "id": "24626",
+        "name": "Îles Chausey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.147086,
+          49.503777
+        ]
+      },
+      "properties": {
+        "id": "24613",
+        "name": "Le Havre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.071516,
+          49.282711
+        ]
+      },
+      "properties": {
+        "id": "24609",
+        "name": "Glanville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.174306,
+          49.185539
+        ]
+      },
+      "properties": {
+        "id": "24594",
+        "name": "Manerbe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.222197,
+          48.841791
+        ]
+      },
+      "properties": {
+        "id": "24590",
+        "name": "Villedieu-les-Poêles-Rouffigny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.3813,
           49.11855
         ]
@@ -6348,8 +6418,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.11134,
-          49.49539
+          0.111338,
+          49.495382
         ]
       },
       "properties": {
@@ -8140,8 +8210,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.12816,
-          49.48969
+          0.128167,
+          49.489671
         ]
       },
       "properties": {
@@ -8154,8 +8224,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.12998,
-          49.49052
+          0.129948,
+          49.4905
         ]
       },
       "properties": {

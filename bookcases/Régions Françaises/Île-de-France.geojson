@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.392455,
+          48.840654
+        ]
+      },
+      "properties": {
+        "id": "24663",
+        "name": "PAris 12e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.387477,
+          48.856719
+        ]
+      },
+      "properties": {
+        "id": "24659",
+        "name": "Paris 11e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.391329,
+          48.852062
+        ]
+      },
+      "properties": {
+        "id": "24656",
+        "name": "Paris 11e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.068946,
           49.04395
         ]
@@ -4017,20 +4059,6 @@
       "properties": {
         "id": "13458",
         "name": "Épinay-sur-Seine"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3832,
-          48.85689
-        ]
-      },
-      "properties": {
-        "id": "13207",
-        "name": "Paris 11e"
       }
     },
     {

@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.76204,
+          44.522913
+        ]
+      },
+      "properties": {
+        "id": "24606",
+        "name": "Espalion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.905149,
           43.862468
         ]

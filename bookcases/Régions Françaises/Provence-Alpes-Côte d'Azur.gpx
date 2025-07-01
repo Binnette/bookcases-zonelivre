@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.239665" lon="6.072875">
+    <name>Cuers z24654</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.239445" lon="6.073036">
+    <name>Cuers z24649</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.339152" lon="5.976591">
+    <name>La Roquebrussanne z24646</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="43.34091" lon="6.124588">
     <name>Sainte-Anastasie-sur-Issole z24585</name>
     <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
@@ -1269,7 +1296,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.40616" lon="6.06022">
+  <wpt lat="43.40572" lon="6.06043">
     <name>Brignoles z16537</name>
     <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
     <extensions>

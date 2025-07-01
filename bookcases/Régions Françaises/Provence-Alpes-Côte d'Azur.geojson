@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.072875,
+          43.239665
+        ]
+      },
+      "properties": {
+        "id": "24654",
+        "name": "Cuers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.073036,
+          43.239445
+        ]
+      },
+      "properties": {
+        "id": "24649",
+        "name": "Cuers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.976591,
+          43.339152
+        ]
+      },
+      "properties": {
+        "id": "24646",
+        "name": "La Roquebrussanne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.124588,
           43.34091
         ]
@@ -1980,8 +2022,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.06022,
-          43.40616
+          6.06043,
+          43.40572
         ]
       },
       "properties": {

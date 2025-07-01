@@ -6,6 +6,482 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.739058,
+          44.966014
+        ]
+      },
+      "properties": {
+        "id": "24680",
+        "name": "La Motte-d'Aveillans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.497705,
+          47.466353
+        ]
+      },
+      "properties": {
+        "id": "24678",
+        "name": "Saint-Barthélemy-d'Anjou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.805813,
+          45.259875
+        ]
+      },
+      "properties": {
+        "id": "24675",
+        "name": "Val-Cenis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.066108,
+          46.0361
+        ]
+      },
+      "properties": {
+        "id": "24673",
+        "name": "Roanne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.86369,
+          49.468762
+        ]
+      },
+      "properties": {
+        "id": "24671",
+        "name": "Longueil-Annel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.859422,
+          47.31164
+        ]
+      },
+      "properties": {
+        "id": "24668",
+        "name": "Fleurey-sur-Ouche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.023668,
+          47.367203
+        ]
+      },
+      "properties": {
+        "id": "24666",
+        "name": "Ahuy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.392455,
+          48.840654
+        ]
+      },
+      "properties": {
+        "id": "24663",
+        "name": "PAris 12e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.132522,
+          47.3046
+        ]
+      },
+      "properties": {
+        "id": "24661",
+        "name": "Chevigny-Saint-Sauveur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.387477,
+          48.856719
+        ]
+      },
+      "properties": {
+        "id": "24659",
+        "name": "Paris 11e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.391329,
+          48.852062
+        ]
+      },
+      "properties": {
+        "id": "24656",
+        "name": "Paris 11e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.072875,
+          43.239665
+        ]
+      },
+      "properties": {
+        "id": "24654",
+        "name": "Cuers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.073036,
+          43.239445
+        ]
+      },
+      "properties": {
+        "id": "24649",
+        "name": "Cuers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.976591,
+          43.339152
+        ]
+      },
+      "properties": {
+        "id": "24646",
+        "name": "La Roquebrussanne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.344924,
+          45.320706
+        ]
+      },
+      "properties": {
+        "id": "24644",
+        "name": "Montvernier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.339079,
+          45.323155
+        ]
+      },
+      "properties": {
+        "id": "24642",
+        "name": "Montvernier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.337293,
+          45.327676
+        ]
+      },
+      "properties": {
+        "id": "24640",
+        "name": "Montvernier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.360738,
+          45.337171
+        ]
+      },
+      "properties": {
+        "id": "24638",
+        "name": "La Tour-en-Maurienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.817823,
+          46.970237
+        ]
+      },
+      "properties": {
+        "id": "24636",
+        "name": "Pagnoz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.746697,
+          46.970586
+        ]
+      },
+      "properties": {
+        "id": "24634",
+        "name": "Villeneuve-d'Aval"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.101148,
+          47.805284
+        ]
+      },
+      "properties": {
+        "id": "24632",
+        "name": "Thann"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.865575,
+          45.757158
+        ]
+      },
+      "properties": {
+        "id": "24629",
+        "name": "Lyon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.825005,
+          48.872628
+        ]
+      },
+      "properties": {
+        "id": "24626",
+        "name": "Îles Chausey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.485083,
+          51.021624
+        ]
+      },
+      "properties": {
+        "id": "24624",
+        "name": "Uxem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.212653,
+          50.832581
+        ]
+      },
+      "properties": {
+        "id": "24621",
+        "name": "Watten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.454495,
+          50.935608
+        ]
+      },
+      "properties": {
+        "id": "24618",
+        "name": "Quaëdypre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.942585,
+          50.968563
+        ]
+      },
+      "properties": {
+        "id": "24615",
+        "name": "Marck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.147086,
+          49.503777
+        ]
+      },
+      "properties": {
+        "id": "24613",
+        "name": "Le Havre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.071516,
+          49.282711
+        ]
+      },
+      "properties": {
+        "id": "24609",
+        "name": "Glanville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.76204,
+          44.522913
+        ]
+      },
+      "properties": {
+        "id": "24606",
+        "name": "Espalion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.00575,
+          48.385831
+        ]
+      },
+      "properties": {
+        "id": "24604",
+        "name": "Mergey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.875009,
+          46.37775
+        ]
+      },
+      "properties": {
+        "id": "24597",
+        "name": "Saulgé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.174306,
+          49.185539
+        ]
+      },
+      "properties": {
+        "id": "24594",
+        "name": "Manerbe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.222197,
+          48.841791
+        ]
+      },
+      "properties": {
+        "id": "24590",
+        "name": "Villedieu-les-Poêles-Rouffigny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.14169,
           45.797283
         ]
@@ -29938,8 +30414,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.87069,
-          46.33199
+          0.870624,
+          46.331997
         ]
       },
       "properties": {
@@ -35454,8 +35930,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.06022,
-          43.40616
+          6.06043,
+          43.40572
         ]
       },
       "properties": {
@@ -44400,8 +44876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.79977,
-          46.25803
+          0.799403,
+          46.257891
         ]
       },
       "properties": {
@@ -48537,20 +49013,6 @@
       "properties": {
         "id": "13210",
         "name": "Avioth"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3832,
-          48.85689
-        ]
-      },
-      "properties": {
-        "id": "13207",
-        "name": "Paris 11e"
       }
     },
     {
@@ -55712,8 +56174,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.11134,
-          49.49539
+          0.111338,
+          49.495382
         ]
       },
       "properties": {
@@ -60661,20 +61123,6 @@
       "properties": {
         "id": "8741",
         "name": "Vindry-sur-Turdine"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.85886,
-          45.67429
-        ]
-      },
-      "properties": {
-        "id": "8739",
-        "name": "Feyzin"
       }
     },
     {
@@ -71154,8 +71602,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.12816,
-          49.48969
+          0.128167,
+          49.489671
         ]
       },
       "properties": {
@@ -71168,8 +71616,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.12998,
-          49.49052
+          0.129948,
+          49.4905
         ]
       },
       "properties": {

@@ -6,6 +6,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.86369,
+          49.468762
+        ]
+      },
+      "properties": {
+        "id": "24671",
+        "name": "Longueil-Annel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.485083,
+          51.021624
+        ]
+      },
+      "properties": {
+        "id": "24624",
+        "name": "Uxem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.212653,
+          50.832581
+        ]
+      },
+      "properties": {
+        "id": "24621",
+        "name": "Watten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.454495,
+          50.935608
+        ]
+      },
+      "properties": {
+        "id": "24618",
+        "name": "Quaëdypre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.942585,
+          50.968563
+        ]
+      },
+      "properties": {
+        "id": "24615",
+        "name": "Marck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.403527,
           51.041235
         ]

@@ -6,6 +6,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.859422,
+          47.31164
+        ]
+      },
+      "properties": {
+        "id": "24668",
+        "name": "Fleurey-sur-Ouche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.023668,
+          47.367203
+        ]
+      },
+      "properties": {
+        "id": "24666",
+        "name": "Ahuy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.132522,
+          47.3046
+        ]
+      },
+      "properties": {
+        "id": "24661",
+        "name": "Chevigny-Saint-Sauveur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.817823,
+          46.970237
+        ]
+      },
+      "properties": {
+        "id": "24636",
+        "name": "Pagnoz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.746697,
+          46.970586
+        ]
+      },
+      "properties": {
+        "id": "24634",
+        "name": "Villeneuve-d'Aval"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.882956,
           47.235834
         ]

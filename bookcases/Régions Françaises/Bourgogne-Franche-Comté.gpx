@@ -1,5 +1,50 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.31164" lon="4.859422">
+    <name>Fleurey-sur-Ouche z24668</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.367203" lon="5.023668">
+    <name>Ahuy z24666</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3046" lon="5.132522">
+    <name>Chevigny-Saint-Sauveur z24661</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.970237" lon="5.817823">
+    <name>Pagnoz z24636</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.970586" lon="5.746697">
+    <name>Villeneuve-d'Aval z24634</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.235834" lon="5.882956">
     <name>Chemaudin et Vaux z24555</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
