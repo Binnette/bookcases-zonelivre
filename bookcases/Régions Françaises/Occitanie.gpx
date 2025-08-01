@@ -1755,7 +1755,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.6795" lon="1.39209">
+  <wpt lat="43.679461" lon="1.392042">
     <name>Fenouillet z15377</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -1899,7 +1899,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.30382" lon="4.55548">
+  <wpt lat="44.303681" lon="4.555322">
     <name>Aiguèze z15223</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -2250,7 +2250,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.05189" lon="2.12916">
+  <wpt lat="44.051881" lon="2.12914">
     <name>Saint-Benoît-de-Carmaux z13987</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -2880,7 +2880,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.51428" lon="1.17818">
+  <wpt lat="43.51427" lon="1.178184">
     <name>Saint-Lys z6428</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -3564,7 +3564,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.03356" lon="0.71103">
+  <wpt lat="43.033576" lon="0.711038">
     <name>Payssous z729</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -3654,7 +3654,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.50171" lon="1.36157">
+  <wpt lat="43.50168" lon="1.361591">
     <name>Roques z658</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -3735,7 +3735,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.61316" lon="1.42003">
+  <wpt lat="43.613155" lon="1.42005">
     <name>Toulouse z640</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -3789,7 +3789,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.59092" lon="1.45266">
+  <wpt lat="43.590902" lon="1.452687">
     <name>Toulouse z627</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -3807,7 +3807,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.61248" lon="1.4484">
+  <wpt lat="43.612485" lon="1.448404">
     <name>Toulouse z623</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -3933,7 +3933,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.61072" lon="1.4564">
+  <wpt lat="43.610698" lon="1.456397">
     <name>Toulouse z589</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -4032,7 +4032,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.57466" lon="2.4929">
+  <wpt lat="43.574758" lon="2.493481">
     <name>Lasfaillades z551</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -4338,7 +4338,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.00244" lon="2.0282">
+  <wpt lat="44.002433" lon="2.028201">
     <name>Villeneuve-sur-Vère z121</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -4347,7 +4347,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.99341" lon="1.87331">
+  <wpt lat="43.993393" lon="1.873284">
     <name>Vieux (81) z119</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -4356,7 +4356,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.90344" lon="1.90361">
+  <wpt lat="43.903476" lon="1.90351">
     <name>Gaillac z117</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -4419,7 +4419,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.92277" lon="2.14501">
+  <wpt lat="43.922754" lon="2.145011">
     <name>Albi z102</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>

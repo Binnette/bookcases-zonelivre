@@ -1,5 +1,95 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.835997" lon="-3.314328">
+    <name>Penvénan z25148</name>
+    <type>ZoneLivre Bretagne</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.842584" lon="-3.228527">
+    <name>Plougrescant z25144</name>
+    <type>ZoneLivre Bretagne</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.836976" lon="-1.680307">
+    <name>Bain-de-Bretagne z24856</name>
+    <type>ZoneLivre Bretagne</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.84256" lon="-1.680452">
+    <name>Bain-de-Bretagne z24854</name>
+    <type>ZoneLivre Bretagne</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.855835" lon="-1.511052">
+    <name>Lalleu z24791</name>
+    <type>ZoneLivre Bretagne</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.912421" lon="-1.378143">
+    <name>Retiers z24788</name>
+    <type>ZoneLivre Bretagne</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.856042" lon="-1.479901">
+    <name>Thourie z24691</name>
+    <type>ZoneLivre Bretagne</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.883307" lon="-1.441188">
+    <name>Coësmes z24688</name>
+    <type>ZoneLivre Bretagne</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.920169" lon="-1.429467">
+    <name>Le Theil-de-Bretagne z24685</name>
+    <type>ZoneLivre Bretagne</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.005698" lon="-1.477814">
+    <name>Amanlis z24683</name>
+    <type>ZoneLivre Bretagne</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.73305" lon="-3.424184">
     <name>Ploemeur z24514</name>
     <type>ZoneLivre Bretagne</type>
@@ -999,7 +1089,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.06684" lon="-3.91218">
+  <wpt lat="48.066793" lon="-3.912334">
     <name>Langolen z17976</name>
     <type>ZoneLivre Bretagne</type>
     <extensions>
@@ -1017,7 +1107,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.3285" lon="-1.64089">
+  <wpt lat="48.328491" lon="-1.64089">
     <name>Feins z17972</name>
     <type>ZoneLivre Bretagne</type>
     <extensions>
@@ -2277,7 +2367,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.53612" lon="-4.31163">
+  <wpt lat="48.536159" lon="-4.311699">
     <name>Ploudaniel z9143</name>
     <type>ZoneLivre Bretagne</type>
     <extensions>
@@ -3726,7 +3816,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.44154" lon="-2.07492">
+  <wpt lat="48.441508" lon="-2.07493">
     <name>Trelivan z2107</name>
     <type>ZoneLivre Bretagne</type>
     <extensions>

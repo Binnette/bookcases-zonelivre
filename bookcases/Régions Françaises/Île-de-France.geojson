@@ -6,6 +6,188 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.942263,
+          48.380089
+        ]
+      },
+      "properties": {
+        "id": "25274",
+        "name": "Montereau-Fault-Yonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.321916,
+          48.838597
+        ]
+      },
+      "properties": {
+        "id": "25184",
+        "name": "Paris 14e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.347791,
+          48.852018
+        ]
+      },
+      "properties": {
+        "id": "25181",
+        "name": "Paris 5e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.387493,
+          48.856711
+        ]
+      },
+      "properties": {
+        "id": "25179",
+        "name": "Paris 11e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.401084,
+          48.858491
+        ]
+      },
+      "properties": {
+        "id": "25175",
+        "name": "Paris 20e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.404018,
+          48.855398
+        ]
+      },
+      "properties": {
+        "id": "25173",
+        "name": "Paris 20e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.394837,
+          48.864872
+        ]
+      },
+      "properties": {
+        "id": "25169",
+        "name": "Paris 20e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.40526,
+          48.864826
+        ]
+      },
+      "properties": {
+        "id": "25167",
+        "name": "Paris 20e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.405056,
+          48.865008
+        ]
+      },
+      "properties": {
+        "id": "25164",
+        "name": "Paris 20e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.409828,
+          48.863499
+        ]
+      },
+      "properties": {
+        "id": "25162",
+        "name": "Paris 20e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.406684,
+          48.862128
+        ]
+      },
+      "properties": {
+        "id": "25159",
+        "name": "Paris 20e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.607724,
+          48.605316
+        ]
+      },
+      "properties": {
+        "id": "25142",
+        "name": "Réau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.65449,
+          48.616544
+        ]
+      },
+      "properties": {
+        "id": "25140",
+        "name": "Réau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.392455,
           48.840654
         ]
@@ -20,8 +202,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.387477,
-          48.856719
+          2.387517,
+          48.856583
         ]
       },
       "properties": {
@@ -1728,8 +1910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.13819,
-          48.86918
+          2.138201,
+          48.869177
         ]
       },
       "properties": {
@@ -3016,8 +3198,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.02583,
-          48.80018
+          2.025835,
+          48.800186
         ]
       },
       "properties": {
@@ -3114,8 +3296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.376,
-          48.86141
+          2.376719,
+          48.86138
         ]
       },
       "properties": {
@@ -4164,8 +4346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.34831,
-          48.65256
+          2.348325,
+          48.652552
         ]
       },
       "properties": {
@@ -6964,8 +7146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.83122,
-          48.64386
+          1.831222,
+          48.643735
         ]
       },
       "properties": {

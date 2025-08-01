@@ -1,5 +1,50 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.173012" lon="6.533132">
+    <name>Cavalaire-sur-Mer z25155</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.2153" lon="6.612439">
+    <name>Ramatuelle z25153</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.228652" lon="6.584955">
+    <name>Gassin z25151</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.94479" lon="6.553524">
+    <name>La Salle-les-Alpes z24985</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.301315" lon="6.220971">
+    <name>Pignans z24866</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="43.239665" lon="6.072875">
     <name>Cuers z24654</name>
     <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
@@ -1485,7 +1530,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.6269" lon="6.22364">
+  <wpt lat="43.626832" lon="6.223739">
     <name>Aups z14936</name>
     <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
     <extensions>
@@ -2295,7 +2340,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.55085" lon="6.98865">
+  <wpt lat="43.550803" lon="6.98864">
     <name>Cannes z1811</name>
     <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
     <extensions>
@@ -2394,7 +2439,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.32996" lon="6.04681">
+  <wpt lat="43.328815" lon="6.046804">
     <name>Gareoult z1785</name>
     <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
     <extensions>

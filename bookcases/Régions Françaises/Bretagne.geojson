@@ -6,6 +6,146 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.314328,
+          48.835997
+        ]
+      },
+      "properties": {
+        "id": "25148",
+        "name": "Penvénan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.228527,
+          48.842584
+        ]
+      },
+      "properties": {
+        "id": "25144",
+        "name": "Plougrescant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.680307,
+          47.836976
+        ]
+      },
+      "properties": {
+        "id": "24856",
+        "name": "Bain-de-Bretagne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.680452,
+          47.84256
+        ]
+      },
+      "properties": {
+        "id": "24854",
+        "name": "Bain-de-Bretagne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.511052,
+          47.855835
+        ]
+      },
+      "properties": {
+        "id": "24791",
+        "name": "Lalleu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.378143,
+          47.912421
+        ]
+      },
+      "properties": {
+        "id": "24788",
+        "name": "Retiers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.479901,
+          47.856042
+        ]
+      },
+      "properties": {
+        "id": "24691",
+        "name": "Thourie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.441188,
+          47.883307
+        ]
+      },
+      "properties": {
+        "id": "24688",
+        "name": "Coësmes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.429467,
+          47.920169
+        ]
+      },
+      "properties": {
+        "id": "24685",
+        "name": "Le Theil-de-Bretagne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.477814,
+          48.005698
+        ]
+      },
+      "properties": {
+        "id": "24683",
+        "name": "Amanlis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.424184,
           47.73305
         ]
@@ -1560,8 +1700,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.91218,
-          48.06684
+          -3.912334,
+          48.066793
         ]
       },
       "properties": {
@@ -1589,7 +1729,7 @@
         "type": "Point",
         "coordinates": [
           -1.64089,
-          48.3285
+          48.328491
         ]
       },
       "properties": {
@@ -3548,8 +3688,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.31163,
-          48.53612
+          -4.311699,
+          48.536159
         ]
       },
       "properties": {
@@ -5802,8 +5942,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.07492,
-          48.44154
+          -2.07493,
+          48.441508
         ]
       },
       "properties": {

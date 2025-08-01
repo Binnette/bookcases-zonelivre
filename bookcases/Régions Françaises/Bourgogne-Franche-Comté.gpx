@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.410755" lon="5.276804">
+    <name>Tanay z25279</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.556247" lon="5.445643">
+    <name>Mornay z25277</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.31164" lon="4.859422">
     <name>Fleurey-sur-Ouche z24668</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
@@ -2169,7 +2187,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.56909" lon="4.16797">
+  <wpt lat="47.569067" lon="4.167936">
     <name>Vassy-sous-Pisy z9157</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
     <extensions>
@@ -2259,7 +2277,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.64849" lon="3.66946">
+  <wpt lat="47.648483" lon="3.669519">
     <name>Sainte-Pallaye z9117</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
     <extensions>
@@ -2270,15 +2288,6 @@
   </wpt>
   <wpt lat="48.21198" lon="3.25754">
     <name>Saint-Martin-du-Tertre z9115</name>
-    <type>ZoneLivre Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.61866" lon="3.20205">
-    <name>Saint-Sauveur-en-Puisaye z9113</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -2349,7 +2358,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.15049" lon="3.31177">
+  <wpt lat="48.150487" lon="3.311766">
     <name>Rosoy z9086</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
     <extensions>
@@ -2637,7 +2646,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.90309" lon="3.60899">
+  <wpt lat="47.903052" lon="3.608923">
     <name>Seignelay z9018</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
     <extensions>
@@ -2790,7 +2799,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.53348" lon="3.63213">
+  <wpt lat="47.533654" lon="3.632988">
     <name>Châtel-Censoir z8958</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
     <extensions>
@@ -3672,15 +3681,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.32132" lon="5.045517">
-    <name>Dijon z2819</name>
-    <type>ZoneLivre Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.326916" lon="5.050229">
     <name>Dijon z2817</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
@@ -4230,7 +4230,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.53695" lon="4.48937">
+  <wpt lat="47.536951" lon="4.489369">
     <name>Alise-Sainte-Reine z74</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
     <extensions>

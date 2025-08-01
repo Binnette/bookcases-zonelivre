@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.816698" lon="5.929179">
+    <name>Domèvre-en-Haye z25128</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.816939" lon="5.890775">
+    <name>Minorville z25125</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.520632" lon="3.726712">
+    <name>Romilly-sur-Seine z25102</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.805284" lon="7.101148">
     <name>Thann z24632</name>
     <type>ZoneLivre Grand Est</type>
@@ -1287,7 +1314,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.19503" lon="6.14684">
+  <wpt lat="49.195026" lon="6.146818">
     <name>Semécourt z18885</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -2538,7 +2565,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.02004" lon="7.28174">
+  <wpt lat="48.020041" lon="7.281736">
     <name>Vœgtlinshoffen z12770</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -2565,7 +2592,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.5097" lon="5.56557">
+  <wpt lat="49.509726" lon="5.56546">
     <name>Allondrelle-la-Malmaison z12708</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -2952,7 +2979,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.80893" lon="7.24058">
+  <wpt lat="47.808912" lon="7.240653">
     <name>Wittelsheim z12084</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -3915,15 +3942,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.30336" lon="6.15661">
-    <name>Uckange z2882</name>
-    <type>ZoneLivre Grand Est</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.29999" lon="6.16044">
     <name>Uckange z2880</name>
     <type>ZoneLivre Grand Est</type>
@@ -4824,7 +4842,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.0648" lon="6.30728">
+  <wpt lat="49.064765" lon="6.307279">
     <name>Courcelles-sur-Nied z1260</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -5031,7 +5049,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.97597" lon="7.5172">
+  <wpt lat="48.975965" lon="7.517148">
     <name>Baerenthal z286</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>

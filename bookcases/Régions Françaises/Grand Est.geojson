@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.929179,
+          48.816698
+        ]
+      },
+      "properties": {
+        "id": "25128",
+        "name": "Domèvre-en-Haye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.890775,
+          48.816939
+        ]
+      },
+      "properties": {
+        "id": "25125",
+        "name": "Minorville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.726712,
+          48.520632
+        ]
+      },
+      "properties": {
+        "id": "25102",
+        "name": "Romilly-sur-Seine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.101148,
           47.805284
         ]
@@ -2008,8 +2050,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.14684,
-          49.19503
+          6.146818,
+          49.195026
         ]
       },
       "properties": {
@@ -3954,8 +3996,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.28174,
-          48.02004
+          7.281736,
+          48.020041
         ]
       },
       "properties": {
@@ -3996,8 +4038,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.56557,
-          49.5097
+          5.56546,
+          49.509726
         ]
       },
       "properties": {
@@ -4598,8 +4640,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.24058,
-          47.80893
+          7.240653,
+          47.808912
         ]
       },
       "properties": {
@@ -6096,20 +6138,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.15661,
-          49.30336
-        ]
-      },
-      "properties": {
-        "id": "2882",
-        "name": "Uckange"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.16044,
           49.29999
         ]
@@ -7510,8 +7538,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.30728,
-          49.0648
+          6.307279,
+          49.064765
         ]
       },
       "properties": {
@@ -7832,8 +7860,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5172,
-          48.97597
+          7.517148,
+          48.975965
         ]
       },
       "properties": {

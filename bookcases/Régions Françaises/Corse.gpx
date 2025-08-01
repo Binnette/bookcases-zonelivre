@@ -72,7 +72,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.67924" lon="9.44112">
+  <wpt lat="42.679245" lon="9.441089">
     <name>Bastia z335</name>
     <type>ZoneLivre Corse</type>
     <extensions>
@@ -108,7 +108,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.69273" lon="9.45">
+  <wpt lat="42.692642" lon="9.450007">
     <name>Bastia z327</name>
     <type>ZoneLivre Corse</type>
     <extensions>
@@ -135,7 +135,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.69753" lon="9.4483">
+  <wpt lat="42.697545" lon="9.448336">
     <name>Bastia z321</name>
     <type>ZoneLivre Corse</type>
     <extensions>

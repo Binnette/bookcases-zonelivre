@@ -1,5 +1,122 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.380089" lon="2.942263">
+    <name>Montereau-Fault-Yonne z25274</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.838597" lon="2.321916">
+    <name>Paris 14e z25184</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.852018" lon="2.347791">
+    <name>Paris 5e z25181</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.856711" lon="2.387493">
+    <name>Paris 11e z25179</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.858491" lon="2.401084">
+    <name>Paris 20e z25175</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.855398" lon="2.404018">
+    <name>Paris 20e z25173</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.864872" lon="2.394837">
+    <name>Paris 20e z25169</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.864826" lon="2.40526">
+    <name>Paris 20e z25167</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.865008" lon="2.405056">
+    <name>Paris 20e z25164</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.863499" lon="2.409828">
+    <name>Paris 20e z25162</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.862128" lon="2.406684">
+    <name>Paris 20e z25159</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.605316" lon="2.607724">
+    <name>Réau z25142</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.616544" lon="2.65449">
+    <name>Réau z25140</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.840654" lon="2.392455">
     <name>PAris 12e z24663</name>
     <type>ZoneLivre Île-de-France</type>
@@ -9,7 +126,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.856719" lon="2.387477">
+  <wpt lat="48.856583" lon="2.387517">
     <name>Paris 11e z24659</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1107,7 +1224,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.86918" lon="2.13819">
+  <wpt lat="48.869177" lon="2.138201">
     <name>Bougival z18864</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1935,7 +2052,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.80018" lon="2.02583">
+  <wpt lat="48.800186" lon="2.025835">
     <name>Bois-d'Arcy z16254</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1998,7 +2115,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.86141" lon="2.376">
+  <wpt lat="48.86138" lon="2.376719">
     <name>Paris 11e z16226</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2673,7 +2790,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.65256" lon="2.34831">
+  <wpt lat="48.652552" lon="2.348325">
     <name>Morsang-sur-Orge z12873</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4473,7 +4590,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.64386" lon="1.83122">
+  <wpt lat="48.643735" lon="1.831222">
     <name>Rambouillet z4162</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>

@@ -6,6 +6,174 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.655154,
+          46.121875
+        ]
+      },
+      "properties": {
+        "id": "25267",
+        "name": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.653335,
+          46.122098
+        ]
+      },
+      "properties": {
+        "id": "25265",
+        "name": "Availles-Limouzine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.40544,
+          46.143193
+        ]
+      },
+      "properties": {
+        "id": "25263",
+        "name": "Charroux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.336408,
+          46.217221
+        ]
+      },
+      "properties": {
+        "id": "25261",
+        "name": "Champniers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.537893,
+          45.161615
+        ]
+      },
+      "properties": {
+        "id": "25258",
+        "name": "Brive-la-Gaillarde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.559506,
+          45.162031
+        ]
+      },
+      "properties": {
+        "id": "25245",
+        "name": "Malemort-sur-Corrèze"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.527872,
+          45.155273
+        ]
+      },
+      "properties": {
+        "id": "25238",
+        "name": "Brive-la-Gaillarde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.53296,
+          45.168722
+        ]
+      },
+      "properties": {
+        "id": "25231",
+        "name": "Brive-la-Gaillarde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.341343,
+          46.395865
+        ]
+      },
+      "properties": {
+        "id": "25223",
+        "name": "Marnay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.311606,
+          46.41598
+        ]
+      },
+      "properties": {
+        "id": "25221",
+        "name": "Château-Larcher"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.074058,
+          46.160174
+        ]
+      },
+      "properties": {
+        "id": "25123",
+        "name": "Vigeville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.475947,
+          46.299883
+        ]
+      },
+      "properties": {
+        "id": "25116",
+        "name": "Vareilles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.875009,
           46.37775
         ]
@@ -5508,8 +5676,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.07439,
-          46.65553
+          -0.074383,
+          46.655525
         ]
       },
       "properties": {
@@ -7314,8 +7482,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.37972,
-          46.57423
+          0.379683,
+          46.574221
         ]
       },
       "properties": {
@@ -7748,8 +7916,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.26863,
-          44.78529
+          0.268629,
+          44.785289
         ]
       },
       "properties": {
@@ -11500,8 +11668,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.62756,
-          44.79717
+          -0.627578,
+          44.797081
         ]
       },
       "properties": {
@@ -12368,8 +12536,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.64205,
-          44.90958
+          -0.642051,
+          44.909584
         ]
       },
       "properties": {
@@ -12648,8 +12816,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.26037,
-          45.90823
+          1.260322,
+          45.908226
         ]
       },
       "properties": {
@@ -12802,8 +12970,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.56356,
-          45.17007
+          1.563527,
+          45.170053
         ]
       },
       "properties": {
@@ -12816,8 +12984,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.54995,
-          45.1547
+          1.549979,
+          45.154702
         ]
       },
       "properties": {
@@ -12830,8 +12998,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.52976,
-          45.15771
+          1.529347,
+          45.157764
         ]
       },
       "properties": {
@@ -12844,8 +13012,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.53443,
-          45.15607
+          1.535514,
+          45.156079
         ]
       },
       "properties": {
@@ -12858,8 +13026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.54051,
-          45.16065
+          1.540478,
+          45.160563
         ]
       },
       "properties": {
@@ -12872,8 +13040,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.53349,
-          45.15905
+          1.533481,
+          45.159039
         ]
       },
       "properties": {
@@ -12886,8 +13054,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.49515,
-          45.16849
+          1.495079,
+          45.168501
         ]
       },
       "properties": {
@@ -12900,8 +13068,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.49899,
-          45.15685
+          1.499036,
+          45.156828
         ]
       },
       "properties": {
@@ -12914,8 +13082,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.53371,
-          45.16194
+          1.533749,
+          45.161942
         ]
       },
       "properties": {
@@ -12928,8 +13096,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.52894,
-          45.15271
+          1.528626,
+          45.152686
         ]
       },
       "properties": {
@@ -12942,8 +13110,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.50991,
-          45.15449
+          1.509555,
+          45.154405
         ]
       },
       "properties": {
@@ -15112,8 +15280,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.59138,
-          43.16665
+          -0.5914,
+          43.166504
         ]
       },
       "properties": {
@@ -15434,8 +15602,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.47418,
-          43.48898
+          -1.474209,
+          43.489119
         ]
       },
       "properties": {
@@ -15462,8 +15630,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.39605,
-          43.35755
+          -1.396042,
+          43.357554
         ]
       },
       "properties": {

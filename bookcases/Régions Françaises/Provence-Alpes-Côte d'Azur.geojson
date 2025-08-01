@@ -6,6 +6,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.533132,
+          43.173012
+        ]
+      },
+      "properties": {
+        "id": "25155",
+        "name": "Cavalaire-sur-Mer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.612439,
+          43.2153
+        ]
+      },
+      "properties": {
+        "id": "25153",
+        "name": "Ramatuelle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.584955,
+          43.228652
+        ]
+      },
+      "properties": {
+        "id": "25151",
+        "name": "Gassin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.553524,
+          44.94479
+        ]
+      },
+      "properties": {
+        "id": "24985",
+        "name": "La Salle-les-Alpes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.220971,
+          43.301315
+        ]
+      },
+      "properties": {
+        "id": "24866",
+        "name": "Pignans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.072875,
           43.239665
         ]
@@ -2316,8 +2386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.22364,
-          43.6269
+          6.223739,
+          43.626832
         ]
       },
       "properties": {
@@ -3576,8 +3646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.98865,
-          43.55085
+          6.98864,
+          43.550803
         ]
       },
       "properties": {
@@ -3730,8 +3800,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.04681,
-          43.32996
+          6.046804,
+          43.328815
         ]
       },
       "properties": {

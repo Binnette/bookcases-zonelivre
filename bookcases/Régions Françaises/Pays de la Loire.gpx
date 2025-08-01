@@ -1,5 +1,635 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.295145" lon="-0.5762">
+    <name>Rablay-sur-Layon z25107</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.264599" lon="-0.578705">
+    <name>Champ-sur-Layon z25104</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.555902" lon="-1.054309">
+    <name>Sainte-Hermine z24913</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.561387" lon="-1.139016">
+    <name>Sainte-Pexine z24910</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.537864" lon="-1.230632">
+    <name>Mareuil-sur-Lay-Dissais z24907</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.506892" lon="-1.181325">
+    <name>Corpe z24904</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.48272" lon="-1.255204">
+    <name>La Bretonnière-la-Claye z24901</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.591371" lon="-1.39572">
+    <name>Nesmy z24899</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.588076" lon="-1.406145">
+    <name>Nesmy z24896</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.408722" lon="-1.400435">
+    <name>Angles z24895</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.406637" lon="-1.394124">
+    <name>Angles z24892</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.347789" lon="-1.417271">
+    <name>La Tranche-sur-Mer z24889</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.343486" lon="-1.438707">
+    <name>La Tranche-sur-Mer z24886</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.343748" lon="-1.443855">
+    <name>La Tranche-sur-Mer z24883</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.346591" lon="-1.448731">
+    <name>La Tranche-sur-Mer z24880</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.401501" lon="-1.507678">
+    <name>Longeville-sur-Mer z24877</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.410125" lon="-1.531595">
+    <name>Longeville-sur-Mer z24874</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.955523" lon="0.087625">
+    <name>Étival-lès-le-Mans z24871</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.753739" lon="0.447299">
+    <name>Thoiré-sur-Dinan z24869</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.574878" lon="-1.506538">
+    <name>Nieul-le-Dolent z24861</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.457979" lon="-1.229484">
+    <name>Chasnais z24858</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.773801" lon="-1.499803">
+    <name>Le Poiré-sur-Vie z24851</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.725582" lon="-1.512838">
+    <name>La Genétouze z24848</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.907302" lon="-1.37803">
+    <name>L'Herbergement z24845</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.973498" lon="-1.312343">
+    <name>Montaigu-Vendée z24843</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.886939" lon="-1.321431">
+    <name>Les Brouzils z24841</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.013686" lon="-1.112921">
+    <name>Tiffauges z24838</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.542136" lon="-0.208239">
+    <name>Lignières-Orgères z24835</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.949195" lon="-0.90759">
+    <name>Cossé-le-Vivien z24832</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.384658" lon="-0.585856">
+    <name>Saint-Loup-du-Gast z24829</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.391277" lon="-0.615926">
+    <name>Ambrières-les-Vallées z24827</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.398991" lon="-0.79035">
+    <name>Brecé z24825</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.411215" lon="-0.812838">
+    <name>Gorron z24822</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.442221" lon="-0.804714">
+    <name>Lesbois z24819</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.341486" lon="-0.857714">
+    <name>Saint-Denis-de-Gastines z24815</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.287612" lon="-0.89354">
+    <name>Montenay z24812</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.223865" lon="-0.873536">
+    <name>Chailland z24809</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.184285" lon="-0.891826">
+    <name>La Baconnière z24806</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.160786" lon="-0.972641">
+    <name>Le Bourgneuf-la-Forêt z24803</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.059784" lon="-0.936024">
+    <name>Loiron-Ruillé z24800</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.005567" lon="-0.959611">
+    <name>Montjean z24797</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.965309" lon="-1.043739">
+    <name>Saint-Poix z24794</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.600224" lon="-0.835044">
+    <name>Vern-d'Anjou z24785</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.618151" lon="-0.893063">
+    <name>Chazé-sur-Argos z24782</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.510724" lon="-0.983091">
+    <name>La Cornuaille z24779</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.260645" lon="-1.045648">
+    <name>Montrevault z24776</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.300872" lon="-1.080308">
+    <name>La Boissière-sur-Èvre z24773</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.361749" lon="-1.034104">
+    <name>Le Marillais z24770</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.320929" lon="-0.925735">
+    <name>Beausse z24767</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.138092" lon="-0.892599">
+    <name>Le May-sur-Èvre z24764</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.126706" lon="-0.995792">
+    <name>Saint-Macaire-en-Mauges z24761</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.099928" lon="-1.187706">
+    <name>Saint-Crespin-sur-Moine z24757</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.094832" lon="-1.212455">
+    <name>Gétigné z24754</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.05911" lon="-1.18075">
+    <name>Boussay z24751</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.043193" lon="-1.181049">
+    <name>Boussay z24750</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.884598" lon="-1.596829">
+    <name>Legé z24747</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.499365" lon="-1.578375">
+    <name>Saffré z24744</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.666421" lon="-1.672803">
+    <name>Derval z24742</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.719651" lon="-1.371475">
+    <name>Châteaubriant z24739</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.71973" lon="-1.378883">
+    <name>Châteaubriant z24737</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.737262" lon="-1.306391">
+    <name>Soudan z24734</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.29676" lon="-0.938958">
+    <name>Ernée z24725</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.113219" lon="-0.973274">
+    <name>Port-Brillet z24722</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.05941" lon="-0.88212">
+    <name>Cholet z24717</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.416585" lon="-1.549134">
+    <name>Saint-Vincent-sur-Jard z24713</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.432051" lon="-1.631953">
+    <name>Talmont-Saint-Hilaire z24708</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.442554" lon="-1.674407">
+    <name>Talmont-Saint-Hilaire z24706</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.602497" lon="-1.447164">
+    <name>Issé z24699</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.720468" lon="-1.48828">
+    <name>Saint-Aubin-des-Châteaux z24696</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.795908" lon="-1.416007">
+    <name>Fercé z24693</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.466353" lon="-0.497705">
     <name>Saint-Barthélemy-d'Anjou z24678</name>
     <type>ZoneLivre Pays de la Loire</type>
@@ -1503,7 +2133,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.40931" lon="-1.57829">
+  <wpt lat="46.409841" lon="-1.582957">
     <name>Jard-sur-Mer z20027</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
@@ -1782,7 +2412,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.96716" lon="-0.23433">
+  <wpt lat="47.96714" lon="-0.234326">
     <name>Brulon z17396</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
@@ -2592,7 +3222,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.67938" lon="-1.42345">
+  <wpt lat="46.679363" lon="-1.423446">
     <name>La Roche-sur-Yon z9952</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
@@ -3168,7 +3798,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.71942" lon="-1.37681">
+  <wpt lat="47.719418" lon="-1.376802">
     <name>Châteaubriant z5326</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
@@ -3456,7 +4086,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.41589" lon="-1.57668">
+  <wpt lat="46.415964" lon="-1.576798">
     <name>Jard-sur-Mer z3610</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
@@ -3465,7 +4095,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.49752" lon="-1.78353">
+  <wpt lat="46.497499" lon="-1.783516">
     <name>Les Sables-d'Olonne z3608</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
@@ -3510,16 +4140,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.50388" lon="-1.73858">
-    <name>Les Sables-d'Olonne z3595</name>
-    <type>ZoneLivre Pays de la Loire</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.46605" lon="-1.61774">
+  <wpt lat="46.466467" lon="-1.617587">
     <name>Talmont-Saint-Hilaire z3593</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
@@ -4671,7 +5292,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.45085" lon="-0.54434">
+  <wpt lat="47.450494" lon="-0.542627">
     <name>Angers z180</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>

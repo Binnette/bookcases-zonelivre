@@ -6,6 +6,706 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.827732,
+          45.761358
+        ]
+      },
+      "properties": {
+        "id": "25138",
+        "name": "Lyon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.800805,
+          45.773317
+        ]
+      },
+      "properties": {
+        "id": "25135",
+        "name": "Lyon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.947984,
+          45.332542
+        ]
+      },
+      "properties": {
+        "id": "25133",
+        "name": "Jarcieu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.593736,
+          46.264359
+        ]
+      },
+      "properties": {
+        "id": "25113",
+        "name": "Saint-Genest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.840754,
+          45.938976
+        ]
+      },
+      "properties": {
+        "id": "25110",
+        "name": "Saint-Georges-de-Mons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74438,
+          45.458592
+        ]
+      },
+      "properties": {
+        "id": "25097",
+        "name": "Champagny-en-Vanoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.757254,
+          45.543691
+        ]
+      },
+      "properties": {
+        "id": "25094",
+        "name": "Peisey-Nancroix"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.649793,
+          45.556149
+        ]
+      },
+      "properties": {
+        "id": "25090",
+        "name": "Aime-la-Plagne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.471041,
+          45.158752
+        ]
+      },
+      "properties": {
+        "id": "25087",
+        "name": "Valloire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.300061,
+          45.358371
+        ]
+      },
+      "properties": {
+        "id": "25084",
+        "name": "La Chambre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.31097,
+          45.370232
+        ]
+      },
+      "properties": {
+        "id": "25081",
+        "name": "Notre-Dame-du-Cruet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.314478,
+          45.374854
+        ]
+      },
+      "properties": {
+        "id": "25078",
+        "name": "Notre-Dame-du-Cruet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.21409,
+          45.508104
+        ]
+      },
+      "properties": {
+        "id": "25076",
+        "name": "Champ-Laurent"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.182433,
+          45.544334
+        ]
+      },
+      "properties": {
+        "id": "25073",
+        "name": "Châteauneuf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.18593,
+          45.515444
+        ]
+      },
+      "properties": {
+        "id": "25070",
+        "name": "Villard-Léger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.309795,
+          45.351979
+        ]
+      },
+      "properties": {
+        "id": "25066",
+        "name": "Saint-Avre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.647099,
+          45.442443
+        ]
+      },
+      "properties": {
+        "id": "25063",
+        "name": "Bozel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.538303,
+          45.322661
+        ]
+      },
+      "properties": {
+        "id": "25061",
+        "name": "Les Belleville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.47249,
+          45.502053
+        ]
+      },
+      "properties": {
+        "id": "25059",
+        "name": "La Léchère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.995416,
+          45.586125
+        ]
+      },
+      "properties": {
+        "id": "25056",
+        "name": "Saint-Jean-d'Arvey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.996514,
+          45.586375
+        ]
+      },
+      "properties": {
+        "id": "25052",
+        "name": "Saint-Jean-d'Arvey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.299753,
+          45.35862
+        ]
+      },
+      "properties": {
+        "id": "25048",
+        "name": "La Chambre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.311648,
+          45.33116
+        ]
+      },
+      "properties": {
+        "id": "25045",
+        "name": "Sainte-Marie-de-Cuines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.351712,
+          45.245328
+        ]
+      },
+      "properties": {
+        "id": "25042",
+        "name": "Albiez-le-Jeune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.319181,
+          45.391632
+        ]
+      },
+      "properties": {
+        "id": "25039",
+        "name": "Saint-François-Longchamp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.248922,
+          45.30953
+        ]
+      },
+      "properties": {
+        "id": "25036",
+        "name": "Saint-Alban-des-Villards"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.265294,
+          45.391677
+        ]
+      },
+      "properties": {
+        "id": "25034",
+        "name": "Saint-Rémy-de-Maurienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.170808,
+          45.479268
+        ]
+      },
+      "properties": {
+        "id": "25031",
+        "name": "La Table"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.160527,
+          45.573971
+        ]
+      },
+      "properties": {
+        "id": "25027",
+        "name": "Saint-Pierre-d'Albigny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.263894,
+          45.477835
+        ]
+      },
+      "properties": {
+        "id": "25024",
+        "name": "Saint-Alban-d'Hurtières"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.009819,
+          45.527838
+        ]
+      },
+      "properties": {
+        "id": "25021",
+        "name": "Chignin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.206099,
+          45.484648
+        ]
+      },
+      "properties": {
+        "id": "25018",
+        "name": "Bourget-en-Huile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.18431,
+          45.473103
+        ]
+      },
+      "properties": {
+        "id": "25016",
+        "name": "La Table"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.135982,
+          45.47175
+        ]
+      },
+      "properties": {
+        "id": "25013",
+        "name": "Rotherens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.119798,
+          45.444457
+        ]
+      },
+      "properties": {
+        "id": "25011",
+        "name": "Arvillard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.094416,
+          45.445978
+        ]
+      },
+      "properties": {
+        "id": "25009",
+        "name": "Détrier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.071888,
+          45.447814
+        ]
+      },
+      "properties": {
+        "id": "25007",
+        "name": "La Chapelle-Blanche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.106505,
+          45.494723
+        ]
+      },
+      "properties": {
+        "id": "25004",
+        "name": "Saint-Pierre-de-Soucy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.000115,
+          45.499256
+        ]
+      },
+      "properties": {
+        "id": "25001",
+        "name": "Porte-de-Savoie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.033589,
+          45.498997
+        ]
+      },
+      "properties": {
+        "id": "24997",
+        "name": "Porte-de-Savoie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.075,
+          45.494902
+        ]
+      },
+      "properties": {
+        "id": "24994",
+        "name": "La Chavanne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.00976,
+          45.565947
+        ]
+      },
+      "properties": {
+        "id": "24992",
+        "name": "Curienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.783537,
+          45.551425
+        ]
+      },
+      "properties": {
+        "id": "24990",
+        "name": "Saint-Alban-de-Montbel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.815359,
+          45.544659
+        ]
+      },
+      "properties": {
+        "id": "24987",
+        "name": "Aiguebelette-le-Lac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.352125,
+          45.633811
+        ]
+      },
+      "properties": {
+        "id": "24983",
+        "name": "Notre-Dame-des-Millières"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.340903,
+          45.625016
+        ]
+      },
+      "properties": {
+        "id": "24981",
+        "name": "Notre-Dame-des-Millières"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.228687,
+          45.22147
+        ]
+      },
+      "properties": {
+        "id": "24926",
+        "name": "Saint-Sorlin-d'Arves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.265967,
+          45.39214
+        ]
+      },
+      "properties": {
+        "id": "24923",
+        "name": "Saint-Rémy-de-Maurienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.290636,
+          45.341577
+        ]
+      },
+      "properties": {
+        "id": "24921",
+        "name": "Saint-Etienne-de-Cuines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.739053,
+          44.966011
+        ]
+      },
+      "properties": {
+        "id": "24915",
+        "name": "La Motte-d'Aveillans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.739058,
           44.966014
         ]
@@ -3716,8 +4416,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.72803,
-          45.8212
+          6.728101,
+          45.821216
         ]
       },
       "properties": {
@@ -4038,8 +4738,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.37563,
-          44.50643
+          4.375632,
+          44.506432
         ]
       },
       "properties": {
@@ -4318,8 +5018,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.25571,
-          46.2082
+          6.25562,
+          46.208093
         ]
       },
       "properties": {
@@ -4444,8 +5144,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.32531,
-          46.17093
+          6.32507,
+          46.171001
         ]
       },
       "properties": {
@@ -5004,8 +5704,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.53629,
-          46.36
+          2.536305,
+          46.360005
         ]
       },
       "properties": {
@@ -5046,8 +5746,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.67671,
-          45.67691
+          5.676718,
+          45.676901
         ]
       },
       "properties": {
@@ -7524,8 +8224,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.90895,
-          45.70472
+          5.908928,
+          45.704728
         ]
       },
       "properties": {
@@ -7552,8 +8252,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.91132,
-          45.68983
+          5.911294,
+          45.689817
         ]
       },
       "properties": {
@@ -7622,8 +8322,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.59448,
-          45.51129
+          6.594388,
+          45.511178
         ]
       },
       "properties": {
@@ -10184,8 +10884,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.88693,
-          45.69665
+          5.886869,
+          45.696652
         ]
       },
       "properties": {

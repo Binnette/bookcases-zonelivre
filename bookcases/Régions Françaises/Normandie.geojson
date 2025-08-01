@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.137935,
+          48.925011
+        ]
+      },
+      "properties": {
+        "id": "25285",
+        "name": "Crouttes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.393778,
+          49.156971
+        ]
+      },
+      "properties": {
+        "id": "25283",
+        "name": "Louvigny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.398866,
+          49.185303
+        ]
+      },
+      "properties": {
+        "id": "24732",
+        "name": "Caen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.825005,
           48.872628
         ]
@@ -3716,7 +3758,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0696,
+          1.069603,
           49.41763
         ]
       },
@@ -5760,13 +5802,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.24884,
-          49.29792
+          -1.248887,
+          49.29789
         ]
       },
       "properties": {
         "id": "12731",
-        "name": "Carentan les Marais"
+        "name": "Carentan-les-Marais"
       }
     },
     {
@@ -7566,8 +7608,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.19701,
-          49.41907
+          0.196976,
+          49.419066
         ]
       },
       "properties": {
@@ -7748,8 +7790,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.65808,
-          49.8594
+          1.658101,
+          49.859413
         ]
       },
       "properties": {
@@ -9778,8 +9820,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.23075,
-          49.41691
+          0.230745,
+          49.416901
         ]
       },
       "properties": {
@@ -9792,8 +9834,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.21167,
-          49.39602
+          0.211661,
+          49.396031
         ]
       },
       "properties": {
@@ -9806,8 +9848,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.12707,
-          49.39939
+          0.127067,
+          49.399386
         ]
       },
       "properties": {

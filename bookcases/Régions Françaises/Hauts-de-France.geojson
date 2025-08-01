@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.142833,
+          50.686594
+        ]
+      },
+      "properties": {
+        "id": "24864",
+        "name": "Wasquehal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.86369,
           49.468762
         ]
@@ -1168,8 +1182,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.61212,
-          50.27806
+          2.612115,
+          50.278057
         ]
       },
       "properties": {
@@ -1546,8 +1560,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.85047,
-          50.41351
+          2.850461,
+          50.413502
         ]
       },
       "properties": {
@@ -1966,8 +1980,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.64245,
-          50.18463
+          1.642461,
+          50.184605
         ]
       },
       "properties": {
@@ -3632,8 +3646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.07652,
-          49.60847
+          2.076529,
+          49.608478
         ]
       },
       "properties": {

@@ -6,6 +6,202 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.697082,
+          47.373368
+        ]
+      },
+      "properties": {
+        "id": "25218",
+        "name": "Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.693686,
+          47.361651
+        ]
+      },
+      "properties": {
+        "id": "25215",
+        "name": "Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.68645,
+          47.357214
+        ]
+      },
+      "properties": {
+        "id": "25213",
+        "name": "Joué-les-Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.692785,
+          47.355388
+        ]
+      },
+      "properties": {
+        "id": "25210",
+        "name": "Joué-les-Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.711708,
+          47.348762
+        ]
+      },
+      "properties": {
+        "id": "25207",
+        "name": "Saint-Avertin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.722753,
+          47.355079
+        ]
+      },
+      "properties": {
+        "id": "25202",
+        "name": "Saint-Avertin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.692316,
+          47.38246
+        ]
+      },
+      "properties": {
+        "id": "25199",
+        "name": "Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.741714,
+          47.394809
+        ]
+      },
+      "properties": {
+        "id": "25194",
+        "name": "Saint-Pierre-des-Corps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.718923,
+          47.391433
+        ]
+      },
+      "properties": {
+        "id": "25192",
+        "name": "Saint-Pierre-des-Corps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.64119,
+          47.382159
+        ]
+      },
+      "properties": {
+        "id": "25189",
+        "name": "La Riche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.680619,
+          47.409323
+        ]
+      },
+      "properties": {
+        "id": "25186",
+        "name": "Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.747883,
+          46.545115
+        ]
+      },
+      "properties": {
+        "id": "25120",
+        "name": "Cluis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.434625,
+          46.683468
+        ]
+      },
+      "properties": {
+        "id": "25118",
+        "name": "Nuret-le-Ferron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.630357,
+          47.773887
+        ]
+      },
+      "properties": {
+        "id": "24917",
+        "name": "Beaugency"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.624104,
           47.771435
         ]
@@ -3142,20 +3338,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.70673,
-          47.3794
-        ]
-      },
-      "properties": {
-        "id": "8555",
-        "name": "Tours"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.68622,
           47.38442
         ]
@@ -3296,8 +3478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.71584,
-          47.3397
+          0.716472,
+          47.339493
         ]
       },
       "properties": {
@@ -3744,8 +3926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.76976,
-          47.39391
+          0.769789,
+          47.39389
         ]
       },
       "properties": {
@@ -3772,8 +3954,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.72281,
-          47.38711
+          0.722815,
+          47.387093
         ]
       },
       "properties": {
@@ -5368,8 +5550,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.90463,
-          47.87438
+          1.904623,
+          47.874364
         ]
       },
       "properties": {
@@ -5711,20 +5893,6 @@
       "properties": {
         "id": "3181",
         "name": "Saint-Denis-les-Ponts"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.89709,
-          47.981255
-        ]
-      },
-      "properties": {
-        "id": "3179",
-        "name": "Mondoubleau"
       }
     },
     {

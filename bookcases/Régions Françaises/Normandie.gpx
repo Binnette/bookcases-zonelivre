@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.925011" lon="0.137935">
+    <name>Crouttes z25285</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.156971" lon="-0.393778">
+    <name>Louvigny z25283</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.185303" lon="-0.398866">
+    <name>Caen z24732</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.872628" lon="-1.825005">
     <name>Îles Chausey z24626</name>
     <type>ZoneLivre Normandie</type>
@@ -2385,7 +2412,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.41763" lon="1.0696">
+  <wpt lat="49.41763" lon="1.069603">
     <name>Le Petit-Quevilly z17146</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3699,8 +3726,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.29792" lon="-1.24884">
-    <name>Carentan les Marais z12731</name>
+  <wpt lat="49.29789" lon="-1.248887">
+    <name>Carentan-les-Marais z12731</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -4860,7 +4887,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.41907" lon="0.19701">
+  <wpt lat="49.419066" lon="0.196976">
     <name>Honfleur z6163</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4977,7 +5004,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.8594" lon="1.65808">
+  <wpt lat="49.859413" lon="1.658101">
     <name>Campneuseville z5026</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6282,7 +6309,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.41691" lon="0.23075">
+  <wpt lat="49.416901" lon="0.230745">
     <name>Honfleur z1373</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6291,7 +6318,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.39602" lon="0.21167">
+  <wpt lat="49.396031" lon="0.211661">
     <name>Equemauville z1371</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6300,7 +6327,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.39939" lon="0.12707">
+  <wpt lat="49.399386" lon="0.127067">
     <name>Villerville z1369</name>
     <type>ZoneLivre Normandie</type>
     <extensions>

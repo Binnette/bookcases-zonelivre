@@ -1,5 +1,113 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.121875" lon="0.655154">
+    <name>z25267</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.122098" lon="0.653335">
+    <name>Availles-Limouzine z25265</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.143193" lon="0.40544">
+    <name>Charroux z25263</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.217221" lon="0.336408">
+    <name>Champniers z25261</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.161615" lon="1.537893">
+    <name>Brive-la-Gaillarde z25258</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.162031" lon="1.559506">
+    <name>Malemort-sur-Corrèze z25245</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.155273" lon="1.527872">
+    <name>Brive-la-Gaillarde z25238</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.168722" lon="1.53296">
+    <name>Brive-la-Gaillarde z25231</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.395865" lon="0.341343">
+    <name>Marnay z25223</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.41598" lon="0.311606">
+    <name>Château-Larcher z25221</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.160174" lon="2.074058">
+    <name>Vigeville z25123</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.299883" lon="1.475947">
+    <name>Vareilles z25116</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.37775" lon="0.875009">
     <name>Saulgé z24597</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
@@ -3537,7 +3645,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.65553" lon="-0.07439">
+  <wpt lat="46.655525" lon="-0.074383">
     <name>La Ferrière-en-Parthenay z18178</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -4698,7 +4806,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.57423" lon="0.37972">
+  <wpt lat="46.574221" lon="0.379683">
     <name>Poitiers z16763</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -4977,7 +5085,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.78529" lon="0.26863">
+  <wpt lat="44.785289" lon="0.268629">
     <name>Ligueux z16500</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -7389,7 +7497,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.79717" lon="-0.62756">
+  <wpt lat="44.797081" lon="-0.627578">
     <name>Pessac z6352</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -7947,7 +8055,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.90958" lon="-0.64205">
+  <wpt lat="44.909584" lon="-0.642051">
     <name>Blanquefort z4400</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -8127,7 +8235,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.90823" lon="1.26037">
+  <wpt lat="45.908226" lon="1.260322">
     <name>Chaptelat z3755</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -8226,7 +8334,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.17007" lon="1.56356">
+  <wpt lat="45.170053" lon="1.563527">
     <name>Malemort-sur-Corrèze z3729</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -8235,7 +8343,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.1547" lon="1.54995">
+  <wpt lat="45.154702" lon="1.549979">
     <name>Brive-la-Gaillarde z3727</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -8244,7 +8352,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.15771" lon="1.52976">
+  <wpt lat="45.157764" lon="1.529347">
     <name>Brive-la-Gaillarde z3725</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -8253,7 +8361,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.15607" lon="1.53443">
+  <wpt lat="45.156079" lon="1.535514">
     <name>Brive-la-Gaillarde z3723</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -8262,7 +8370,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.16065" lon="1.54051">
+  <wpt lat="45.160563" lon="1.540478">
     <name>Brive-la-Gaillarde z3721</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -8271,7 +8379,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.15905" lon="1.53349">
+  <wpt lat="45.159039" lon="1.533481">
     <name>Brive-la-Gaillarde z3719</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -8280,7 +8388,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.16849" lon="1.49515">
+  <wpt lat="45.168501" lon="1.495079">
     <name>Brive-la-Gaillarde z3717</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -8289,7 +8397,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.15685" lon="1.49899">
+  <wpt lat="45.156828" lon="1.499036">
     <name>Brive-la-Gaillarde z3715</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -8298,7 +8406,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.16194" lon="1.53371">
+  <wpt lat="45.161942" lon="1.533749">
     <name>Brive-la-Gaillarde z3713</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -8307,7 +8415,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.15271" lon="1.52894">
+  <wpt lat="45.152686" lon="1.528626">
     <name>Brive-la-Gaillarde z3711</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -8316,7 +8424,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.15449" lon="1.50991">
+  <wpt lat="45.154405" lon="1.509555">
     <name>Brive-la-Gaillarde z3709</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -9711,7 +9819,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.16665" lon="-0.59138">
+  <wpt lat="43.166504" lon="-0.5914">
     <name>Oloron-Sainte-Marie z774</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -9918,7 +10026,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.48898" lon="-1.47418">
+  <wpt lat="43.489119" lon="-1.474209">
     <name>Bayonne z571</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -9936,7 +10044,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.35755" lon="-1.39605">
+  <wpt lat="43.357554" lon="-1.396042">
     <name>Cambo-les-Bains z567</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>

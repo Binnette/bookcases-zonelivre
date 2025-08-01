@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.276804,
+          47.410755
+        ]
+      },
+      "properties": {
+        "id": "25279",
+        "name": "Tanay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.445643,
+          47.556247
+        ]
+      },
+      "properties": {
+        "id": "25277",
+        "name": "Mornay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.859422,
           47.31164
         ]
@@ -3380,8 +3408,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.16797,
-          47.56909
+          4.167936,
+          47.569067
         ]
       },
       "properties": {
@@ -3520,8 +3548,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.66946,
-          47.64849
+          3.669519,
+          47.648483
         ]
       },
       "properties": {
@@ -3541,20 +3569,6 @@
       "properties": {
         "id": "9115",
         "name": "Saint-Martin-du-Tertre"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.20205,
-          47.61866
-        ]
-      },
-      "properties": {
-        "id": "9113",
-        "name": "Saint-Sauveur-en-Puisaye"
       }
     },
     {
@@ -3660,8 +3674,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.31177,
-          48.15049
+          3.311766,
+          48.150487
         ]
       },
       "properties": {
@@ -4108,8 +4122,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.60899,
-          47.90309
+          3.608923,
+          47.903052
         ]
       },
       "properties": {
@@ -4346,8 +4360,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.63213,
-          47.53348
+          3.632988,
+          47.533654
         ]
       },
       "properties": {
@@ -5718,20 +5732,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.045517,
-          47.32132
-        ]
-      },
-      "properties": {
-        "id": "2819",
-        "name": "Dijon"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.050229,
           47.326916
         ]
@@ -6586,8 +6586,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.48937,
-          47.53695
+          4.489369,
+          47.536951
         ]
       },
       "properties": {
