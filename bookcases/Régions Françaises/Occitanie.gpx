@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="44.781578" lon="1.728764">
+    <name>Gramat z25415</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.696049" lon="3.031709">
+    <name>Canet-en-Roussillon z25360</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.384269" lon="3.464596">
+    <name>Florensac z25309</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.522913" lon="2.76204">
     <name>Espalion z24606</name>
     <type>ZoneLivre Occitanie</type>

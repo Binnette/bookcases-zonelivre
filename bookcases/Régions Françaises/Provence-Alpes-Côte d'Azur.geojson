@@ -6,6 +6,202 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.034227,
+          43.19635
+        ]
+      },
+      "properties": {
+        "id": "25353",
+        "name": "Solliès-Pont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.040273,
+          43.191455
+        ]
+      },
+      "properties": {
+        "id": "25351",
+        "name": "Solliès-Pont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.070338,
+          43.441032
+        ]
+      },
+      "properties": {
+        "id": "25348",
+        "name": "Le Val"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.073339,
+          43.439461
+        ]
+      },
+      "properties": {
+        "id": "25346",
+        "name": "Le Val"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.041992,
+          43.165001
+        ]
+      },
+      "properties": {
+        "id": "25343",
+        "name": "La Farlède"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.04019,
+          43.16577
+        ]
+      },
+      "properties": {
+        "id": "25340",
+        "name": "La farlède"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.03832,
+          43.16704
+        ]
+      },
+      "properties": {
+        "id": "25337",
+        "name": "La Farlède"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.043988,
+          43.166919
+        ]
+      },
+      "properties": {
+        "id": "25334",
+        "name": "La farlède"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.030494,
+          43.163415
+        ]
+      },
+      "properties": {
+        "id": "25332",
+        "name": "La Farlède"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.861748,
+          43.452333
+        ]
+      },
+      "properties": {
+        "id": "25330",
+        "name": "Saint-Maximin-la-Sainte-Baume"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.858763,
+          43.452757
+        ]
+      },
+      "properties": {
+        "id": "25327",
+        "name": "Saint-Maximin-la-Sainte-Baume"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.786297,
+          43.469512
+        ]
+      },
+      "properties": {
+        "id": "25324",
+        "name": "Pourcieux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.079693,
+          43.488186
+        ]
+      },
+      "properties": {
+        "id": "25321",
+        "name": "Correns"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.065239,
+          43.407127
+        ]
+      },
+      "properties": {
+        "id": "25318",
+        "name": "Brignoles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.533132,
           43.173012
         ]
@@ -1826,8 +2022,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.22768,
-          43.30139
+          6.227682,
+          43.301391
         ]
       },
       "properties": {

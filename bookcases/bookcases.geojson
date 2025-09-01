@@ -6,6 +6,608 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.143619,
+          47.400136
+        ]
+      },
+      "properties": {
+        "id": "25422",
+        "name": "Saint-Julien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.123255,
+          47.403698
+        ]
+      },
+      "properties": {
+        "id": "25420",
+        "name": "Clénay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.377387,
+          48.895366
+        ]
+      },
+      "properties": {
+        "id": "25417",
+        "name": "Paris 19e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.728764,
+          44.781578
+        ]
+      },
+      "properties": {
+        "id": "25415",
+        "name": "Gramat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.35563,
+          49.1937
+        ]
+      },
+      "properties": {
+        "id": "25413",
+        "name": "Caen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.174703,
+          45.843058
+        ]
+      },
+      "properties": {
+        "id": "25405",
+        "name": "Saint-Jorioz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.188709,
+          45.79592
+        ]
+      },
+      "properties": {
+        "id": "25403",
+        "name": "Entrevernes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.20319,
+          45.827261
+        ]
+      },
+      "properties": {
+        "id": "25401",
+        "name": "Duingt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.445152,
+          45.239009
+        ]
+      },
+      "properties": {
+        "id": "25399",
+        "name": "Saint-Martin-de-la-Porte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.459942,
+          45.241481
+        ]
+      },
+      "properties": {
+        "id": "25397",
+        "name": "Saint-Martin-de-la-Porte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.558814,
+          45.498073
+        ]
+      },
+      "properties": {
+        "id": "25394",
+        "name": "Saint-Marcel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.720508,
+          45.215039
+        ]
+      },
+      "properties": {
+        "id": "25391",
+        "name": "Avrieux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.775523,
+          45.225082
+        ]
+      },
+      "properties": {
+        "id": "25388",
+        "name": "Bramans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.312504,
+          46.067
+        ]
+      },
+      "properties": {
+        "id": "25385",
+        "name": "La Roche-sur-Foron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.315242,
+          46.066708
+        ]
+      },
+      "properties": {
+        "id": "25382",
+        "name": "La Roche-sur-Foron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.311416,
+          46.065809
+        ]
+      },
+      "properties": {
+        "id": "25377",
+        "name": "La Roche-sur-Foron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.155784,
+          45.569302
+        ]
+      },
+      "properties": {
+        "id": "25374",
+        "name": "Saint-Pierre-d'Albigny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.208021,
+          45.583962
+        ]
+      },
+      "properties": {
+        "id": "25372",
+        "name": "Fréterive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04391,
+          50.552663
+        ]
+      },
+      "properties": {
+        "id": "25366",
+        "name": "Seclin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.820563,
+          48.657152
+        ]
+      },
+      "properties": {
+        "id": "25362",
+        "name": "Chaumes-en-Brie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.031709,
+          42.696049
+        ]
+      },
+      "properties": {
+        "id": "25360",
+        "name": "Canet-en-Roussillon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.034227,
+          43.19635
+        ]
+      },
+      "properties": {
+        "id": "25353",
+        "name": "Solliès-Pont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.040273,
+          43.191455
+        ]
+      },
+      "properties": {
+        "id": "25351",
+        "name": "Solliès-Pont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.070338,
+          43.441032
+        ]
+      },
+      "properties": {
+        "id": "25348",
+        "name": "Le Val"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.073339,
+          43.439461
+        ]
+      },
+      "properties": {
+        "id": "25346",
+        "name": "Le Val"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.041992,
+          43.165001
+        ]
+      },
+      "properties": {
+        "id": "25343",
+        "name": "La Farlède"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.04019,
+          43.16577
+        ]
+      },
+      "properties": {
+        "id": "25340",
+        "name": "La farlède"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.03832,
+          43.16704
+        ]
+      },
+      "properties": {
+        "id": "25337",
+        "name": "La Farlède"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.043988,
+          43.166919
+        ]
+      },
+      "properties": {
+        "id": "25334",
+        "name": "La farlède"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.030494,
+          43.163415
+        ]
+      },
+      "properties": {
+        "id": "25332",
+        "name": "La Farlède"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.861748,
+          43.452333
+        ]
+      },
+      "properties": {
+        "id": "25330",
+        "name": "Saint-Maximin-la-Sainte-Baume"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.858763,
+          43.452757
+        ]
+      },
+      "properties": {
+        "id": "25327",
+        "name": "Saint-Maximin-la-Sainte-Baume"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.786297,
+          43.469512
+        ]
+      },
+      "properties": {
+        "id": "25324",
+        "name": "Pourcieux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.079693,
+          43.488186
+        ]
+      },
+      "properties": {
+        "id": "25321",
+        "name": "Correns"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.065239,
+          43.407127
+        ]
+      },
+      "properties": {
+        "id": "25318",
+        "name": "Brignoles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.760103,
+          50.462835
+        ]
+      },
+      "properties": {
+        "id": "25316",
+        "name": "Montreuil-sur-Mer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.464596,
+          43.384269
+        ]
+      },
+      "properties": {
+        "id": "25309",
+        "name": "Florensac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.249775,
+          47.023401
+        ]
+      },
+      "properties": {
+        "id": "25304",
+        "name": "Noirmoutier-en-l'Île"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.613936,
+          50.723158
+        ]
+      },
+      "properties": {
+        "id": "25303",
+        "name": "Boulogne-sur-Mer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.231724,
+          47.010407
+        ]
+      },
+      "properties": {
+        "id": "25301",
+        "name": "Noirmoutier-en-l'Île"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.243907,
+          46.999988
+        ]
+      },
+      "properties": {
+        "id": "25299",
+        "name": "Noirmoutier-en-l'Île"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.369509,
+          46.204922
+        ]
+      },
+      "properties": {
+        "id": "25296",
+        "name": "Saint-Martin-de-Ré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.622044,
+          46.388147
+        ]
+      },
+      "properties": {
+        "id": "25294",
+        "name": "Crozant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.137935,
           48.925011
         ]
@@ -17646,8 +18248,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.04266,
-          45.96179
+          6.042625,
+          45.961784
         ]
       },
       "properties": {
@@ -28706,8 +29308,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.22768,
-          43.30139
+          6.227682,
+          43.301391
         ]
       },
       "properties": {
@@ -34264,8 +34866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29449,
-          48.90913
+          2.293994,
+          48.908634
         ]
       },
       "properties": {
@@ -34278,8 +34880,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29133,
-          48.91576
+          2.291313,
+          48.915758
         ]
       },
       "properties": {
@@ -34292,22 +34894,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.30663,
-          48.91424
-        ]
-      },
-      "properties": {
-        "id": "17610",
-        "name": "Asnières-sur-Seine"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.28825,
-          48.9111
+          2.288238,
+          48.911067
         ]
       },
       "properties": {
@@ -34320,8 +34908,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29248,
-          48.91262
+          2.292428,
+          48.912664
         ]
       },
       "properties": {
@@ -34334,8 +34922,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.27972,
-          48.93351
+          2.279734,
+          48.933486
         ]
       },
       "properties": {
@@ -34348,8 +34936,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.27465,
-          48.90958
+          2.274623,
+          48.90957
         ]
       },
       "properties": {
@@ -66856,8 +67444,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.79753,
-          47.2117
+          -0.797512,
+          47.211709
         ]
       },
       "properties": {
@@ -72246,8 +72834,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.43934,
-          49.73085
+          1.439338,
+          49.730851
         ]
       },
       "properties": {
@@ -73960,20 +74548,6 @@
       },
       "properties": {
         "id": "4722",
-        "name": "Limoges"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.2583,
-          45.85299
-        ]
-      },
-      "properties": {
-        "id": "4716",
         "name": "Limoges"
       }
     },
@@ -83488,8 +84062,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.48729,
-          48.44613
+          1.487191,
+          48.44602
         ]
       },
       "properties": {
@@ -89046,8 +89620,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.24933,
-          47.02284
+          -2.249528,
+          47.022847
         ]
       },
       "properties": {
@@ -90978,8 +91552,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.08698,
-          45.77359
+          3.086973,
+          45.773579
         ]
       },
       "properties": {
@@ -92714,13 +93288,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.86772,
-          47.19545
+          -0.867831,
+          47.19553
         ]
       },
       "properties": {
         "id": "1696",
-        "name": "Beaupréau-en-Mauges"
+        "name": "Jallais"
       }
     },
     {
@@ -94716,8 +95290,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.3339,
-          47.86254
+          5.333811,
+          47.862759
         ]
       },
       "properties": {

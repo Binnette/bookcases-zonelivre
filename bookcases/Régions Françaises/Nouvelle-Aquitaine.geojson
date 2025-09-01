@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.369509,
+          46.204922
+        ]
+      },
+      "properties": {
+        "id": "25296",
+        "name": "Saint-Martin-de-Ré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.622044,
+          46.388147
+        ]
+      },
+      "properties": {
+        "id": "25294",
+        "name": "Crozant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.655154,
           46.121875
         ]
@@ -12164,20 +12192,6 @@
       },
       "properties": {
         "id": "4722",
-        "name": "Limoges"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.2583,
-          45.85299
-        ]
-      },
-      "properties": {
-        "id": "4716",
         "name": "Limoges"
       }
     },

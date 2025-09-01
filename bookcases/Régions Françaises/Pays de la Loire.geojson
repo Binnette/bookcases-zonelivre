@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.249775,
+          47.023401
+        ]
+      },
+      "properties": {
+        "id": "25304",
+        "name": "Noirmoutier-en-l'Île"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.231724,
+          47.010407
+        ]
+      },
+      "properties": {
+        "id": "25301",
+        "name": "Noirmoutier-en-l'Île"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.243907,
+          46.999988
+        ]
+      },
+      "properties": {
+        "id": "25299",
+        "name": "Noirmoutier-en-l'Île"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.5762,
           47.295145
         ]
@@ -5704,8 +5746,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.79753,
-          47.2117
+          -0.797512,
+          47.211709
         ]
       },
       "properties": {
@@ -7146,8 +7188,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.24933,
-          47.02284
+          -2.249528,
+          47.022847
         ]
       },
       "properties": {
@@ -7356,13 +7398,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.86772,
-          47.19545
+          -0.867831,
+          47.19553
         ]
       },
       "properties": {
         "id": "1696",
-        "name": "Beaupréau-en-Mauges"
+        "name": "Jallais"
       }
     },
     {

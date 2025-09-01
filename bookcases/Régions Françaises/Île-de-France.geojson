@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.377387,
+          48.895366
+        ]
+      },
+      "properties": {
+        "id": "25417",
+        "name": "Paris 19e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.820563,
+          48.657152
+        ]
+      },
+      "properties": {
+        "id": "25362",
+        "name": "Chaumes-en-Brie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.942263,
           48.380089
         ]
@@ -2610,8 +2638,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29449,
-          48.90913
+          2.293994,
+          48.908634
         ]
       },
       "properties": {
@@ -2624,8 +2652,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29133,
-          48.91576
+          2.291313,
+          48.915758
         ]
       },
       "properties": {
@@ -2638,22 +2666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.30663,
-          48.91424
-        ]
-      },
-      "properties": {
-        "id": "17610",
-        "name": "Asnières-sur-Seine"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.28825,
-          48.9111
+          2.288238,
+          48.911067
         ]
       },
       "properties": {
@@ -2666,8 +2680,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29248,
-          48.91262
+          2.292428,
+          48.912664
         ]
       },
       "properties": {
@@ -2680,8 +2694,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.27972,
-          48.93351
+          2.279734,
+          48.933486
         ]
       },
       "properties": {
@@ -2694,8 +2708,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.27465,
-          48.90958
+          2.274623,
+          48.90957
         ]
       },
       "properties": {

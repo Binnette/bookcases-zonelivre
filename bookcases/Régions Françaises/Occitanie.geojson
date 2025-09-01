@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.728764,
+          44.781578
+        ]
+      },
+      "properties": {
+        "id": "25415",
+        "name": "Gramat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.031709,
+          42.696049
+        ]
+      },
+      "properties": {
+        "id": "25360",
+        "name": "Canet-en-Roussillon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.464596,
+          43.384269
+        ]
+      },
+      "properties": {
+        "id": "25309",
+        "name": "Florensac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.76204,
           44.522913
         ]

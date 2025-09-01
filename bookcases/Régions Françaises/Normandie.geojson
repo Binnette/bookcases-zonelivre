@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.35563,
+          49.1937
+        ]
+      },
+      "properties": {
+        "id": "25413",
+        "name": "Caen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.137935,
           48.925011
         ]
@@ -7888,8 +7902,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.43934,
-          49.73085
+          1.439338,
+          49.730851
         ]
       },
       "properties": {

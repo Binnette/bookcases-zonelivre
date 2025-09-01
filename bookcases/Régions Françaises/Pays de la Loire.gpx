@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.023401" lon="-2.249775">
+    <name>Noirmoutier-en-l'Île z25304</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.010407" lon="-2.231724">
+    <name>Noirmoutier-en-l'Île z25301</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.999988" lon="-2.243907">
+    <name>Noirmoutier-en-l'Île z25299</name>
+    <type>ZoneLivre Pays de la Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.295145" lon="-0.5762">
     <name>Rablay-sur-Layon z25107</name>
     <type>ZoneLivre Pays de la Loire</type>
@@ -3663,7 +3690,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.2117" lon="-0.79753">
+  <wpt lat="47.211709" lon="-0.797512">
     <name>Chemillé-en-Anjou z7942</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
@@ -4590,7 +4617,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.02284" lon="-2.24933">
+  <wpt lat="47.022847" lon="-2.249528">
     <name>Noirmoutier-en-l'Île z2287</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
@@ -4725,8 +4752,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.19545" lon="-0.86772">
-    <name>Beaupréau-en-Mauges z1696</name>
+  <wpt lat="47.19553" lon="-0.867831">
+    <name>Jallais z1696</name>
     <type>ZoneLivre Pays de la Loire</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>

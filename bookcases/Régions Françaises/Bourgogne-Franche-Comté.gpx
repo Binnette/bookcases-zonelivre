@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.400136" lon="5.143619">
+    <name>Saint-Julien z25422</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.403698" lon="5.123255">
+    <name>Clénay z25420</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.410755" lon="5.276804">
     <name>Tanay z25279</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>

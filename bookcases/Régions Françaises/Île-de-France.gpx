@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.895366" lon="2.377387">
+    <name>Paris 19e z25417</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.657152" lon="2.820563">
+    <name>Chaumes-en-Brie z25362</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.380089" lon="2.942263">
     <name>Montereau-Fault-Yonne z25274</name>
     <type>ZoneLivre Île-de-France</type>
@@ -1674,7 +1692,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.90913" lon="2.29449">
+  <wpt lat="48.908634" lon="2.293994">
     <name>Asnières-sur-Seine z17614</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1683,7 +1701,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.91576" lon="2.29133">
+  <wpt lat="48.915758" lon="2.291313">
     <name>Asnières-sur-Seine z17612</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1692,16 +1710,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.91424" lon="2.30663">
-    <name>Asnières-sur-Seine z17610</name>
-    <type>ZoneLivre Île-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.9111" lon="2.28825">
+  <wpt lat="48.911067" lon="2.288238">
     <name>Asnières-sur-Seine z17608</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1710,7 +1719,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.91262" lon="2.29248">
+  <wpt lat="48.912664" lon="2.292428">
     <name>Asnières-sur-Seine z17606</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1719,7 +1728,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.93351" lon="2.27972">
+  <wpt lat="48.933486" lon="2.279734">
     <name>Asnières-sur-Seine z17604</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1728,7 +1737,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.90958" lon="2.27465">
+  <wpt lat="48.90957" lon="2.274623">
     <name>Asnières-sur-Seine z17600</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>

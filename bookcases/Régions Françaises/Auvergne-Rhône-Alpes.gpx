@@ -1,5 +1,122 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.843058" lon="6.174703">
+    <name>Saint-Jorioz z25405</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.79592" lon="6.188709">
+    <name>Entrevernes z25403</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.827261" lon="6.20319">
+    <name>Duingt z25401</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.239009" lon="6.445152">
+    <name>Saint-Martin-de-la-Porte z25399</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.241481" lon="6.459942">
+    <name>Saint-Martin-de-la-Porte z25397</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.498073" lon="6.558814">
+    <name>Saint-Marcel z25394</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.215039" lon="6.720508">
+    <name>Avrieux z25391</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.225082" lon="6.775523">
+    <name>Bramans z25388</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.067" lon="6.312504">
+    <name>La Roche-sur-Foron z25385</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.066708" lon="6.315242">
+    <name>La Roche-sur-Foron z25382</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.065809" lon="6.311416">
+    <name>La Roche-sur-Foron z25377</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.569302" lon="6.155784">
+    <name>Saint-Pierre-d'Albigny z25374</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.583962" lon="6.208021">
+    <name>Fréterive z25372</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.761358" lon="4.827732">
     <name>Lyon z25138</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
@@ -1206,7 +1323,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.96179" lon="6.04266">
+  <wpt lat="45.961784" lon="6.042625">
     <name>La Balme-de-Sillingy z21148</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6849,7 +6966,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.77359" lon="3.08698">
+  <wpt lat="45.773579" lon="3.086973">
     <name>Clermont-Ferrand z1968</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>

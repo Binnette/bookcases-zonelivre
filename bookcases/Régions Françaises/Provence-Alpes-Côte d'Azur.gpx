@@ -1,5 +1,131 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.19635" lon="6.034227">
+    <name>Solliès-Pont z25353</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.191455" lon="6.040273">
+    <name>Solliès-Pont z25351</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.441032" lon="6.070338">
+    <name>Le Val z25348</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.439461" lon="6.073339">
+    <name>Le Val z25346</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.165001" lon="6.041992">
+    <name>La Farlède z25343</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.16577" lon="6.04019">
+    <name>La farlède z25340</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.16704" lon="6.03832">
+    <name>La Farlède z25337</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.166919" lon="6.043988">
+    <name>La farlède z25334</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.163415" lon="6.030494">
+    <name>La Farlède z25332</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.452333" lon="5.861748">
+    <name>Saint-Maximin-la-Sainte-Baume z25330</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.452757" lon="5.858763">
+    <name>Saint-Maximin-la-Sainte-Baume z25327</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.469512" lon="5.786297">
+    <name>Pourcieux z25324</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.488186" lon="6.079693">
+    <name>Correns z25321</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.407127" lon="6.065239">
+    <name>Brignoles z25318</name>
+    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="43.173012" lon="6.533132">
     <name>Cavalaire-sur-Mer z25155</name>
     <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
@@ -1170,7 +1296,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.30139" lon="6.22768">
+  <wpt lat="43.301391" lon="6.227682">
     <name>Pignans z18889</name>
     <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
     <extensions>

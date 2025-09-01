@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.143619,
+          47.400136
+        ]
+      },
+      "properties": {
+        "id": "25422",
+        "name": "Saint-Julien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.123255,
+          47.403698
+        ]
+      },
+      "properties": {
+        "id": "25420",
+        "name": "Clénay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.276804,
           47.410755
         ]

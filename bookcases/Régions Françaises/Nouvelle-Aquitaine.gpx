@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.204922" lon="-1.369509">
+    <name>Saint-Martin-de-Ré z25296</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.388147" lon="1.622044">
+    <name>Crozant z25294</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.121875" lon="0.655154">
     <name>z25267</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
@@ -7814,15 +7832,6 @@
   </wpt>
   <wpt lat="45.83259" lon="1.25837">
     <name>Limoges z4722</name>
-    <type>ZoneLivre Nouvelle-Aquitaine</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.85299" lon="1.2583">
-    <name>Limoges z4716</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>

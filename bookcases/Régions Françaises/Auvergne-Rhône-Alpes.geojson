@@ -6,6 +6,188 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.174703,
+          45.843058
+        ]
+      },
+      "properties": {
+        "id": "25405",
+        "name": "Saint-Jorioz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.188709,
+          45.79592
+        ]
+      },
+      "properties": {
+        "id": "25403",
+        "name": "Entrevernes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.20319,
+          45.827261
+        ]
+      },
+      "properties": {
+        "id": "25401",
+        "name": "Duingt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.445152,
+          45.239009
+        ]
+      },
+      "properties": {
+        "id": "25399",
+        "name": "Saint-Martin-de-la-Porte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.459942,
+          45.241481
+        ]
+      },
+      "properties": {
+        "id": "25397",
+        "name": "Saint-Martin-de-la-Porte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.558814,
+          45.498073
+        ]
+      },
+      "properties": {
+        "id": "25394",
+        "name": "Saint-Marcel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.720508,
+          45.215039
+        ]
+      },
+      "properties": {
+        "id": "25391",
+        "name": "Avrieux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.775523,
+          45.225082
+        ]
+      },
+      "properties": {
+        "id": "25388",
+        "name": "Bramans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.312504,
+          46.067
+        ]
+      },
+      "properties": {
+        "id": "25385",
+        "name": "La Roche-sur-Foron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.315242,
+          46.066708
+        ]
+      },
+      "properties": {
+        "id": "25382",
+        "name": "La Roche-sur-Foron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.311416,
+          46.065809
+        ]
+      },
+      "properties": {
+        "id": "25377",
+        "name": "La Roche-sur-Foron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.155784,
+          45.569302
+        ]
+      },
+      "properties": {
+        "id": "25374",
+        "name": "Saint-Pierre-d'Albigny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.208021,
+          45.583962
+        ]
+      },
+      "properties": {
+        "id": "25372",
+        "name": "Fréterive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.827732,
           45.761358
         ]
@@ -1882,8 +2064,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.04266,
-          45.96179
+          6.042625,
+          45.961784
         ]
       },
       "properties": {
@@ -10660,8 +10842,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.08698,
-          45.77359
+          3.086973,
+          45.773579
         ]
       },
       "properties": {

@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="49.1937" lon="-0.35563">
+    <name>Caen z25413</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.925011" lon="0.137935">
     <name>Crouttes z25285</name>
     <type>ZoneLivre Normandie</type>
@@ -5067,7 +5076,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.73085" lon="1.43934">
+  <wpt lat="49.730851" lon="1.439338">
     <name>Neufchâtel-en-Bray z5007</name>
     <type>ZoneLivre Normandie</type>
     <extensions>

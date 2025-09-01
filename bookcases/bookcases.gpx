@@ -1,5 +1,392 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.400136" lon="5.143619">
+    <name>Saint-Julien z25422</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.403698" lon="5.123255">
+    <name>Clénay z25420</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.895366" lon="2.377387">
+    <name>Paris 19e z25417</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.781578" lon="1.728764">
+    <name>Gramat z25415</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.1937" lon="-0.35563">
+    <name>Caen z25413</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.843058" lon="6.174703">
+    <name>Saint-Jorioz z25405</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.79592" lon="6.188709">
+    <name>Entrevernes z25403</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.827261" lon="6.20319">
+    <name>Duingt z25401</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.239009" lon="6.445152">
+    <name>Saint-Martin-de-la-Porte z25399</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.241481" lon="6.459942">
+    <name>Saint-Martin-de-la-Porte z25397</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.498073" lon="6.558814">
+    <name>Saint-Marcel z25394</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.215039" lon="6.720508">
+    <name>Avrieux z25391</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.225082" lon="6.775523">
+    <name>Bramans z25388</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.067" lon="6.312504">
+    <name>La Roche-sur-Foron z25385</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.066708" lon="6.315242">
+    <name>La Roche-sur-Foron z25382</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.065809" lon="6.311416">
+    <name>La Roche-sur-Foron z25377</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.569302" lon="6.155784">
+    <name>Saint-Pierre-d'Albigny z25374</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.583962" lon="6.208021">
+    <name>Fréterive z25372</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.552663" lon="3.04391">
+    <name>Seclin z25366</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.657152" lon="2.820563">
+    <name>Chaumes-en-Brie z25362</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.696049" lon="3.031709">
+    <name>Canet-en-Roussillon z25360</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.19635" lon="6.034227">
+    <name>Solliès-Pont z25353</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.191455" lon="6.040273">
+    <name>Solliès-Pont z25351</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.441032" lon="6.070338">
+    <name>Le Val z25348</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.439461" lon="6.073339">
+    <name>Le Val z25346</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.165001" lon="6.041992">
+    <name>La Farlède z25343</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.16577" lon="6.04019">
+    <name>La farlède z25340</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.16704" lon="6.03832">
+    <name>La Farlède z25337</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.166919" lon="6.043988">
+    <name>La farlède z25334</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.163415" lon="6.030494">
+    <name>La Farlède z25332</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.452333" lon="5.861748">
+    <name>Saint-Maximin-la-Sainte-Baume z25330</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.452757" lon="5.858763">
+    <name>Saint-Maximin-la-Sainte-Baume z25327</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.469512" lon="5.786297">
+    <name>Pourcieux z25324</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.488186" lon="6.079693">
+    <name>Correns z25321</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.407127" lon="6.065239">
+    <name>Brignoles z25318</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.462835" lon="1.760103">
+    <name>Montreuil-sur-Mer z25316</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.384269" lon="3.464596">
+    <name>Florensac z25309</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.023401" lon="-2.249775">
+    <name>Noirmoutier-en-l'Île z25304</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.723158" lon="1.613936">
+    <name>Boulogne-sur-Mer z25303</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.010407" lon="-2.231724">
+    <name>Noirmoutier-en-l'Île z25301</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.999988" lon="-2.243907">
+    <name>Noirmoutier-en-l'Île z25299</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.204922" lon="-1.369509">
+    <name>Saint-Martin-de-Ré z25296</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.388147" lon="1.622044">
+    <name>Crozant z25294</name>
+    <type>ZoneLivre</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.925011" lon="0.137935">
     <name>Crouttes z25285</name>
     <type>ZoneLivre</type>
@@ -11340,7 +11727,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.96179" lon="6.04266">
+  <wpt lat="45.961784" lon="6.042625">
     <name>La Balme-de-Sillingy z21148</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -18450,7 +18837,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.30139" lon="6.22768">
+  <wpt lat="43.301391" lon="6.227682">
     <name>Pignans z18889</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -22023,7 +22410,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.90913" lon="2.29449">
+  <wpt lat="48.908634" lon="2.293994">
     <name>Asnières-sur-Seine z17614</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -22032,7 +22419,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.91576" lon="2.29133">
+  <wpt lat="48.915758" lon="2.291313">
     <name>Asnières-sur-Seine z17612</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -22041,16 +22428,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.91424" lon="2.30663">
-    <name>Asnières-sur-Seine z17610</name>
-    <type>ZoneLivre</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.9111" lon="2.28825">
+  <wpt lat="48.911067" lon="2.288238">
     <name>Asnières-sur-Seine z17608</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -22059,7 +22437,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.91262" lon="2.29248">
+  <wpt lat="48.912664" lon="2.292428">
     <name>Asnières-sur-Seine z17606</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -22068,7 +22446,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.93351" lon="2.27972">
+  <wpt lat="48.933486" lon="2.279734">
     <name>Asnières-sur-Seine z17604</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -22077,7 +22455,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.90958" lon="2.27465">
+  <wpt lat="48.90957" lon="2.274623">
     <name>Asnières-sur-Seine z17600</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -42975,7 +43353,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.2117" lon="-0.79753">
+  <wpt lat="47.211709" lon="-0.797512">
     <name>Chemillé-en-Anjou z7942</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -46440,7 +46818,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.73085" lon="1.43934">
+  <wpt lat="49.730851" lon="1.439338">
     <name>Neufchâtel-en-Bray z5007</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -47540,15 +47918,6 @@
   </wpt>
   <wpt lat="45.83259" lon="1.25837">
     <name>Limoges z4722</name>
-    <type>ZoneLivre</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.85299" lon="1.2583">
-    <name>Limoges z4716</name>
     <type>ZoneLivre</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -53667,7 +54036,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.44613" lon="1.48729">
+  <wpt lat="48.44602" lon="1.487191">
     <name>Chartres z3201</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -57240,7 +57609,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.02284" lon="-2.24933">
+  <wpt lat="47.022847" lon="-2.249528">
     <name>Noirmoutier-en-l'Île z2287</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -58482,7 +58851,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.77359" lon="3.08698">
+  <wpt lat="45.773579" lon="3.086973">
     <name>Clermont-Ferrand z1968</name>
     <type>ZoneLivre</type>
     <extensions>
@@ -59598,8 +59967,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.19545" lon="-0.86772">
-    <name>Beaupréau-en-Mauges z1696</name>
+  <wpt lat="47.19553" lon="-0.867831">
+    <name>Jallais z1696</name>
     <type>ZoneLivre</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -60885,7 +61254,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.86254" lon="5.3339">
+  <wpt lat="47.862759" lon="5.333811">
     <name>Langres z1302</name>
     <type>ZoneLivre</type>
     <extensions>

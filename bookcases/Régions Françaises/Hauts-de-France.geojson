@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.04391,
+          50.552663
+        ]
+      },
+      "properties": {
+        "id": "25366",
+        "name": "Seclin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.760103,
+          50.462835
+        ]
+      },
+      "properties": {
+        "id": "25316",
+        "name": "Montreuil-sur-Mer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.613936,
+          50.723158
+        ]
+      },
+      "properties": {
+        "id": "25303",
+        "name": "Boulogne-sur-Mer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.142833,
           50.686594
         ]
