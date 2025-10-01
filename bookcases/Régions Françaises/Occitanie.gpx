@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <wpt lat="44.781578" lon="1.728764">
-    <name>Gramat z25415</name>
+  <wpt lat="44.820698" lon="1.756192">
+    <name>Thegra z25425</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -3834,7 +3834,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.612485" lon="1.448404">
+  <wpt lat="43.612493" lon="1.448503">
     <name>Toulouse z623</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>

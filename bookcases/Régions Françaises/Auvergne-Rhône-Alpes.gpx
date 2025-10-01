@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.868699" lon="4.191303">
+    <name>Saint-Marcel-de-Félines z25455</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.849707" lon="4.131787">
+    <name>Saint-Georges-de-Baroille z25451</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.843058" lon="6.174703">
     <name>Saint-Jorioz z25405</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
@@ -4178,15 +4196,6 @@
   </wpt>
   <wpt lat="46.30835" lon="3.2938">
     <name>Saint-Pourçain-sur-Sioule z12181</name>
-    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.47972" lon="4.36351">
-    <name>Saint-Priest-en-Jarez z12148</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>

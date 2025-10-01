@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.293659,
+          48.491097
+        ]
+      },
+      "properties": {
+        "id": "25448",
+        "name": "Le Ferré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.314328,
           48.835997
         ]
@@ -3871,7 +3885,7 @@
         "type": "Point",
         "coordinates": [
           -2.55228,
-          47.51483
+          47.514826
         ]
       },
       "properties": {
@@ -5508,20 +5522,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.09456,
-          48.19609
-        ]
-      },
-      "properties": {
-        "id": "2173",
-        "name": "Châteaulin"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.26326,
           48.35953
         ]
@@ -6992,8 +6992,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.5807,
-          47.51731
+          -2.580803,
+          47.517434
         ]
       },
       "properties": {

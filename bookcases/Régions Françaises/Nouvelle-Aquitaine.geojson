@@ -6,6 +6,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.237762,
+          44.919444
+        ]
+      },
+      "properties": {
+        "id": "25446",
+        "name": "Libourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.128228,
+          45.015664
+        ]
+      },
+      "properties": {
+        "id": "25444",
+        "name": "Abzac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.164999,
+          45.081483
+        ]
+      },
+      "properties": {
+        "id": "25442",
+        "name": "Lagorce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.227339,
+          45.035348
+        ]
+      },
+      "properties": {
+        "id": "25439",
+        "name": "Saint-Martin-de-Laye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.040035,
+          45.098211
+        ]
+      },
+      "properties": {
+        "id": "25437",
+        "name": "Les Églisottes-et-Chalaures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.369509,
           46.204922
         ]

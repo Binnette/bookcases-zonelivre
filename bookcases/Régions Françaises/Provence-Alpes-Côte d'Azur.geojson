@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.112585,
+          43.59447
+        ]
+      },
+      "properties": {
+        "id": "25432",
+        "name": "Antibes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.034227,
           43.19635
         ]

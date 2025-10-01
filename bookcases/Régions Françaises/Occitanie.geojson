@@ -6,13 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.728764,
-          44.781578
+          1.756192,
+          44.820698
         ]
       },
       "properties": {
-        "id": "25415",
-        "name": "Gramat"
+        "id": "25425",
+        "name": "Thegra"
       }
     },
     {
@@ -5970,8 +5970,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.448404,
-          43.612485
+          1.448503,
+          43.612493
         ]
       },
       "properties": {

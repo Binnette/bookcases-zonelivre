@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.191303,
+          45.868699
+        ]
+      },
+      "properties": {
+        "id": "25455",
+        "name": "Saint-Marcel-de-Félines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.131787,
+          45.849707
+        ]
+      },
+      "properties": {
+        "id": "25451",
+        "name": "Saint-Georges-de-Baroille"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.174703,
           45.843058
         ]
@@ -6509,20 +6537,6 @@
       "properties": {
         "id": "12181",
         "name": "Saint-Pourçain-sur-Sioule"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.36351,
-          45.47972
-        ]
-      },
-      "properties": {
-        "id": "12148",
-        "name": "Saint-Priest-en-Jarez"
       }
     },
     {

@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.757072" lon="4.51069">
+    <name>Écuisses z25434</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.400136" lon="5.143619">
     <name>Saint-Julien z25422</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
@@ -587,15 +596,6 @@
   </wpt>
   <wpt lat="47.334666" lon="5.061036">
     <name>Dijon z22174</name>
-    <type>ZoneLivre Bourgogne-Franche-Comté</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.329117" lon="5.064888">
-    <name>Dijon z22172</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
