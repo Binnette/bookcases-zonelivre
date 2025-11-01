@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.444093,
+          49.233548
+        ]
+      },
+      "properties": {
+        "id": "25513",
+        "name": "Cairon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.41077,
+          48.87099
+        ]
+      },
+      "properties": {
+        "id": "25475",
+        "name": "Pont-d'Ouilly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.39982,
+          49.22553
+        ]
+      },
+      "properties": {
+        "id": "25469",
+        "name": "Vézillon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.35563,
           49.1937
         ]

@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.035797,
+          48.779564
+        ]
+      },
+      "properties": {
+        "id": "25467",
+        "name": "Montigny-le-Bretonneux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.041263,
+          48.778765
+        ]
+      },
+      "properties": {
+        "id": "25465",
+        "name": "Montigny-le-Bretonneux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.377387,
           48.895366
         ]
@@ -2414,8 +2442,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.82516,
-          48.64449
+          2.825122,
+          48.644507
         ]
       },
       "properties": {

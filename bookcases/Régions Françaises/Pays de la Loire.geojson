@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.03718,
+          47.36192
+        ]
+      },
+      "properties": {
+        "id": "25505",
+        "name": "Blou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.72014,
+          47.20905
+        ]
+      },
+      "properties": {
+        "id": "25460",
+        "name": "Couëron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.683049,
+          47.214647
+        ]
+      },
+      "properties": {
+        "id": "25458",
+        "name": "Couëron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.249775,
           47.023401
         ]

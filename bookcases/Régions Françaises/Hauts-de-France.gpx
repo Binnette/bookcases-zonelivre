@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="50.352716" lon="3.062533">
+    <name>Lambres-lez-Douai z25511</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.356489" lon="3.066425">
+    <name>Lambres-lez-Douai z25509</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="50.552663" lon="3.04391">
     <name>Seclin z25366</name>
     <type>ZoneLivre Hauts-de-France</type>
@@ -1791,7 +1809,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.70873" lon="2.99506">
+  <wpt lat="50.708719" lon="2.995057">
     <name>Quesnoy-sur-Deûle z9271</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>

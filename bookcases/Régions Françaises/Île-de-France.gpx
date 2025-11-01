@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.779564" lon="2.035797">
+    <name>Montigny-le-Bretonneux z25467</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.778765" lon="2.041263">
+    <name>Montigny-le-Bretonneux z25465</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.895366" lon="2.377387">
     <name>Paris 19e z25417</name>
     <type>ZoneLivre Île-de-France</type>
@@ -1548,7 +1566,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.64449" lon="2.82516">
+  <wpt lat="48.644507" lon="2.825122">
     <name>Verneuil-l'Étang z18072</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>

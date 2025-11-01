@@ -1,5 +1,59 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.78198" lon="4.087255">
+    <name>Sommières z25501</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.185761" lon="2.034783">
+    <name>Fanjeaux z25496</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.186877" lon="2.034391">
+    <name>Fanjeaux z25493</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.860144" lon="3.906216">
+    <name>Claret z25483</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.492506" lon="2.160632">
+    <name>Massaguel z25473</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.614588" lon="2.423786">
+    <name>Prades z25471</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.820698" lon="1.756192">
     <name>Thegra z25425</name>
     <type>ZoneLivre Occitanie</type>
@@ -2637,7 +2691,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.79407" lon="4.0959">
+  <wpt lat="43.794068" lon="4.095623">
     <name>Villevieille z11636</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -3350,15 +3404,6 @@
   </wpt>
   <wpt lat="44.46946" lon="2.72035">
     <name>Bozouls z2370</name>
-    <type>ZoneLivre Occitanie</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.60958" lon="3.8761">
-    <name>Montpellier z1747</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>

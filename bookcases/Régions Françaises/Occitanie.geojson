@@ -6,6 +6,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.087255,
+          43.78198
+        ]
+      },
+      "properties": {
+        "id": "25501",
+        "name": "Sommières"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.034783,
+          43.185761
+        ]
+      },
+      "properties": {
+        "id": "25496",
+        "name": "Fanjeaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.034391,
+          43.186877
+        ]
+      },
+      "properties": {
+        "id": "25493",
+        "name": "Fanjeaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.906216,
+          43.860144
+        ]
+      },
+      "properties": {
+        "id": "25483",
+        "name": "Claret"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.160632,
+          43.492506
+        ]
+      },
+      "properties": {
+        "id": "25473",
+        "name": "Massaguel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.423786,
+          42.614588
+        ]
+      },
+      "properties": {
+        "id": "25471",
+        "name": "Prades"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.756192,
           44.820698
         ]
@@ -4108,8 +4192,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.0959,
-          43.79407
+          4.095623,
+          43.794068
         ]
       },
       "properties": {
@@ -5221,20 +5305,6 @@
       "properties": {
         "id": "2370",
         "name": "Bozouls"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.8761,
-          43.60958
-        ]
-      },
-      "properties": {
-        "id": "1747",
-        "name": "Montpellier"
       }
     },
     {

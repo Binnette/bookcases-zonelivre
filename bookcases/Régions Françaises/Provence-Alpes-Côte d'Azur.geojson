@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.004589,
+          44.424176
+        ]
+      },
+      "properties": {
+        "id": "25507",
+        "name": "La Saulce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.112585,
           43.59447
         ]

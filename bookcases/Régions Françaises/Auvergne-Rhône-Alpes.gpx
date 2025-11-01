@@ -1,5 +1,95 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.719473" lon="6.406727">
+    <name>Marthod z25540</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.673707" lon="6.336569">
+    <name>Mercury z25538</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.571259" lon="6.739206">
+    <name>Landry z25535</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.788864" lon="5.945964">
+    <name>Entrelacs z25532</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.772303" lon="4.368881">
+    <name>Chambost-Longessaigne z25530</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.77869" lon="5.890783">
+    <name>Saint Germain la Chambotte z25527</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.537317" lon="6.106199">
+    <name>Cruet z25524</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.773645" lon="4.867045">
+    <name>Villeurbanne z25481</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.919615" lon="3.063061">
+    <name>Châtel-Guyon z25479</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.919544" lon="3.072849">
+    <name>Châtel-Guyon z25477</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.868699" lon="4.191303">
     <name>Saint-Marcel-de-Félines z25455</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>

@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.062533,
+          50.352716
+        ]
+      },
+      "properties": {
+        "id": "25511",
+        "name": "Lambres-lez-Douai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.066425,
+          50.356489
+        ]
+      },
+      "properties": {
+        "id": "25509",
+        "name": "Lambres-lez-Douai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.04391,
           50.552663
         ]
@@ -2792,8 +2820,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.99506,
-          50.70873
+          2.995057,
+          50.708719
         ]
       },
       "properties": {

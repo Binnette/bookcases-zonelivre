@@ -5102,20 +5102,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.48675,
-          47.92827
-        ]
-      },
-      "properties": {
-        "id": "11682",
-        "name": "Le Val-d'Ajol"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.74601,
           48.61089
         ]

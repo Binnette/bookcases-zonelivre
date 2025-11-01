@@ -3276,15 +3276,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.92827" lon="6.48675">
-    <name>Le Val-d'Ajol z11682</name>
-    <type>ZoneLivre Grand Est</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.61089" lon="7.74601">
     <name>Schiltigheim z11338</name>
     <type>ZoneLivre Grand Est</type>

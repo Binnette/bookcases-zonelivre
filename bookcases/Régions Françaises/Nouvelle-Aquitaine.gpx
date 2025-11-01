@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.886266" lon="-1.319207">
+    <name>Léon z25520</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.264611" lon="-0.492842">
+    <name>Saint-Symphorien z25515</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.179234" lon="0.297175">
+    <name>Lavardac z25490</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.85713" lon="0.4893">
+    <name>Bergerac z25463</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.919444" lon="-0.237762">
     <name>Libourne z25446</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
@@ -2556,15 +2592,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.96359" lon="-0.33833">
-    <name>Cherbonnières z19211</name>
-    <type>ZoneLivre Nouvelle-Aquitaine</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.8937" lon="0.28818">
     <name>Saint-Front z19201</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
@@ -4779,15 +4806,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.57257" lon="0.38358">
-    <name>Poitiers z16809</name>
-    <type>ZoneLivre Nouvelle-Aquitaine</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.44389" lon="0.66469">
     <name>Civaux z16807</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
@@ -6840,7 +6858,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.69904" lon="-0.26064">
+  <wpt lat="43.698957" lon="-0.26158">
     <name>Aire-sur-l'Adour z11561</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>

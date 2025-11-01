@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.221352,
+          48.578939
+        ]
+      },
+      "properties": {
+        "id": "25488",
+        "name": "Saint-Cast-le-Guildo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.259482,
+          48.637925
+        ]
+      },
+      "properties": {
+        "id": "25485",
+        "name": "Saint-Cast-le-Guildo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.293659,
           48.491097
         ]

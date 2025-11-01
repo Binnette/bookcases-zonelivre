@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.319207,
+          43.886266
+        ]
+      },
+      "properties": {
+        "id": "25520",
+        "name": "Léon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.492842,
+          46.264611
+        ]
+      },
+      "properties": {
+        "id": "25515",
+        "name": "Saint-Symphorien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.297175,
+          44.179234
+        ]
+      },
+      "properties": {
+        "id": "25490",
+        "name": "Lavardac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4893,
+          44.85713
+        ]
+      },
+      "properties": {
+        "id": "25463",
+        "name": "Bergerac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.237762,
           44.919444
         ]
@@ -3982,20 +4038,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.33833,
-          45.96359
-        ]
-      },
-      "properties": {
-        "id": "19211",
-        "name": "Cherbonnières"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.28818,
           45.8937
         ]
@@ -7440,20 +7482,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.38358,
-          46.57257
-        ]
-      },
-      "properties": {
-        "id": "16809",
-        "name": "Poitiers"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.66469,
           46.44389
         ]
@@ -10646,8 +10674,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.26064,
-          43.69904
+          -0.26158,
+          43.698957
         ]
       },
       "properties": {

@@ -6,6 +6,146 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.406727,
+          45.719473
+        ]
+      },
+      "properties": {
+        "id": "25540",
+        "name": "Marthod"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.336569,
+          45.673707
+        ]
+      },
+      "properties": {
+        "id": "25538",
+        "name": "Mercury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.739206,
+          45.571259
+        ]
+      },
+      "properties": {
+        "id": "25535",
+        "name": "Landry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.945964,
+          45.788864
+        ]
+      },
+      "properties": {
+        "id": "25532",
+        "name": "Entrelacs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.368881,
+          45.772303
+        ]
+      },
+      "properties": {
+        "id": "25530",
+        "name": "Chambost-Longessaigne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.890783,
+          45.77869
+        ]
+      },
+      "properties": {
+        "id": "25527",
+        "name": "Saint Germain la Chambotte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.106199,
+          45.537317
+        ]
+      },
+      "properties": {
+        "id": "25524",
+        "name": "Cruet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.867045,
+          45.773645
+        ]
+      },
+      "properties": {
+        "id": "25481",
+        "name": "Villeurbanne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.063061,
+          45.919615
+        ]
+      },
+      "properties": {
+        "id": "25479",
+        "name": "Châtel-Guyon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.072849,
+          45.919544
+        ]
+      },
+      "properties": {
+        "id": "25477",
+        "name": "Châtel-Guyon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.191303,
           45.868699
         ]
