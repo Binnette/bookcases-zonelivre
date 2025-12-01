@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.490451,
+          46.983007
+        ]
+      },
+      "properties": {
+        "id": "25559",
+        "name": "Marigny-Marmande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.697082,
           47.373368
         ]

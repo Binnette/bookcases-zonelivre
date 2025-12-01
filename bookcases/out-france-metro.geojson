@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.803266,
+          46.392805
+        ]
+      },
+      "properties": {
+        "id": "25595",
+        "name": "Saint-Gingolph"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -62.845948,
           17.902246
         ]

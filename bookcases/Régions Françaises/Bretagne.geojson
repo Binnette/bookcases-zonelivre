@@ -6,6 +6,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.408935,
+          48.634268
+        ]
+      },
+      "properties": {
+        "id": "25658",
+        "name": "Guissény"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4422,
+          48.462512
+        ]
+      },
+      "properties": {
+        "id": "25576",
+        "name": "Saint-Ouen-la-Rouërie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.504092,
+          48.465931
+        ]
+      },
+      "properties": {
+        "id": "25573",
+        "name": "La Fontenelle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.157612,
+          48.127562
+        ]
+      },
+      "properties": {
+        "id": "25562",
+        "name": "Muel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.221352,
           48.578939
         ]

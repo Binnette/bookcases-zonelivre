@@ -6,6 +6,174 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.595158,
+          46.401546
+        ]
+      },
+      "properties": {
+        "id": "25597",
+        "name": "Évian-les-Bains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.789139,
+          46.368768
+        ]
+      },
+      "properties": {
+        "id": "25593",
+        "name": "Novel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.606699,
+          46.400395
+        ]
+      },
+      "properties": {
+        "id": "25591",
+        "name": "Évian-les-Bains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.829366,
+          44.884861
+        ]
+      },
+      "properties": {
+        "id": "25588",
+        "name": "Saint-Laurent-en-Beaumont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.836275,
+          44.876581
+        ]
+      },
+      "properties": {
+        "id": "25586",
+        "name": "Saint-Laurent-en-Beaumont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.824269,
+          44.888837
+        ]
+      },
+      "properties": {
+        "id": "25584",
+        "name": "Saint-Laurent-en-Beaumont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.849023,
+          44.877137
+        ]
+      },
+      "properties": {
+        "id": "25581",
+        "name": "Saint-Laurent-en-Beaumont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.835537,
+          44.889036
+        ]
+      },
+      "properties": {
+        "id": "25579",
+        "name": "Saint-Laurent-en-Beaumont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.707631,
+          45.782469
+        ]
+      },
+      "properties": {
+        "id": "25564",
+        "name": "Marcy-l'Étoile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.490695,
+          45.224512
+        ]
+      },
+      "properties": {
+        "id": "25557",
+        "name": "Saint-Michel-de-Maurienne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.46946,
+          45.21297
+        ]
+      },
+      "properties": {
+        "id": "25555",
+        "name": "Saint-Martin-d'Arc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.467278,
+          45.212754
+        ]
+      },
+      "properties": {
+        "id": "25553",
+        "name": "Saint-Martin-d'Arc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.406727,
           45.719473
         ]
@@ -11080,8 +11248,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.58692,
-          46.40145
+          6.586381,
+          46.401385
         ]
       },
       "properties": {

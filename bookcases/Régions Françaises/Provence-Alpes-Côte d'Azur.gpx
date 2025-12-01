@@ -1332,15 +1332,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.29762" lon="5.37059">
-    <name>Marseille 2e z18866</name>
-    <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="44.08013" lon="4.98277">
     <name>Sarrians z18167</name>
     <type>ZoneLivre Provence-Alpes-Côte d'Azur</type>

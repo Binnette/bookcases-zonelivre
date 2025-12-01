@@ -3015,15 +3015,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.06134" lon="-1.02172">
-    <name>La Romagne z11876</name>
-    <type>ZoneLivre Pays de la Loire</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.86257" lon="-0.92562">
     <name>Saint-Mars-la-Réorthe z11873</name>
     <type>ZoneLivre Pays de la Loire</type>

@@ -2078,20 +2078,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.37059,
-          43.29762
-        ]
-      },
-      "properties": {
-        "id": "18866",
-        "name": "Marseille 2e"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.98277,
           44.08013
         ]

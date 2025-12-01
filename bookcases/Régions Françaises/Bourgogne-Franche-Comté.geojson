@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.064432,
+          47.380879
+        ]
+      },
+      "properties": {
+        "id": "25566",
+        "name": "Bellefond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.51069,
           46.757072
         ]

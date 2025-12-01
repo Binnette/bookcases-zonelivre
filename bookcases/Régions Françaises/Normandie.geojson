@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.510682,
+          48.597293
+        ]
+      },
+      "properties": {
+        "id": "25570",
+        "name": "Beauvoir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.444093,
           49.233548
         ]

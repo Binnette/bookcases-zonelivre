@@ -1323,15 +1323,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.30621" lon="5.76517">
-    <name>Bouligny z18600</name>
-    <type>ZoneLivre Grand Est</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.23711" lon="6.30024">
     <name>Bettelainville z18592</name>
     <type>ZoneLivre Grand Est</type>

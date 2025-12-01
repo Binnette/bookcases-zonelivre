@@ -6,6 +6,188 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.360583,
+          48.857078
+        ]
+      },
+      "properties": {
+        "id": "25820",
+        "name": "Paris 4e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.332516,
+          48.85053
+        ]
+      },
+      "properties": {
+        "id": "25818",
+        "name": "Paris 6e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.314199,
+          48.862294
+        ]
+      },
+      "properties": {
+        "id": "25814",
+        "name": "Paris 7e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.154943,
+          48.794583
+        ]
+      },
+      "properties": {
+        "id": "25812",
+        "name": "Versailles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.151132,
+          48.800157
+        ]
+      },
+      "properties": {
+        "id": "25810",
+        "name": "Versailles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.361369,
+          48.832689
+        ]
+      },
+      "properties": {
+        "id": "25808",
+        "name": "Paris 13e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.331097,
+          48.839053
+        ]
+      },
+      "properties": {
+        "id": "25777",
+        "name": "Paris 14e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.350629,
+          48.847429
+        ]
+      },
+      "properties": {
+        "id": "25775",
+        "name": "Paris 5e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.353384,
+          48.86729
+        ]
+      },
+      "properties": {
+        "id": "25773",
+        "name": "Paris 3e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.153178,
+          48.793318
+        ]
+      },
+      "properties": {
+        "id": "25771",
+        "name": "Versailles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.143241,
+          48.79315
+        ]
+      },
+      "properties": {
+        "id": "25769",
+        "name": "Versailles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357568,
+          48.871739
+        ]
+      },
+      "properties": {
+        "id": "25683",
+        "name": "Paris 10e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.100803,
+          49.017981
+        ]
+      },
+      "properties": {
+        "id": "25550",
+        "name": "Eragny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.035797,
           48.779564
         ]
@@ -769,20 +951,6 @@
       "properties": {
         "id": "22031",
         "name": "Paris 14e"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.382781,
-          48.839025
-        ]
-      },
-      "properties": {
-        "id": "22021",
-        "name": "Paris 12e"
       }
     },
     {
@@ -7790,8 +7958,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.13591,
-          48.79575
+          2.136036,
+          48.795777
         ]
       },
       "properties": {
@@ -8132,20 +8300,6 @@
       },
       "properties": {
         "id": "4007",
-        "name": "Vitry-sur-Seine"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.40878,
-          48.80312
-        ]
-      },
-      "properties": {
-        "id": "4005",
         "name": "Vitry-sur-Seine"
       }
     },
