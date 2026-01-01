@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.647803" lon="2.960486">
+    <name>Courpalay z25845</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.662756" lon="2.781888">
+    <name>Ozouer-le-Voulgis z25843</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.857078" lon="2.360583">
     <name>Paris 4e z25820</name>
     <type>ZoneLivre Île-de-France</type>
@@ -271,7 +289,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.840654" lon="2.392455">
-    <name>PAris 12e z24663</name>
+    <name>Paris 12e z24663</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -504,7 +522,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.843593" lon="2.330271">
+  <wpt lat="48.843595" lon="2.330266">
     <name>Paris 6e z23247</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -513,7 +531,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.788782" lon="2.536135">
+  <wpt lat="48.788782" lon="2.536042">
     <name>Ormesson-sur-Marne z22546</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -522,7 +540,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.878511" lon="2.417164">
+  <wpt lat="48.878509" lon="2.417153">
     <name>Les Lilas z22544</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -576,7 +594,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.856153" lon="2.283405">
+  <wpt lat="48.856148" lon="2.283405">
     <name>Paris 16e z22126</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -585,7 +603,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.844769" lon="2.268661">
+  <wpt lat="48.844794" lon="2.268918">
     <name>Paris 16e z22123</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -648,7 +666,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.795845" lon="2.305093">
+  <wpt lat="48.795892" lon="2.305231">
     <name>Bagneux z21692</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -810,7 +828,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.82262" lon="2.27952">
+  <wpt lat="48.822616" lon="2.279477">
     <name>Issy-les-Moulineaux z21074</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -819,7 +837,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.82739" lon="2.27847">
+  <wpt lat="48.827499" lon="2.278869">
     <name>Issy-les-Moulineaux z21072</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -900,7 +918,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.89421" lon="2.3492">
+  <wpt lat="48.894187" lon="2.349186">
     <name>Paris 18e z20662</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1125,7 +1143,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.88355" lon="2.29468">
+  <wpt lat="48.883598" lon="2.294767">
     <name>Paris 17e z19463</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1350,7 +1368,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.47517" lon="2.69198">
+  <wpt lat="48.475137" lon="2.691967">
     <name>Bois-le-Roi z18917</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1449,7 +1467,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.90794" lon="2.36173">
+  <wpt lat="48.907936" lon="2.361731">
     <name>Saint-Denis z18447</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1458,7 +1476,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.91651" lon="2.35551">
+  <wpt lat="48.916508" lon="2.355503">
     <name>Saint-Denis z18445</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1521,17 +1539,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.78895" lon="2.42868">
+  <wpt lat="48.78887" lon="2.428662">
     <name>Alfortville z18340</name>
-    <type>ZoneLivre Île-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.69653" lon="2.50643">
-    <name>Brunoy z18338</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -1557,8 +1566,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.63802" lon="2.77076">
-    <name>Guignes z18328</name>
+  <wpt lat="48.637957" lon="2.770733">
+    <name>Yèbles z18328</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -1593,7 +1602,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.85459" lon="2.32531">
+  <wpt lat="48.854587" lon="2.325312">
     <name>Paris 7e z18279</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1701,7 +1710,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.84503" lon="2.29317">
+  <wpt lat="48.84506" lon="2.293141">
     <name>Paris 15e z17825</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1710,7 +1719,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.8418" lon="2.366">
+  <wpt lat="48.841484" lon="2.365813">
     <name>Paris 13e z17754</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1728,7 +1737,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.84382" lon="2.28941">
+  <wpt lat="48.843819" lon="2.289391">
     <name>Paris 15e z17676</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1737,7 +1746,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.84851" lon="2.30186">
+  <wpt lat="48.848497" lon="2.301791">
     <name>Paris 15e z17674</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1755,7 +1764,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.06429" lon="2.18564">
+  <wpt lat="49.064275" lon="2.185582">
     <name>Méry-sur-Oise z17632</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1818,7 +1827,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.908634" lon="2.293994">
+  <wpt lat="48.909047" lon="2.294946">
     <name>Asnières-sur-Seine z17614</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1890,7 +1899,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.82805" lon="2.30987">
+  <wpt lat="48.828015" lon="2.309959">
     <name>Paris 14e z17592</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1899,7 +1908,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.87099" lon="2.35851">
+  <wpt lat="48.870984" lon="2.358415">
     <name>Paris 10e z17586</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1908,7 +1917,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.83152" lon="2.37066">
+  <wpt lat="48.831514" lon="2.370571">
     <name>Paris 13e z17583</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1935,7 +1944,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.84969" lon="2.44113">
+  <wpt lat="48.849693" lon="2.441119">
     <name>Vincennes z17263</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2007,7 +2016,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.84233" lon="2.51134">
+  <wpt lat="48.84232" lon="2.511315">
     <name>Le Perreux-sur-Marne z16940</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2025,7 +2034,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.08512" lon="2.0062">
+  <wpt lat="49.085022" lon="2.006075">
     <name>Montgeroult z16819</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2034,7 +2043,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.08091" lon="2.00682">
+  <wpt lat="49.080911" lon="2.006799">
     <name>Montgeroult z16817</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2043,7 +2052,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.84347" lon="2.41808">
+  <wpt lat="48.843387" lon="2.418116">
     <name>Saint-Mandé z16730</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2061,7 +2070,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.00945" lon="2.19751">
+  <wpt lat="49.00945" lon="2.197496">
     <name>Beauchamp z16657</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2205,15 +2214,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.89344" lon="2.31539">
-    <name>Paris 17e z16249</name>
-    <type>ZoneLivre Île-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="48.908186" lon="2.26056">
     <name>Bois-Colombes z16247</name>
     <type>ZoneLivre Île-de-France</type>
@@ -2232,7 +2232,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.83542" lon="2.38376">
+  <wpt lat="48.835376" lon="2.383845">
     <name>Paris 12e z16230</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2241,7 +2241,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.85949" lon="2.3623">
+  <wpt lat="48.859479" lon="2.36224">
     <name>Paris 3e z16228</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2259,7 +2259,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.85854" lon="2.39881">
+  <wpt lat="48.858488" lon="2.398828">
     <name>Paris 20e z16224</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2268,7 +2268,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.84336" lon="2.35057">
+  <wpt lat="48.843378" lon="2.350522">
     <name>Paris 5e z16193</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2430,7 +2430,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.90201" lon="2.29385">
+  <wpt lat="48.901725" lon="2.294179">
     <name>Clichy z15076</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2439,7 +2439,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.9053" lon="2.31067">
+  <wpt lat="48.905314" lon="2.310643">
     <name>Clichy z15074</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2448,7 +2448,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.9016" lon="2.31198">
+  <wpt lat="48.901582" lon="2.311989">
     <name>Clichy z15072</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2457,7 +2457,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.89632" lon="2.30545">
+  <wpt lat="48.896317" lon="2.30545">
     <name>Clichy z15070</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2475,7 +2475,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.81322" lon="2.3345">
+  <wpt lat="48.813099" lon="2.334894">
     <name>Arcueil z15026</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2493,7 +2493,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.8078" lon="2.33322">
+  <wpt lat="48.807798" lon="2.333179">
     <name>Arcueil z15020</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2502,7 +2502,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.87594" lon="2.3198">
+  <wpt lat="48.875904" lon="2.319923">
     <name>Paris 8e z14955</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2529,7 +2529,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.49233" lon="2.21813">
+  <wpt lat="48.492306" lon="2.217967">
     <name>Auvers-Saint-Georges z14920</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2574,7 +2574,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.9747" lon="2.04918">
+  <wpt lat="48.974696" lon="2.049176">
     <name>Andrésy z14834</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2583,7 +2583,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.98206" lon="2.06054">
+  <wpt lat="48.981981" lon="2.060848">
     <name>Andrésy z14781</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2592,7 +2592,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.98104" lon="2.0628">
+  <wpt lat="48.981053" lon="2.062608">
     <name>Andrésy z14779</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2637,7 +2637,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.82081" lon="2.31266">
+  <wpt lat="48.820741" lon="2.312566">
     <name>Montrouge z14542</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2646,7 +2646,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.81931" lon="2.31056">
+  <wpt lat="48.819302" lon="2.310567">
     <name>Montrouge z14540</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2664,7 +2664,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.81128" lon="2.31183">
+  <wpt lat="48.811221" lon="2.311825">
     <name>Montrouge z14534</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2673,7 +2673,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.81366" lon="2.3179">
+  <wpt lat="48.813681" lon="2.317881">
     <name>Montrouge z14532</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2682,7 +2682,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.81176" lon="2.31739">
+  <wpt lat="48.811728" lon="2.317455">
     <name>Montrouge z14530</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2691,7 +2691,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.81165" lon="2.31883">
+  <wpt lat="48.811654" lon="2.318823">
     <name>Montrouge z14528</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2700,7 +2700,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.8128" lon="2.32393">
+  <wpt lat="48.812716" lon="2.323847">
     <name>Montrouge z14526</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2709,7 +2709,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.81347" lon="2.32639">
+  <wpt lat="48.81327" lon="2.32657">
     <name>Montrouge z14524</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2727,7 +2727,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.81333" lon="2.31057">
+  <wpt lat="48.813321" lon="2.310557">
     <name>Montrouge z14371</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2826,7 +2826,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.70436" lon="2.50416">
+  <wpt lat="48.704419" lon="2.504167">
     <name>Brunoy z13656</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2844,7 +2844,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.81963" lon="2.35828">
+  <wpt lat="48.819627" lon="2.358289">
     <name>Paris 13e z13615</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2871,7 +2871,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.89634" lon="2.31875">
+  <wpt lat="48.896333" lon="2.318794">
     <name>Paris 17e z13168</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2916,7 +2916,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.82598" lon="2.30829">
+  <wpt lat="48.826033" lon="2.308301">
     <name>Paris 14e z13098</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2934,7 +2934,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.65313" lon="2.35144">
+  <wpt lat="48.653128" lon="2.351439">
     <name>Morsang-sur-Orge z12871</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -2988,7 +2988,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.488" lon="2.70072">
+  <wpt lat="48.487995" lon="2.700735">
     <name>Chartrettes z12284</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3006,7 +3006,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.54747" lon="2.39798">
+  <wpt lat="48.54747" lon="2.397991">
     <name>Fontenay-le-Vicomte z11884</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3042,7 +3042,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.5512" lon="2.43893">
+  <wpt lat="48.551189" lon="2.438927">
     <name>Mennecy z11766</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3087,7 +3087,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.56423" lon="2.48275">
+  <wpt lat="48.564224" lon="2.482706">
     <name>Le Coudray-Montceaux z11690</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3096,7 +3096,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.85287" lon="2.44914">
+  <wpt lat="48.852842" lon="2.449125">
     <name>Fontenay-sous-Bois z11642</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3141,7 +3141,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.54929" lon="2.427">
+  <wpt lat="48.549251" lon="2.426935">
     <name>Mennecy z11325</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3150,7 +3150,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.55124" lon="2.42842">
+  <wpt lat="48.551233" lon="2.428421">
     <name>Mennecy z11315</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3159,7 +3159,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.54756" lon="2.39892">
+  <wpt lat="48.547565" lon="2.398842">
     <name>Fontenay-le-Vicomte z11313</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3330,7 +3330,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.78728" lon="2.36689">
+  <wpt lat="48.787269" lon="2.366891">
     <name>Villejuif z9891</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3339,7 +3339,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.89747" lon="2.38641">
+  <wpt lat="48.897465" lon="2.386412">
     <name>Paris 19e z9889</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3348,7 +3348,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.87673" lon="2.40702">
+  <wpt lat="48.876645" lon="2.407065">
     <name>Paris 20e z9884</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3357,7 +3357,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.8326" lon="2.28806">
+  <wpt lat="48.8326" lon="2.288066">
     <name>Paris 15e z9882</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3366,7 +3366,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.82477" lon="2.31878">
+  <wpt lat="48.824746" lon="2.318821">
     <name>Paris 14e z9811</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3375,7 +3375,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.82017" lon="2.33916">
+  <wpt lat="48.820163" lon="2.339169">
     <name>Paris 14e z9805</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3393,7 +3393,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.82552" lon="2.38113">
+  <wpt lat="48.825516" lon="2.38112">
     <name>Paris 13e z9800</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3420,7 +3420,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.68203" lon="2.53376">
+  <wpt lat="48.682457" lon="2.534645">
     <name>Boussy-Saint-Antoire z9756</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3438,7 +3438,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.82336" lon="2.32489">
+  <wpt lat="48.823348" lon="2.324869">
     <name>Paris 14e z9615</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3447,7 +3447,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.79992" lon="2.29211">
+  <wpt lat="48.79985" lon="2.292206">
     <name>Châtillon z9535</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3456,7 +3456,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.80145" lon="2.2896">
+  <wpt lat="48.801246" lon="2.289882">
     <name>Châtillon z9533</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3465,7 +3465,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.80299" lon="2.28474">
+  <wpt lat="48.802984" lon="2.284663">
     <name>Châtillon z9531</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3537,7 +3537,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.84806" lon="2.42463">
+  <wpt lat="48.848025" lon="2.424612">
     <name>Vincennes z9237</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3546,7 +3546,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.06642" lon="2.06174">
+  <wpt lat="49.065684" lon="2.061441">
     <name>Osny z9195</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3555,16 +3555,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.06033" lon="2.06156">
-    <name>Osny z9193</name>
-    <type>ZoneLivre Île-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.58479" lon="2.45563">
+  <wpt lat="48.584782" lon="2.455627">
     <name>Villabé z8829</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3663,7 +3654,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.8337" lon="2.49107">
+  <wpt lat="48.8337" lon="2.491069">
     <name>Nogent-sur-Marne z7991</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3672,7 +3663,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.83771" lon="2.48752">
+  <wpt lat="48.837699" lon="2.487521">
     <name>Nogent-sur-Marne z7982</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3681,7 +3672,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.91588" lon="2.35814">
+  <wpt lat="48.915869" lon="2.358131">
     <name>Saint-Denis z7900</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3690,7 +3681,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.77884" lon="2.40258">
+  <wpt lat="48.778839" lon="2.402594">
     <name>Vitry-sur-Seine z7896</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3699,16 +3690,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.888" lon="2.38357">
-    <name>Paris 19e z7854</name>
-    <type>ZoneLivre Île-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.85715" lon="2.42189">
+  <wpt lat="48.857123" lon="2.421895">
     <name>Bagnolet z7852</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3717,7 +3699,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.88106" lon="2.42519">
+  <wpt lat="48.881025" lon="2.425143">
     <name>Les Lilas z7850</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3726,16 +3708,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.88152" lon="2.41671">
-    <name>Les Lilas z7848</name>
-    <type>ZoneLivre Île-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.8759" lon="2.432">
+  <wpt lat="48.875953" lon="2.432034">
     <name>Bagnolet z7846</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3762,7 +3735,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.89984" lon="2.31175">
+  <wpt lat="48.899849" lon="2.311732">
     <name>Clichy z7526</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3771,7 +3744,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.8303" lon="2.35527">
+  <wpt lat="48.830298" lon="2.355269">
     <name>Paris 13e z7196</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3780,7 +3753,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.74884" lon="2.35113">
+  <wpt lat="48.7487" lon="2.351029">
     <name>Rungis z7147</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3789,7 +3762,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.74921" lon="2.3482">
+  <wpt lat="48.749212" lon="2.348191">
     <name>Rungis z7145</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3798,7 +3771,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.75028" lon="2.34511">
+  <wpt lat="48.750296" lon="2.345034">
     <name>Rungis z7143</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3807,7 +3780,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.75142" lon="2.3452">
+  <wpt lat="48.751366" lon="2.345144">
     <name>Rungis z7141</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3816,17 +3789,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.99182" lon="2.09429">
+  <wpt lat="48.991861" lon="2.094569">
     <name>Conflans-Sainte-Honorine z6715</name>
-    <type>ZoneLivre Île-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.81708" lon="2.46699">
-    <name>Joinville-le-Pont z6391</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -3852,15 +3816,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.84002" lon="2.39493">
-    <name>Paris 12e z5322</name>
-    <type>ZoneLivre Île-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.04041" lon="1.56838">
     <name>Bennecourt z5276</name>
     <type>ZoneLivre Île-de-France</type>
@@ -3870,7 +3825,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.82534" lon="2.36941">
+  <wpt lat="48.82532" lon="2.369421">
     <name>Paris 13e z5254</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3879,7 +3834,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.8279" lon="2.35227">
+  <wpt lat="48.82788" lon="2.352214">
     <name>Paris 13e z5250</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3888,7 +3843,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.82934" lon="2.34477">
+  <wpt lat="48.829325" lon="2.344779">
     <name>Paris 13e z5248</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3897,7 +3852,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.82861" lon="2.34933">
+  <wpt lat="48.82862" lon="2.349274">
     <name>Paris 13e z5246</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3987,7 +3942,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.51331" lon="2.63287">
+  <wpt lat="48.513332" lon="2.632813">
     <name>Dammarie-les-Lys z4578</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4005,16 +3960,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.88966" lon="2.33826">
-    <name>Paris 18e z4362</name>
-    <type>ZoneLivre Île-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.85357" lon="2.39914">
+  <wpt lat="48.853557" lon="2.399129">
     <name>Paris 20e z4358</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4041,7 +3987,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.86397" lon="2.36151">
+  <wpt lat="48.864009" lon="2.361575">
     <name>Paris 3e z4350</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4050,7 +3996,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.8572" lon="2.39563">
+  <wpt lat="48.857162" lon="2.39554">
     <name>Paris 20e z4346</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4059,7 +4005,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.8539" lon="2.40091">
+  <wpt lat="48.853788" lon="2.400894">
     <name>Paris 20e z4344</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4068,7 +4014,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.88242" lon="2.3949">
+  <wpt lat="48.882416" lon="2.394722">
     <name>Paris 19e z4342</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4086,7 +4032,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.84576" lon="2.4234">
+  <wpt lat="48.845748" lon="2.4234">
     <name>Saint-Mandé z4326</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4122,7 +4068,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.8727" lon="2.51107">
+  <wpt lat="48.872619" lon="2.510993">
     <name>Neuilly-Plaisance z4318</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4131,7 +4077,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.86552" lon="2.51167">
+  <wpt lat="48.866994" lon="2.511634">
     <name>Neuilly-Plaisance z4316</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4140,7 +4086,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.86169" lon="2.50485">
+  <wpt lat="48.861697" lon="2.504789">
     <name>Neuilly-Plaisance z4314</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4149,7 +4095,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.86026" lon="2.50963">
+  <wpt lat="48.856781" lon="2.511116">
     <name>Neuilly-Plaisance z4312</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4158,7 +4104,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.851" lon="2.51411">
+  <wpt lat="48.851017" lon="2.514083">
     <name>Neuilly-Plaisance z4310</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4167,7 +4113,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.84851" lon="2.51266">
+  <wpt lat="48.850707" lon="2.51552">
     <name>Bry-sur-Marne z4308</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4176,7 +4122,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.85329" lon="2.50178">
+  <wpt lat="48.853462" lon="2.501683">
     <name>Le Perreux-sur-Marne z4306</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4185,7 +4131,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.84008" lon="2.50787">
+  <wpt lat="48.840004" lon="2.50789">
     <name>Le Perreux-sur-Marne z4304</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4194,7 +4140,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.8382" lon="2.50101">
+  <wpt lat="48.838232" lon="2.500803">
     <name>Le Perreux-sur-Marne z4301</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4203,7 +4149,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.83403" lon="2.51714">
+  <wpt lat="48.83405" lon="2.517079">
     <name>Le Perreux-sur-Marne z4299</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4212,16 +4158,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.84669" lon="2.52251">
-    <name>Bry-sur-Marne z4297</name>
-    <type>ZoneLivre Île-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.82982" lon="2.51424">
+  <wpt lat="48.829761" lon="2.514059">
     <name>Bry-sur-Marne z4295</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4230,7 +4167,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.83506" lon="2.51991">
+  <wpt lat="48.835052" lon="2.519903">
     <name>Bry-sur-Marne z4293</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4239,7 +4176,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.83431" lon="2.52776">
+  <wpt lat="48.834306" lon="2.527757">
     <name>Bry-sur-Marne z4291</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4248,7 +4185,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.83957" lon="2.5232">
+  <wpt lat="48.839614" lon="2.523216">
     <name>Bry-sur-Marne z4289</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4257,7 +4194,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.83031" lon="2.50829">
+  <wpt lat="48.830421" lon="2.507058">
     <name>Le Perreux-sur-Marne z4288</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4293,7 +4230,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.03365" lon="2.06149">
+  <wpt lat="49.033639" lon="2.061492">
     <name>Cergy z4280</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4311,7 +4248,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.04962" lon="2.03422">
+  <wpt lat="49.0496" lon="2.03423">
     <name>Cergy z4276</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4356,7 +4293,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.97898" lon="1.97784">
+  <wpt lat="48.979039" lon="1.977158">
     <name>Verneuil-sur-Seine z4262</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4365,7 +4302,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.97978" lon="1.97579">
+  <wpt lat="48.979786" lon="1.975742">
     <name>Verneuil-sur-Seine z4260</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4383,7 +4320,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.93913" lon="2.05696">
+  <wpt lat="48.939114" lon="2.056981">
     <name>Poissy z4256</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4392,7 +4329,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.98917" lon="2.07476">
+  <wpt lat="48.989108" lon="2.07475">
     <name>Conflans-Sainte-Honorine z4254</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4401,7 +4338,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.99305" lon="2.09727">
+  <wpt lat="48.992969" lon="2.097868">
     <name>Conflans-Sainte-Honorine z4252</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -4410,7 +4347,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.99751" lon="2.09842">
+  <wpt lat="48.997529" lon="2.09848">
     <name>Conflans-Sainte-Honorine z4250</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5211,7 +5148,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.66624" lon="2.32678">
+  <wpt lat="48.666251" lon="2.326725">
     <name>Villemoisson-sur-Orge z4035</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5229,7 +5166,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.65713" lon="2.3306">
+  <wpt lat="48.657097" lon="2.330566">
     <name>Villemoisson-sur-Orge z4031</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5238,7 +5175,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.6589" lon="2.33317">
+  <wpt lat="48.658892" lon="2.333173">
     <name>Villemoisson-sur-Orge z4029</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5247,7 +5184,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.68505" lon="2.3915">
+  <wpt lat="48.685041" lon="2.391482">
     <name>Draveil z4026</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5256,7 +5193,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.7568" lon="2.37182">
+  <wpt lat="48.755846" lon="2.372205">
     <name>Thiais z4024</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5274,7 +5211,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.77543" lon="2.32604">
+  <wpt lat="48.77541" lon="2.326033">
     <name>L'Haÿ-les-Roses z4020</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5283,7 +5220,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.77995" lon="2.33729">
+  <wpt lat="48.779912" lon="2.337433">
     <name>L'Haÿ-les-Roses z4018</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5292,7 +5229,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.77768" lon="2.35019">
+  <wpt lat="48.777619" lon="2.350334">
     <name>L'Haÿ-les-Roses z4016</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5301,7 +5238,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.77706" lon="2.35848">
+  <wpt lat="48.777045" lon="2.35847">
     <name>L'Haÿ-les-Roses z4014</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5346,7 +5283,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.77084" lon="2.41379">
+  <wpt lat="48.770812" lon="2.4138">
     <name>Choisy-le-Roi z4001</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5355,7 +5292,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.7721" lon="2.4354">
+  <wpt lat="48.772101" lon="2.435379">
     <name>Créteil z3999</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5364,7 +5301,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.79569" lon="2.4686">
+  <wpt lat="48.795684" lon="2.468584">
     <name>Créteil z3997</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5373,7 +5310,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.71508" lon="2.48872">
+  <wpt lat="48.715142" lon="2.489347">
     <name>Yerres z3995</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5382,7 +5319,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.71516" lon="2.45913">
+  <wpt lat="48.715631" lon="2.458414">
     <name>Crosne z3993</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5400,7 +5337,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.69988" lon="2.50713">
+  <wpt lat="48.699864" lon="2.507152">
     <name>Brunoy z3989</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5418,7 +5355,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.631171" lon="2.551175">
+  <wpt lat="48.631003" lon="2.551218">
     <name>Lieusaint z3984</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5499,7 +5436,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.520399" lon="2.656039">
+  <wpt lat="48.520399" lon="2.656047">
     <name>La Rochette (77) z3966</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5715,7 +5652,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.98365" lon="1.84165">
+  <wpt lat="48.983646" lon="1.841648">
     <name>Aubergenville z234</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -5733,7 +5670,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.97157" lon="1.84835">
+  <wpt lat="48.971566" lon="1.848345">
     <name>Aubergenville z230</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>

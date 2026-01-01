@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.451241,
+          48.16274
+        ]
+      },
+      "properties": {
+        "id": "26687",
+        "name": "Epinal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.929179,
           48.816698
         ]
@@ -244,8 +258,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.13636,
-          48.0924
+          5.136352,
+          48.092395
         ]
       },
       "properties": {
@@ -2190,8 +2204,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.25403,
-          49.06978
+          6.254021,
+          49.069775
         ]
       },
       "properties": {
@@ -2722,8 +2736,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.26381,
-          49.05874
+          6.263798,
+          49.058712
         ]
       },
       "properties": {
@@ -3212,8 +3226,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.57213,
-          48.21145
+          6.572063,
+          48.211459
         ]
       },
       "properties": {
@@ -5144,20 +5158,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.171055,
-          48.10748
-        ]
-      },
-      "properties": {
-        "id": "11258",
-        "name": "Chamarandes-Choignes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.63774,
           49.94195
         ]
@@ -5270,8 +5270,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.44564,
-          48.19792
+          6.445576,
+          48.197783
         ]
       },
       "properties": {
@@ -5620,8 +5620,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1527,
-          49.13621
+          6.152596,
+          49.136168
         ]
       },
       "properties": {
@@ -5634,8 +5634,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.16856,
-          49.13638
+          6.168534,
+          49.136471
         ]
       },
       "properties": {
@@ -5648,8 +5648,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.17889,
-          49.11575
+          6.178971,
+          49.115888
         ]
       },
       "properties": {
@@ -5662,8 +5662,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.20651,
-          49.12325
+          6.206519,
+          49.123296
         ]
       },
       "properties": {
@@ -5676,8 +5676,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.23685,
-          49.09556
+          6.236737,
+          49.095477
         ]
       },
       "properties": {
@@ -7076,8 +7076,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.47348,
-          48.07151
+          4.47347,
+          48.071508
         ]
       },
       "properties": {
@@ -7090,8 +7090,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.47154,
-          48.07329
+          4.47202,
+          48.073221
         ]
       },
       "properties": {
@@ -7300,8 +7300,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.13681,
-          48.11107
+          5.136779,
+          48.111047
         ]
       },
       "properties": {
@@ -7328,8 +7328,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.45129,
-          48.16283
+          6.45156,
+          48.162837
         ]
       },
       "properties": {
@@ -7342,22 +7342,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.44909,
-          48.15573
-        ]
-      },
-      "properties": {
-        "id": "1291",
-        "name": "Epinal"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.4581,
-          48.15605
+          6.458083,
+          48.156048
         ]
       },
       "properties": {
@@ -7370,8 +7356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.46418,
-          48.17632
+          6.46422,
+          48.17631
         ]
       },
       "properties": {
@@ -7384,8 +7370,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.45563,
-          48.17986
+          6.45568,
+          48.183115
         ]
       },
       "properties": {
@@ -7454,8 +7440,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.07819,
-          49.06132
+          6.078178,
+          49.061322
         ]
       },
       "properties": {
@@ -7469,7 +7455,7 @@
         "type": "Point",
         "coordinates": [
           6.07792,
-          49.05862
+          49.058595
         ]
       },
       "properties": {
@@ -7482,8 +7468,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.14388,
-          49.09126
+          6.143901,
+          49.091223
         ]
       },
       "properties": {
@@ -7538,8 +7524,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.2452,
-          49.0956
+          6.245199,
+          49.095607
         ]
       },
       "properties": {
@@ -7552,8 +7538,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.23056,
-          49.1296
+          6.230552,
+          49.12959
         ]
       },
       "properties": {
@@ -7566,8 +7552,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.22496,
-          49.11131
+          6.224959,
+          49.111313
         ]
       },
       "properties": {
@@ -7656,20 +7642,6 @@
       },
       "properties": {
         "id": "1237",
-        "name": "Metz"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.19615,
-          49.11972
-        ]
-      },
-      "properties": {
-        "id": "1231",
         "name": "Metz"
       }
     },
@@ -7846,8 +7818,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.95509,
-          49.47236
+          5.955172,
+          49.472422
         ]
       },
       "properties": {
@@ -7874,8 +7846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.05815,
-          49.05825
+          6.058139,
+          49.058215
         ]
       },
       "properties": {

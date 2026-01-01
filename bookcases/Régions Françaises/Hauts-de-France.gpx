@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="50.992822" lon="2.13964">
+    <name>Gravelines z26103</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.033619" lon="2.335434">
+    <name>Saint-Pol-sur-Mer z26099</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.046318" lon="2.398777">
+    <name>Malo-les-Bains z26096</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="50.352716" lon="3.062533">
     <name>Lambres-lez-Douai z25511</name>
     <type>ZoneLivre Hauts-de-France</type>
@@ -945,7 +972,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.41778" lon="2.10691">
+  <wpt lat="49.417779" lon="2.106915">
     <name>Beauvais z16050</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -1026,7 +1053,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.36984" lon="1.99579">
+  <wpt lat="49.369834" lon="1.995786">
     <name>Auneuil z15212</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -1818,7 +1845,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.970691" lon="2.438933">
+  <wpt lat="50.972794" lon="2.437154">
     <name>Bergues z9269</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>

@@ -2344,8 +2344,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6854,
-          47.39544
+          0.685404,
+          47.395431
         ]
       },
       "properties": {
@@ -2708,8 +2708,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.66779,
-          47.38042
+          0.667771,
+          47.380405
         ]
       },
       "properties": {
@@ -2722,8 +2722,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.71095,
-          47.37022
+          0.710925,
+          47.370237
         ]
       },
       "properties": {
@@ -2736,8 +2736,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.68814,
-          47.3773
+          0.688215,
+          47.377295
         ]
       },
       "properties": {
@@ -2750,8 +2750,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.71231,
-          47.39248
+          0.71232,
+          47.392486
         ]
       },
       "properties": {
@@ -2806,7 +2806,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.69818,
+          0.698171,
           47.39519
         ]
       },
@@ -3339,7 +3339,7 @@
         "type": "Point",
         "coordinates": [
           0.67449,
-          47.39469
+          47.394671
         ]
       },
       "properties": {
@@ -3352,8 +3352,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.68622,
-          47.38442
+          0.686222,
+          47.384425
         ]
       },
       "properties": {
@@ -3394,8 +3394,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.65629,
-          46.78459
+          1.65628,
+          46.784597
         ]
       },
       "properties": {
@@ -3695,20 +3695,6 @@
       "properties": {
         "id": "6597",
         "name": "Le Controis-en-Sologne"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.6957,
-          47.38025
-        ]
-      },
-      "properties": {
-        "id": "6408",
-        "name": "Tours"
       }
     },
     {
@@ -4668,8 +4654,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.66875,
-          47.39998
+          0.669013,
+          47.399705
         ]
       },
       "properties": {
@@ -4710,8 +4696,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.67578,
-          47.36779
+          0.675962,
+          47.367726
         ]
       },
       "properties": {
@@ -4724,8 +4710,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.70286,
-          47.38802
+          0.702846,
+          47.388039
         ]
       },
       "properties": {
@@ -4766,8 +4752,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.68131,
-          47.38152
+          0.681319,
+          47.381449
         ]
       },
       "properties": {
@@ -4794,8 +4780,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.67586,
-          47.39356
+          0.67585,
+          47.393523
         ]
       },
       "properties": {
@@ -6614,8 +6600,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.06793,
-          46.94722
+          3.067927,
+          46.947248
         ]
       },
       "properties": {
@@ -6782,8 +6768,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.44249,
-          47.48971
+          2.442476,
+          47.489686
         ]
       },
       "properties": {
@@ -6796,8 +6782,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.43843,
-          47.48771
+          2.438426,
+          47.4877
         ]
       },
       "properties": {

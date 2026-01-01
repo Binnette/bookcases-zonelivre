@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.16274" lon="6.451241">
+    <name>Epinal z26687</name>
+    <type>ZoneLivre Grand Est</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.816698" lon="5.929179">
     <name>Domèvre-en-Haye z25128</name>
     <type>ZoneLivre Grand Est</type>
@@ -153,7 +162,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.0924" lon="5.13636">
+  <wpt lat="48.092395" lon="5.136352">
     <name>Chaumont z22849</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -1404,7 +1413,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.06978" lon="6.25403">
+  <wpt lat="49.069775" lon="6.254021">
     <name>Jury z18314</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -1746,7 +1755,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.05874" lon="6.26381">
+  <wpt lat="49.058712" lon="6.263798">
     <name>Mécleuves z17301</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -2061,7 +2070,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.21145" lon="6.57213">
+  <wpt lat="48.211459" lon="6.572063">
     <name>Aydoilles z15221</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -3303,15 +3312,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.10748" lon="5.171055">
-    <name>Chamarandes-Choignes z11258</name>
-    <type>ZoneLivre Grand Est</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="49.94195" lon="4.63774">
     <name>Revin z11247</name>
     <type>ZoneLivre Grand Est</type>
@@ -3384,7 +3384,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.19792" lon="6.44564">
+  <wpt lat="48.197783" lon="6.445576">
     <name>Golbey z11181</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -3609,7 +3609,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.13621" lon="6.1527">
+  <wpt lat="49.136168" lon="6.152596">
     <name>Metz z7244</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -3618,7 +3618,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.13638" lon="6.16856">
+  <wpt lat="49.136471" lon="6.168534">
     <name>Metz z7242</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -3627,7 +3627,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.11575" lon="6.17889">
+  <wpt lat="49.115888" lon="6.178971">
     <name>Metz z7239</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -3636,7 +3636,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.12325" lon="6.20651">
+  <wpt lat="49.123296" lon="6.206519">
     <name>Metz z7235</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -3645,7 +3645,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.09556" lon="6.23685">
+  <wpt lat="49.095477" lon="6.236737">
     <name>Metz z7233</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -4545,7 +4545,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.07151" lon="4.47348">
+  <wpt lat="48.071508" lon="4.47347">
     <name>Landreville z1933</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -4554,7 +4554,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.07329" lon="4.47154">
+  <wpt lat="48.073221" lon="4.47202">
     <name>Landreville z1931</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -4689,7 +4689,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.11107" lon="5.13681">
+  <wpt lat="48.111047" lon="5.136779">
     <name>Chaumont z1304</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -4707,7 +4707,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.16283" lon="6.45129">
+  <wpt lat="48.162837" lon="6.45156">
     <name>Epinal z1292</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -4716,16 +4716,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.15573" lon="6.44909">
-    <name>Epinal z1291</name>
-    <type>ZoneLivre Grand Est</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.15605" lon="6.4581">
+  <wpt lat="48.156048" lon="6.458083">
     <name>Epinal z1289</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -4734,7 +4725,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.17632" lon="6.46418">
+  <wpt lat="48.17631" lon="6.46422">
     <name>Epinal z1285</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -4743,7 +4734,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.17986" lon="6.45563">
+  <wpt lat="48.183115" lon="6.45568">
     <name>Epinal z1282</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -4788,7 +4779,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.06132" lon="6.07819">
+  <wpt lat="49.061322" lon="6.078178">
     <name>Jouy-aux-Arches z1270</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -4797,7 +4788,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.05862" lon="6.07792">
+  <wpt lat="49.058595" lon="6.07792">
     <name>Jouy-aux-Arches z1268</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -4806,7 +4797,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.09126" lon="6.14388">
+  <wpt lat="49.091223" lon="6.143901">
     <name>Montigny-lès-Metz z1264</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -4842,7 +4833,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.0956" lon="6.2452">
+  <wpt lat="49.095607" lon="6.245199">
     <name>Metz z1255</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -4851,7 +4842,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.1296" lon="6.23056">
+  <wpt lat="49.12959" lon="6.230552">
     <name>Vantoux z1253</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -4860,7 +4851,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.11131" lon="6.22496">
+  <wpt lat="49.111313" lon="6.224959">
     <name>Metz z1251</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -4916,15 +4907,6 @@
   </wpt>
   <wpt lat="49.11787" lon="6.18572">
     <name>Metz z1237</name>
-    <type>ZoneLivre Grand Est</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.11972" lon="6.19615">
-    <name>Metz z1231</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -5040,7 +5022,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.47236" lon="5.95509">
+  <wpt lat="49.472422" lon="5.955172">
     <name>Audun-le-Tiche z244</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -5058,7 +5040,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.05825" lon="6.05815">
+  <wpt lat="49.058215" lon="6.058139">
     <name>Ancy-Dornot z170</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>

@@ -1,5 +1,284 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.039783" lon="4.078095">
+    <name>Roanne z26244</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.040423" lon="4.074195">
+    <name>Roanne z26241</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.038249" lon="4.06121">
+    <name>Roanne z26239</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.926272" lon="4.87532">
+    <name>Guilherand-Granges z26235</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.926769" lon="4.867689">
+    <name>Guilherand-Granges z26232</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.937693" lon="4.870575">
+    <name>Guilherand-Granges z26229</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.352304" lon="4.758604">
+    <name>Limony z26226</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.27831" lon="4.680329">
+    <name>Saint-Clair z26224</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.286863" lon="4.727919">
+    <name>Peaugres z26221</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.246278" lon="4.779758">
+    <name>Saint-Étienne-de-Valoux z26217</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.189455" lon="4.68763">
+    <name>Quintenas z26214</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.16591" lon="4.666159">
+    <name>Saint-Romain-d'Ay z26212</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.151006" lon="4.616023">
+    <name>Satillieu z26209</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.009612" lon="4.396167">
+    <name>Saint-Agrève z26207</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.98219" lon="4.362291">
+    <name>Saint-Julien-d'Intres z26205</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.947573" lon="4.330912">
+    <name>Lachapelle-sous-Chanéac z26202</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.937065" lon="4.368632">
+    <name>Saint-Martin-de-Valamas z26200</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.988716" lon="4.405349">
+    <name>Saint-Agrève z26198</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.94184" lon="4.429336">
+    <name>Saint-Jean-Roure z26195</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.943055" lon="4.501203">
+    <name>Saint-Prix z26193</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.932793" lon="4.54716">
+    <name>Saint-Basile z26191</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.959858" lon="4.565326">
+    <name>Saint-Basile z26189</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.922671" lon="4.449468">
+    <name>Saint-Cierge-sous-le-Cheylard z26186</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.906444" lon="4.421302">
+    <name>Le Cheylard z26184</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.913906" lon="4.43749">
+    <name>Le Cheylard z26181</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.867728" lon="4.441731">
+    <name>Saint-Christol z26179</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.821136" lon="4.428231">
+    <name>Albon-d'Ardèche z26176</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.832741" lon="6.159631">
+    <name>Saint-Jorioz z26110</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.878486" lon="6.32273">
+    <name>Thônes z26108</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.908521" lon="6.110177">
+    <name>Annecy z25956</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.782362" lon="4.736234">
+    <name>Charbonnières-les-Bains z25828</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.401546" lon="6.595158">
     <name>Évian-les-Bains z25597</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
@@ -1548,7 +1827,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.188614" lon="5.228602">
+  <wpt lat="46.188569" lon="5.228492">
     <name>Bourg-en-Bresse z21144</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -2115,7 +2394,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.19646" lon="5.21308">
+  <wpt lat="46.196446" lon="5.213125">
     <name>Bourg-en-Bresse z19828</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -2205,7 +2484,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.73557" lon="4.8375">
+  <wpt lat="45.735575" lon="4.837495">
     <name>Lyon z19370</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -2430,7 +2709,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.74737" lon="4.69179">
+  <wpt lat="45.747346" lon="4.691774">
     <name>Grézieu-la-Varenne z18931</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -2709,7 +2988,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.81832" lon="4.75027">
+  <wpt lat="45.818296" lon="4.750222">
     <name>Dardilly z18015</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -2745,7 +3024,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.77458" lon="4.77765">
+  <wpt lat="45.774582" lon="4.777662">
     <name>Écully z17942</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -3114,7 +3393,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.75253" lon="3.09621">
+  <wpt lat="45.752525" lon="3.096211">
     <name>Beaumont z16524</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -3132,7 +3411,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.93068" lon="2.43605">
+  <wpt lat="44.93065" lon="2.436063">
     <name>Aurillac z16460</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -3141,7 +3420,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.92071" lon="2.42738">
+  <wpt lat="44.920707" lon="2.427383">
     <name>Aurillac z16458</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -3267,7 +3546,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.67394" lon="4.7548">
+  <wpt lat="45.673966" lon="4.754744">
     <name>Brignais z16070</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -3276,7 +3555,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.67027" lon="4.76022">
+  <wpt lat="45.67" lon="4.760052">
     <name>Brignais z16037</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -3285,7 +3564,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.67928" lon="4.76094">
+  <wpt lat="45.679277" lon="4.76094">
     <name>Brignais z16035</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -3294,7 +3573,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.28222" lon="4.76215">
+  <wpt lat="45.282206" lon="4.762144">
     <name>Bogy z16002</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -3312,7 +3591,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.71218" lon="4.74573">
+  <wpt lat="45.712169" lon="4.745737">
     <name>Chaponost z15703</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -3780,7 +4059,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.90695" lon="3.68172">
+  <wpt lat="44.906883" lon="3.681528">
     <name>Alleyras z14493</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -4077,7 +4356,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.75212" lon="4.82685">
+  <wpt lat="45.752107" lon="4.826796">
     <name>Lyon z13340</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -4356,7 +4635,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.98904" lon="2.4208">
+  <wpt lat="44.989031" lon="2.420798">
     <name>Jussac z12189</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -4446,7 +4725,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.9333" lon="4.8702">
+  <wpt lat="44.933763" lon="4.870393">
     <name>Guilherand-Granges z12054</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -4455,7 +4734,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.93175" lon="4.874923">
+  <wpt lat="44.931735" lon="4.874928">
     <name>Guilherand-Granges z12052</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -4482,7 +4761,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.74317" lon="4.72305">
+  <wpt lat="45.743243" lon="4.723048">
     <name>Craponne z11996</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -4491,7 +4770,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.74613" lon="4.7246">
+  <wpt lat="45.746127" lon="4.724639">
     <name>Craponne z11994</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -4500,7 +4779,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.7904" lon="4.82475">
+  <wpt lat="45.790388" lon="4.824733">
     <name>Caluire-et-Cuire z11986</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -4509,7 +4788,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.78585" lon="4.83259">
+  <wpt lat="45.785817" lon="4.832603">
     <name>Caluire-et-Cuire z11984</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -4545,7 +4824,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.91163" lon="2.43632">
+  <wpt lat="44.911626" lon="2.436326">
     <name>Aurillac z11640</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -4860,7 +5139,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.7773" lon="4.8326">
+  <wpt lat="45.777233" lon="4.832582">
     <name>Lyon z8912</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -4977,7 +5256,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.20636" lon="5.22459">
+  <wpt lat="46.206142" lon="5.224586">
     <name>Bourg-en-Bresse z8798</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -4986,7 +5265,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.74614" lon="4.86336">
+  <wpt lat="45.74614" lon="4.86355">
     <name>Lyon z8790</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -5094,7 +5373,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.8008" lon="4.85058">
+  <wpt lat="45.800801" lon="4.850585">
     <name>Caluire-et-Cuire z8736</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -5580,7 +5859,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.76669" lon="4.85272">
+  <wpt lat="45.766687" lon="4.852687">
     <name>Lyon z8175</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -5661,7 +5940,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.72215" lon="4.92714">
+  <wpt lat="45.721838" lon="4.92662">
     <name>Saint-Priest z8107</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -5778,7 +6057,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.76169" lon="4.88593">
+  <wpt lat="45.761698" lon="4.885941">
     <name>Villeurbanne z7908</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -5787,7 +6066,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.76599" lon="4.89999">
+  <wpt lat="45.765992" lon="4.900007">
     <name>Villeurbanne z7906</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -5796,7 +6075,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.77585" lon="4.86231">
+  <wpt lat="45.775817" lon="4.862306">
     <name>Villeurbanne z7904</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -5877,7 +6156,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.91491" lon="2.4406">
+  <wpt lat="44.914903" lon="2.440596">
     <name>Aurillac z7793</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -5913,7 +6192,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.73719" lon="4.91718">
+  <wpt lat="45.737183" lon="4.917168">
     <name>Bron z7595</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6003,7 +6282,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.04101" lon="4.06432">
+  <wpt lat="46.041012" lon="4.064319">
     <name>Roanne z7108</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6012,7 +6291,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.03496" lon="4.07263">
+  <wpt lat="46.034966" lon="4.07261">
     <name>Roanne z7106</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6111,7 +6390,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.7396" lon="4.7695">
+  <wpt lat="45.739589" lon="4.769576">
     <name>Francheville z5274</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6201,7 +6480,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.75761" lon="4.83415">
+  <wpt lat="45.757607" lon="4.834151">
     <name>Lyon z5123</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6246,7 +6525,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.76562" lon="4.77949">
+  <wpt lat="45.765661" lon="4.779463">
     <name>Tassin-la-Demi-Lune z5053</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6255,7 +6534,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.7084" lon="4.85495">
+  <wpt lat="45.708348" lon="4.854903">
     <name>Saint-Fons z5052</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6264,7 +6543,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.71147" lon="4.88545">
+  <wpt lat="45.711441" lon="4.885435">
     <name>Vénissieux z5050</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6273,7 +6552,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.69868" lon="4.88451">
+  <wpt lat="45.698662" lon="4.884528">
     <name>Vénissieux z5048</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6336,7 +6615,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.83563" lon="3.10949">
+  <wpt lat="45.835626" lon="3.10949">
     <name>Cébazat z4662</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6345,7 +6624,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.83089" lon="3.09712">
+  <wpt lat="45.830883" lon="3.096621">
     <name>Cébazat z4660</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6687,7 +6966,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.76274" lon="4.79639">
+  <wpt lat="45.763015" lon="4.796326">
     <name>Lyon z2502</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6795,7 +7074,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.81242" lon="4.89003">
+  <wpt lat="45.812406" lon="4.890034">
     <name>Rillieux-la-Pape z2475</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6804,7 +7083,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.72692" lon="4.85782">
+  <wpt lat="45.726896" lon="4.857824">
     <name>Vénissieux z2473</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6813,7 +7092,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.75926" lon="4.84754">
+  <wpt lat="45.75928" lon="4.847548">
     <name>Lyon z2466</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6822,7 +7101,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.75539" lon="4.84494">
+  <wpt lat="45.755384" lon="4.844947">
     <name>Lyon z2464</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6858,7 +7137,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.75598" lon="4.79738">
+  <wpt lat="45.755989" lon="4.797351">
     <name>Lyon z2454</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6867,7 +7146,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.7764" lon="4.80563">
+  <wpt lat="45.776165" lon="4.80603">
     <name>Lyon z2452</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6876,7 +7155,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.7718" lon="4.8261">
+  <wpt lat="45.771768" lon="4.826123">
     <name>Lyon z2450</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6885,7 +7164,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.76883" lon="4.83042">
+  <wpt lat="45.76881" lon="4.830406">
     <name>Lyon z2448</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6894,7 +7173,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.78017" lon="4.8359">
+  <wpt lat="45.780155" lon="4.835945">
     <name>Lyon z2446</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6903,7 +7182,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.77194" lon="4.83174">
+  <wpt lat="45.771914" lon="4.831734">
     <name>Lyon z2444</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6912,7 +7191,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.77423" lon="4.83628">
+  <wpt lat="45.774225" lon="4.836299">
     <name>Lyon z2442</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6921,16 +7200,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.77248" lon="4.83447">
-    <name>Lyon z2440</name>
-    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.76742" lon="4.8378">
+  <wpt lat="45.767426" lon="4.837809">
     <name>Lyon z2438</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6939,7 +7209,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.75602" lon="4.84775">
+  <wpt lat="45.756017" lon="4.847721">
     <name>Lyon z2436</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6948,7 +7218,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.74749" lon="4.83828">
+  <wpt lat="45.747486" lon="4.838249">
     <name>Lyon z2432</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6957,7 +7227,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.73054" lon="4.86547">
+  <wpt lat="45.730533" lon="4.865479">
     <name>Lyon z2428</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6966,7 +7236,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.73968" lon="4.88265">
+  <wpt lat="45.739671" lon="4.882642">
     <name>Lyon z2426</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6975,7 +7245,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.76149" lon="4.77633">
+  <wpt lat="45.761479" lon="4.77632">
     <name>Tassin-la-Demi-Lune z2422</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6984,7 +7254,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.76331" lon="4.76672">
+  <wpt lat="45.763081" lon="4.766637">
     <name>Tassin-la-Demi-Lune z2420</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -6993,7 +7263,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.75791" lon="4.77527">
+  <wpt lat="45.757898" lon="4.775284">
     <name>Tassin-la-Demi-Lune z2418</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7002,7 +7272,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.73833" lon="4.77365">
+  <wpt lat="45.738322" lon="4.773648">
     <name>Francheville z2416</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7011,7 +7281,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.73445" lon="4.80397">
+  <wpt lat="45.734461" lon="4.803984">
     <name>Sainte-Foy-lès-Lyon z2414</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7020,7 +7290,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.74103" lon="4.80367">
+  <wpt lat="45.74101" lon="4.803665">
     <name>Sainte-Foy-lès-Lyon z2412</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7029,7 +7299,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.74222" lon="4.79034">
+  <wpt lat="45.742131" lon="4.790213">
     <name>Sainte-Foy-lès-Lyon z2410</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7038,7 +7308,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.73344" lon="4.77998">
+  <wpt lat="45.733439" lon="4.779957">
     <name>Sainte-Foy-lès-Lyon z2408</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7047,7 +7317,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.67062" lon="4.82155">
+  <wpt lat="45.670607" lon="4.821542">
     <name>Irigny z2406</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7056,7 +7326,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.6883" lon="4.82335">
+  <wpt lat="45.688249" lon="4.823309">
     <name>Irigny z2403</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7065,7 +7335,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.66587" lon="4.82096">
+  <wpt lat="45.665862" lon="4.820946">
     <name>Irigny z2401</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7074,7 +7344,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.67298" lon="4.82394">
+  <wpt lat="45.672969" lon="4.823883">
     <name>Irigny z2399</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7083,7 +7353,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.67394" lon="4.76385">
+  <wpt lat="45.673891" lon="4.763804">
     <name>Brignais z2397</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7182,7 +7452,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.76836" lon="3.07943">
+  <wpt lat="45.768342" lon="3.079412">
     <name>Clermont-Ferrand z1965</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7272,7 +7542,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.91708" lon="2.42149">
+  <wpt lat="44.917034" lon="2.421477">
     <name>Aurillac z266</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7281,7 +7551,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.92325" lon="2.43664">
+  <wpt lat="44.923239" lon="2.436647">
     <name>Aurillac z262</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7290,7 +7560,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.92801" lon="2.44493">
+  <wpt lat="44.927998" lon="2.44493">
     <name>Aurillac z260</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7326,7 +7596,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.7521" lon="3.08295">
+  <wpt lat="45.752115" lon="3.08292">
     <name>Beaumont z41</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -7335,7 +7605,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.75592" lon="3.08189">
+  <wpt lat="45.755918" lon="3.081877">
     <name>Beaumont z39</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>

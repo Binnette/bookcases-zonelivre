@@ -6,6 +6,174 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.2432,
+          44.3049
+        ]
+      },
+      "properties": {
+        "id": "26383",
+        "name": "Rieupeyroux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.409396,
+          43.90497
+        ]
+      },
+      "properties": {
+        "id": "26172",
+        "name": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.284572,
+          44.494806
+        ]
+      },
+      "properties": {
+        "id": "26135",
+        "name": "Auzits"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.265893,
+          44.527793
+        ]
+      },
+      "properties": {
+        "id": "26133",
+        "name": "Aubin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.217575,
+          44.557589
+        ]
+      },
+      "properties": {
+        "id": "26131",
+        "name": "Viviez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.229605,
+          44.560052
+        ]
+      },
+      "properties": {
+        "id": "26129",
+        "name": "Viviez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.073396,
+          44.576961
+        ]
+      },
+      "properties": {
+        "id": "26127",
+        "name": "Capdenac-Gare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.083103,
+          44.5695
+        ]
+      },
+      "properties": {
+        "id": "26124",
+        "name": "Capdenac-Gare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.077489,
+          44.575983
+        ]
+      },
+      "properties": {
+        "id": "26121",
+        "name": "Capdenac-Gare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.08067,
+          44.574323
+        ]
+      },
+      "properties": {
+        "id": "26118",
+        "name": "Capdenac-Gare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.081679,
+          44.575734
+        ]
+      },
+      "properties": {
+        "id": "26115",
+        "name": "Capdenac-Gare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.055286,
+          43.232371
+        ]
+      },
+      "properties": {
+        "id": "25958",
+        "name": "Coursan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.087255,
           43.78198
         ]
@@ -2596,8 +2764,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.79492,
-          42.68203
+          2.79491,
+          42.682079
         ]
       },
       "properties": {
@@ -2680,8 +2848,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.93063,
-          42.73213
+          2.930646,
+          42.732133
         ]
       },
       "properties": {
@@ -2694,8 +2862,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.09403,
-          43.23645
+          0.093936,
+          43.236449
         ]
       },
       "properties": {
@@ -2946,8 +3114,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.82022,
-          42.69875
+          2.820402,
+          42.698718
         ]
       },
       "properties": {
@@ -2960,8 +3128,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.82318,
-          42.70063
+          2.823181,
+          42.700628
         ]
       },
       "properties": {
@@ -2988,8 +3156,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.11219,
-          43.16095
+          0.112031,
+          43.16091
         ]
       },
       "properties": {
@@ -3170,8 +3338,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.97978,
-          42.63977
+          2.979773,
+          42.639764
         ]
       },
       "properties": {
@@ -3226,8 +3394,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.14585,
-          43.19723
+          0.145821,
+          43.197226
         ]
       },
       "properties": {
@@ -3436,8 +3604,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.24715,
-          44.60428
+          2.247143,
+          44.604232
         ]
       },
       "properties": {
@@ -3450,8 +3618,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.27112,
-          44.57496
+          2.271118,
+          44.574966
         ]
       },
       "properties": {
@@ -3464,8 +3632,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.41004,
-          43.90442
+          1.410032,
+          43.904374
         ]
       },
       "properties": {
@@ -4038,22 +4206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.10407,
-          43.22668
-        ]
-      },
-      "properties": {
-        "id": "13137",
-        "name": "Séméac"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.08861,
-          43.24339
+          0.088561,
+          43.24338
         ]
       },
       "properties": {
@@ -4374,8 +4528,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.99042,
-          42.66816
+          2.990395,
+          42.66815
         ]
       },
       "properties": {
@@ -5228,8 +5382,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.55362,
-          44.34116
+          2.553635,
+          44.341182
         ]
       },
       "properties": {
@@ -5270,8 +5424,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.51408,
-          44.4378
+          2.513402,
+          44.43798
         ]
       },
       "properties": {
@@ -5396,8 +5550,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5349,
-          44.31408
+          2.534861,
+          44.314075
         ]
       },
       "properties": {
@@ -5578,8 +5732,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.05881,
-          43.19713
+          0.058907,
+          43.197146
         ]
       },
       "properties": {
@@ -5592,8 +5746,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.07592,
-          43.23873
+          0.076016,
+          43.238515
         ]
       },
       "properties": {
@@ -5606,8 +5760,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.05106,
-          43.25826
+          0.051048,
+          43.258264
         ]
       },
       "properties": {
@@ -6320,8 +6474,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.6077,
-          43.11351
+          1.607217,
+          43.113388
         ]
       },
       "properties": {
@@ -6474,8 +6628,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.89132,
-          42.70731
+          2.891266,
+          42.707347
         ]
       },
       "properties": {
@@ -6502,8 +6656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.90634,
-          42.68461
+          2.906326,
+          42.68459
         ]
       },
       "properties": {
@@ -6810,8 +6964,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.13812,
-          43.70561
+          2.137975,
+          43.705643
         ]
       },
       "properties": {

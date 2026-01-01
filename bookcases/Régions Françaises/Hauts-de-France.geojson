@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.13964,
+          50.992822
+        ]
+      },
+      "properties": {
+        "id": "26103",
+        "name": "Gravelines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.335434,
+          51.033619
+        ]
+      },
+      "properties": {
+        "id": "26099",
+        "name": "Saint-Pol-sur-Mer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.398777,
+          51.046318
+        ]
+      },
+      "properties": {
+        "id": "26096",
+        "name": "Malo-les-Bains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.062533,
           50.352716
         ]
@@ -1476,8 +1518,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.10691,
-          49.41778
+          2.106915,
+          49.417779
         ]
       },
       "properties": {
@@ -1602,8 +1644,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.99579,
-          49.36984
+          1.995786,
+          49.369834
         ]
       },
       "properties": {
@@ -2834,8 +2876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.438933,
-          50.970691
+          2.437154,
+          50.972794
         ]
       },
       "properties": {

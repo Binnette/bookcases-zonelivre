@@ -1503,7 +1503,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.39544" lon="0.6854">
+  <wpt lat="47.395431" lon="0.685404">
     <name>Tours z19401</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -1737,7 +1737,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.38042" lon="0.66779">
+  <wpt lat="47.380405" lon="0.667771">
     <name>Tours z17015</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -1746,7 +1746,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.37022" lon="0.71095">
+  <wpt lat="47.370237" lon="0.710925">
     <name>Tours z17013</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -1755,7 +1755,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.3773" lon="0.68814">
+  <wpt lat="47.377295" lon="0.688215">
     <name>Tours z17011</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -1764,7 +1764,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.39248" lon="0.71231">
+  <wpt lat="47.392486" lon="0.71232">
     <name>Saint-Pierre-des-Corps z17009</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -1800,7 +1800,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.39519" lon="0.69818">
+  <wpt lat="47.39519" lon="0.698171">
     <name>Tours z16774</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -2142,7 +2142,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.39469" lon="0.67449">
+  <wpt lat="47.394671" lon="0.67449">
     <name>Tours z8558</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -2151,7 +2151,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.38442" lon="0.68622">
+  <wpt lat="47.384425" lon="0.686222">
     <name>Tours z8553</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -2178,7 +2178,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.78459" lon="1.65629">
+  <wpt lat="46.784597" lon="1.65628">
     <name>Saint-Maur z8116</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -2369,15 +2369,6 @@
   </wpt>
   <wpt lat="47.41865" lon="1.42979">
     <name>Le Controis-en-Sologne z6597</name>
-    <type>ZoneLivre Centre-Val de Loire</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.38025" lon="0.6957">
-    <name>Tours z6408</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -2997,7 +2988,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.39998" lon="0.66875">
+  <wpt lat="47.399705" lon="0.669013">
     <name>Saint-Cyr-sur-Loire z3790</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -3024,7 +3015,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.36779" lon="0.67578">
+  <wpt lat="47.367726" lon="0.675962">
     <name>Tours z3783</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -3033,7 +3024,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.38802" lon="0.70286">
+  <wpt lat="47.388039" lon="0.702846">
     <name>Tours z3781</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -3060,7 +3051,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.38152" lon="0.68131">
+  <wpt lat="47.381449" lon="0.681319">
     <name>Tours z3775</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -3078,7 +3069,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.39356" lon="0.67586">
+  <wpt lat="47.393523" lon="0.67585">
     <name>Tours z3771</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -4248,7 +4239,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.94722" lon="3.06793">
+  <wpt lat="46.947248" lon="3.067927">
     <name>Cuffy z1984</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -4356,7 +4347,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.48971" lon="2.44249">
+  <wpt lat="47.489686" lon="2.442476">
     <name>Aubigny-sur-Nère z240</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
@@ -4365,7 +4356,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.48771" lon="2.43843">
+  <wpt lat="47.4877" lon="2.438426">
     <name>Aubigny-sur-Nère z238</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>
