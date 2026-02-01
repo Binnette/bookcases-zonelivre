@@ -6,6 +6,1308 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.647954,
+          46.858731
+        ]
+      },
+      "properties": {
+        "id": "28249",
+        "name": "Cercy-la-Tour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.28177,
+          46.46172
+        ]
+      },
+      "properties": {
+        "id": "27919",
+        "name": "Condal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.899442,
+          46.552643
+        ]
+      },
+      "properties": {
+        "id": "27917",
+        "name": "Tournus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.685238,
+          46.547879
+        ]
+      },
+      "properties": {
+        "id": "27915",
+        "name": "Cormatin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.687901,
+          46.541385
+        ]
+      },
+      "properties": {
+        "id": "27913",
+        "name": "Cormatin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.015799,
+          46.526851
+        ]
+      },
+      "properties": {
+        "id": "27911",
+        "name": "Ratenelle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.115689,
+          46.557558
+        ]
+      },
+      "properties": {
+        "id": "27909",
+        "name": "La Chapelle-Thècle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.116701,
+          46.58306
+        ]
+      },
+      "properties": {
+        "id": "27907",
+        "name": "Ménetreuil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.106785,
+          46.623334
+        ]
+      },
+      "properties": {
+        "id": "27905",
+        "name": "Savigny-sur-Seille"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.11033,
+          46.678778
+        ]
+      },
+      "properties": {
+        "id": "27903",
+        "name": "Montret"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.310122,
+          46.600951
+        ]
+      },
+      "properties": {
+        "id": "27901",
+        "name": "Sagy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.374413,
+          46.689384
+        ]
+      },
+      "properties": {
+        "id": "27899",
+        "name": "Saillenard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.049323,
+          46.638163
+        ]
+      },
+      "properties": {
+        "id": "27896",
+        "name": "La Frette"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88783,
+          46.67799
+        ]
+      },
+      "properties": {
+        "id": "27894",
+        "name": "Saint-Cyr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.672279,
+          46.65657
+        ]
+      },
+      "properties": {
+        "id": "27892",
+        "name": "Saules"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.654775,
+          46.653511
+        ]
+      },
+      "properties": {
+        "id": "27889",
+        "name": "Culles-les-Roches"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.447373,
+          46.64166
+        ]
+      },
+      "properties": {
+        "id": "27886",
+        "name": "Gourdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.477578,
+          46.630089
+        ]
+      },
+      "properties": {
+        "id": "27884",
+        "name": "Mont-Saint-Vincent"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.500186,
+          46.617933
+        ]
+      },
+      "properties": {
+        "id": "27882",
+        "name": "Mary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.439026,
+          46.481811
+        ]
+      },
+      "properties": {
+        "id": "27880",
+        "name": "Saint-Bonnet-de-Joux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.29371,
+          46.238314
+        ]
+      },
+      "properties": {
+        "id": "27877",
+        "name": "Chassigny-sous-Dun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.292224,
+          46.25933
+        ]
+      },
+      "properties": {
+        "id": "27875",
+        "name": "La Chapelle-sous-Dun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.380232,
+          46.460854
+        ]
+      },
+      "properties": {
+        "id": "27873",
+        "name": "Vendenesse-lès-Charolles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.190037,
+          46.864013
+        ]
+      },
+      "properties": {
+        "id": "27612",
+        "name": "Étang-sur-Arroux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.242686,
+          46.861424
+        ]
+      },
+      "properties": {
+        "id": "27610",
+        "name": "Mesvres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.014165,
+          47.18583
+        ]
+      },
+      "properties": {
+        "id": "27500",
+        "name": "La Charité-sur-Loire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.931512,
+          47.413812
+        ]
+      },
+      "properties": {
+        "id": "27493",
+        "name": "Cosne-Cours-sur-Loire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.99654,
+          46.491065
+        ]
+      },
+      "properties": {
+        "id": "27474",
+        "name": "Digoin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73871,
+          46.18825
+        ]
+      },
+      "properties": {
+        "id": "27268",
+        "name": "Romanèche-Thorins"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.766916,
+          46.209589
+        ]
+      },
+      "properties": {
+        "id": "27266",
+        "name": "La Chapelle-de-Guinchay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.768976,
+          46.278401
+        ]
+      },
+      "properties": {
+        "id": "27264",
+        "name": "Mâcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.791737,
+          46.31739
+        ]
+      },
+      "properties": {
+        "id": "27262",
+        "name": "Charnay-lès-Mâcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.754671,
+          46.252666
+        ]
+      },
+      "properties": {
+        "id": "27255",
+        "name": "Chânes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.828328,
+          46.326268
+        ]
+      },
+      "properties": {
+        "id": "27250",
+        "name": "Mâcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83617,
+          46.308458
+        ]
+      },
+      "properties": {
+        "id": "27248",
+        "name": "Mâcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.600163,
+          46.30771
+        ]
+      },
+      "properties": {
+        "id": "27246",
+        "name": "Tramayes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.027535,
+          46.297385
+        ]
+      },
+      "properties": {
+        "id": "27242",
+        "name": "Baugy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.977941,
+          47.106435
+        ]
+      },
+      "properties": {
+        "id": "27240",
+        "name": "Corancy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.089838,
+          47.270943
+        ]
+      },
+      "properties": {
+        "id": "27237",
+        "name": "Saint-Brisson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.445563,
+          47.013547
+        ]
+      },
+      "properties": {
+        "id": "27234",
+        "name": "Saint-Léger-du-Bois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.467769,
+          47.005997
+        ]
+      },
+      "properties": {
+        "id": "27231",
+        "name": "Sully"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.384076,
+          46.67547
+        ]
+      },
+      "properties": {
+        "id": "27229",
+        "name": "Montceau-les-Mines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.474145,
+          46.744866
+        ]
+      },
+      "properties": {
+        "id": "27226",
+        "name": "Montchanin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.484726,
+          46.733274
+        ]
+      },
+      "properties": {
+        "id": "27224",
+        "name": "Saint-Laurent-d'Andenay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.515078,
+          46.736048
+        ]
+      },
+      "properties": {
+        "id": "27221",
+        "name": "Saint-Laurent-d'Andenay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.584982,
+          46.712743
+        ]
+      },
+      "properties": {
+        "id": "27219",
+        "name": "Marcilly-lès-Buxy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.748838,
+          46.730136
+        ]
+      },
+      "properties": {
+        "id": "27217",
+        "name": "Granges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760248,
+          46.72439
+        ]
+      },
+      "properties": {
+        "id": "27214",
+        "name": "Granges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.749908,
+          46.698382
+        ]
+      },
+      "properties": {
+        "id": "27212",
+        "name": "Saint-Germain-lès-Buxy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.792544,
+          46.647317
+        ]
+      },
+      "properties": {
+        "id": "27210",
+        "name": "Lalheue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.713789,
+          46.478525
+        ]
+      },
+      "properties": {
+        "id": "27203",
+        "name": "Cortambert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.715152,
+          46.492578
+        ]
+      },
+      "properties": {
+        "id": "27200",
+        "name": "Cortambert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.733292,
+          46.473669
+        ]
+      },
+      "properties": {
+        "id": "27198",
+        "name": "Blanot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.774447,
+          46.464416
+        ]
+      },
+      "properties": {
+        "id": "27196",
+        "name": "Saint-Gengoux-de-Scissé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.760191,
+          46.421819
+        ]
+      },
+      "properties": {
+        "id": "27191",
+        "name": "Azé (71)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.685379,
+          46.723613
+        ]
+      },
+      "properties": {
+        "id": "27189",
+        "name": "Cronat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.141081,
+          46.976894
+        ]
+      },
+      "properties": {
+        "id": "27187",
+        "name": "Nevers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.162665,
+          46.990481
+        ]
+      },
+      "properties": {
+        "id": "27185",
+        "name": "Nevers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.157008,
+          46.988567
+        ]
+      },
+      "properties": {
+        "id": "27183",
+        "name": "Nevers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.150879,
+          46.987387
+        ]
+      },
+      "properties": {
+        "id": "27181",
+        "name": "Nevers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.234999,
+          47.014383
+        ]
+      },
+      "properties": {
+        "id": "27179",
+        "name": "Tavernay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.313448,
+          46.941969
+        ]
+      },
+      "properties": {
+        "id": "27177",
+        "name": "Autun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.584906,
+          46.615602
+        ]
+      },
+      "properties": {
+        "id": "27170",
+        "name": "Saint-Clément-sur-Guye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.620258,
+          46.629026
+        ]
+      },
+      "properties": {
+        "id": "27168",
+        "name": "Saint-Maurice-des-Champs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.242482,
+          46.33071
+        ]
+      },
+      "properties": {
+        "id": "27140",
+        "name": "Amanzé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.260885,
+          46.807335
+        ]
+      },
+      "properties": {
+        "id": "27135",
+        "name": "Uchon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.357157,
+          46.83669
+        ]
+      },
+      "properties": {
+        "id": "27133",
+        "name": "Marmagne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.432495,
+          46.839407
+        ]
+      },
+      "properties": {
+        "id": "27131",
+        "name": "Saint-Sernin-du-Bois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.418585,
+          46.802175
+        ]
+      },
+      "properties": {
+        "id": "27111",
+        "name": "Le Creusot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.460801,
+          46.806585
+        ]
+      },
+      "properties": {
+        "id": "27101",
+        "name": "Le Breuil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.568937,
+          46.817736
+        ]
+      },
+      "properties": {
+        "id": "27099",
+        "name": "Perreuil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761136,
+          46.79748
+        ]
+      },
+      "properties": {
+        "id": "27096",
+        "name": "Dracy-le-Fort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6989,
+          46.808848
+        ]
+      },
+      "properties": {
+        "id": "27094",
+        "name": "Saint-Jean-de-Vaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.684905,
+          46.81345
+        ]
+      },
+      "properties": {
+        "id": "27092",
+        "name": "Saint-Mard-de-Vaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.667309,
+          46.838967
+        ]
+      },
+      "properties": {
+        "id": "27090",
+        "name": "Charrecey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.653657,
+          46.906521
+        ]
+      },
+      "properties": {
+        "id": "27086",
+        "name": "Sampigny-lès-Maranges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.66854,
+          46.89665
+        ]
+      },
+      "properties": {
+        "id": "27083",
+        "name": "Cheilly-lès-Maranges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.766028,
+          46.88203
+        ]
+      },
+      "properties": {
+        "id": "27081",
+        "name": "Rully"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.738946,
+          46.874992
+        ]
+      },
+      "properties": {
+        "id": "27078",
+        "name": "Rully"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.806395,
+          46.832765
+        ]
+      },
+      "properties": {
+        "id": "27076",
+        "name": "Farges-lès-Chalon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.836632,
+          46.819619
+        ]
+      },
+      "properties": {
+        "id": "27074",
+        "name": "Champforgeuil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.268779,
+          46.845454
+        ]
+      },
+      "properties": {
+        "id": "27072",
+        "name": "La Chapelle-Saint-Sauveur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.267188,
+          46.88346
+        ]
+      },
+      "properties": {
+        "id": "27070",
+        "name": "Pierre-de-Bresse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.878335,
+          46.774714
+        ]
+      },
+      "properties": {
+        "id": "27068",
+        "name": "Saint-Marcel (71)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.847151,
+          46.778562
+        ]
+      },
+      "properties": {
+        "id": "27065",
+        "name": "Chalon-sur-Saône"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.843568,
+          46.785457
+        ]
+      },
+      "properties": {
+        "id": "27063",
+        "name": "Chalon-sur-Saône"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.814093,
+          46.75048
+        ]
+      },
+      "properties": {
+        "id": "27058",
+        "name": "Saint-Rémy (71)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.817757,
+          46.766406
+        ]
+      },
+      "properties": {
+        "id": "27056",
+        "name": "Saint-Rémy (71)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.830385,
+          46.763928
+        ]
+      },
+      "properties": {
+        "id": "27053",
+        "name": "Saint-Rémy (71)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.828628,
+          46.769397
+        ]
+      },
+      "properties": {
+        "id": "27050",
+        "name": "Saint-Rémy (71)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.908904,
+          46.952234
+        ]
+      },
+      "properties": {
+        "id": "27040",
+        "name": "Saint-Loup-Géanges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.77025,
+          46.619793
+        ]
+      },
+      "properties": {
+        "id": "27031",
+        "name": "Bourbon-Lancy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.77522,
+          46.619569
+        ]
+      },
+      "properties": {
+        "id": "27029",
+        "name": "Bourbon-Lancy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.064432,
           47.380879
         ]
@@ -412,20 +1714,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.031521,
-          47.314895
-        ]
-      },
-      "properties": {
-        "id": "24044",
-        "name": "Dijon"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.017568,
           47.345035
         ]
@@ -692,8 +1980,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.08303,
-          46.903527
+          5.082997,
+          46.903534
         ]
       },
       "properties": {
@@ -1126,13 +2414,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.70733,
-          46.33793
+          4.707341,
+          46.337901
         ]
       },
       "properties": {
         "id": "20933",
-        "name": "Bussières"
+        "name": "Bussières (71)"
       }
     },
     {
@@ -1644,8 +2932,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.69451,
-          46.71278
+          4.694512,
+          46.712776
         ]
       },
       "properties": {
@@ -1658,8 +2946,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.90885,
-          46.95841
+          4.908842,
+          46.958408
         ]
       },
       "properties": {
@@ -1826,8 +3114,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.03318,
-          46.91223
+          5.033184,
+          46.912225
         ]
       },
       "properties": {
@@ -1840,8 +3128,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.62224,
-          46.66052
+          4.622245,
+          46.660508
         ]
       },
       "properties": {
@@ -1924,8 +3212,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.75154,
-          46.62518
+          3.751372,
+          46.625128
         ]
       },
       "properties": {
@@ -1952,8 +3240,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.76743,
-          46.61873
+          3.76793,
+          46.61855
         ]
       },
       "properties": {
@@ -1966,22 +3254,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.74974,
-          46.62681
-        ]
-      },
-      "properties": {
-        "id": "16115",
-        "name": "Bourbon-Lancy"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.75423,
-          46.62
+          3.753427,
+          46.619572
         ]
       },
       "properties": {
@@ -1994,8 +3268,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.75806,
-          46.62307
+          3.758459,
+          46.622851
         ]
       },
       "properties": {
@@ -2008,8 +3282,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.77569,
-          46.62079
+          3.775652,
+          46.620779
         ]
       },
       "properties": {
@@ -2022,8 +3296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.77344,
-          46.61865
+          3.773466,
+          46.61864
         ]
       },
       "properties": {
@@ -2036,8 +3310,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.76656,
-          46.62032
+          3.764097,
+          46.620867
         ]
       },
       "properties": {
@@ -2106,8 +3380,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.13986,
-          46.69327
+          4.13985,
+          46.693258
         ]
       },
       "properties": {
@@ -2708,8 +3982,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.09914,
-          47.07675
+          4.09918,
+          47.076788
         ]
       },
       "properties": {
@@ -2722,8 +3996,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.68493,
-          46.84681
+          4.684934,
+          46.846808
         ]
       },
       "properties": {
@@ -2778,8 +4052,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.91808,
-          46.78804
+          4.918064,
+          46.78803
         ]
       },
       "properties": {
@@ -2792,8 +4066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.98144,
-          46.90547
+          4.981415,
+          46.905515
         ]
       },
       "properties": {
@@ -2932,8 +4206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.82403,
-          46.7789
+          4.824001,
+          46.778745
         ]
       },
       "properties": {
@@ -2946,8 +4220,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.83975,
-          46.78511
+          4.839738,
+          46.78506
         ]
       },
       "properties": {
@@ -2960,8 +4234,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.82373,
-          46.3055
+          4.823738,
+          46.305498
         ]
       },
       "properties": {
@@ -2974,8 +4248,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.83386,
-          46.77354
+          4.833842,
+          46.773534
         ]
       },
       "properties": {
@@ -3114,8 +4388,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.6462,
-          46.86847
+          3.646117,
+          46.868744
         ]
       },
       "properties": {
@@ -3170,8 +4444,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.92714,
-          47.3964
+          2.927138,
+          47.396396
         ]
       },
       "properties": {
@@ -3184,8 +4458,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.92324,
-          47.41037
+          2.923243,
+          47.410372
         ]
       },
       "properties": {
@@ -3226,8 +4500,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.447,
-          46.80195
+          4.446998,
+          46.801951
         ]
       },
       "properties": {
@@ -3240,8 +4514,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.43857,
-          46.79914
+          4.43448,
+          46.797937
         ]
       },
       "properties": {
@@ -3254,8 +4528,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.42625,
-          46.79987
+          4.426975,
+          46.79978
         ]
       },
       "properties": {
@@ -3268,8 +4542,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.43144,
-          46.80731
+          4.431143,
+          46.806753
         ]
       },
       "properties": {
@@ -3282,8 +4556,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.43324,
-          46.78966
+          4.433702,
+          46.789435
         ]
       },
       "properties": {
@@ -3296,8 +4570,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.44789,
-          46.79652
+          4.448409,
+          46.796701
         ]
       },
       "properties": {
@@ -3310,8 +4584,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4174,
-          46.79492
+          4.417314,
+          46.794959
         ]
       },
       "properties": {
@@ -3324,8 +4598,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.43252,
-          46.81194
+          4.43253,
+          46.811954
         ]
       },
       "properties": {
@@ -3338,8 +4612,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.43662,
-          46.80539
+          4.436457,
+          46.805388
         ]
       },
       "properties": {
@@ -3352,8 +4626,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4269,
-          46.80673
+          4.426895,
+          46.806724
         ]
       },
       "properties": {
@@ -3366,8 +4640,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4288,
-          46.8053
+          4.428794,
+          46.805301
         ]
       },
       "properties": {
@@ -3380,8 +4654,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.42312,
-          46.80321
+          4.423091,
+          46.803186
         ]
       },
       "properties": {
@@ -3394,8 +4668,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.42097,
-          46.80596
+          4.420771,
+          46.805518
         ]
       },
       "properties": {
@@ -5018,8 +6292,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.31822,
-          46.92118
+          4.31826,
+          46.921113
         ]
       },
       "properties": {
@@ -5032,8 +6306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.31838,
-          46.95226
+          4.318367,
+          46.952461
         ]
       },
       "properties": {
@@ -5102,8 +6376,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.82279,
-          46.55616
+          4.8235,
+          46.555572
         ]
       },
       "properties": {
@@ -5116,8 +6390,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.85978,
-          46.78327
+          4.859752,
+          46.783167
         ]
       },
       "properties": {
@@ -5130,26 +6404,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.02244,
-          47.17857
+          3.022436,
+          47.178572
         ]
       },
       "properties": {
         "id": "5237",
-        "name": "La Charité-sur-Loire"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.01888,
-          47.17706
-        ]
-      },
-      "properties": {
-        "id": "5235",
         "name": "La Charité-sur-Loire"
       }
     },
@@ -5256,8 +6516,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.84891,
-          46.7832
+          4.848849,
+          46.783196
         ]
       },
       "properties": {
@@ -5270,8 +6530,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.80419,
-          46.59213
+          4.804141,
+          46.591965
         ]
       },
       "properties": {
@@ -5564,8 +6824,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.81818,
-          47.28905
+          3.818095,
+          47.289054
         ]
       },
       "properties": {
@@ -5704,7 +6964,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.011616,
+          5.011611,
           47.332059
         ]
       },
@@ -6222,8 +7482,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.66369,
-          46.43295
+          4.663238,
+          46.433726
         ]
       },
       "properties": {
@@ -6306,8 +7566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.78496,
-          46.24812
+          4.784959,
+          46.248096
         ]
       },
       "properties": {
@@ -6586,8 +7846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.30264,
-          46.94509
+          4.302652,
+          46.945077
         ]
       },
       "properties": {

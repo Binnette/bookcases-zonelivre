@@ -4572,7 +4572,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.95405" lon="4.36166">
+  <wpt lat="48.95413" lon="4.361661">
     <name>Châlons-en-Champagne z1907</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>
@@ -4581,7 +4581,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.02627" lon="4.42038">
+  <wpt lat="49.026269" lon="4.420382">
     <name>Saint-Étienne-au-Temple z1905</name>
     <type>ZoneLivre Grand Est</type>
     <extensions>

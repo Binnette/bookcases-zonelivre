@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.308384,
+          48.836016
+        ]
+      },
+      "properties": {
+        "id": "28257",
+        "name": "Paris 15e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.797399,
+          48.635135
+        ]
+      },
+      "properties": {
+        "id": "27476",
+        "name": "Guignes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.960486,
           48.647803
         ]
@@ -1602,8 +1630,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.25486,
-          48.96909
+          2.254853,
+          48.969085
         ]
       },
       "properties": {
@@ -1616,8 +1644,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.23344,
-          48.96866
+          2.2334,
+          48.968643
         ]
       },
       "properties": {
@@ -2778,8 +2806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.233,
-          48.94576
+          2.232995,
+          48.945763
         ]
       },
       "properties": {
@@ -2792,8 +2820,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.22074,
-          48.95565
+          2.220818,
+          48.955641
         ]
       },
       "properties": {
@@ -2806,8 +2834,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.23622,
-          48.96107
+          2.236219,
+          48.961057
         ]
       },
       "properties": {

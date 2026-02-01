@@ -918,8 +918,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.56427" lon="2.56054">
-    <name>Angles z20940</name>
+  <wpt lat="43.564254" lon="2.560544">
+    <name>Anglès z20940</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -2160,7 +2160,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.40885" lon="1.54882">
+  <wpt lat="44.408846" lon="1.54882">
     <name>Aujols z14883</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -3177,7 +3177,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.47385" lon="1.37866">
+  <wpt lat="44.473874" lon="1.378747">
     <name>Pradines z3463</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -3258,7 +3258,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.45983" lon="1.47406">
+  <wpt lat="44.459825" lon="1.474158">
     <name>Cahors z3031</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -3267,7 +3267,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.47" lon="1.41211">
+  <wpt lat="44.469992" lon="1.412111">
     <name>Pradines z3029</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -3285,7 +3285,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.44804" lon="1.44321">
+  <wpt lat="44.448045" lon="1.44334">
     <name>Cahors z3025</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -4437,7 +4437,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.45678" lon="1.51654">
+  <wpt lat="44.457101" lon="1.515813">
     <name>Arcambal z204</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -4491,7 +4491,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.06284" lon="1.95709">
+  <wpt lat="44.062831" lon="1.957079">
     <name>Cordes-sur-Ciel z125</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>

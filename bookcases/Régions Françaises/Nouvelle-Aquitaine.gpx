@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.579078" lon="0.339822">
+    <name>Poitiers z26942</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.575344" lon="0.364542">
+    <name>Poitiers z26940</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.168989" lon="1.787486">
     <name>La Brionne z26169</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
@@ -6426,7 +6444,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.26603" lon="0.70637">
+  <wpt lat="44.266026" lon="0.706376">
     <name>Bajamont z15492</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
@@ -6480,7 +6498,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.17022" lon="0.69662">
+  <wpt lat="44.170229" lon="0.696618">
     <name>Lafox z15406</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>

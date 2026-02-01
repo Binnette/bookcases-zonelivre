@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.836016" lon="2.308384">
+    <name>Paris 15e z28257</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.635135" lon="2.797399">
+    <name>Guignes z27476</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.647803" lon="2.960486">
     <name>Courpalay z25845</name>
     <type>ZoneLivre Île-de-France</type>
@@ -1026,7 +1044,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.96909" lon="2.25486">
+  <wpt lat="48.969085" lon="2.254853">
     <name>Sannois z20079</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1035,7 +1053,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.96866" lon="2.23344">
+  <wpt lat="48.968643" lon="2.2334">
     <name>Sannois z20077</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1782,7 +1800,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.94576" lon="2.233">
+  <wpt lat="48.945763" lon="2.232995">
     <name>Argenteuil z17626</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1791,7 +1809,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.95565" lon="2.22074">
+  <wpt lat="48.955641" lon="2.220818">
     <name>Argenteuil z17625</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1800,7 +1818,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.96107" lon="2.23622">
+  <wpt lat="48.961057" lon="2.236219">
     <name>Argenteuil z17624</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>

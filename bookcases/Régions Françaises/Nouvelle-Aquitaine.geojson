@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.339822,
+          46.579078
+        ]
+      },
+      "properties": {
+        "id": "26942",
+        "name": "Poitiers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.364542,
+          46.575344
+        ]
+      },
+      "properties": {
+        "id": "26940",
+        "name": "Poitiers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.787486,
           46.168989
         ]
@@ -10002,8 +10030,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.70637,
-          44.26603
+          0.706376,
+          44.266026
         ]
       },
       "properties": {
@@ -10086,8 +10114,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.69662,
-          44.17022
+          0.696618,
+          44.170229
         ]
       },
       "properties": {
