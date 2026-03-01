@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.759714,
+          43.067694
+        ]
+      },
+      "properties": {
+        "id": "29420",
+        "name": "Lespiteau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.2432,
           44.3049
         ]
@@ -272,6 +286,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.728306,
+          44.78174
+        ]
+      },
+      "properties": {
+        "id": "25415",
+        "name": "Gramat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.031709,
           42.696049
         ]
@@ -370,8 +398,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.36502,
-          43.84505
+          4.365005,
+          43.845024
         ]
       },
       "properties": {
@@ -580,8 +608,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.57986,
-          44.56903
+          1.579856,
+          44.569026
         ]
       },
       "properties": {
@@ -944,8 +972,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.41645,
-          43.0743
+          1.416458,
+          43.074298
         ]
       },
       "properties": {
@@ -1714,8 +1742,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.0636,
-          42.45467
+          2.063536,
+          42.454694
         ]
       },
       "properties": {
@@ -1728,8 +1756,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.94087,
-          42.48492
+          1.94083,
+          42.484924
         ]
       },
       "properties": {
@@ -5830,8 +5858,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.74176,
-          43.04915
+          0.74177,
+          43.049129
         ]
       },
       "properties": {
@@ -5844,8 +5872,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.83106,
-          43.06434
+          0.831018,
+          43.064353
         ]
       },
       "properties": {
@@ -6446,8 +6474,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.75728,
-          42.97794
+          0.757279,
+          42.97793
         ]
       },
       "properties": {
@@ -6866,8 +6894,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.80019,
-          43.01482
+          0.800193,
+          43.014818
         ]
       },
       "properties": {

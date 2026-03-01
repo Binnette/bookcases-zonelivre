@@ -6,13 +6,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.127845,
+          44.954602
+        ]
+      },
+      "properties": {
+        "id": "29004",
+        "name": "Siran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.715152,
+          45.814143
+        ]
+      },
+      "properties": {
+        "id": "29002",
+        "name": "La Tour-de-Salvagny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.835395,
+          45.729494
+        ]
+      },
+      "properties": {
+        "id": "28997",
+        "name": "Lyon 7e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.8323,
           45.729541
         ]
       },
       "properties": {
         "id": "28436",
-        "name": "Lyon"
+        "name": "Lyon 7e"
       }
     },
     {
@@ -2728,7 +2770,7 @@
       },
       "properties": {
         "id": "25138",
-        "name": "Lyon"
+        "name": "Lyon 5e"
       }
     },
     {
@@ -2742,7 +2784,7 @@
       },
       "properties": {
         "id": "25135",
-        "name": "Lyon"
+        "name": "Lyon 9e"
       }
     },
     {
@@ -3526,7 +3568,7 @@
       },
       "properties": {
         "id": "24629",
-        "name": "Lyon"
+        "name": "Lyon 3e"
       }
     },
     {
@@ -3624,7 +3666,7 @@
       },
       "properties": {
         "id": "23775",
-        "name": "Lyon"
+        "name": "Lyon 2e"
       }
     },
     {
@@ -4492,7 +4534,7 @@
       },
       "properties": {
         "id": "22066",
-        "name": "Lyon"
+        "name": "Lyon 9e"
       }
     },
     {
@@ -4562,7 +4604,7 @@
       },
       "properties": {
         "id": "21479",
-        "name": "Lyon"
+        "name": "Lyon 7e"
       }
     },
     {
@@ -4884,7 +4926,7 @@
       },
       "properties": {
         "id": "20732",
-        "name": "Lyon"
+        "name": "Lyon 6e"
       }
     },
     {
@@ -5276,7 +5318,7 @@
       },
       "properties": {
         "id": "20320",
-        "name": "Lyon"
+        "name": "Lyon 2e"
       }
     },
     {
@@ -5486,7 +5528,7 @@
       },
       "properties": {
         "id": "19839",
-        "name": "Lyon"
+        "name": "Lyon 3e"
       }
     },
     {
@@ -5640,7 +5682,7 @@
       },
       "properties": {
         "id": "19370",
-        "name": "Lyon"
+        "name": "Lyon 7e"
       }
     },
     {
@@ -5766,7 +5808,7 @@
       },
       "properties": {
         "id": "19190",
-        "name": "Lyon"
+        "name": "Lyon 4e"
       }
     },
     {
@@ -5822,7 +5864,7 @@
       },
       "properties": {
         "id": "18990",
-        "name": "Lyon"
+        "name": "Lyon 7e"
       }
     },
     {
@@ -5984,8 +6026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.691774,
-          45.747346
+          4.691704,
+          45.747086
         ]
       },
       "properties": {
@@ -6082,8 +6124,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.91912,
-          45.5667
+          5.91911,
+          45.566697
         ]
       },
       "properties": {
@@ -8552,7 +8594,7 @@
       },
       "properties": {
         "id": "13340",
-        "name": "Lyon"
+        "name": "Lyon 2e"
       }
     },
     {
@@ -9770,7 +9812,7 @@
       },
       "properties": {
         "id": "8912",
-        "name": "Lyon"
+        "name": "Lyon 4e"
       }
     },
     {
@@ -9966,7 +10008,7 @@
       },
       "properties": {
         "id": "8790",
-        "name": "Lyon"
+        "name": "Lyon 8e"
       }
     },
     {
@@ -10876,7 +10918,7 @@
       },
       "properties": {
         "id": "8175",
-        "name": "Lyon"
+        "name": "Lyon 6e"
       }
     },
     {
@@ -11828,7 +11870,7 @@
       },
       "properties": {
         "id": "5123",
-        "name": "Lyon"
+        "name": "Lyon 2e"
       }
     },
     {
@@ -12556,7 +12598,7 @@
       },
       "properties": {
         "id": "2502",
-        "name": "Lyon"
+        "name": "Lyon 5e"
       }
     },
     {
@@ -12752,7 +12794,7 @@
       },
       "properties": {
         "id": "2466",
-        "name": "Lyon"
+        "name": "Lyon 3e"
       }
     },
     {
@@ -12766,7 +12808,7 @@
       },
       "properties": {
         "id": "2464",
-        "name": "Lyon"
+        "name": "Lyon 3e"
       }
     },
     {
@@ -12780,7 +12822,7 @@
       },
       "properties": {
         "id": "2462",
-        "name": "Lyon"
+        "name": "Lyon 5e"
       }
     },
     {
@@ -12794,7 +12836,7 @@
       },
       "properties": {
         "id": "2460",
-        "name": "Lyon"
+        "name": "Lyon 5e"
       }
     },
     {
@@ -12808,7 +12850,7 @@
       },
       "properties": {
         "id": "2456",
-        "name": "Lyon"
+        "name": "Lyon 5e"
       }
     },
     {
@@ -12822,7 +12864,7 @@
       },
       "properties": {
         "id": "2454",
-        "name": "Lyon"
+        "name": "Lyon 5e"
       }
     },
     {
@@ -12836,7 +12878,7 @@
       },
       "properties": {
         "id": "2452",
-        "name": "Lyon"
+        "name": "Lyon 9e"
       }
     },
     {
@@ -12850,7 +12892,7 @@
       },
       "properties": {
         "id": "2450",
-        "name": "Lyon"
+        "name": "Lyon 1er"
       }
     },
     {
@@ -12864,7 +12906,7 @@
       },
       "properties": {
         "id": "2448",
-        "name": "Lyon"
+        "name": "Lyon 1er"
       }
     },
     {
@@ -12878,7 +12920,7 @@
       },
       "properties": {
         "id": "2446",
-        "name": "Lyon"
+        "name": "Lyon 4e"
       }
     },
     {
@@ -12892,7 +12934,7 @@
       },
       "properties": {
         "id": "2444",
-        "name": "Lyon"
+        "name": "Lyon 1er"
       }
     },
     {
@@ -12906,7 +12948,7 @@
       },
       "properties": {
         "id": "2442",
-        "name": "Lyon"
+        "name": "Lyon 1er"
       }
     },
     {
@@ -12920,7 +12962,7 @@
       },
       "properties": {
         "id": "2438",
-        "name": "Lyon"
+        "name": "Lyon 1er"
       }
     },
     {
@@ -12934,7 +12976,7 @@
       },
       "properties": {
         "id": "2436",
-        "name": "Lyon"
+        "name": "Lyon 3e"
       }
     },
     {
@@ -12948,7 +12990,7 @@
       },
       "properties": {
         "id": "2432",
-        "name": "Lyon"
+        "name": "Lyon 7e"
       }
     },
     {
@@ -12962,7 +13004,7 @@
       },
       "properties": {
         "id": "2428",
-        "name": "Lyon"
+        "name": "Lyon 8e"
       }
     },
     {
@@ -12976,7 +13018,7 @@
       },
       "properties": {
         "id": "2426",
-        "name": "Lyon"
+        "name": "Lyon 8e"
       }
     },
     {

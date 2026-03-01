@@ -1,5 +1,86 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.878784" lon="2.245787">
+    <name>Puteaux z29975</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.829671" lon="2.371301">
+    <name>Paris 13e z28990</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.859218" lon="2.365558">
+    <name>Paris 13e z28986</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.863128" lon="2.36647">
+    <name>Paris 3e z28984</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.754645" lon="1.946136">
+    <name>La Verrière z28979</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.766596" lon="1.931826">
+    <name>Maurepas z28972</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.762123" lon="1.917605">
+    <name>Maurepas z28969</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.752316" lon="1.918176">
+    <name>Coignières z28966</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.7437" lon="1.92121">
+    <name>Coignières z28964</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.836016" lon="2.308384">
     <name>Paris 15e z28257</name>
     <type>ZoneLivre Île-de-France</type>
@@ -81,7 +162,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.832689" lon="2.361369">
+  <wpt lat="48.82965" lon="2.371333">
     <name>Paris 13e z25808</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1422,7 +1503,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.76409" lon="1.93695">
+  <wpt lat="48.764094" lon="1.936944">
     <name>Maurepas z18849</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -1730,15 +1811,6 @@
   </wpt>
   <wpt lat="48.84506" lon="2.293141">
     <name>Paris 15e z17825</name>
-    <type>ZoneLivre Île-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.841484" lon="2.365813">
-    <name>Paris 13e z17754</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -4716,16 +4788,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.76588" lon="1.91806">
-    <name>Maurepas z4142</name>
-    <type>ZoneLivre Île-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.76186" lon="1.94345">
+  <wpt lat="48.761843" lon="1.943432">
     <name>Maurepas z4140</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>

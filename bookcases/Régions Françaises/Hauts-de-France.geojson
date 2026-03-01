@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.347622,
+          49.395828
+        ]
+      },
+      "properties": {
+        "id": "29386",
+        "name": "Crouy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.395671,
+          49.390383
+        ]
+      },
+      "properties": {
+        "id": "29384",
+        "name": "Bucy-le-Long"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.13964,
           50.992822
         ]
@@ -160,8 +188,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.212653,
-          50.832581
+          2.212635,
+          50.832595
         ]
       },
       "properties": {
@@ -174,7 +202,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.454495,
+          2.454492,
           50.935608
         ]
       },

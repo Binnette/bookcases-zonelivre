@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.244633" lon="3.40849">
+    <name>Arthel z29328</name>
+    <type>ZoneLivre Bourgogne-Franche-Comté</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.858731" lon="3.647954">
     <name>Cercy-la-Tour z28249</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
@@ -4347,7 +4356,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.0895" lon="3.18972">
+  <wpt lat="47.090548" lon="3.190233">
     <name>Guerigny z3413</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
     <extensions>
@@ -4356,7 +4365,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.08722" lon="3.19515">
+  <wpt lat="47.087206" lon="3.194956">
     <name>Guerigny z3411</name>
     <type>ZoneLivre Bourgogne-Franche-Comté</type>
     <extensions>

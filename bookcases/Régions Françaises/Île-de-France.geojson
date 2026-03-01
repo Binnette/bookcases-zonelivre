@@ -6,6 +6,132 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.245787,
+          48.878784
+        ]
+      },
+      "properties": {
+        "id": "29975",
+        "name": "Puteaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.371301,
+          48.829671
+        ]
+      },
+      "properties": {
+        "id": "28990",
+        "name": "Paris 13e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.365558,
+          48.859218
+        ]
+      },
+      "properties": {
+        "id": "28986",
+        "name": "Paris 13e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36647,
+          48.863128
+        ]
+      },
+      "properties": {
+        "id": "28984",
+        "name": "Paris 3e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.946136,
+          48.754645
+        ]
+      },
+      "properties": {
+        "id": "28979",
+        "name": "La Verrière"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.931826,
+          48.766596
+        ]
+      },
+      "properties": {
+        "id": "28972",
+        "name": "Maurepas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.917605,
+          48.762123
+        ]
+      },
+      "properties": {
+        "id": "28969",
+        "name": "Maurepas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.918176,
+          48.752316
+        ]
+      },
+      "properties": {
+        "id": "28966",
+        "name": "Coignières"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.92121,
+          48.7437
+        ]
+      },
+      "properties": {
+        "id": "28964",
+        "name": "Coignières"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.308384,
           48.836016
         ]
@@ -132,8 +258,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.361369,
-          48.832689
+          2.371333,
+          48.82965
         ]
       },
       "properties": {
@@ -2218,8 +2344,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.93695,
-          48.76409
+          1.936944,
+          48.764094
         ]
       },
       "properties": {
@@ -2701,20 +2827,6 @@
       "properties": {
         "id": "17825",
         "name": "Paris 15e"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.365813,
-          48.841484
-        ]
-      },
-      "properties": {
-        "id": "17754",
-        "name": "Paris 13e"
       }
     },
     {
@@ -7342,22 +7454,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.91806,
-          48.76588
-        ]
-      },
-      "properties": {
-        "id": "4142",
-        "name": "Maurepas"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.94345,
-          48.76186
+          1.943432,
+          48.761843
         ]
       },
       "properties": {

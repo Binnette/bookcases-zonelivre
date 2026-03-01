@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <wpt lat="48.293776" lon="0.615736">
-    <name>Val-au-Perche z28906</name>
+  <wpt lat="48.89237" lon="-0.606531">
+    <name>La Chapelle-Engerbold z30122</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -9,7 +9,691 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.32385" lon="0.59555">
+  <wpt lat="49.242274" lon="-0.642487">
+    <name>Nonant z30091</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.248704" lon="-0.693772">
+    <name>Monceaux-en-Bessin z30089</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.216455" lon="-0.711657">
+    <name>Juaye-Mondaye z30086</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.212835" lon="-0.696999">
+    <name>Juaye-Mondaye z30084</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.205894" lon="-0.670244">
+    <name>Juaye-Mondaye z30081</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.193402" lon="-0.686742">
+    <name>Juaye-Mondaye z30079</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.179203" lon="-0.705743">
+    <name>Juaye-Mondaye z30077</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.299431" lon="-0.737379">
+    <name>Sully (14) z30075</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.276303" lon="-0.454141">
+    <name>Fontaine-Henry z30072</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.857224" lon="-0.605973">
+    <name>Saint-Germain-du-Crioult z30068</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.855186" lon="-0.265512">
+    <name>Fourneaux-le-Val z30066</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.972198" lon="-0.366269">
+    <name>Acqueville z30064</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.007682" lon="-0.392815">
+    <name>Fresney-le-Vieux z30062</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.064364" lon="-0.371585">
+    <name>Fresney-le-Puceux z30060</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.118604" lon="0.014827">
+    <name>Crèvecœur-en-Auge z30057</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.120673" lon="0.034753">
+    <name>Notre-Dame-de-Livaye z30055</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.114489" lon="0.042398">
+    <name>Notre-Dame-de-Livaye z30053</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.144278" lon="-0.424739">
+    <name>Éterville z30043</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.161805" lon="-0.342422">
+    <name>Caen z30030</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.169922" lon="-0.361792">
+    <name>Caen z30023</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.077566" lon="0.07316">
+    <name>Grandchamp-le-Château z30016</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.113384" lon="-0.0934">
+    <name>Bissières z30014</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.198036" lon="-0.347174">
+    <name>Caen z30012</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.154724" lon="-0.33132">
+    <name>Cormelles-le-Royal z30010</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.149586" lon="-0.374066">
+    <name>Fleury-sur-Orne z30008</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.188926" lon="-0.409715">
+    <name>Saint-Germain-la-Blanche-Herbe z30006</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.154201" lon="-0.467828">
+    <name>Verson z30004</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.148107" lon="-0.596547">
+    <name>Vendes z30001</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.057296" lon="-0.673259">
+    <name>Maisoncelles-Pelvey z29999</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.036959" lon="-0.681488">
+    <name>Saint-Georges-d'Aunay z29997</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.012267" lon="-0.723027">
+    <name>La Bigne z29994</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.017812" lon="-0.740424">
+    <name>Jurques z29991</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.202768" lon="-0.797405">
+    <name>Castillon z29989</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.248076" lon="-0.797737">
+    <name>Campigny z29987</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.266814" lon="-0.807675">
+    <name>Crouay z29983</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.284495" lon="-0.76469">
+    <name>Cussy z29981</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.230954" lon="-0.044718">
+    <name>Dozulé z29979</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.229816" lon="-0.042787">
+    <name>Dozulé z29977</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.388068" lon="-1.045201">
+    <name>Grandcamp-Maisy z29971</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.348675" lon="-0.810993">
+    <name>Sainte-Honorine-des-Pertes z29969</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.305427" lon="-0.665274">
+    <name>Magny-en-Bessin z29967</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.278613" lon="-0.269565">
+    <name>Ouistreham z29964</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.240529" lon="-0.32717">
+    <name>Biéville-Beuville z29961</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.284268" lon="-0.160922">
+    <name>Varaville z29959</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.282138" lon="-0.139236">
+    <name>Cabourg z29956</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.283416" lon="-0.134143">
+    <name>Cabourg z29950</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.289334" lon="-0.110427">
+    <name>Cabourg z29947</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.245898" lon="-0.10072">
+    <name>Brucourt z29944</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.265527" lon="-0.057056">
+    <name>Grangues z29942</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.290498" lon="-3.8e-05">
+    <name>Saint-Vaast-en-Auge z29939</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.406942" lon="0.176978">
+    <name>Pennedepie z29937</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.408561" lon="0.246605">
+    <name>Honfleur z29934</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.356841" lon="0.235536">
+    <name>Fourneville z29932</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.312152" lon="0.279089">
+    <name>Saint-André-d'Hébertot z29930</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.209103" lon="0.287071">
+    <name>Saint-Philbert-des-Champs z29923</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.134764" lon="0.223787">
+    <name>Lisieux z29920</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.166563" lon="-0.351992">
+    <name>Caen z29918</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.303179" lon="-1.229479">
+    <name>Carentan-les-Marais z29418</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.555274" lon="-1.742272">
+    <name>Saint-Christophe-du-Foc z29416</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.545554" lon="-1.579789">
+    <name>Brix z29414</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.509763" lon="-1.437938">
+    <name>Huberville z29412</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.474552" lon="-1.453087">
+    <name>Flottemanville z29410</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.467636" lon="-1.561604">
+    <name>L'Étang-Bertrand z29407</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.460013" lon="-1.566056">
+    <name>L'Étang-Bertrand z29404</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.47301" lon="-1.783395">
+    <name>Pierreville z29402</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.839434" lon="-1.597961">
+    <name>Granville z29399</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.837215" lon="-1.601408">
+    <name>Granville z29396</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.654334" lon="-1.672972">
+    <name>Cherbourg-en-Cotentin z29347</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.47594" lon="-1.39024">
+    <name>Éroudeville z29345</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.469185" lon="-1.349006">
+    <name>Joganville z29342</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.676845" lon="-1.34321">
+    <name>Avranches z29340</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.8424" lon="0.198567">
+    <name>Survie z28916</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.267717" lon="0.541581">
+    <name>Bellou-le-Trichard z28913</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.264136" lon="0.688896">
+    <name>Le Theil z28910</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.264846" lon="0.684953">
+    <name>Le Theil z28908</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.293773" lon="0.615736">
+    <name>Gémages z28906</name>
+    <type>ZoneLivre Normandie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.323852" lon="0.595552">
     <name>La Chapelle-Souëf z28903</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -36,8 +720,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.374759" lon="0.52298">
-    <name>Belforêt-en-Perche z28894</name>
+  <wpt lat="48.374757" lon="0.52298">
+    <name>Le Gué-de-la-Chaîne z28894</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -54,8 +738,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.42303" lon="0.549837">
-    <name>Belforêt-en-Perche z28887</name>
+  <wpt lat="48.423028" lon="0.549837">
+    <name>Eperrais z28887</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -108,8 +792,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.130733" lon="-1.412336">
-    <name>Saint-Sauveur-Villages z26966</name>
+  <wpt lat="49.130734" lon="-1.412341">
+    <name>Saint-Sauveur-Lendelin z26966</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -207,8 +891,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.470007" lon="-1.629404">
-    <name>z26905</name>
+  <wpt lat="49.470005" lon="-1.629402">
+    <name>Bricquebec z26905</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -369,7 +1053,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.87099" lon="-0.41077">
+  <wpt lat="48.870989" lon="-0.410772">
     <name>Pont-d'Ouilly z25475</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -387,7 +1071,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.1937" lon="-0.35563">
+  <wpt lat="49.193692" lon="-0.355629">
     <name>Caen z25413</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -468,7 +1152,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.11855" lon="-0.3813">
+  <wpt lat="49.118537" lon="-0.381327">
     <name>Saint-André-sur-Orne z24583</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -550,7 +1234,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.698276" lon="-1.308591">
-    <name>Saint-Brice z24496</name>
+    <name>Saint-Brice (50) z24496</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -927,8 +1611,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.0187" lon="-0.030376">
-    <name>Saint-Pierre-en-Auge z23573</name>
+  <wpt lat="49.018696" lon="-0.030376">
+    <name>Saint-Pierre-sur-Dives z23573</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -936,7 +1620,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.293069" lon="-0.112218">
+  <wpt lat="49.293069" lon="-0.112221">
     <name>Cabourg z23571</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -945,7 +1629,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.28745" lon="-0.115638">
+  <wpt lat="49.287464" lon="-0.115646">
     <name>Cabourg z23568</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -954,7 +1638,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.281822" lon="-0.1266">
+  <wpt lat="49.281815" lon="-0.126616">
     <name>Cabourg z23565</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -963,7 +1647,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.28211" lon="-0.131978">
+  <wpt lat="49.282116" lon="-0.131997">
     <name>Cabourg z23562</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -1017,8 +1701,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.098217" lon="-0.287801">
-    <name>Garcelles z23545</name>
+  <wpt lat="49.098215" lon="-0.287812">
+    <name>Garcelles-Secqueville z23545</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -1026,7 +1710,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.04409" lon="-0.32247">
+  <wpt lat="49.044048" lon="-0.322471">
     <name>Bretteville-sur-Laize z23543</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -1045,7 +1729,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.935712" lon="-0.652954">
-    <name>Saint-Jean-le-Blanc z23538</name>
+    <name>Saint-Jean-le-Blanc (14) z23538</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -1062,7 +1746,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.24883" lon="-0.205669">
+  <wpt lat="49.248832" lon="-0.205674">
     <name>Bréville-les-Monts z23388</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -1098,7 +1782,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.353246" lon="0.054358">
+  <wpt lat="49.353239" lon="0.054358">
     <name>Tourgéville z23332</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -1512,7 +2196,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.29642" lon="-0.78132">
+  <wpt lat="49.296416" lon="-0.781327">
     <name>Tour-en-Bessin z21564</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -1656,7 +2340,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.26563" lon="-0.66889">
+  <wpt lat="49.265611" lon="-0.668887">
     <name>Saint-Martin-des-Entrées z21176</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -1737,7 +2421,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.172568" lon="-0.345249">
+  <wpt lat="49.172568" lon="-0.345208">
     <name>Caen z20696</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -1863,7 +2547,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.256488" lon="-0.078709">
+  <wpt lat="49.256525" lon="-0.078696">
     <name>Périers-en-Auge z20155</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -1927,7 +2611,7 @@
     </extensions>
   </wpt>
   <wpt lat="49.052351" lon="-0.721528">
-    <name>Seulline z20083</name>
+    <name>Coulvain z20083</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -2313,7 +2997,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.73" lon="0.02139">
+  <wpt lat="48.729976" lon="0.021385">
     <name>Juvigny-sur-Orne z18833</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2331,7 +3015,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.70047" lon="0.28937">
+  <wpt lat="48.700485" lon="0.289367">
     <name>Le Merlerault z18829</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2376,7 +3060,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.78891" lon="0.58242">
+  <wpt lat="48.788906" lon="0.582415">
     <name>Saint-Symphorien-des-Bruyères z18817</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2439,7 +3123,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.48854" lon="-1.82835">
+  <wpt lat="49.488664" lon="-1.828604">
     <name>Le Rozel z18542</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2466,7 +3150,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.23483" lon="-1.25068">
+  <wpt lat="49.234769" lon="-1.250701">
     <name>Saint-André-de-Bohon z18536</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2475,7 +3159,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.28328" lon="-0.59558">
+  <wpt lat="49.283267" lon="-0.595601">
     <name>Le Manoir z18534</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2484,7 +3168,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.29124" lon="-0.12959">
+  <wpt lat="49.291226" lon="-0.129969">
     <name>Cabourg z18532</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2601,7 +3285,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.50839" lon="0.80377">
+  <wpt lat="48.508402" lon="0.803763">
     <name>Le Mage z18165</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2610,7 +3294,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.52797" lon="0.75899">
+  <wpt lat="48.527974" lon="0.75899">
     <name>Longny les Villages z18163</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2619,7 +3303,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.47502" lon="0.84622">
+  <wpt lat="48.475016" lon="0.846221">
     <name>Moutiers-au-Perche z18160</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2628,7 +3312,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.15085" lon="-0.33154">
+  <wpt lat="49.150819" lon="-0.331602">
     <name>Cormelles-le-Royal z18099</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2691,7 +3375,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.15595" lon="-0.33429">
+  <wpt lat="49.155917" lon="-0.334324">
     <name>Cormelles-le-Royal z17768</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2700,7 +3384,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.15346" lon="-0.33068">
+  <wpt lat="49.153549" lon="-0.3307">
     <name>Cormelles-le-Royal z17766</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2862,7 +3546,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.66382" lon="0.56924">
+  <wpt lat="48.663816" lon="0.569192">
     <name>Les Genettes z16588</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2871,7 +3555,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.37486" lon="0.56205">
+  <wpt lat="48.374858" lon="0.562011">
     <name>Bellême z16585</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2934,7 +3618,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.51251" lon="0.35322">
+  <wpt lat="48.512537" lon="0.353266">
     <name>Le Mêle-sur-Sarthe z16182</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2943,7 +3627,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.42299" lon="0.23311">
+  <wpt lat="49.422973" lon="0.233113">
     <name>Honfleur z16158</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -2979,7 +3663,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.16055" lon="-0.33532">
+  <wpt lat="49.160544" lon="-0.33533">
     <name>Cormelles-le-Royal z16132</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3015,7 +3699,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.5101" lon="0.63509">
+  <wpt lat="48.510094" lon="0.635083">
     <name>Saint-Mard-de-Réno z15996</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3060,7 +3744,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.27902" lon="0.10934">
+  <wpt lat="49.278697" lon="0.109615">
     <name>Beaumont-en-Auge z15562</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3375,7 +4059,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.25249" lon="0.05914">
+  <wpt lat="49.252486" lon="0.05914">
     <name>Annebault z14560</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3429,7 +4113,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.402" lon="0.89919">
+  <wpt lat="48.402006" lon="0.899184">
     <name>Coulonges-les-Sablons z14348</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3438,7 +4122,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.37984" lon="0.8453">
+  <wpt lat="48.379836" lon="0.845301">
     <name>Condé-sur-Huisne z14346</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3447,7 +4131,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.55437" lon="0.46819">
+  <wpt lat="48.554368" lon="0.468196">
     <name>Bazoches-sur-Hoëne z14238</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3510,7 +4194,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.68961" lon="0.60186">
+  <wpt lat="48.689606" lon="0.601845">
     <name>Les Aspres z13748</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3663,7 +4347,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.43196" lon="0.77496">
+  <wpt lat="48.431954" lon="0.774938">
     <name>Rémalard-en-Perche z13423</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3681,7 +4365,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.14853" lon="-0.42286">
+  <wpt lat="49.148521" lon="-0.422802">
     <name>Éterville z13393</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3690,7 +4374,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.289" lon="-0.13942">
+  <wpt lat="49.288998" lon="-0.139421">
     <name>Varaville z13390</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3699,7 +4383,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.28763" lon="-0.1462">
+  <wpt lat="49.287623" lon="-0.14621">
     <name>Varaville z13388</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3726,7 +4410,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.15454" lon="-0.3361">
+  <wpt lat="49.154582" lon="-0.336126">
     <name>Cormelles-le-Royal z13380</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3735,7 +4419,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.1718" lon="-0.5809">
+  <wpt lat="49.171779" lon="-0.580789">
     <name>Fontenay-le-Pesnel z13372</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3744,7 +4428,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.69722" lon="-1.39026">
+  <wpt lat="48.697237" lon="-1.390229">
     <name>Marcey-les-Grèves z13369</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3753,8 +4437,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.04814" lon="-0.55737">
-    <name>Malherbe-sur-Ajon z13365</name>
+  <wpt lat="49.048116" lon="-0.557376">
+    <name>Saint-Agnan-le-Malherbe z13365</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -3789,7 +4473,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.22636" lon="-1.0483">
+  <wpt lat="49.226358" lon="-1.048325">
     <name>Sainte-Marguerite-d'Elle z13197</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3798,7 +4482,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.21996" lon="-0.96772">
+  <wpt lat="49.219826" lon="-0.967567">
     <name>Sainte-Marguerite-d'Elle z13195</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3852,7 +4536,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.07893" lon="-0.47392">
+  <wpt lat="49.078923" lon="-0.473933">
     <name>Maizet z13179</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3870,7 +4554,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.70116" lon="0.555">
+  <wpt lat="48.701154" lon="0.555003">
     <name>Auguaise z13175</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3888,7 +4572,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.45117" lon="-1.70993">
+  <wpt lat="49.45134" lon="-1.710085">
     <name>Bricquebec-en-Cotentin z13016</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -3969,7 +4653,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.77562" lon="0.34315">
+  <wpt lat="48.775603" lon="0.34314">
     <name>Cisai-Saint-Aubin z12837</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4095,7 +4779,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.30653" lon="-1.23997">
+  <wpt lat="49.306527" lon="-1.239961">
     <name>Carentan les Marais z12733</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4113,7 +4797,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.70711" lon="-1.34653">
+  <wpt lat="48.707108" lon="-1.346528">
     <name>Ponts z12726</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4122,7 +4806,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.70188" lon="-1.34573">
+  <wpt lat="48.701877" lon="-1.345731">
     <name>Ponts z12724</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4131,7 +4815,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.69316" lon="-1.35159">
+  <wpt lat="48.693191" lon="-1.351638">
     <name>Avranches z12723</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4140,7 +4824,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.68171" lon="-1.41298">
+  <wpt lat="48.68171" lon="-1.413006">
     <name>Vains z12721</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4275,7 +4959,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.26533" lon="-0.6955">
+  <wpt lat="49.265324" lon="-0.69551">
     <name>Monceaux-en-Bessin z11865</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4284,7 +4968,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.83605" lon="-1.60429">
+  <wpt lat="48.836061" lon="-1.604272">
     <name>Granville z11863</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4428,7 +5112,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.20708" lon="-1.02014">
+  <wpt lat="49.207077" lon="-1.020157">
     <name>Sainte-Marguerite-d'Elle z10876</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4464,7 +5148,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.38527" lon="0.83441">
+  <wpt lat="48.38525" lon="0.834406">
     <name>Condeau z10705</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4491,7 +5175,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.92043" lon="0.1012">
+  <wpt lat="48.920411" lon="0.101205">
     <name>Le Renouard z9935</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4509,7 +5193,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.28699" lon="-0.1179">
+  <wpt lat="49.286985" lon="-0.117907">
     <name>Cabourg z9927</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4527,7 +5211,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.565" lon="-1.84437">
+  <wpt lat="49.564996" lon="-1.84437">
     <name>Siouville-Hague z9744</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4536,7 +5220,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.97027" lon="-0.24071">
+  <wpt lat="48.970217" lon="-0.240809">
     <name>Potigny z9738</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4563,7 +5247,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.14621" lon="0.22785">
+  <wpt lat="49.146201" lon="0.227891">
     <name>Lisieux z9688</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4572,7 +5256,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.13715" lon="0.20769">
+  <wpt lat="49.137147" lon="0.207686">
     <name>Saint-Désir z9683</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4581,7 +5265,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.57076" lon="0.66905">
+  <wpt lat="48.570783" lon="0.669066">
     <name>Tourouvre au Perche z9681</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4626,7 +5310,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.14842" lon="0.23178">
+  <wpt lat="49.148419" lon="0.231807">
     <name>Lisieux z9654</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4635,7 +5319,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.14726" lon="0.22703">
+  <wpt lat="49.147257" lon="0.227022">
     <name>Lisieux z9652</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4653,7 +5337,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.13884" lon="0.23099">
+  <wpt lat="49.138819" lon="0.230976">
     <name>Lisieux z9648</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4698,7 +5382,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.30254" lon="-0.31425">
+  <wpt lat="49.302536" lon="-0.314274">
     <name>Lion-sur-Mer z9563</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4707,7 +5391,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.28604" lon="-0.31354">
+  <wpt lat="49.286037" lon="-0.313544">
     <name>Hermanville-sur-Mer z9561</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4788,7 +5472,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.49524" lon="0.75041">
+  <wpt lat="48.495237" lon="0.75041">
     <name>Bizou z9092</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4797,7 +5481,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.10864" lon="-0.21288">
+  <wpt lat="49.108633" lon="-0.212882">
     <name>Chicheboville z9088</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4806,7 +5490,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.86071" lon="0.4564">
+  <wpt lat="48.860716" lon="0.456383">
     <name>La Ferté-en-Ouche z9004</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -4950,7 +5634,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.23181" lon="-0.25744">
+  <wpt lat="49.231802" lon="-0.257463">
     <name>Ranville z7940</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5076,7 +5760,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.14294" lon="0.24043">
+  <wpt lat="49.14299" lon="0.24039">
     <name>Lisieux z7094</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5094,7 +5778,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.28477" lon="-0.14295">
+  <wpt lat="49.284726" lon="-0.142967">
     <name>Varaville z6747</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5112,7 +5796,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.33832" lon="-0.58584">
+  <wpt lat="49.338324" lon="-0.585824">
     <name>Asnelles z6675</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5139,7 +5823,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.754" lon="0.62706">
+  <wpt lat="48.753994" lon="0.627063">
     <name>L'Aigle z6552</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5175,7 +5859,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.40788" lon="0.27156">
+  <wpt lat="49.407862" lon="0.27155">
     <name>La Rivière-Saint-Sauveur z6463</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5274,7 +5958,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.14353" lon="0.25396">
+  <wpt lat="49.143547" lon="0.253925">
     <name>Lisieux z6127</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5283,7 +5967,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.18975" lon="-0.3727">
+  <wpt lat="49.189785" lon="-0.372835">
     <name>Caen z6119</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5526,7 +6210,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.29126" lon="-0.09476">
+  <wpt lat="49.291245" lon="-0.094768">
     <name>Dives-sur-Mer z4879</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5544,7 +6228,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.13581" lon="-0.13106">
+  <wpt lat="49.135778" lon="-0.131088">
     <name>Canteloup z4873</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5580,7 +6264,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.12136" lon="-1.34164">
+  <wpt lat="49.121361" lon="-1.341632">
     <name>Montcuit z4864</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5688,8 +6372,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.824962" lon="-0.408511">
-    <name>Athis-Val-de-Rouvre z4670</name>
+  <wpt lat="48.824954" lon="-0.408484">
+    <name>Ségrie-Fontaine z4670</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -5850,7 +6534,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.58421" lon="-0.1549">
+  <wpt lat="48.584207" lon="-0.15492">
     <name>Sainte-Marguerite-de-Carrouges z4551</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5877,7 +6561,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.71611" lon="-0.12184">
+  <wpt lat="48.716107" lon="-0.121831">
     <name>Ecouché z4543</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5895,7 +6579,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.75902" lon="-0.06991">
+  <wpt lat="48.759023" lon="-0.069906">
     <name>Moulins-sur-Orne z4539</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5922,7 +6606,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.51971" lon="0.54536">
+  <wpt lat="48.519721" lon="0.545328">
     <name>Mortagne-au-Perche z4533</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5931,7 +6615,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.12861" lon="-0.42251">
+  <wpt lat="49.128616" lon="-0.42251">
     <name>Maltot z2837</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5949,7 +6633,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.74251" lon="-0.58409">
+  <wpt lat="48.742472" lon="-0.584158">
     <name>Flers z2497</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5958,7 +6642,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.09495" lon="-0.5452">
+  <wpt lat="49.094941" lon="-0.545191">
     <name>Neuilly-le-Malherbe z2303</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5967,7 +6651,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.39356" lon="0.76324">
+  <wpt lat="48.393479" lon="0.763287">
     <name>Verrières z2054</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -5976,7 +6660,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.42448" lon="0.76743">
+  <wpt lat="48.424452" lon="0.767388">
     <name>Rémalard-en-Perche z2052</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6561,7 +7245,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.15025" lon="0.90629">
+  <wpt lat="49.15025" lon="0.90627">
     <name>Le Neubourg z1399</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6570,7 +7254,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.15067" lon="0.91016">
+  <wpt lat="49.150673" lon="0.910116">
     <name>Le Neubourg z1397</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6579,7 +7263,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.28756" lon="0.1877">
+  <wpt lat="49.287557" lon="0.187706">
     <name>Pont-L'Évêque z1395</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6588,7 +7272,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.27513" lon="0.2017">
+  <wpt lat="49.274719" lon="0.204746">
     <name>Pont-L'Évêque z1393</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6597,7 +7281,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.14355" lon="0.21334">
+  <wpt lat="49.143548" lon="0.213316">
     <name>Lisieux z1391</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6615,7 +7299,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.14365" lon="0.2551">
+  <wpt lat="49.143652" lon="0.255102">
     <name>Lisieux z1387</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6624,7 +7308,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.09649" lon="0.25027">
+  <wpt lat="49.096478" lon="0.250266">
     <name>Saint-Jean-de-Livet z1385</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6660,7 +7344,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.42494" lon="0.21563">
+  <wpt lat="49.424978" lon="0.215569">
     <name>Honfleur z1374</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6732,7 +7416,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.33021" lon="0.0101">
+  <wpt lat="49.330165" lon="0.01005">
     <name>Villers-sur-Mer z1359</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6741,7 +7425,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.3233" lon="-0.00531">
+  <wpt lat="49.323292" lon="-0.005311">
     <name>Villers-sur-Mer z1357</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6750,7 +7434,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.28702" lon="-0.09846">
+  <wpt lat="49.287022" lon="-0.098453">
     <name>Dives-sur-Mer z1355</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6777,7 +7461,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.27865" lon="-0.1246">
+  <wpt lat="49.278635" lon="-0.124626">
     <name>Cabourg z1349</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6786,7 +7470,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.27918" lon="-0.20376">
+  <wpt lat="49.279176" lon="-0.203784">
     <name>Merville-Franceville Plage z1345</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6795,7 +7479,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.26059" lon="-0.19024">
+  <wpt lat="49.260266" lon="-0.190528">
     <name>Gonneville-en-Auge z1343</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6804,7 +7488,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.18186" lon="-0.18239">
+  <wpt lat="49.181775" lon="-0.182318">
     <name>Troarn z1341</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6840,7 +7524,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.9281" lon="0.19939">
+  <wpt lat="48.928082" lon="0.199395">
     <name>Vimoutiers z1333</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6849,7 +7533,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.89367" lon="0.34079">
+  <wpt lat="48.893679" lon="0.340791">
     <name>Le Sap z1331</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6858,7 +7542,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.76493" lon="0.62851">
+  <wpt lat="48.764933" lon="0.628511">
     <name>L'Aigle z1327</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6867,7 +7551,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.76328" lon="0.63681">
+  <wpt lat="48.763281" lon="0.636815">
     <name>L'Aigle z1324</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -6885,8 +7569,8 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.23118" lon="-0.1541">
-    <name>Bavent z1235</name>
+  <wpt lat="49.231163" lon="-0.154077">
+    <name>Robehomme z1235</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -7038,7 +7722,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.5065" lon="-1.8484">
+  <wpt lat="49.506488" lon="-1.848391">
     <name>Les Pieux z1132</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7173,7 +7857,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.14652" lon="-0.35346">
+  <wpt lat="49.146501" lon="-0.353459">
     <name>Ifs z1090</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7218,7 +7902,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.18566" lon="-0.36241">
+  <wpt lat="49.185546" lon="-0.362267">
     <name>Caen z1079</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7227,7 +7911,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.167197" lon="-0.346954">
+  <wpt lat="49.167191" lon="-0.346968">
     <name>Caen z1075</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7290,7 +7974,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.28773" lon="-0.25771">
+  <wpt lat="49.288007" lon="-0.257945">
     <name>Ouistreham z1059</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7299,7 +7983,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.285164" lon="-0.250036">
+  <wpt lat="49.285162" lon="-0.25006">
     <name>Ouistreham z1057</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7308,7 +7992,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.27924" lon="-0.25473">
+  <wpt lat="49.279208" lon="-0.25474">
     <name>Ouistreham z1055</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7353,7 +8037,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.77776" lon="-0.01945">
+  <wpt lat="48.777761" lon="-0.019435">
     <name>Sévigny z970</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7362,7 +8046,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.89521" lon="-0.1962">
+  <wpt lat="48.89518" lon="-0.196247">
     <name>Falaise z968</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7497,7 +8181,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.31782" lon="-0.35522">
+  <wpt lat="49.317791" lon="-0.355183">
     <name>Luc-sur-Mer z926</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7506,7 +8190,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.31702" lon="-0.35468">
+  <wpt lat="49.317005" lon="-0.354642">
     <name>Luc-sur-Mer z924</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7515,7 +8199,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.29651" lon="-0.37561">
+  <wpt lat="49.2965" lon="-0.375611">
     <name>Douvres-la-Délivrande z922</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7524,7 +8208,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.33129" lon="-0.39076">
+  <wpt lat="49.331284" lon="-0.39076">
     <name>Saint-Aubin-sur-Mer z920</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7533,7 +8217,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.30189" lon="-0.46388">
+  <wpt lat="49.301878" lon="-0.463901">
     <name>Reviers z918</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7551,7 +8235,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.21099" lon="-0.56132">
+  <wpt lat="49.211045" lon="-0.561209">
     <name>Brouay z910</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7578,7 +8262,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.13782" lon="-0.51778">
+  <wpt lat="49.137798" lon="-0.517792">
     <name>Mondrainville z904</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7605,7 +8289,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.24263" lon="-0.87232">
+  <wpt lat="49.242544" lon="-0.8723">
     <name>Le Molay-Littry z896</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7677,7 +8361,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.280865" lon="-0.692329">
+  <wpt lat="49.280919" lon="-0.692359">
     <name>Saint-Vigor-le-Grand z857</name>
     <type>ZoneLivre Normandie</type>
     <extensions>
@@ -7839,7 +8523,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="49.11325" lon="-0.47177">
+  <wpt lat="49.113246" lon="-0.471771">
     <name>Esquay-Notre-Dame z12</name>
     <type>ZoneLivre Normandie</type>
     <extensions>

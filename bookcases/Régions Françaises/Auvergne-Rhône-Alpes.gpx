@@ -1,7 +1,34 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="44.954602" lon="2.127845">
+    <name>Siran z29004</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.814143" lon="4.715152">
+    <name>La Tour-de-Salvagny z29002</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.729494" lon="4.835395">
+    <name>Lyon 7e z28997</name>
+    <type>ZoneLivre Auvergne-Rhône-Alpes</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.729541" lon="4.8323">
-    <name>Lyon z28436</name>
+    <name>Lyon 7e z28436</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -1747,7 +1774,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.761358" lon="4.827732">
-    <name>Lyon z25138</name>
+    <name>Lyon 5e z25138</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -1756,7 +1783,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.773317" lon="4.800805">
-    <name>Lyon z25135</name>
+    <name>Lyon 9e z25135</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -2260,7 +2287,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.757158" lon="4.865575">
-    <name>Lyon z24629</name>
+    <name>Lyon 3e z24629</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -2323,7 +2350,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.751518" lon="4.827448">
-    <name>Lyon z23775</name>
+    <name>Lyon 2e z23775</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -2881,7 +2908,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.772719" lon="4.794693">
-    <name>Lyon z22066</name>
+    <name>Lyon 9e z22066</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -2926,7 +2953,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.734383" lon="4.829738">
-    <name>Lyon z21479</name>
+    <name>Lyon 7e z21479</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -3133,7 +3160,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.77505" lon="4.85828">
-    <name>Lyon z20732</name>
+    <name>Lyon 6e z20732</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -3385,7 +3412,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.755272" lon="4.832547">
-    <name>Lyon z20320</name>
+    <name>Lyon 2e z20320</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -3520,7 +3547,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.75381" lon="4.86759">
-    <name>Lyon z19839</name>
+    <name>Lyon 3e z19839</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -3619,7 +3646,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.735575" lon="4.837495">
-    <name>Lyon z19370</name>
+    <name>Lyon 7e z19370</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -3700,7 +3727,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.777" lon="4.83024">
-    <name>Lyon z19190</name>
+    <name>Lyon 4e z19190</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -3736,7 +3763,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.73026" lon="4.82871">
-    <name>Lyon z18990</name>
+    <name>Lyon 7e z18990</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -3843,7 +3870,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.747346" lon="4.691774">
+  <wpt lat="45.747086" lon="4.691704">
     <name>Grézieu-la-Varenne z18931</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -3906,7 +3933,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="45.5667" lon="5.91912">
+  <wpt lat="45.566697" lon="5.91911">
     <name>Chambéry z18667</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
@@ -5491,7 +5518,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.752107" lon="4.826796">
-    <name>Lyon z13340</name>
+    <name>Lyon 2e z13340</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -6274,7 +6301,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.777233" lon="4.832582">
-    <name>Lyon z8912</name>
+    <name>Lyon 4e z8912</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -6400,7 +6427,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.74614" lon="4.86355">
-    <name>Lyon z8790</name>
+    <name>Lyon 8e z8790</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -6985,7 +7012,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.766687" lon="4.852687">
-    <name>Lyon z8175</name>
+    <name>Lyon 6e z8175</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -7597,7 +7624,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.757607" lon="4.834151">
-    <name>Lyon z5123</name>
+    <name>Lyon 2e z5123</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8065,7 +8092,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.763015" lon="4.796326">
-    <name>Lyon z2502</name>
+    <name>Lyon 5e z2502</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8191,7 +8218,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.75928" lon="4.847548">
-    <name>Lyon z2466</name>
+    <name>Lyon 3e z2466</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8200,7 +8227,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.755384" lon="4.844947">
-    <name>Lyon z2464</name>
+    <name>Lyon 3e z2464</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8209,7 +8236,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.755948" lon="4.819074">
-    <name>Lyon z2462</name>
+    <name>Lyon 5e z2462</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8218,7 +8245,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.755162" lon="4.812908">
-    <name>Lyon z2460</name>
+    <name>Lyon 5e z2460</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8227,7 +8254,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.757999" lon="4.812808">
-    <name>Lyon z2456</name>
+    <name>Lyon 5e z2456</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8236,7 +8263,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.755989" lon="4.797351">
-    <name>Lyon z2454</name>
+    <name>Lyon 5e z2454</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8245,7 +8272,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.776165" lon="4.80603">
-    <name>Lyon z2452</name>
+    <name>Lyon 9e z2452</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8254,7 +8281,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.771768" lon="4.826123">
-    <name>Lyon z2450</name>
+    <name>Lyon 1er z2450</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8263,7 +8290,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.76881" lon="4.830406">
-    <name>Lyon z2448</name>
+    <name>Lyon 1er z2448</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8272,7 +8299,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.780155" lon="4.835945">
-    <name>Lyon z2446</name>
+    <name>Lyon 4e z2446</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8281,7 +8308,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.771914" lon="4.831734">
-    <name>Lyon z2444</name>
+    <name>Lyon 1er z2444</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8290,7 +8317,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.774225" lon="4.836299">
-    <name>Lyon z2442</name>
+    <name>Lyon 1er z2442</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8299,7 +8326,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.767426" lon="4.837809">
-    <name>Lyon z2438</name>
+    <name>Lyon 1er z2438</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8308,7 +8335,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.756017" lon="4.847721">
-    <name>Lyon z2436</name>
+    <name>Lyon 3e z2436</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8317,7 +8344,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.747486" lon="4.838249">
-    <name>Lyon z2432</name>
+    <name>Lyon 7e z2432</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8326,7 +8353,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.730533" lon="4.865479">
-    <name>Lyon z2428</name>
+    <name>Lyon 8e z2428</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>
@@ -8335,7 +8362,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.739671" lon="4.882642">
-    <name>Lyon z2426</name>
+    <name>Lyon 8e z2426</name>
     <type>ZoneLivre Auvergne-Rhône-Alpes</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>

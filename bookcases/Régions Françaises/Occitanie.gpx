@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.067694" lon="0.759714">
+    <name>Lespiteau z29420</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.3049" lon="2.2432">
     <name>Rieupeyroux z26383</name>
     <type>ZoneLivre Occitanie</type>
@@ -171,6 +180,15 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
+  <wpt lat="44.78174" lon="1.728306">
+    <name>Gramat z25415</name>
+    <type>ZoneLivre Occitanie</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="42.696049" lon="3.031709">
     <name>Canet-en-Roussillon z25360</name>
     <type>ZoneLivre Occitanie</type>
@@ -234,7 +252,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.84505" lon="4.36502">
+  <wpt lat="43.845024" lon="4.365005">
     <name>Nîmes z24423</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -369,7 +387,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="44.56903" lon="1.57986">
+  <wpt lat="44.569026" lon="1.579856">
     <name>Lauzès z23712</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -603,7 +621,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.0743" lon="1.41645">
+  <wpt lat="43.074298" lon="1.416458">
     <name>Gabre z22361</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -1098,7 +1116,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.45467" lon="2.0636">
+  <wpt lat="42.454694" lon="2.063536">
     <name>Llo z20751</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -1107,7 +1125,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.48492" lon="1.94087">
+  <wpt lat="42.484924" lon="1.94083">
     <name>Dorres z20749</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -3744,7 +3762,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.04915" lon="0.74176">
+  <wpt lat="43.049129" lon="0.74177">
     <name>Encausse-les-Thermes z726</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -3753,7 +3771,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.06434" lon="0.83106">
+  <wpt lat="43.064353" lon="0.831018">
     <name>Ganties z724</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -4140,7 +4158,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="42.97794" lon="0.75728">
+  <wpt lat="42.97793" lon="0.757279">
     <name>Juzet-d'Izaut z565</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
@@ -4410,7 +4428,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="43.01482" lon="0.80019">
+  <wpt lat="43.014818" lon="0.800193">
     <name>Aspet z228</name>
     <type>ZoneLivre Occitanie</type>
     <extensions>
