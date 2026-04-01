@@ -6,6 +6,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.808809,
+          47.607906
+        ]
+      },
+      "properties": {
+        "id": "30284",
+        "name": "Urcerey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.837101,
+          47.588396
+        ]
+      },
+      "properties": {
+        "id": "30282",
+        "name": "Dorans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.40849,
           47.244633
         ]

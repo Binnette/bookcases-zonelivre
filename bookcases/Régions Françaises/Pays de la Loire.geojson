@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.848173,
+          47.418444
+        ]
+      },
+      "properties": {
+        "id": "30298",
+        "name": "Bouvron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.596207,
           47.289318
         ]

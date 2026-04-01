@@ -1,5 +1,50 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.381783" lon="0.658209">
+    <name>La Riche z30334</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.377064" lon="0.680149">
+    <name>Tours z30331</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.369132" lon="0.727906">
+    <name>Saint-Avertin z30328</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.359436" lon="0.742969">
+    <name>Saint-Avertin z30326</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.364723" lon="0.752572">
+    <name>Saint-Avertin z30323</name>
+    <type>ZoneLivre Centre-Val de Loire</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.234297" lon="0.823356">
     <name>Les Étilleux z28458</name>
     <type>ZoneLivre Centre-Val de Loire</type>
@@ -5013,7 +5058,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.36819" lon="0.77821">
+  <wpt lat="47.364465" lon="0.776186">
     <name>Larçay z3289</name>
     <type>ZoneLivre Centre-Val de Loire</type>
     <extensions>

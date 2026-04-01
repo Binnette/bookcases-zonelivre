@@ -6,6 +6,146 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.528991,
+          49.138544
+        ]
+      },
+      "properties": {
+        "id": "30464",
+        "name": "Grainville-sur-Odon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.64235,
+          49.18986
+        ]
+      },
+      "properties": {
+        "id": "30461",
+        "name": "Bucéels"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.75671,
+          49.25396
+        ]
+      },
+      "properties": {
+        "id": "30455",
+        "name": "Ranchy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.627613,
+          49.311026
+        ]
+      },
+      "properties": {
+        "id": "30444",
+        "name": "Ryes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.56624,
+          49.29078
+        ]
+      },
+      "properties": {
+        "id": "30442",
+        "name": "Villiers-le-Sec"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.568229,
+          49.277834
+        ]
+      },
+      "properties": {
+        "id": "30440",
+        "name": "Saint-Gabriel-Brécy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.538338,
+          49.286593
+        ]
+      },
+      "properties": {
+        "id": "30437",
+        "name": "Creully"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.456804,
+          49.258135
+        ]
+      },
+      "properties": {
+        "id": "30434",
+        "name": "Thaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.456287,
+          49.258701
+        ]
+      },
+      "properties": {
+        "id": "30431",
+        "name": "Thaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.436068,
+          49.216499
+        ]
+      },
+      "properties": {
+        "id": "30426",
+        "name": "Gruchy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.606531,
           48.89237
         ]
@@ -930,20 +1070,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.597961,
-          48.839434
-        ]
-      },
-      "properties": {
-        "id": "29399",
-        "name": "Granville"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.601408,
           48.837215
         ]
@@ -1420,13 +1546,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.947321,
-          49.102858
+          -0.947332,
+          49.10286
         ]
       },
       "properties": {
         "id": "25982",
-        "name": "Saint-Jean-d'Elle"
+        "name": "Rouxeville"
       }
     },
     {
@@ -1518,13 +1644,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.545913,
-          49.290367
+          -1.545907,
+          49.290358
         ]
       },
       "properties": {
         "id": "25945",
-        "name": "La Haye"
+        "name": "La Haye-du-Puits"
       }
     },
     {
@@ -1588,8 +1714,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.966298,
-          48.640204
+          -0.966295,
+          48.640208
         ]
       },
       "properties": {
@@ -1790,7 +1916,7 @@
       },
       "properties": {
         "id": "24590",
-        "name": "Villedieu-les-Poêles-Rouffigny"
+        "name": "Villedieu-les-Poêles"
       }
     },
     {
@@ -1896,13 +2022,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.526826,
+          -1.526831,
           48.951449
         ]
       },
       "properties": {
         "id": "24501",
-        "name": "Tourneville-sur-Mer"
+        "name": "Lingreville"
       }
     },
     {
@@ -2204,8 +2330,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.350736,
-          48.631049
+          -1.350755,
+          48.631085
         ]
       },
       "properties": {
@@ -4276,8 +4402,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.40338,
-          49.66838
+          -1.403353,
+          49.668341
         ]
       },
       "properties": {
@@ -6628,8 +6754,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.32899,
-          48.9401
+          -1.328992,
+          48.940096
         ]
       },
       "properties": {
@@ -7020,8 +7146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.87351,
-          48.53791
+          -0.873566,
+          48.537892
         ]
       },
       "properties": {
@@ -7034,8 +7160,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.83173,
-          48.59945
+          -0.831732,
+          48.599446
         ]
       },
       "properties": {
@@ -7049,7 +7175,7 @@
         "type": "Point",
         "coordinates": [
           -0.8065,
-          48.58747
+          48.587467
         ]
       },
       "properties": {
@@ -7132,8 +7258,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.39733,
-          49.59207
+          -1.396388,
+          49.592151
         ]
       },
       "properties": {
@@ -7384,8 +7510,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.43358,
-          49.00947
+          -1.433525,
+          49.009487
         ]
       },
       "properties": {
@@ -7426,8 +7552,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.22599,
-          49.37899
+          -1.225995,
+          49.378975
         ]
       },
       "properties": {
@@ -7734,8 +7860,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.604272,
-          48.836061
+          -1.604444,
+          48.836103
         ]
       },
       "properties": {
@@ -7973,7 +8099,7 @@
         "type": "Point",
         "coordinates": [
           -1.07951,
-          49.2186
+          49.218599
         ]
       },
       "properties": {
@@ -8784,8 +8910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.52798,
-          48.72942
+          -1.527989,
+          48.729431
         ]
       },
       "properties": {
@@ -8798,8 +8924,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.51915,
-          48.73029
+          -1.519155,
+          48.730289
         ]
       },
       "properties": {
@@ -9036,8 +9162,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.95769,
-          48.54366
+          -0.957688,
+          48.543651
         ]
       },
       "properties": {
@@ -9050,8 +9176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.66296,
-          49.59439
+          -1.662951,
+          49.594365
         ]
       },
       "properties": {
@@ -9610,8 +9736,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.45783,
-          48.75223
+          -1.457826,
+          48.752232
         ]
       },
       "properties": {
@@ -9708,8 +9834,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.40341,
-          48.98627
+          -1.403393,
+          48.986265
         ]
       },
       "properties": {
@@ -9848,8 +9974,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.186937,
-          49.189836
+          -1.186934,
+          49.189833
         ]
       },
       "properties": {
@@ -12060,8 +12186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.56931,
-          48.77604
+          -1.569304,
+          48.776046
         ]
       },
       "properties": {
@@ -12074,7 +12200,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.53026,
+          -1.530259,
           48.76234
         ]
       },
@@ -12116,8 +12242,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.49295,
-          48.863
+          -1.492928,
+          48.86304
         ]
       },
       "properties": {
@@ -12130,8 +12256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.39241,
-          49.04212
+          -1.392415,
+          49.042111
         ]
       },
       "properties": {
@@ -12172,8 +12298,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.54225,
-          49.04662
+          -1.542182,
+          49.04664
         ]
       },
       "properties": {
@@ -12298,20 +12424,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.362267,
-          49.185546
-        ]
-      },
-      "properties": {
-        "id": "1079",
-        "name": "Caen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.346968,
           49.167191
         ]
@@ -12410,8 +12522,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.257945,
-          49.288007
+          -0.25781,
+          49.28799
         ]
       },
       "properties": {
@@ -12578,8 +12690,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.29456,
-          48.6209
+          -1.294563,
+          48.62102
         ]
       },
       "properties": {
@@ -12606,8 +12718,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.09471,
-          48.58021
+          -1.094711,
+          48.580213
         ]
       },
       "properties": {
@@ -12662,8 +12774,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.68673,
-          49.59308
+          -1.686731,
+          49.593075
         ]
       },
       "properties": {
@@ -12676,8 +12788,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.65029,
-          49.57914
+          -1.650285,
+          49.579137
         ]
       },
       "properties": {
@@ -13124,8 +13236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.717268,
-          49.286568
+          -0.717258,
+          49.286584
         ]
       },
       "properties": {

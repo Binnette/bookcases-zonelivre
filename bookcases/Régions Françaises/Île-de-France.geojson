@@ -6,6 +6,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.405169,
+          48.86045
+        ]
+      },
+      "properties": {
+        "id": "30496",
+        "name": "Paris 20e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.408476,
+          48.868291
+        ]
+      },
+      "properties": {
+        "id": "30491",
+        "name": "Paris 20e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.404053,
+          48.871539
+        ]
+      },
+      "properties": {
+        "id": "30489",
+        "name": "Paris 20e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.405657,
+          48.878015
+        ]
+      },
+      "properties": {
+        "id": "30486",
+        "name": "Paris 19e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.361843,
+          48.842511
+        ]
+      },
+      "properties": {
+        "id": "30484",
+        "name": "Paris 5e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.318941,
+          48.840199
+        ]
+      },
+      "properties": {
+        "id": "30292",
+        "name": "Paris 15e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.245787,
           48.878784
         ]
@@ -762,8 +846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.409659,
-          48.860559
+          2.409672,
+          48.860563
         ]
       },
       "properties": {
@@ -972,8 +1056,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.330266,
-          48.843595
+          2.330212,
+          48.84353
         ]
       },
       "properties": {
@@ -5354,8 +5438,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.407065,
-          48.876645
+          2.410625,
+          48.87337
         ]
       },
       "properties": {

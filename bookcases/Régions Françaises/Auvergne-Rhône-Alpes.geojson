@@ -6,6 +6,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.6905,
+          45.775063
+        ]
+      },
+      "properties": {
+        "id": "30319",
+        "name": "Sainte-Consorce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.575948,
+          45.816863
+        ]
+      },
+      "properties": {
+        "id": "30317",
+        "name": "Savigny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.530868,
+          45.847168
+        ]
+      },
+      "properties": {
+        "id": "30315",
+        "name": "Saint-Romain-de-Popey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.47393,
+          45.859179
+        ]
+      },
+      "properties": {
+        "id": "30312",
+        "name": "Saint-Forgeux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.429558,
+          45.572557
+        ]
+      },
+      "properties": {
+        "id": "30300",
+        "name": "Saint-Jean-de-Soudain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.617415,
+          46.424902
+        ]
+      },
+      "properties": {
+        "id": "30295",
+        "name": "Estivareilles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.127845,
           44.954602
         ]
@@ -8084,8 +8168,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.43386,
-          45.87548
+          4.433903,
+          45.875599
         ]
       },
       "properties": {

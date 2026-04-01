@@ -1,5 +1,59 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.86045" lon="2.405169">
+    <name>Paris 20e z30496</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.868291" lon="2.408476">
+    <name>Paris 20e z30491</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.871539" lon="2.404053">
+    <name>Paris 20e z30489</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.878015" lon="2.405657">
+    <name>Paris 19e z30486</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.842511" lon="2.361843">
+    <name>Paris 5e z30484</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.840199" lon="2.318941">
+    <name>Paris 15e z30292</name>
+    <type>ZoneLivre Île-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.878784" lon="2.245787">
     <name>Puteaux z29975</name>
     <type>ZoneLivre Île-de-France</type>
@@ -486,7 +540,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.860559" lon="2.409659">
+  <wpt lat="48.860563" lon="2.409672">
     <name>Paris 20e z23386</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -621,7 +675,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.843595" lon="2.330266">
+  <wpt lat="48.84353" lon="2.330212">
     <name>Paris 6e z23247</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>
@@ -3438,7 +3492,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.876645" lon="2.407065">
+  <wpt lat="48.87337" lon="2.410625">
     <name>Paris 20e z9884</name>
     <type>ZoneLivre Île-de-France</type>
     <extensions>

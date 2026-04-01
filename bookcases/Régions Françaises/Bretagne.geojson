@@ -6,6 +6,1280 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.498384,
+          48.384071
+        ]
+      },
+      "properties": {
+        "id": "30712",
+        "name": "Brest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.492397,
+          48.386978
+        ]
+      },
+      "properties": {
+        "id": "30708",
+        "name": "Brest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.336386,
+          48.454303
+        ]
+      },
+      "properties": {
+        "id": "30705",
+        "name": "Saint-Divy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.203711,
+          48.472224
+        ]
+      },
+      "properties": {
+        "id": "30703",
+        "name": "La Roche-Maurice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.254303,
+          48.504159
+        ]
+      },
+      "properties": {
+        "id": "30700",
+        "name": "Trémaouézan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.216486,
+          48.515085
+        ]
+      },
+      "properties": {
+        "id": "30698",
+        "name": "Plounéventer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.158921,
+          48.447975
+        ]
+      },
+      "properties": {
+        "id": "30696",
+        "name": "La Martyre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.14342,
+          48.452624
+        ]
+      },
+      "properties": {
+        "id": "30694",
+        "name": "Ploudiry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.210966,
+          48.579509
+        ]
+      },
+      "properties": {
+        "id": "30691",
+        "name": "Lanhouarneau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.265439,
+          48.56053
+        ]
+      },
+      "properties": {
+        "id": "30689",
+        "name": "Saint-Méen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.320148,
+          48.573225
+        ]
+      },
+      "properties": {
+        "id": "30687",
+        "name": "Lesneven"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.321736,
+          48.576029
+        ]
+      },
+      "properties": {
+        "id": "30684",
+        "name": "Lesneven"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.388054,
+          48.55179
+        ]
+      },
+      "properties": {
+        "id": "30681",
+        "name": "Lanarvily"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45156,
+          48.529802
+        ]
+      },
+      "properties": {
+        "id": "30678",
+        "name": "Plouvien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.519198,
+          48.573638
+        ]
+      },
+      "properties": {
+        "id": "30676",
+        "name": "Lannilis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.520869,
+          48.569269
+        ]
+      },
+      "properties": {
+        "id": "30673",
+        "name": "Lannilis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.599168,
+          48.524881
+        ]
+      },
+      "properties": {
+        "id": "30670",
+        "name": "Plouguin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.611817,
+          48.56752
+        ]
+      },
+      "properties": {
+        "id": "30668",
+        "name": "Saint-Pabu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.625349,
+          48.57455
+        ]
+      },
+      "properties": {
+        "id": "30666",
+        "name": "Saint-Pabu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.726101,
+          48.532585
+        ]
+      },
+      "properties": {
+        "id": "30664",
+        "name": "Landunvez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.686975,
+          48.508744
+        ]
+      },
+      "properties": {
+        "id": "30662",
+        "name": "Plourin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.761318,
+          48.475411
+        ]
+      },
+      "properties": {
+        "id": "30659",
+        "name": "Lanildut"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.770765,
+          48.360738
+        ]
+      },
+      "properties": {
+        "id": "30657",
+        "name": "Le Conquet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.704536,
+          48.345821
+        ]
+      },
+      "properties": {
+        "id": "30655",
+        "name": "Plougonvelin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.204722,
+          48.041304
+        ]
+      },
+      "properties": {
+        "id": "30653",
+        "name": "Guengat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.778106,
+          47.959696
+        ]
+      },
+      "properties": {
+        "id": "30650",
+        "name": "Rosporden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.58305,
+          47.900533
+        ]
+      },
+      "properties": {
+        "id": "30648",
+        "name": "Mellac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.791429,
+          47.818628
+        ]
+      },
+      "properties": {
+        "id": "30646",
+        "name": "Névez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.746166,
+          47.801251
+        ]
+      },
+      "properties": {
+        "id": "30642",
+        "name": "Névez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.810225,
+          47.794081
+        ]
+      },
+      "properties": {
+        "id": "30640",
+        "name": "Névez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.97785,
+          47.90933
+        ]
+      },
+      "properties": {
+        "id": "30638",
+        "name": "La Forêt-Fouesnant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.152824,
+          47.935007
+        ]
+      },
+      "properties": {
+        "id": "30635",
+        "name": "Plomelin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.398525,
+          47.958965
+        ]
+      },
+      "properties": {
+        "id": "30633",
+        "name": "Plozévet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.36172,
+          47.915366
+        ]
+      },
+      "properties": {
+        "id": "30631",
+        "name": "Plovan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.25257,
+          47.883729
+        ]
+      },
+      "properties": {
+        "id": "30628",
+        "name": "Plonéour-Lanvern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.222645,
+          47.866665
+        ]
+      },
+      "properties": {
+        "id": "30624",
+        "name": "Pont-l'Abbé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.212782,
+          47.798768
+        ]
+      },
+      "properties": {
+        "id": "30622",
+        "name": "Plobannalec-Lesconil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.106811,
+          47.997985
+        ]
+      },
+      "properties": {
+        "id": "30619",
+        "name": "Quimper"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.095194,
+          48.010543
+        ]
+      },
+      "properties": {
+        "id": "30617",
+        "name": "Quimper"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.074544,
+          48.003904
+        ]
+      },
+      "properties": {
+        "id": "30615",
+        "name": "Quimper"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.862775,
+          48.106115
+        ]
+      },
+      "properties": {
+        "id": "30613",
+        "name": "Trégourez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.915432,
+          48.383492
+        ]
+      },
+      "properties": {
+        "id": "30610",
+        "name": "Botmeur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.998782,
+          48.487748
+        ]
+      },
+      "properties": {
+        "id": "30608",
+        "name": "Guimiliau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.041791,
+          48.492787
+        ]
+      },
+      "properties": {
+        "id": "30606",
+        "name": "Lampaul-Guimiliau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.991647,
+          48.628252
+        ]
+      },
+      "properties": {
+        "id": "30603",
+        "name": "Plouénan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.248351,
+          48.450075
+        ]
+      },
+      "properties": {
+        "id": "30601",
+        "name": "Landerneau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.234843,
+          48.437415
+        ]
+      },
+      "properties": {
+        "id": "30598",
+        "name": "Pencran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.229406,
+          48.404595
+        ]
+      },
+      "properties": {
+        "id": "30595",
+        "name": "Saint-Urbain (29)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.214239,
+          48.370126
+        ]
+      },
+      "properties": {
+        "id": "30593",
+        "name": "Irvillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.131313,
+          48.393919
+        ]
+      },
+      "properties": {
+        "id": "30591",
+        "name": "Le Tréhou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.996516,
+          48.349199
+        ]
+      },
+      "properties": {
+        "id": "30588",
+        "name": "Saint-Rivoal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.090798,
+          48.189437
+        ]
+      },
+      "properties": {
+        "id": "30585",
+        "name": "Châteaulin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.095527,
+          48.212663
+        ]
+      },
+      "properties": {
+        "id": "30583",
+        "name": "Port-Launay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.194444,
+          48.263895
+        ]
+      },
+      "properties": {
+        "id": "30581",
+        "name": "Rosnoën"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.364904,
+          48.37982
+        ]
+      },
+      "properties": {
+        "id": "30579",
+        "name": "Plougastel-Daoulas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.159669,
+          48.327558
+        ]
+      },
+      "properties": {
+        "id": "30577",
+        "name": "Hanvec"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.242713,
+          48.328644
+        ]
+      },
+      "properties": {
+        "id": "30574",
+        "name": "Hôpital-Camfrout"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.26147,
+          48.309272
+        ]
+      },
+      "properties": {
+        "id": "30571",
+        "name": "Hôpital-Camfrout"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.299069,
+          48.321402
+        ]
+      },
+      "properties": {
+        "id": "30569",
+        "name": "Logonna-Daoulas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.487759,
+          48.248115
+        ]
+      },
+      "properties": {
+        "id": "30567",
+        "name": "Crozon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.984191,
+          48.190476
+        ]
+      },
+      "properties": {
+        "id": "30565",
+        "name": "Gouézec"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.977821,
+          48.104311
+        ]
+      },
+      "properties": {
+        "id": "30562",
+        "name": "Edern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.001553,
+          48.101569
+        ]
+      },
+      "properties": {
+        "id": "30560",
+        "name": "Briec"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.187631,
+          48.104428
+        ]
+      },
+      "properties": {
+        "id": "30557",
+        "name": "Locronan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.219329,
+          48.124353
+        ]
+      },
+      "properties": {
+        "id": "30555",
+        "name": "Plonévez-Porzay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.261276,
+          48.622765
+        ]
+      },
+      "properties": {
+        "id": "30552",
+        "name": "Tréflez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.316401,
+          48.650529
+        ]
+      },
+      "properties": {
+        "id": "30549",
+        "name": "Plounéour-Trez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.30085,
+          48.62862
+        ]
+      },
+      "properties": {
+        "id": "30547",
+        "name": "Goulven"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.137911,
+          48.593825
+        ]
+      },
+      "properties": {
+        "id": "30545",
+        "name": "Saint-Vougay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.175234,
+          48.658233
+        ]
+      },
+      "properties": {
+        "id": "30543",
+        "name": "Plouescat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.101752,
+          48.660848
+        ]
+      },
+      "properties": {
+        "id": "30541",
+        "name": "Cléder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.120887,
+          48.692108
+        ]
+      },
+      "properties": {
+        "id": "30538",
+        "name": "Cléder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.986417,
+          48.726855
+        ]
+      },
+      "properties": {
+        "id": "30535",
+        "name": "Roscoff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.986782,
+          48.685694
+        ]
+      },
+      "properties": {
+        "id": "30533",
+        "name": "Saint-Pol-de-Léon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.91518,
+          48.669034
+        ]
+      },
+      "properties": {
+        "id": "30531",
+        "name": "Carantec"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.910005,
+          48.669287
+        ]
+      },
+      "properties": {
+        "id": "30529",
+        "name": "Carantec"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84617,
+          48.63018
+        ]
+      },
+      "properties": {
+        "id": "30527",
+        "name": "Plouezoc'h"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.831066,
+          48.604819
+        ]
+      },
+      "properties": {
+        "id": "30525",
+        "name": "Morlaix"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.788483,
+          48.536468
+        ]
+      },
+      "properties": {
+        "id": "30522",
+        "name": "Plourin-lès-Morlaix"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.672124,
+          48.489504
+        ]
+      },
+      "properties": {
+        "id": "30520",
+        "name": "Lannéanou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.640388,
+          48.336684
+        ]
+      },
+      "properties": {
+        "id": "30518",
+        "name": "Poullaouen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.590062,
+          48.299163
+        ]
+      },
+      "properties": {
+        "id": "30515",
+        "name": "Plounévézel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.714087,
+          48.191928
+        ]
+      },
+      "properties": {
+        "id": "30513",
+        "name": "Spézet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.822427,
+          48.640174
+        ]
+      },
+      "properties": {
+        "id": "30508",
+        "name": "Plouezoc'h"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.810826,
+          48.71206
+        ]
+      },
+      "properties": {
+        "id": "30505",
+        "name": "Plougasnou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.790643,
+          48.695387
+        ]
+      },
+      "properties": {
+        "id": "30502",
+        "name": "Plougasnou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69327,
+          48.684223
+        ]
+      },
+      "properties": {
+        "id": "30500",
+        "name": "Locquirec"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.653802,
+          48.680883
+        ]
+      },
+      "properties": {
+        "id": "30498",
+        "name": "Locquirec"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.672643,
+          48.107092
+        ]
+      },
+      "properties": {
+        "id": "30290",
+        "name": "Rennes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.26337,
+          48.46612
+        ]
+      },
+      "properties": {
+        "id": "30280",
+        "name": "Landerneau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.276989,
+          48.452601
+        ]
+      },
+      "properties": {
+        "id": "30278",
+        "name": "Landerneau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.717713,
           48.066318
         ]
@@ -5788,8 +7062,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.76469,
-          48.50862
+          -4.765009,
+          48.508889
         ]
       },
       "properties": {
@@ -5802,8 +7076,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.4237,
-          48.50287
+          -4.423706,
+          48.502876
         ]
       },
       "properties": {
@@ -5872,8 +7146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.6554,
-          48.54422
+          -4.655009,
+          48.544725
         ]
       },
       "properties": {
@@ -5886,8 +7160,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.69937,
-          48.5554
+          -4.699375,
+          48.55551
         ]
       },
       "properties": {
@@ -7595,7 +8869,7 @@
         "type": "Point",
         "coordinates": [
           -4.311699,
-          48.536159
+          48.536157
         ]
       },
       "properties": {
@@ -8042,8 +9316,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.33548,
-          48.56208
+          -4.335469,
+          48.562039
         ]
       },
       "properties": {
@@ -9442,8 +10716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.32193,
-          48.57202
+          -4.321835,
+          48.57205
         ]
       },
       "properties": {
@@ -10198,22 +11472,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.671402,
-          48.103933
-        ]
-      },
-      "properties": {
-        "id": "1672",
-        "name": "Rennes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.65872,
-          48.10789
+          -1.658729,
+          48.107865
         ]
       },
       "properties": {

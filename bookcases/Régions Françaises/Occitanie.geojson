@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.840663,
+          42.709679
+        ]
+      },
+      "properties": {
+        "id": "30477",
+        "name": "Saint-Estève"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.846025,
+          42.707688
+        ]
+      },
+      "properties": {
+        "id": "30474",
+        "name": "Saint-Estève"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.815591,
+          43.614404
+        ]
+      },
+      "properties": {
+        "id": "30286",
+        "name": "Juvignac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.759714,
           43.067694
         ]

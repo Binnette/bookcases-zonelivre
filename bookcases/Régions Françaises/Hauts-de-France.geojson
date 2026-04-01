@@ -6,6 +6,468 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.920558,
+          50.322315
+        ]
+      },
+      "properties": {
+        "id": "30480",
+        "name": "Tortefontaine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.622433,
+          50.68945
+        ]
+      },
+      "properties": {
+        "id": "30471",
+        "name": "Saint-Léonard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.100982,
+          50.406736
+        ]
+      },
+      "properties": {
+        "id": "30416",
+        "name": "Roost-Warendin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.066143,
+          50.374102
+        ]
+      },
+      "properties": {
+        "id": "30413",
+        "name": "Douai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.083964,
+          50.354283
+        ]
+      },
+      "properties": {
+        "id": "30411",
+        "name": "Douai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.11114,
+          50.58826
+        ]
+      },
+      "properties": {
+        "id": "30408",
+        "name": "Lesquin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.016265,
+          50.54154
+        ]
+      },
+      "properties": {
+        "id": "30402",
+        "name": "Seclin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1093,
+          50.50447
+        ]
+      },
+      "properties": {
+        "id": "30400",
+        "name": "Mérignies"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.113873,
+          50.521894
+        ]
+      },
+      "properties": {
+        "id": "30397",
+        "name": "Pont-à-Marcq"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.12807,
+          50.541363
+        ]
+      },
+      "properties": {
+        "id": "30395",
+        "name": "Ennevelin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.419194,
+          50.443739
+        ]
+      },
+      "properties": {
+        "id": "30392",
+        "name": "Saint-Amand-les-Eaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.432479,
+          50.438436
+        ]
+      },
+      "properties": {
+        "id": "30390",
+        "name": "Saint-Amand-les-Eaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.470993,
+          50.372531
+        ]
+      },
+      "properties": {
+        "id": "30387",
+        "name": "Petite-Forêt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.487051,
+          50.37067
+        ]
+      },
+      "properties": {
+        "id": "30384",
+        "name": "Petite-Forêt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.451268,
+          50.355435
+        ]
+      },
+      "properties": {
+        "id": "30381",
+        "name": "Hérin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.553905,
+          50.346208
+        ]
+      },
+      "properties": {
+        "id": "30379",
+        "name": "Marly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.45209,
+          50.32216
+        ]
+      },
+      "properties": {
+        "id": "30377",
+        "name": "Prouvy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.455763,
+          50.287084
+        ]
+      },
+      "properties": {
+        "id": "30375",
+        "name": "Monchaux-sur-Écaillon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.524543,
+          50.248372
+        ]
+      },
+      "properties": {
+        "id": "30373",
+        "name": "Saint-Martin-sur-Écaillon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.63839,
+          50.24712
+        ]
+      },
+      "properties": {
+        "id": "30371",
+        "name": "Le Quesnoy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.677274,
+          50.227826
+        ]
+      },
+      "properties": {
+        "id": "30369",
+        "name": "Jolimetz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.643381,
+          50.192335
+        ]
+      },
+      "properties": {
+        "id": "30367",
+        "name": "Englefontaine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.643548,
+          50.156769
+        ]
+      },
+      "properties": {
+        "id": "30364",
+        "name": "Robersart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.768407,
+          50.329192
+        ]
+      },
+      "properties": {
+        "id": "30362",
+        "name": "Bellignies"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.022619,
+          50.220073
+        ]
+      },
+      "properties": {
+        "id": "30360",
+        "name": "Obrechies"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.81541,
+          50.147157
+        ]
+      },
+      "properties": {
+        "id": "30358",
+        "name": "Taisnières-en-Thiérache"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.499095,
+          50.185319
+        ]
+      },
+      "properties": {
+        "id": "30355",
+        "name": "Solesmes (59)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.287326,
+          50.226036
+        ]
+      },
+      "properties": {
+        "id": "30349",
+        "name": "Thun-l'Évêque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.230211,
+          50.229739
+        ]
+      },
+      "properties": {
+        "id": "30346",
+        "name": "Bantigny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.168791,
+          50.191373
+        ]
+      },
+      "properties": {
+        "id": "30343",
+        "name": "Raillencourt-Sainte-Olle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.238153,
+          50.170415
+        ]
+      },
+      "properties": {
+        "id": "30341",
+        "name": "Cambrai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.133815,
+          50.079152
+        ]
+      },
+      "properties": {
+        "id": "30337",
+        "name": "Villers-Plouich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.072406,
+          50.193617
+        ]
+      },
+      "properties": {
+        "id": "30302",
+        "name": "Sains-lès-Marquion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.347622,
           49.395828
         ]
@@ -874,8 +1336,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.21069,
-          50.30314
+          3.210577,
+          50.303163
         ]
       },
       "properties": {
@@ -2834,34 +3296,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.15387,
-          50.25832
-        ]
-      },
-      "properties": {
-        "id": "9541",
-        "name": "Aubencheul-au-Bac"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.16031,
-          50.25674
-        ]
-      },
-      "properties": {
-        "id": "9539",
-        "name": "Aubencheul-au-Bac"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.64542,
           50.34212
         ]
@@ -4584,8 +5018,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.37788,
-          50.19762
+          3.375429,
+          50.197064
         ]
       },
       "properties": {
@@ -4696,8 +5130,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.79419,
-          50.2981
+          3.794172,
+          50.298104
         ]
       },
       "properties": {
@@ -5074,22 +5508,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.08452,
-          50.5847
-        ]
-      },
-      "properties": {
-        "id": "2986",
-        "name": "Faches-Thumesnil"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.08044,
-          50.58247
+          3.080906,
+          50.581379
         ]
       },
       "properties": {

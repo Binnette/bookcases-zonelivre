@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.356323,
+          46.633929
+        ]
+      },
+      "properties": {
+        "id": "30510",
+        "name": "Chasseneuil-du-Poitou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.828714,
+          46.03605
+        ]
+      },
+      "properties": {
+        "id": "30469",
+        "name": "Muron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.018995,
+          45.618001
+        ]
+      },
+      "properties": {
+        "id": "30308",
+        "name": "Mosnac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.337373,
           45.360369
         ]
@@ -1357,20 +1399,6 @@
       "properties": {
         "id": "25568",
         "name": "Valence-en-Poitou"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.372433,
-          46.574675
-        ]
-      },
-      "properties": {
-        "id": "25548",
-        "name": "Poitiers"
       }
     },
     {

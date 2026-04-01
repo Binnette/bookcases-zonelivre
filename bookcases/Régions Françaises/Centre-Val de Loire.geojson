@@ -6,6 +6,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.658209,
+          47.381783
+        ]
+      },
+      "properties": {
+        "id": "30334",
+        "name": "La Riche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.680149,
+          47.377064
+        ]
+      },
+      "properties": {
+        "id": "30331",
+        "name": "Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.727906,
+          47.369132
+        ]
+      },
+      "properties": {
+        "id": "30328",
+        "name": "Saint-Avertin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.742969,
+          47.359436
+        ]
+      },
+      "properties": {
+        "id": "30326",
+        "name": "Saint-Avertin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.752572,
+          47.364723
+        ]
+      },
+      "properties": {
+        "id": "30323",
+        "name": "Saint-Avertin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.823356,
           48.234297
         ]
@@ -7804,8 +7874,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.77821,
-          47.36819
+          0.776186,
+          47.364465
         ]
       },
       "properties": {

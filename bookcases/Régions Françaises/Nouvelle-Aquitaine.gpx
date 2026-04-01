@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.633929" lon="0.356323">
+    <name>Chasseneuil-du-Poitou z30510</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.03605" lon="-0.828714">
+    <name>Muron z30469</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.618001" lon="-0.018995">
+    <name>Mosnac z30308</name>
+    <type>ZoneLivre Nouvelle-Aquitaine</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="45.360369" lon="2.337373">
     <name>Sérandon z29323</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
@@ -866,15 +893,6 @@
   </wpt>
   <wpt lat="46.33206" lon="0.21602">
     <name>Valence-en-Poitou z25568</name>
-    <type>ZoneLivre Nouvelle-Aquitaine</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.574675" lon="0.372433">
-    <name>Poitiers z25548</name>
     <type>ZoneLivre Nouvelle-Aquitaine</type>
     <extensions>
       <osmand:color>#10c0f0</osmand:color>

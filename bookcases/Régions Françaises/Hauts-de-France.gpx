@@ -1,5 +1,302 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="50.322315" lon="1.920558">
+    <name>Tortefontaine z30480</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.68945" lon="1.622433">
+    <name>Saint-Léonard z30471</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.406736" lon="3.100982">
+    <name>Roost-Warendin z30416</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.374102" lon="3.066143">
+    <name>Douai z30413</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.354283" lon="3.083964">
+    <name>Douai z30411</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.58826" lon="3.11114">
+    <name>Lesquin z30408</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.54154" lon="3.016265">
+    <name>Seclin z30402</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.50447" lon="3.1093">
+    <name>Mérignies z30400</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.521894" lon="3.113873">
+    <name>Pont-à-Marcq z30397</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.541363" lon="3.12807">
+    <name>Ennevelin z30395</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.443739" lon="3.419194">
+    <name>Saint-Amand-les-Eaux z30392</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.438436" lon="3.432479">
+    <name>Saint-Amand-les-Eaux z30390</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.372531" lon="3.470993">
+    <name>Petite-Forêt z30387</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.37067" lon="3.487051">
+    <name>Petite-Forêt z30384</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.355435" lon="3.451268">
+    <name>Hérin z30381</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.346208" lon="3.553905">
+    <name>Marly z30379</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.32216" lon="3.45209">
+    <name>Prouvy z30377</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.287084" lon="3.455763">
+    <name>Monchaux-sur-Écaillon z30375</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.248372" lon="3.524543">
+    <name>Saint-Martin-sur-Écaillon z30373</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.24712" lon="3.63839">
+    <name>Le Quesnoy z30371</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.227826" lon="3.677274">
+    <name>Jolimetz z30369</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.192335" lon="3.643381">
+    <name>Englefontaine z30367</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.156769" lon="3.643548">
+    <name>Robersart z30364</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.329192" lon="3.768407">
+    <name>Bellignies z30362</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.220073" lon="4.022619">
+    <name>Obrechies z30360</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.147157" lon="3.81541">
+    <name>Taisnières-en-Thiérache z30358</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.185319" lon="3.499095">
+    <name>Solesmes (59) z30355</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.226036" lon="3.287326">
+    <name>Thun-l'Évêque z30349</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.229739" lon="3.230211">
+    <name>Bantigny z30346</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.191373" lon="3.168791">
+    <name>Raillencourt-Sainte-Olle z30343</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.170415" lon="3.238153">
+    <name>Cambrai z30341</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.079152" lon="3.133815">
+    <name>Villers-Plouich z30337</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.193617" lon="3.072406">
+    <name>Sains-lès-Marquion z30302</name>
+    <type>ZoneLivre Hauts-de-France</type>
+    <extensions>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="49.395828" lon="3.347622">
     <name>Crouy z29386</name>
     <type>ZoneLivre Hauts-de-France</type>
@@ -558,7 +855,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.30314" lon="3.21069">
+  <wpt lat="50.303163" lon="3.210577">
     <name>Monchecourt z20646</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -1818,24 +2115,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.25832" lon="3.15387">
-    <name>Aubencheul-au-Bac z9541</name>
-    <type>ZoneLivre Hauts-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.25674" lon="3.16031">
-    <name>Aubencheul-au-Bac z9539</name>
-    <type>ZoneLivre Hauts-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="50.34212" lon="3.64542">
     <name>Sebourg z9537</name>
     <type>ZoneLivre Hauts-de-France</type>
@@ -2943,7 +3222,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.19762" lon="3.37788">
+  <wpt lat="50.197064" lon="3.375429">
     <name>Avesnes les Aubert z4698</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -3015,7 +3294,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.2981" lon="3.79419">
+  <wpt lat="50.298104" lon="3.794172">
     <name>Bavay z4504</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
@@ -3258,16 +3537,7 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="50.5847" lon="3.08452">
-    <name>Faches-Thumesnil z2986</name>
-    <type>ZoneLivre Hauts-de-France</type>
-    <extensions>
-      <osmand:color>#10c0f0</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="50.58247" lon="3.08044">
+  <wpt lat="50.581379" lon="3.080906">
     <name>Faches-Thumesnil z2984</name>
     <type>ZoneLivre Hauts-de-France</type>
     <extensions>
